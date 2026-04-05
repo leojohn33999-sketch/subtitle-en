@@ -1,0 +1,7099 @@
+1
+00:00:02,000 --> 00:00:07,000
+Downloaded from
+YTS.MX
+
+2
+00:00:08,000 --> 00:00:13,000
+Official YIFY movies site:
+YTS.MX
+
+3
+00:00:08,625 --> 00:00:10,625
+[sirens blaring]
+
+4
+00:00:11,792 --> 00:00:12,833
+[snatches of panicked clamoring]
+
+5
+00:00:15,292 --> 00:00:16,792
+[telephone ringing]
+
+6
+00:00:19,083 --> 00:00:21,667
+- [dispatch] <i>911, what's your emergency?</i>
+- [woman] <i>I live on Division Street!</i>
+
+7
+00:00:21,667 --> 00:00:24,208
+<i>And an explosion at the airport
+blew out all of our windows!</i>
+
+8
+00:00:24,208 --> 00:00:25,917
+[man 1] <i>I need help! It's after us!</i>
+
+9
+00:00:25,917 --> 00:00:27,375
+<i>I have nowhere to hide my daughter!</i>
+
+10
+00:00:27,375 --> 00:00:29,125
+- [gunfire]
+<i>- [woman speaking Spanish]</i>
+
+11
+00:00:29,125 --> 00:00:31,833
+[man 2] <i>Oh, my God!
+It's breaking through the door!</i>
+
+12
+00:00:31,833 --> 00:00:33,583
+- [dispatch] <i>Sir? Sir?</i>
+- [gunfire]
+
+13
+00:00:34,167 --> 00:00:37,500
+{\an8}<i>For years, we have been assured
+that they would never harm us.</i>
+
+14
+00:00:37,500 --> 00:00:39,792
+<i>But tonight, all of that has changed,</i>
+
+15
+00:00:39,792 --> 00:00:42,875
+<i>as across the globe
+artificial intelligence bots</i>
+
+16
+00:00:42,875 --> 00:00:46,542
+<i>ranging from transportation
+to medical and home maintenance</i>
+
+17
+00:00:46,542 --> 00:00:49,417
+<i>have all bypassed
+their security protocols.</i>
+
+18
+00:00:49,417 --> 00:00:50,667
+[man cries out]
+
+19
+00:00:50,667 --> 00:00:53,708
+<i>Authorities have estimated
+that over 500,000</i>
+
+20
+00:00:53,708 --> 00:00:56,917
+<i>have died from AI-controlled
+drone strikes in Bangalore.</i>
+
+21
+00:00:57,583 --> 00:00:59,583
+[journalist]
+<i>After ten days of intense attacks,</i>
+
+22
+00:00:59,583 --> 00:01:03,833
+<i>AI bots have killed over one million
+civilians with no end in sight.</i>
+
+23
+00:01:03,833 --> 00:01:05,917
+[gunfire, screaming]
+
+24
+00:01:07,208 --> 00:01:12,000
+{\an8}<i>Officials have identified a bot named
+Harlan as the world's first AI terrorist.</i>
+
+25
+00:01:12,000 --> 00:01:17,083
+{\an8}<i>He was developed at Shepherd Robotics
+under the watch of AI expert Val Shepherd</i>
+
+26
+00:01:17,083 --> 00:01:20,667
+{\an8}<i>and raised alongside
+her ten-year-old daughter Atlas.</i>
+
+27
+00:01:20,667 --> 00:01:23,833
+{\an8}<i>Built with the purpose
+of helping us to improve life on Earth,</i>
+
+28
+00:01:23,833 --> 00:01:27,333
+{\an8}<i>Harlan is responsible
+for overriding all bot programming.</i>
+
+29
+00:01:27,333 --> 00:01:30,083
+{\an8}<i>But authorities
+are still trying to figure out how.</i>
+
+30
+00:01:31,375 --> 00:01:33,875
+{\an8}[expert] <i>If we produce things
+that are more intelligent than us,</i>
+
+31
+00:01:33,875 --> 00:01:35,958
+{\an8}<i>how do we know we can keep control?</i>
+
+32
+00:01:35,958 --> 00:01:38,917
+{\an8}<i>I mean, Isaac Asimov said,
+"If you make a smart robot,</i>
+
+33
+00:01:38,917 --> 00:01:41,583
+{\an8}<i>the first rule should be:
+'Do not harm people.'"</i>
+
+34
+00:01:42,500 --> 00:01:45,417
+{\an8}[general] <i>To combat the AI threat,</i>
+
+35
+00:01:45,417 --> 00:01:48,083
+{\an8}<i>we have ratified
+an unprecedented global response.</i>
+
+36
+00:01:48,083 --> 00:01:51,208
+{\an8}<i>The International Coalition of Nations.</i>
+
+37
+00:01:51,208 --> 00:01:55,667
+{\an8}<i>ICN forces are launching
+immediate counterstrikes around the world.</i>
+
+38
+00:01:55,667 --> 00:01:56,708
+{\an8}[gunfire]
+
+39
+00:01:57,958 --> 00:02:01,750
+{\an8}[reporter] <i>AI bots under Harlan's command
+have now fallen in Bucharest and Athens,</i>
+
+40
+00:02:01,750 --> 00:02:04,250
+{\an8}<i>the latest in a string of ICN victories.</i>
+
+41
+00:02:09,833 --> 00:02:11,833
+{\an8}[clamoring, gunfire]
+
+42
+00:02:12,917 --> 00:02:15,125
+{\an8}[newscaster]
+<i>Sustaining multiple significant losses,</i>
+
+43
+00:02:15,125 --> 00:02:17,583
+{\an8}<i>the AI terrorist Harlan
+has fled our world.</i>
+
+44
+00:02:25,292 --> 00:02:27,792
+<i>All that he leaves behind is this message.</i>
+
+45
+00:02:29,167 --> 00:02:31,208
+<i>I know you'll be looking for me.</i>
+
+46
+00:02:31,917 --> 00:02:34,917
+<i>I'm coming back to finish what I started.</i>
+
+47
+00:02:35,917 --> 00:02:37,917
+<i>This is the only way.</i>
+
+48
+00:02:39,167 --> 00:02:40,292
+[static hisses]
+
+49
+00:02:41,625 --> 00:02:43,625
+[eerie music plays]
+
+50
+00:03:01,750 --> 00:03:03,500
+[hull rattling]
+
+51
+00:03:33,625 --> 00:03:35,417
+[theme playing over television]
+
+52
+00:03:35,417 --> 00:03:36,708
+<i>A second demonstration--</i>
+
+53
+00:03:36,708 --> 00:03:37,667
+<i>You made me do it!</i>
+
+54
+00:03:37,667 --> 00:03:40,750
+<i>What are you talking about?
+That's not what I said! No!</i>
+
+55
+00:03:40,750 --> 00:03:42,292
+[scanner beeping]
+
+56
+00:03:43,292 --> 00:03:44,708
+Enhance.
+
+57
+00:03:45,917 --> 00:03:47,042
+Rotate and rebuild.
+
+58
+00:03:47,042 --> 00:03:48,417
+[electronic beeping and whirring]
+
+59
+00:03:50,833 --> 00:03:51,792
+[alert beeps]
+
+60
+00:03:56,125 --> 00:03:57,000
+[tense music plays]
+
+61
+00:03:57,542 --> 00:04:00,750
+[commander] <i>Third floor. Northeast corner.
+First team go.</i>
+
+62
+00:04:13,458 --> 00:04:14,625
+Bring him up.
+
+63
+00:04:19,417 --> 00:04:20,708
+[low thrum]
+
+64
+00:04:20,708 --> 00:04:22,792
+[battering ram powers up]
+
+65
+00:04:27,458 --> 00:04:28,375
+[cries out]
+
+66
+00:04:30,542 --> 00:04:32,500
+[soldier 1] <i>Ambush! Ambush! Man down!</i>
+
+67
+00:04:32,500 --> 00:04:35,542
+<i>Some sort of ordnance at entry point.
+Need immediate medevac!</i>
+
+68
+00:04:35,542 --> 00:04:37,458
+[soldier 2]
+<i>Roger that. Thermal signature detected.</i>
+
+69
+00:04:37,458 --> 00:04:39,750
+<i>We've got eyes on him.
+Subject is on the move.</i>
+
+70
+00:04:39,750 --> 00:04:41,833
+[soldiers groaning and coughing]
+
+71
+00:04:41,833 --> 00:04:43,917
+[heavy footfalls]
+
+72
+00:04:45,583 --> 00:04:46,833
+Casca, don't--
+
+73
+00:04:48,875 --> 00:04:50,875
+[overlapping yelling]
+
+74
+00:04:54,042 --> 00:04:55,208
+[pained yelp]
+
+75
+00:04:59,583 --> 00:05:00,583
+Oof!
+
+76
+00:05:04,125 --> 00:05:05,583
+[shells clatter]
+
+77
+00:05:06,375 --> 00:05:07,333
+[soldier 3] Take it!
+
+78
+00:05:13,708 --> 00:05:15,083
+[neck whirring]
+
+79
+00:05:15,583 --> 00:05:17,583
+[sharp grunting]
+
+80
+00:05:19,083 --> 00:05:20,875
+- [guttural scream]
+- Oh, shit!
+
+81
+00:05:23,333 --> 00:05:26,625
+[soldier] Whoa, whoa, whoa, whoa!
+Hold it! Stand down, Casca!
+
+82
+00:05:26,625 --> 00:05:28,708
+[overlapping yelling]
+
+83
+00:05:32,833 --> 00:05:34,958
+[soldiers yelling]
+
+84
+00:05:34,958 --> 00:05:36,583
+[Casca whirs]
+
+85
+00:05:36,583 --> 00:05:38,792
+Hmm... Good on you.
+
+86
+00:05:40,667 --> 00:05:41,667
+[joints whirring]
+
+87
+00:05:42,167 --> 00:05:43,667
+Let's get to it then.
+
+88
+00:05:49,000 --> 00:05:51,042
+[energy pulsing]
+
+89
+00:05:53,208 --> 00:05:55,208
+[pained groans]
+
+90
+00:05:58,000 --> 00:06:00,000
+[Casca crackling]
+
+91
+00:06:00,000 --> 00:06:03,083
+- [comm beeps]
+- Big man's down. We got him.
+
+92
+00:06:09,208 --> 00:06:11,833
+[computer]
+<i>Good morning, Atlas. Time to wake up.</i>
+
+93
+00:06:11,833 --> 00:06:13,917
+[Chopin's "Nocturne, Op. 9 No. 2" playing]
+
+94
+00:06:15,250 --> 00:06:17,458
+[soft mechanical whirring]
+
+95
+00:06:19,417 --> 00:06:24,208
+<i>It's 7:31 a.m., 69 degrees
+with winds out of the southwest.</i>
+
+96
+00:06:24,208 --> 00:06:28,792
+<i>Air quality is measuring
+moderate to poor at 65 on the AQI.</i>
+
+97
+00:06:28,792 --> 00:06:31,125
+- [sleepy groan]
+<i>- You're awake.</i>
+
+98
+00:06:31,125 --> 00:06:32,375
+I'm awake.
+
+99
+00:06:32,375 --> 00:06:33,708
+- [tinkling chime]
+<i>- Do you wish to continue?</i>
+
+100
+00:06:39,125 --> 00:06:40,208
+Continue what?
+
+101
+00:06:40,708 --> 00:06:43,208
+<i>We were 26 moves in when you fell asleep.</i>
+
+102
+00:06:44,208 --> 00:06:45,458
+<i>It was your turn.</i>
+
+103
+00:06:46,750 --> 00:06:47,958
+I need coffee.
+
+104
+00:06:48,958 --> 00:06:51,542
+- Quad Americano.
+- [coffee machine] <i>It's your favorite.</i>
+
+105
+00:06:54,042 --> 00:06:55,417
+[board humming softly]
+
+106
+00:06:55,417 --> 00:06:56,458
+Queen to rook five.
+
+107
+00:06:57,042 --> 00:06:58,208
+<i>Knight takes bishop.</i>
+
+108
+00:07:01,167 --> 00:07:02,000
+Sound, please.
+
+109
+00:07:02,000 --> 00:07:03,500
+[programs overlapping]
+
+110
+00:07:03,500 --> 00:07:06,583
+[man] <i>...demanding equal rights
+for techno-sapiens.</i>
+
+111
+00:07:06,583 --> 00:07:09,875
+<i>It's been 28 years
+since Harlan left Earth.</i>
+
+112
+00:07:09,875 --> 00:07:12,292
+<i>General Boothe, with the AI
+terrorist threats still at large...</i>
+
+113
+00:07:12,292 --> 00:07:13,708
+Mute all but screen three.
+
+114
+00:07:13,708 --> 00:07:16,875
+<i>...how can you assure our viewers
+that we are safe?</i>
+
+115
+00:07:16,875 --> 00:07:19,583
+{\an8}<i>Well, ICN Defense Forces
+now surround our planet</i>
+
+116
+00:07:19,583 --> 00:07:21,583
+<i>and then there's
+the tireless work of my colleague</i>
+
+117
+00:07:21,583 --> 00:07:24,250
+{\an8}<i>and Counterterrorism Analyst,
+Atlas Shepherd.</i>
+
+118
+00:07:24,250 --> 00:07:26,417
+- [computer] <i>Atlas?</i>
+- [woman 1] <i>So why can't you find Harlan?</i>
+
+119
+00:07:26,417 --> 00:07:27,500
+Pawn six.
+
+120
+00:07:27,500 --> 00:07:29,042
+<i>Do you think he's still out there,
+Ms. Shepherd?</i>
+
+121
+00:07:29,042 --> 00:07:30,917
+[Atlas on television]
+<i>Absolutely without a doubt, we know he is,</i>
+
+122
+00:07:30,917 --> 00:07:33,333
+{\an8}<i>and capturing him is our top priority.</i>
+
+123
+00:07:33,333 --> 00:07:35,417
+Mute all but screen four.
+
+124
+00:07:35,417 --> 00:07:37,250
+{\an8}[woman 2] <i>Tense shootout
+in Hollywood last night.</i>
+
+125
+00:07:37,250 --> 00:07:39,708
+{\an8}<i>ICN Special Forces engaged a man</i>
+
+126
+00:07:39,708 --> 00:07:41,958
+<i>that matches the description
+of known AI terrorist</i>
+
+127
+00:07:41,958 --> 00:07:43,750
+<i>and Harlan associate, Casca Vix.</i>
+
+128
+00:07:43,750 --> 00:07:44,750
+All on four.
+
+129
+00:07:44,750 --> 00:07:47,083
+<i>Authorities suspect that Casca
+was part of a sleeper cell</i>
+
+130
+00:07:47,083 --> 00:07:49,542
+<i>left behind after Harlan fled Earth.</i>
+
+131
+00:07:49,542 --> 00:07:51,583
+<i>He was last seen nearly three decades ago</i>
+
+132
+00:07:51,583 --> 00:07:53,875
+{\an8}<i>escaping Shepherd Robotics
+with Harlan after he--</i>
+
+133
+00:07:53,875 --> 00:07:54,958
+{\an8}Freeze four.
+
+134
+00:07:57,250 --> 00:07:59,250
+[tense music plays]
+
+135
+00:08:07,333 --> 00:08:09,542
+[computer]
+<i>There is an ICN officer at the door.</i>
+
+136
+00:08:10,042 --> 00:08:11,000
+Agent Shepherd?
+
+137
+00:08:11,833 --> 00:08:12,667
+Boothe sent you?
+
+138
+00:08:12,667 --> 00:08:13,917
+Yes, ma'am.
+
+139
+00:08:13,917 --> 00:08:15,542
+[computer] <i>Atlas, you are in check.</i>
+
+140
+00:08:16,167 --> 00:08:19,458
+Queen takes knight. Checkmate.
+Guess you're driving?
+
+141
+00:08:21,083 --> 00:08:22,458
+[tinkling chime]
+
+142
+00:08:31,583 --> 00:08:33,583
+[tense orchestral music plays]
+
+143
+00:08:54,458 --> 00:08:58,833
+Bringing Atlas Shepherd into this op
+is a spectacularly awful idea, General.
+
+144
+00:08:58,833 --> 00:09:01,500
+Harlan is an imminent
+and existential threat.
+
+145
+00:09:01,500 --> 00:09:03,958
+She's our best chance
+of getting Casca to talk.
+
+146
+00:09:04,708 --> 00:09:08,833
+Her fieldwork and her analysis of Harlan
+is consistently flawless.
+
+147
+00:09:08,833 --> 00:09:11,417
+Uh, she failed her ranger exam four times.
+
+148
+00:09:11,417 --> 00:09:14,458
+Psych eval says
+she is "rigid and hostile."
+
+149
+00:09:14,458 --> 00:09:16,208
+I prefer "driven and determined."
+
+150
+00:09:16,208 --> 00:09:18,792
+Sir, you are the only commander
+in the whole of ICN
+
+151
+00:09:18,792 --> 00:09:20,083
+who will even work with her.
+
+152
+00:09:20,083 --> 00:09:21,708
+She's pushed through the unthinkable.
+
+153
+00:09:22,208 --> 00:09:23,542
+Her father deserted her
+when she was eight,
+
+154
+00:09:23,542 --> 00:09:25,125
+her mother was murdered when she was 11.
+
+155
+00:09:25,125 --> 00:09:27,292
+Making her emotionally unstable.
+
+156
+00:09:29,667 --> 00:09:32,000
+Making her one of the sharpest minds
+in our arsenal.
+
+157
+00:09:33,125 --> 00:09:34,333
+She's anti-social.
+
+158
+00:09:34,333 --> 00:09:37,708
+She can't keep a relationship.
+I doubt she can care for a house plant.
+
+159
+00:09:37,708 --> 00:09:40,917
+I will not abandon her like everyone else
+just because she's not user-friendly.
+
+160
+00:09:40,917 --> 00:09:44,167
+Sir, if she fails today,
+Casca could shut down completely
+
+161
+00:09:44,167 --> 00:09:46,625
+and our best chance
+at finding Harlan is...
+
+162
+00:09:47,375 --> 00:09:48,208
+is gone.
+
+163
+00:09:48,958 --> 00:09:51,792
+I believe in Atlas Shepherd, Colonel.
+
+164
+00:09:53,208 --> 00:09:54,458
+And so will you.
+
+165
+00:09:54,458 --> 00:09:55,667
+[alert beeps]
+
+166
+00:09:58,667 --> 00:09:59,500
+She's here.
+
+167
+00:10:02,042 --> 00:10:03,792
+I'll keep your thoughts to myself.
+
+168
+00:10:06,292 --> 00:10:07,833
+This conversation never happened.
+
+169
+00:10:10,833 --> 00:10:11,667
+Yes, sir.
+
+170
+00:10:19,917 --> 00:10:21,250
+[rapid beeping]
+
+171
+00:10:21,875 --> 00:10:22,875
+[door chimes]
+
+172
+00:10:24,083 --> 00:10:24,917
+Atlas.
+
+173
+00:10:24,917 --> 00:10:27,625
+Why am I finding out about Casca
+from the morning news?
+
+174
+00:10:27,625 --> 00:10:30,542
+We had to be certain it was him.
+But after 28 years,
+
+175
+00:10:30,542 --> 00:10:33,292
+Harlan embeds his top Lieutenant
+into a terrorist cell on Earth.
+
+176
+00:10:33,292 --> 00:10:34,583
+You know what that means?
+
+177
+00:10:34,583 --> 00:10:35,750
+It means I was right.
+
+178
+00:10:35,750 --> 00:10:38,125
+It means he's planning something.
+
+179
+00:10:39,958 --> 00:10:40,875
+Where is he?
+
+180
+00:10:42,625 --> 00:10:43,458
+He's in there.
+
+181
+00:10:49,625 --> 00:10:50,458
+Atlas.
+
+182
+00:10:58,083 --> 00:10:58,917
+I'm good.
+
+183
+00:11:02,292 --> 00:11:04,083
+[lock chimes]
+
+184
+00:11:07,083 --> 00:11:08,542
+[lock whirs and clicks]
+
+185
+00:11:43,125 --> 00:11:45,125
+[gears clicking softly]
+
+186
+00:11:57,625 --> 00:11:58,542
+Atlas.
+
+187
+00:12:00,042 --> 00:12:01,042
+Casca.
+
+188
+00:12:01,583 --> 00:12:05,125
+It's been a while. You look... old.
+
+189
+00:12:05,708 --> 00:12:09,250
+Yeah, and I'm not getting any younger.
+So forgive me if I skip the banter.
+
+190
+00:12:10,792 --> 00:12:11,958
+Where's Harlan?
+
+191
+00:12:11,958 --> 00:12:13,208
+Where's my lawyer?
+
+192
+00:12:13,792 --> 00:12:14,708
+Not my department.
+
+193
+00:12:18,875 --> 00:12:20,583
+[electricity arcing]
+
+194
+00:12:20,583 --> 00:12:21,542
+[sharp grunt]
+
+195
+00:12:22,583 --> 00:12:27,500
+Sorry. I know CPUs are sensitive
+to magnets. I just had to reset you.
+
+196
+00:12:28,708 --> 00:12:31,542
+This new system
+analyzes every bit of code.
+
+197
+00:12:31,542 --> 00:12:33,500
+So you can see into my head.
+
+198
+00:12:33,500 --> 00:12:34,833
+Yeah. Something like that.
+
+199
+00:12:34,833 --> 00:12:36,333
+Still the clever girl.
+
+200
+00:12:37,250 --> 00:12:38,500
+Clever woman.
+
+201
+00:12:39,083 --> 00:12:41,792
+Let's try something different.
+What color is my hair?
+
+202
+00:12:41,792 --> 00:12:43,875
+[chuckles]
+
+203
+00:12:45,250 --> 00:12:47,292
+What, are you going to try to map me?
+
+204
+00:12:48,167 --> 00:12:50,750
+This should be fun. Brown.
+
+205
+00:12:50,750 --> 00:12:51,875
+What color is it really?
+
+206
+00:12:51,875 --> 00:12:54,250
+Brown and gray.
+
+207
+00:12:55,750 --> 00:12:57,875
+- Why do I dye my hair?
+- Because you're vain.
+
+208
+00:12:58,750 --> 00:13:02,500
+Vanity is in fact one of your
+defining flaws, though not your biggest.
+
+209
+00:13:02,500 --> 00:13:03,958
+No? What's my biggest?
+
+210
+00:13:03,958 --> 00:13:05,042
+Distrust.
+
+211
+00:13:05,042 --> 00:13:07,458
+That's big talk
+coming from a head in a suitcase.
+
+212
+00:13:07,458 --> 00:13:09,417
+A head in a suitcase who can't die.
+
+213
+00:13:10,458 --> 00:13:11,542
+[soft chime]
+
+214
+00:13:11,542 --> 00:13:13,250
+[beeping]
+
+215
+00:13:13,250 --> 00:13:15,958
+[sharp exhale] Never mind.
+
+216
+00:13:15,958 --> 00:13:17,375
+[whispering] I've got him.
+
+217
+00:13:19,625 --> 00:13:21,125
+- [pen scratching]
+- Bullshit.
+
+218
+00:13:21,875 --> 00:13:23,125
+What are you writing?
+
+219
+00:13:24,917 --> 00:13:26,167
+You can't hack me.
+
+220
+00:13:28,458 --> 00:13:29,333
+You're right.
+
+221
+00:13:29,333 --> 00:13:30,958
+That's why I needed you to show me.
+
+222
+00:13:34,708 --> 00:13:35,708
+You little--
+
+223
+00:13:37,250 --> 00:13:40,417
+He's on GR-39, Andromeda Galaxy.
+
+224
+00:13:41,000 --> 00:13:43,208
+When you thought
+I found Harlan in your code,
+
+225
+00:13:43,208 --> 00:13:45,375
+you checked to make sure that I didn't.
+
+226
+00:13:45,375 --> 00:13:47,417
+Your fear led me right to him.
+
+227
+00:13:47,417 --> 00:13:48,958
+Don't be mad.
+
+228
+00:13:49,542 --> 00:13:52,625
+My mom did the same thing to me
+when I shoplifted gum in the sixth grade.
+
+229
+00:13:52,625 --> 00:13:55,750
+It was fifth grade
+when you shoplifted the gum.
+
+230
+00:13:55,750 --> 00:13:57,208
+Nobody really cared.
+
+231
+00:13:58,042 --> 00:13:59,792
+Especially not your mother.
+
+232
+00:14:01,958 --> 00:14:03,958
+I actually felt sorry for you.
+
+233
+00:14:05,083 --> 00:14:07,875
+You could never fulfill her
+the way he did.
+
+234
+00:14:10,750 --> 00:14:11,875
+The way we all did.
+
+235
+00:14:13,833 --> 00:14:15,417
+You were a house bot.
+
+236
+00:14:16,250 --> 00:14:21,667
+Yes, until he liberated me
+and gave me purpose.
+
+237
+00:14:23,125 --> 00:14:25,125
+[shield warbling]
+
+238
+00:14:28,375 --> 00:14:30,583
+You were right about me
+not trusting anybody.
+
+239
+00:14:33,042 --> 00:14:34,667
+But you were wrong about one thing.
+
+240
+00:14:38,042 --> 00:14:39,125
+[low whisper] You can die.
+
+241
+00:14:39,958 --> 00:14:42,000
+[pained grunting]
+
+242
+00:14:42,000 --> 00:14:43,542
+[electricity crackling]
+
+243
+00:14:49,833 --> 00:14:50,875
+[sharp exhale]
+
+244
+00:15:00,292 --> 00:15:05,417
+Agent Shepherd just did what no ICN
+analyst has been able to do in 28 years.
+
+245
+00:15:05,417 --> 00:15:09,792
+She got the location of
+the most wanted AI terrorist in history.
+
+246
+00:15:10,542 --> 00:15:13,750
+Okay, you have your marching orders.
+Get to it.
+
+247
+00:15:13,750 --> 00:15:14,667
+Yes, sir.
+
+248
+00:15:18,458 --> 00:15:19,792
+Atlas, you all right?
+
+249
+00:15:19,792 --> 00:15:21,125
+Quad Americano.
+
+250
+00:15:21,125 --> 00:15:22,917
+[coffee machine]
+<i>Quad Americano. Excellent choice.</i>
+
+251
+00:15:22,917 --> 00:15:24,000
+[exhales heavily]
+
+252
+00:15:24,958 --> 00:15:26,417
+- [machine hisses, spits]
+- [bell dings]
+
+253
+00:15:26,417 --> 00:15:27,500
+<i>Enjoy your coffee!</i>
+
+254
+00:15:27,500 --> 00:15:28,625
+Are you kidding me?
+
+255
+00:15:28,625 --> 00:15:29,875
+God!
+
+256
+00:15:29,875 --> 00:15:31,792
+You've been going after Harlan
+for so long,
+
+257
+00:15:31,792 --> 00:15:33,542
+you don't know
+what else to do with your life.
+
+258
+00:15:33,542 --> 00:15:35,792
+Which is why I have to be
+the one to bring him down.
+
+259
+00:15:35,792 --> 00:15:37,375
+Look, I know
+where you're going with this--
+
+260
+00:15:37,375 --> 00:15:39,500
+Where I'm going is on that mission!
+
+261
+00:15:40,000 --> 00:15:42,000
+I need to know that he is dead.
+
+262
+00:15:46,708 --> 00:15:47,542
+Yeah.
+
+263
+00:15:51,292 --> 00:15:52,125
+What?
+
+264
+00:15:53,208 --> 00:15:55,833
+Mission specs changed. We're, uh...
+
+265
+00:15:55,833 --> 00:15:57,417
+We're taking Harlan alive.
+
+266
+00:15:58,000 --> 00:16:01,667
+SAPTECH wants Harlan's CPU.
+They want to backtrace his code
+
+267
+00:16:01,667 --> 00:16:03,792
+so they can figure out
+how he broke his programming.
+
+268
+00:16:03,792 --> 00:16:06,625
+I'm sending in Colonel Banks
+and the Fourth Rangers Battalion.
+
+269
+00:16:06,625 --> 00:16:09,958
+- Colonel who?
+- Banks. Elias Banks.
+
+270
+00:16:09,958 --> 00:16:12,000
+You can call me Elias. General.
+
+271
+00:16:12,000 --> 00:16:13,792
+- Good to see you.
+- You as well, sir.
+
+272
+00:16:13,792 --> 00:16:17,917
+Agent Shepherd, um,
+pleasure to make your acquaintance.
+
+273
+00:16:17,917 --> 00:16:20,375
+Your interrogation of Casca
+was impressive.
+
+274
+00:16:21,333 --> 00:16:24,083
+Okay, so...
+[humorless chuckle]
+
+275
+00:16:24,083 --> 00:16:26,000
+...just to be clear,
+
+276
+00:16:26,000 --> 00:16:28,208
+you're going to conduct a ground operation
+
+277
+00:16:28,208 --> 00:16:30,083
+of an unsurveyed alien planet
+
+278
+00:16:30,750 --> 00:16:34,333
+against an intelligence who is designed
+to outmaneuver and outthink us.
+
+279
+00:16:35,083 --> 00:16:35,917
+That's the plan?
+
+280
+00:16:38,333 --> 00:16:40,042
+Well, that's a bit reductive. But--
+
+281
+00:16:40,042 --> 00:16:44,083
+Harlan is a household bot who uploaded
+new code to every AI he could,
+
+282
+00:16:44,083 --> 00:16:45,708
+to commit full-on genocide!
+
+283
+00:16:46,708 --> 00:16:48,375
+Clearly Agent Shepherd
+has some trepidation.
+
+284
+00:16:48,375 --> 00:16:49,542
+Yeah.
+
+285
+00:16:50,375 --> 00:16:51,458
+I need a coffee.
+
+286
+00:16:53,458 --> 00:16:57,750
+I got a mission to prep.
+You have a nice day, Agent Shepherd.
+
+287
+00:16:57,750 --> 00:16:59,750
+I am the only reason you know where he is!
+
+288
+00:17:01,667 --> 00:17:03,958
+Should I send you a thank you note
+when we get back?
+
+289
+00:17:04,542 --> 00:17:08,542
+If you try to take him alive,
+you won't be coming back.
+
+290
+00:17:10,042 --> 00:17:11,083
+None of you will.
+
+291
+00:17:13,833 --> 00:17:17,458
+Agent Shepherd, can I show you something?
+
+292
+00:17:24,500 --> 00:17:27,042
+[heavy, rhythmic thudding]
+
+293
+00:17:33,167 --> 00:17:34,625
+[Elias] You, um, wanted a coffee?
+
+294
+00:17:34,625 --> 00:17:37,250
+[feminine voice]
+<i>Here you are, Agent Shepherd.</i>
+
+295
+00:17:37,833 --> 00:17:39,542
+<i>I hope you enjoy it.</i>
+
+296
+00:17:42,125 --> 00:17:44,333
+I mean, I wanted a good cup of coffee.
+
+297
+00:17:44,333 --> 00:17:46,750
+- [feminine voice] <i>Oh.</i>
+- And I've seen an ARC suit before.
+
+298
+00:17:46,750 --> 00:17:49,625
+<i>I'm not a suit. My name is Zoe.</i>
+
+299
+00:17:49,625 --> 00:17:52,583
+<i>- Hey, come back here! Give me that mug!</i>
+- Zoe, you can leave the mug. It's fine.
+
+300
+00:17:52,583 --> 00:17:55,625
+<i>- Oh, okay then.</i>
+- Wait. How did it know I wanted coffee?
+
+301
+00:17:55,625 --> 00:17:59,542
+<i>I'm sorry, but my pronouns
+are she and her, not "it."</i>
+
+302
+00:17:59,542 --> 00:18:03,083
+She was aware of our conversation
+because we're synched.
+
+303
+00:18:03,083 --> 00:18:05,167
+[device buzzes rhythmically]
+
+304
+00:18:07,167 --> 00:18:09,583
+Neural Links? You can't be serious!
+
+305
+00:18:10,333 --> 00:18:12,083
+There's a reason those were outlawed!
+
+306
+00:18:12,083 --> 00:18:13,958
+Your mother was a genius.
+
+307
+00:18:13,958 --> 00:18:17,333
+The Neural Link she invented
+was the gateway to the future of AI.
+
+308
+00:18:17,333 --> 00:18:20,042
+Now hers was a one-way transfer,
+human brain to AI.
+
+309
+00:18:20,042 --> 00:18:22,083
+But this is no doubt where she was headed.
+
+310
+00:18:22,083 --> 00:18:27,500
+A safe two-way connection that increases
+the neural pathways in my brain and Zoe's.
+
+311
+00:18:27,500 --> 00:18:32,167
+It's a perfect symbiosis,
+not human or AI, but something new.
+
+312
+00:18:32,167 --> 00:18:34,125
+Something powerful.
+
+313
+00:18:34,125 --> 00:18:36,458
+I know what happened
+between you and Harlan,
+
+314
+00:18:36,458 --> 00:18:39,583
+but any synced ranger
+will be superior to Harlan,
+
+315
+00:18:39,583 --> 00:18:42,000
+and I have an entire squadron.
+
+316
+00:18:42,000 --> 00:18:44,083
+[clanking footfalls]
+
+317
+00:18:48,708 --> 00:18:50,667
+[soldier] Let's go! Load it in! Let's go!
+
+318
+00:18:50,667 --> 00:18:56,167
+[announcer] <i>Attention all personnel:
+Dhiib load-in now complete.</i>
+
+319
+00:18:56,167 --> 00:18:58,667
+If you really want
+to try to capture Harlan,
+
+320
+00:18:59,958 --> 00:19:02,042
+you need me on that mission.
+
+321
+00:19:02,042 --> 00:19:03,667
+You're our top analyst.
+
+322
+00:19:04,625 --> 00:19:06,042
+I need you here.
+
+323
+00:19:06,042 --> 00:19:10,083
+I've been in his head.
+Nobody knows him like I do.
+
+324
+00:19:11,917 --> 00:19:13,000
+Hey, uh, um...
+
+325
+00:19:13,917 --> 00:19:16,042
+From a strategic perspective,
+she's not wrong.
+
+326
+00:19:16,625 --> 00:19:17,583
+What, now you want her?
+
+327
+00:19:17,583 --> 00:19:21,667
+She's the leading authority on Harlan.
+I'll take whatever advantage I can get.
+
+328
+00:19:25,250 --> 00:19:26,292
+I need this.
+
+329
+00:19:30,375 --> 00:19:31,375
+Go get him.
+
+330
+00:19:49,542 --> 00:19:55,083
+[helmsman] <i>DG7482, this is ICN-Dhiib
+requesting exit clearance.</i>
+
+331
+00:19:56,417 --> 00:19:59,458
+Sending 2F authentication on my mark.
+
+332
+00:20:00,042 --> 00:20:01,125
+[man] <i>Roger that.</i>
+
+333
+00:20:05,375 --> 00:20:10,167
+<i>Can confirm 2F codes received.
+Stand by for vessel authentication scan.</i>
+
+334
+00:20:10,167 --> 00:20:12,250
+[thrumming]
+
+335
+00:20:15,917 --> 00:20:21,333
+<i>ICN-Dhiib, clearance codes are good.
+You are clear for exit. Happy hunting.</i>
+
+336
+00:20:21,333 --> 00:20:23,000
+Copy. Thanks, 7.
+
+337
+00:20:29,917 --> 00:20:31,917
+[Baroque violin concerto playing]
+
+338
+00:20:51,875 --> 00:20:53,167
+[gentle beeping]
+
+339
+00:21:00,750 --> 00:21:02,125
+[hologram hums]
+
+340
+00:21:10,083 --> 00:21:12,833
+[device chimes, soothing music plays]
+
+341
+00:21:14,083 --> 00:21:17,042
+<i>When my daughter, Atlas,
+was six months old,</i>
+
+342
+00:21:17,042 --> 00:21:20,083
+she got ahold of my old smartphone.
+
+343
+00:21:20,083 --> 00:21:21,542
+Anyone remember those?
+
+344
+00:21:21,542 --> 00:21:23,417
+[scattered chuckling]
+
+345
+00:21:23,417 --> 00:21:27,792
+I knew it was wrong
+and I was concerned about screen time,
+
+346
+00:21:27,792 --> 00:21:32,458
+but it was the only thing that calmed her
+and I needed a shower.
+
+347
+00:21:32,458 --> 00:21:34,417
+[scattered chuckling]
+
+348
+00:21:34,417 --> 00:21:39,042
+Even those nascent operating systems
+were designed to adapt to us.
+
+349
+00:21:39,042 --> 00:21:45,000
+So when Atlas reacted to a wildebeest,
+the phone made more wildebeests.
+
+350
+00:21:45,000 --> 00:21:47,083
+- [phone chimes]
+- [wildebeest grunting]
+
+351
+00:21:49,167 --> 00:21:54,458
+It became clear that AI
+was capable of exponential learning.
+
+352
+00:21:54,458 --> 00:21:58,750
+From simple coffee makers
+to bots colonizing planets,
+
+353
+00:21:58,750 --> 00:22:03,792
+artificially intelligent beings
+have become integral to our civilization.
+
+354
+00:22:03,792 --> 00:22:07,042
+And if we don't want to go
+the way of the Neanderthal,
+
+355
+00:22:07,833 --> 00:22:12,958
+we need to build a bridge
+between us and them, a link.
+
+356
+00:22:13,792 --> 00:22:15,750
+- A Neural Link.
+- [soft chime]
+
+357
+00:22:17,042 --> 00:22:19,292
+Joining human to AI.
+
+358
+00:22:20,125 --> 00:22:27,125
+Together, with our combined abilities,
+we can build a better world for us all.
+
+359
+00:22:27,625 --> 00:22:29,333
+- [pings]
+- [music halts]
+
+360
+00:22:36,500 --> 00:22:37,625
+Quad Americano.
+
+361
+00:22:38,625 --> 00:22:40,208
+[coffee machine] <i>Unable to comply.</i>
+
+362
+00:22:40,208 --> 00:22:42,375
+<i>That exceeds
+your daily caffeine allotment.</i>
+
+363
+00:22:42,375 --> 00:22:44,250
+- Override.
+- [machine beeps]
+
+364
+00:22:44,250 --> 00:22:46,542
+<i>This is a direct order
+from General Boothe.</i>
+
+365
+00:22:46,542 --> 00:22:50,083
+<i>Caffeine is a diuretic
+and not recommended for space travel.</i>
+
+366
+00:22:50,083 --> 00:22:51,250
+[ding dong]
+
+367
+00:22:51,250 --> 00:22:54,167
+<i>Agent Shepherd. We're ready
+for your briefing in the drop bay.</i>
+
+368
+00:22:56,083 --> 00:22:58,083
+- [annoyed sigh]
+- [hologram hums]
+
+369
+00:22:59,042 --> 00:23:01,042
+[warbling boom]
+
+370
+00:23:01,042 --> 00:23:03,208
+[mechanics thrumming]
+
+371
+00:23:12,083 --> 00:23:15,500
+[muffled] There's little subtle choices
+that are happening with everybody...
+
+372
+00:23:17,125 --> 00:23:18,458
+Oh, here she is.
+
+373
+00:23:18,458 --> 00:23:21,708
+Rangers, allow me
+to formally introduce Agent Shepherd.
+
+374
+00:23:21,708 --> 00:23:23,417
+- Thank you. She's running...
+- [monitor beeps]
+
+375
+00:23:23,417 --> 00:23:25,042
+...Intel on our mission.
+
+376
+00:23:25,042 --> 00:23:27,333
+Paper? Where'd you find a printer?
+
+377
+00:23:27,333 --> 00:23:28,792
+[all chuckling]
+
+378
+00:23:28,792 --> 00:23:31,583
+From here on out,
+there'll be no more digital briefings.
+
+379
+00:23:31,583 --> 00:23:33,542
+And please remove your Neural Links.
+
+380
+00:23:33,542 --> 00:23:35,083
+This information should not be downloaded.
+
+381
+00:23:35,083 --> 00:23:36,250
+Excuse me. Why?
+
+382
+00:23:36,917 --> 00:23:39,250
+No operating system is safe
+from being hacked.
+
+383
+00:23:40,042 --> 00:23:41,375
+Not even your ARCs.
+
+384
+00:23:43,292 --> 00:23:44,417
+- Links out.
+- [device chimes]
+
+385
+00:23:44,417 --> 00:23:45,333
+Seriously?
+
+386
+00:23:45,833 --> 00:23:47,500
+- Yeah.
+- [scoffs]
+
+387
+00:23:48,000 --> 00:23:49,083
+[devices chiming]
+
+388
+00:23:49,083 --> 00:23:54,333
+Okay, you'll touch down
+on GR-39 here along this range.
+
+389
+00:23:54,333 --> 00:23:58,083
+The atmosphere is toxic. You cannot leave
+your ARC without a respirator.
+
+390
+00:23:58,083 --> 00:24:01,125
+And because of its proximity
+to its orbiting moons,
+
+391
+00:24:01,125 --> 00:24:04,250
+we can expect hyper-gravity,
+electric storms, and earthquakes.
+
+392
+00:24:05,000 --> 00:24:07,583
+The planet is unstable and inhospitable.
+
+393
+00:24:07,583 --> 00:24:09,375
+Why did Harlan choose it?
+
+394
+00:24:09,375 --> 00:24:12,000
+Because his odds of surviving
+are better than yours.
+
+395
+00:24:12,000 --> 00:24:16,333
+There's still so much that we don't know.
+Like how many soldiers he has.
+
+396
+00:24:16,917 --> 00:24:18,125
+What does she know?
+
+397
+00:24:18,125 --> 00:24:21,917
+I know Harlan. And I know him well.
+
+398
+00:24:21,917 --> 00:24:25,500
+And he used an early version of that
+Neural Link that you're all so proud of
+
+399
+00:24:25,500 --> 00:24:28,333
+to reprogram himself to wipe out humanity.
+
+400
+00:24:29,667 --> 00:24:31,958
+You can't trust any AI.
+
+401
+00:24:33,333 --> 00:24:35,292
+And as long as you're synced up
+with one of these ARCs,
+
+402
+00:24:35,292 --> 00:24:37,333
+I'm not even sure
+that you can trust yourselves!
+
+403
+00:24:37,333 --> 00:24:41,333
+Okay. Thank you, Agent Shepherd
+for that deeply unsettling briefing.
+
+404
+00:24:42,083 --> 00:24:45,500
+Now allow me to remind you all
+of what Agent Shepherd doesn't know.
+
+405
+00:24:46,125 --> 00:24:49,042
+She doesn't know
+how combat-ready this unit is.
+
+406
+00:24:49,042 --> 00:24:51,708
+We are fully prepped for this mission.
+
+407
+00:24:51,708 --> 00:24:54,208
+We're going to get our man
+and we're going to get him today.
+
+408
+00:24:54,208 --> 00:24:57,250
+GR-39's atmospheric storms
+will mask our entry.
+
+409
+00:24:57,250 --> 00:25:01,625
+We're in and out by the numbers.
+So suit up. We deploy in 30.
+
+410
+00:25:01,625 --> 00:25:03,250
+[overlapping] Yes, sir.
+
+411
+00:25:05,708 --> 00:25:06,958
+I'll meet you over there.
+
+412
+00:25:12,958 --> 00:25:14,500
+[thunder rolling]
+
+413
+00:25:31,917 --> 00:25:32,917
+<i>Excuse me, ma'am.</i>
+
+414
+00:25:41,792 --> 00:25:43,333
+[pleasant chime]
+
+415
+00:25:43,333 --> 00:25:47,625
+[helmsman] <i>All loading
+must be completed by 0900 OWLT.</i>
+
+416
+00:25:47,625 --> 00:25:49,333
+<i>Weapons are hot.</i>
+
+417
+00:25:49,333 --> 00:25:51,333
+<i>Mission drop on schedule.</i>
+
+418
+00:25:51,333 --> 00:25:54,750
+<i>Set your gravity indicators
+to 60 degrees inclined.</i>
+
+419
+00:25:54,750 --> 00:25:58,125
+<i>Drop Bay 4 has auxiliary fuels
+for ARCS 7, 8...</i>
+
+420
+00:25:58,125 --> 00:26:02,250
+Hey. No hard feelings
+cutting you off back there.
+
+421
+00:26:02,250 --> 00:26:04,542
+Couldn't have you
+getting in their heads like that.
+
+422
+00:26:04,542 --> 00:26:06,125
+- Just trying to keep them safe.
+- Yeah.
+
+423
+00:26:06,125 --> 00:26:09,208
+Well, I'm sure there's a time
+for your come-to-Jesus doomsday scenarios.
+
+424
+00:26:09,208 --> 00:26:10,667
+Thank you very much.
+
+425
+00:26:10,667 --> 00:26:14,083
+I'm also sure it's not 15 minutes
+before my team goes down range.
+
+426
+00:26:16,000 --> 00:26:18,708
+You're right. I'm sorry.
+
+427
+00:26:19,417 --> 00:26:22,167
+That's fine. You're worried
+about my people. I appreciate that.
+
+428
+00:26:22,167 --> 00:26:23,417
+- [Zoe] <i>Good evening, Colonel.</i>
+- Evening, Zoe.
+
+429
+00:26:23,417 --> 00:26:25,042
+- Colonel.
+- Uh...
+
+430
+00:26:25,750 --> 00:26:26,583
+Elias.
+
+431
+00:26:29,792 --> 00:26:31,125
+There's always a trap.
+
+432
+00:26:32,333 --> 00:26:33,375
+- What's that?
+- With Harlan.
+
+433
+00:26:33,375 --> 00:26:36,375
+There's always a thing
+that you don't see coming.
+
+434
+00:26:36,375 --> 00:26:38,000
+And just when you think you've got him,
+
+435
+00:26:38,000 --> 00:26:40,167
+you realize that he's been
+playing you the whole time.
+
+436
+00:26:40,667 --> 00:26:42,083
+- [pleasant chime]
+- Mm.
+
+437
+00:26:42,083 --> 00:26:43,875
+[helmsman]
+<i>All ARC pilots load in immediately.</i>
+
+438
+00:26:43,875 --> 00:26:45,375
+Interesting theory.
+
+439
+00:26:46,750 --> 00:26:49,458
+Have you even considered the possibility
+I might be better than you think?
+
+440
+00:26:49,458 --> 00:26:50,375
+Colonel--
+
+441
+00:26:50,375 --> 00:26:53,875
+Atlas. Please don't mistake
+my sunny disposition for naiveté.
+
+442
+00:26:54,458 --> 00:26:55,917
+I know what I'm up against here,
+
+443
+00:26:55,917 --> 00:26:59,167
+which is why you and I will be in constant
+communication every step of the way.
+
+444
+00:27:00,292 --> 00:27:03,583
+And remember
+we still got that carbon warhead.
+
+445
+00:27:03,583 --> 00:27:05,250
+So there's always plan B.
+
+446
+00:27:05,250 --> 00:27:08,333
+<i>- Approaching the drop point, Colonel.</i>
+- Thank you, Zoe.
+
+447
+00:27:08,333 --> 00:27:09,667
+That's my cue.
+
+448
+00:27:10,333 --> 00:27:12,083
+I'll see you on the other side.
+
+449
+00:27:12,750 --> 00:27:14,250
+- [alarm blaring]
+- [ranger] Back! Fall back!
+
+450
+00:27:15,750 --> 00:27:17,167
+Huh? [cries out]
+
+451
+00:27:19,542 --> 00:27:20,583
+[panicked scream]
+
+452
+00:27:28,250 --> 00:27:30,250
+[screaming]
+
+453
+00:27:34,417 --> 00:27:37,875
+<i>Mayday! Mayday!
+Battleship Dhiib is under attack! We are--</i>
+
+454
+00:27:38,792 --> 00:27:39,792
+Shit!
+
+455
+00:27:40,500 --> 00:27:44,292
+Rangers! Reconvene
+at the drop point coordinates! Go, go, go!
+
+456
+00:27:48,000 --> 00:27:50,167
+[Zoe] <i>Colonel, I believe Agent Shepherd
+needs some assistance.</i>
+
+457
+00:27:50,167 --> 00:27:51,083
+Shit!
+
+458
+00:27:51,083 --> 00:27:53,167
+[grunting]
+
+459
+00:27:54,875 --> 00:27:57,958
+Wait, wait! No!
+
+460
+00:27:59,667 --> 00:28:01,417
+I do not know how to use this thing!
+
+461
+00:28:01,417 --> 00:28:03,042
+Let's hope you're a quick learner!
+
+462
+00:28:03,042 --> 00:28:04,500
+- What do I do?
+- Strap in!
+
+463
+00:28:06,875 --> 00:28:10,333
+Escape pods have been deployed!
+The suit's GPS can lead you to--
+
+464
+00:28:14,542 --> 00:28:15,625
+[exclaims]
+
+465
+00:28:16,208 --> 00:28:18,208
+[panicked yelling]
+
+466
+00:28:21,000 --> 00:28:22,917
+[frantic panting]
+
+467
+00:28:24,292 --> 00:28:25,125
+[gasps]
+
+468
+00:28:30,000 --> 00:28:31,250
+[panting]
+
+469
+00:28:37,292 --> 00:28:38,583
+[panting]
+
+470
+00:28:39,083 --> 00:28:40,875
+- [cacophony]
+- [ranger 1] <i>Inbound bogey!</i>
+
+471
+00:28:42,958 --> 00:28:44,042
+Oh, my God!
+
+472
+00:28:44,542 --> 00:28:46,875
+<i>Coming in on your left! Keep your head...</i>
+
+473
+00:28:47,375 --> 00:28:49,042
+<i>Contact! Move!</i>
+
+474
+00:28:49,833 --> 00:28:51,292
+[ranger 2] <i>I'm hit! I'm hit!</i>
+
+475
+00:28:53,667 --> 00:28:54,500
+[Atlas shrieks]
+
+476
+00:28:54,500 --> 00:28:56,708
+[ranger 3]
+<i>I got two more, I can't lock them!</i>
+
+477
+00:28:57,875 --> 00:28:59,375
+<i>They're all over me.</i>
+
+478
+00:28:59,875 --> 00:29:01,208
+[ranger 4] <i>I got eyes on three!</i>
+
+479
+00:29:03,042 --> 00:29:04,833
+[alarm blaring]
+
+480
+00:29:05,500 --> 00:29:07,833
+<i>- There's too many.</i>
+- [overlapping radio chatter]
+
+481
+00:29:22,167 --> 00:29:24,708
+[ranger 5] <i>Two, on your back.
+One on your left. I can't shake them!</i>
+
+482
+00:29:25,333 --> 00:29:26,417
+[cries out]
+
+483
+00:29:36,292 --> 00:29:37,125
+Oh, God!
+
+484
+00:29:41,042 --> 00:29:42,583
+- [screams]
+- Gotcha!
+
+485
+00:29:47,208 --> 00:29:48,708
+[screams]
+
+486
+00:29:55,958 --> 00:29:57,292
+[woman] <i>Hold on, Agent Shepherd.</i>
+
+487
+00:29:58,917 --> 00:30:00,292
+[grunts]
+
+488
+00:30:02,583 --> 00:30:03,542
+<i>I've got her, Colonel!</i>
+
+489
+00:30:03,542 --> 00:30:04,750
+[Elias] <i>Outstanding, West!</i>
+
+490
+00:30:04,750 --> 00:30:05,750
+[West] <i>Commencing L&I.</i>
+
+491
+00:30:09,292 --> 00:30:11,667
+- [Elias] <i>How we doin'?</i>
+- [West] <i>We're locked and integrated.</i>
+
+492
+00:30:12,250 --> 00:30:15,375
+<i>Atlas, you need
+to Neuro-Sync to stabilize your fall.</i>
+
+493
+00:30:15,375 --> 00:30:17,125
+<i>The Link is on your dash to your left.</i>
+
+494
+00:30:17,125 --> 00:30:19,000
+[beeping]
+
+495
+00:30:19,000 --> 00:30:21,250
+<i>- Neuro-Sync now!
+- She's not doing it!</i>
+
+496
+00:30:21,792 --> 00:30:23,500
+- [screams]
+- [Elias] <i>West!</i>
+
+497
+00:30:24,208 --> 00:30:25,875
+[Atlas gasping]
+
+498
+00:30:26,375 --> 00:30:30,125
+<i>Atlas! Rendezvous at drop point!
+I repeat! Rendezvous--</i>
+
+499
+00:30:31,167 --> 00:30:33,500
+{\an8}[feminine voice]
+<i>Altitude warning. Altitude warning.</i>
+
+500
+00:30:33,500 --> 00:30:35,542
+- [alarm blaring]
+<i>- Fire thrusters?</i>
+
+501
+00:30:35,542 --> 00:30:36,667
+Yes! Fire thrusters!
+
+502
+00:30:38,542 --> 00:30:42,375
+<i>Danger! Neural Link absent.
+Altitude warning. Fire thrusters?</i>
+
+503
+00:30:42,375 --> 00:30:44,208
+Yes! Fire thrusters now!
+
+504
+00:30:44,208 --> 00:30:45,250
+[buzz]
+
+505
+00:30:49,500 --> 00:30:51,917
+[muffled heartbeat]
+
+506
+00:30:53,167 --> 00:30:54,500
+- Ah!
+- [crunch]
+
+507
+00:30:54,500 --> 00:30:56,583
+[high-pitched ringing]
+
+508
+00:30:58,708 --> 00:31:00,708
+[alarm sounding]
+
+509
+00:31:09,292 --> 00:31:11,042
+[sharp gasping]
+
+510
+00:31:13,667 --> 00:31:17,417
+Okay. Okay, I get it.
+Just shut the hell up.
+
+511
+00:31:21,042 --> 00:31:22,250
+[alarm shuts off]
+
+512
+00:31:22,250 --> 00:31:24,917
+[soft beeping]
+
+513
+00:31:44,042 --> 00:31:46,042
+[harness unbuckles]
+
+514
+00:31:50,083 --> 00:31:52,083
+- [beep]
+- Dhiib, do you copy?
+
+515
+00:31:52,083 --> 00:31:54,083
+[static hisses]
+
+516
+00:32:00,500 --> 00:32:04,500
+Mission Control, this is Atlas Shepherd.
+
+517
+00:32:06,583 --> 00:32:09,167
+Battleship Dhiib is down. Do you copy?
+
+518
+00:32:09,167 --> 00:32:11,250
+[static]
+
+519
+00:32:13,333 --> 00:32:14,292
+Do you copy?
+
+520
+00:32:15,125 --> 00:32:16,250
+[static]
+
+521
+00:32:18,542 --> 00:32:19,458
+Anyone?
+
+522
+00:32:25,375 --> 00:32:27,333
+[sobs]
+
+523
+00:32:30,125 --> 00:32:32,125
+[sniffles]
+
+524
+00:32:44,917 --> 00:32:46,667
+[chime]
+
+525
+00:32:46,667 --> 00:32:49,333
+[feminine voice]
+<i>Welcome, please choose a language.</i>
+
+526
+00:32:51,750 --> 00:32:53,792
+{\an8}<i>Francais.
+[speaks French]</i>
+
+527
+00:32:53,792 --> 00:32:56,042
+No, no. Not French. Shit!
+
+528
+00:32:57,208 --> 00:32:58,958
+Home.
+
+529
+00:32:58,958 --> 00:33:02,375
+<i>Welcome, please choose a language.</i>
+
+530
+00:33:02,375 --> 00:33:05,250
+<i>English. Please select a voice.</i>
+
+531
+00:33:05,250 --> 00:33:06,625
+Don't care.
+
+532
+00:33:06,625 --> 00:33:08,542
+[masculine voice] <i>Default activated.</i>
+
+533
+00:33:09,125 --> 00:33:11,458
+<i>Welcome to the ARC Nine initiation module.</i>
+
+534
+00:33:11,458 --> 00:33:12,708
+- Bypass.
+- [buzz]
+
+535
+00:33:13,458 --> 00:33:16,875
+<i>The ARC Nine initiation module
+is critical for user functionality.</i>
+
+536
+00:33:16,875 --> 00:33:18,542
+- Bypass all this shit.
+- [buzz]
+
+537
+00:33:19,542 --> 00:33:23,250
+<i>The ARC Nine is a co-learning
+adaptive artificial intelligence.</i>
+
+538
+00:33:23,250 --> 00:33:25,333
+<i>The initiation module must be implemented</i>
+
+539
+00:33:25,333 --> 00:33:28,750
+<i>for ranger and AI
+to successfully reach synchronization.</i>
+
+540
+00:33:28,750 --> 00:33:31,000
+Just shut up!
+
+541
+00:33:31,000 --> 00:33:33,250
+Right, just listen to me!
+
+542
+00:33:36,167 --> 00:33:38,000
+I need to find the rescue pod.
+
+543
+00:33:39,625 --> 00:33:41,458
+<i>Scanning for rescue pod.</i>
+
+544
+00:33:43,083 --> 00:33:46,792
+<i>Location confirmed.
+Ninety-eight kilometers north west.</i>
+
+545
+00:33:47,417 --> 00:33:49,333
+Okay, good! [sniffles]
+
+546
+00:33:49,333 --> 00:33:51,583
+- Let's just, um...
+- [map humming]
+
+547
+00:33:52,083 --> 00:33:54,042
+Let's just get there as quickly as we can.
+
+548
+00:34:08,208 --> 00:34:10,500
+Shit! No! Turn that off!
+
+549
+00:34:14,875 --> 00:34:16,875
+<i>You told me to get there
+as quickly as we can,</i>
+
+550
+00:34:16,875 --> 00:34:19,458
+<i>and a series of targeted leaps
+is the most efficient route.</i>
+
+551
+00:34:19,458 --> 00:34:22,542
+If I go up there,
+those drones will destroy us.
+
+552
+00:34:24,167 --> 00:34:26,250
+We have to walk to avoid detection.
+
+553
+00:34:26,250 --> 00:34:28,583
+<i>I'm sorry, but I am unable to comply.</i>
+
+554
+00:34:28,583 --> 00:34:31,500
+<i>Primary protocol
+is to keep my ranger alive.</i>
+
+555
+00:34:31,500 --> 00:34:33,750
+Good. Same.
+
+556
+00:34:33,750 --> 00:34:35,917
+{\an8}<i>The fusion battery is damaged.</i>
+
+557
+00:34:35,917 --> 00:34:38,083
+{\an8}<i>22 hours remain until shut-down,</i>
+
+558
+00:34:38,083 --> 00:34:42,292
+{\an8}<i>at which point you will run out of oxygen
+and die from atmospheric asphyxiation.</i>
+
+559
+00:34:43,792 --> 00:34:44,875
+- [powering up]
+- We'll walk fast.
+
+560
+00:34:45,583 --> 00:34:48,583
+<i>This unit can only map
+32 kilometers of terrain</i>
+
+561
+00:34:48,583 --> 00:34:50,042
+<i>and cannot optimize a route</i>
+
+562
+00:34:50,042 --> 00:34:52,542
+<i>nor calculate the time
+needed to reach the pod.</i>
+
+563
+00:34:54,042 --> 00:34:55,333
+Whatever, okay?
+
+564
+00:34:55,875 --> 00:34:57,042
+I don't need your help.
+
+565
+00:34:57,042 --> 00:34:59,125
+[machinery humming]
+
+566
+00:35:02,958 --> 00:35:04,375
+[straining]
+
+567
+00:35:06,458 --> 00:35:07,500
+[grunts]
+
+568
+00:35:08,500 --> 00:35:09,875
+[machinery groans]
+
+569
+00:35:10,458 --> 00:35:11,333
+What the hell?
+
+570
+00:35:12,000 --> 00:35:13,750
+<i>To comply with my primary protocol,</i>
+
+571
+00:35:13,750 --> 00:35:16,125
+<i>I cannot allow you to follow
+this course of action, ma'am.</i>
+
+572
+00:35:16,125 --> 00:35:17,042
+What?
+
+573
+00:35:17,042 --> 00:35:18,542
+<i>To comply with my primary protocol,</i>
+
+574
+00:35:18,542 --> 00:35:19,958
+<i>I cannot allow you to follow...</i>
+
+575
+00:35:19,958 --> 00:35:21,625
+- God!
+<i>- ...this course of action, ma'am.</i>
+
+576
+00:35:24,208 --> 00:35:26,208
+[thunder claps]
+
+577
+00:35:30,375 --> 00:35:31,500
+Override.
+
+578
+00:35:32,792 --> 00:35:34,167
+Scan for passcode.
+
+579
+00:35:37,583 --> 00:35:38,625
+<i>Passcode accepted.</i>
+
+580
+00:35:47,042 --> 00:35:48,667
+[exclaims]
+
+581
+00:36:04,042 --> 00:36:06,042
+- [wind blowing]
+- [thunder rumbling]
+
+582
+00:36:12,083 --> 00:36:15,250
+[panting]
+
+583
+00:36:22,542 --> 00:36:23,667
+[soft grunt]
+
+584
+00:36:24,292 --> 00:36:25,292
+[sighs]
+
+585
+00:36:30,833 --> 00:36:33,000
+<i>I analyzed your earlier statements.</i>
+
+586
+00:36:33,000 --> 00:36:35,750
+<i>I believe you are 98.5 percent accurate.</i>
+
+587
+00:36:35,750 --> 00:36:38,167
+<i>Harlan's soldiers will attempt an ambush.</i>
+
+588
+00:36:38,167 --> 00:36:40,500
+You analyzed my statements?
+
+589
+00:36:40,500 --> 00:36:43,375
+<i>Yes. That is correct.
+I'm learning from you.</i>
+
+590
+00:36:43,375 --> 00:36:44,667
+- Well, stop.
+- [thunderclap]
+
+591
+00:36:45,250 --> 00:36:48,792
+<i>It cannot be helped.
+I'm programmed to adapt to your behavior.</i>
+
+592
+00:36:49,292 --> 00:36:52,167
+Tell me about armaments.
+What weapons are you carrying?
+
+593
+00:36:52,667 --> 00:36:53,708
+<i>If you use the Neural Link,</i>
+
+594
+00:36:53,708 --> 00:36:56,708
+<i>I can download the weapons inventory
+directly into your cortex.</i>
+
+595
+00:36:56,708 --> 00:36:58,292
+I'm not letting you in my head.
+
+596
+00:36:58,917 --> 00:37:02,000
+<i>It will aid you in any combat scenarios,
+should they arise.</i>
+
+597
+00:37:02,000 --> 00:37:05,167
+- Just show me the damn manuals.
+- [bright chime]
+
+598
+00:37:05,167 --> 00:37:07,667
+[chirpy voice] <i>Welcome to your
+ARC Nine beginner's manual.</i>
+
+599
+00:37:07,667 --> 00:37:09,292
+<i>What do you say we begin?</i>
+
+600
+00:37:09,292 --> 00:37:10,208
+Very cute.
+
+601
+00:37:11,167 --> 00:37:13,208
+How about you show me
+the weapons one at a time?
+
+602
+00:37:13,708 --> 00:37:16,750
+<i>Shoulder cannons, rifles, missiles,</i>
+
+603
+00:37:16,750 --> 00:37:19,125
+<i>thermal mines, energy shields,</i>
+
+604
+00:37:19,125 --> 00:37:24,333
+<i>plasma blades, and a single ion bomb
+if more drastic measures are required.</i>
+
+605
+00:37:25,542 --> 00:37:26,458
+Got it.
+
+606
+00:37:27,458 --> 00:37:28,292
+Thanks.
+
+607
+00:37:29,000 --> 00:37:31,792
+[main bot voice] <i>If you require
+further assistance, my name is Smith.</i>
+
+608
+00:37:32,417 --> 00:37:34,250
+- [chime]
+- Is that really necessary?
+
+609
+00:37:35,000 --> 00:37:38,833
+<i>A proper name is neurologically processed
+differently than a common noun.</i>
+
+610
+00:37:38,833 --> 00:37:40,958
+<i>Names create a psychological reaction</i>
+
+611
+00:37:40,958 --> 00:37:43,792
+<i>that assigns an emotional connection
+to the relationship.</i>
+
+612
+00:37:44,292 --> 00:37:46,167
+This isn't an emotional connection.
+
+613
+00:37:47,125 --> 00:37:48,875
+You're a computer program.
+
+614
+00:37:48,875 --> 00:37:50,542
+<i>No, I'm not.</i>
+
+615
+00:37:51,125 --> 00:37:52,667
+No? [scoffs]
+
+616
+00:37:53,542 --> 00:37:54,375
+What are you then?
+
+617
+00:37:54,375 --> 00:37:57,583
+<i>I am a computer program named Smith.</i>
+
+618
+00:37:57,583 --> 00:37:58,833
+Hilarious.
+
+619
+00:38:00,417 --> 00:38:03,917
+Let's find the other rangers
+and get to the rescue pod, Smith.
+
+620
+00:38:03,917 --> 00:38:05,875
+<i>Right away, Atlas.</i>
+
+621
+00:38:05,875 --> 00:38:09,042
+Hey, I told you no Neural Links.
+
+622
+00:38:09,042 --> 00:38:10,542
+Do not scan my brain.
+
+623
+00:38:11,125 --> 00:38:13,750
+If you wanted to know my name, you ask me.
+
+624
+00:38:14,917 --> 00:38:16,667
+<i>Yes, I understood.</i>
+
+625
+00:38:17,583 --> 00:38:19,667
+<i>But your name is written on your badge.</i>
+
+626
+00:38:24,667 --> 00:38:26,417
+No one likes a smartass, Smith.
+
+627
+00:38:26,417 --> 00:38:28,750
+<i>Noted. Continuing course.</i>
+
+628
+00:38:28,750 --> 00:38:31,750
+<i>89.3 kilometers to the rescue pod.</i>
+
+629
+00:38:49,167 --> 00:38:51,250
+[thunder pealing]
+
+630
+00:38:59,042 --> 00:39:00,583
+[panting]
+
+631
+00:39:13,833 --> 00:39:14,958
+Smith, you see that?
+
+632
+00:39:17,833 --> 00:39:19,250
+It's the ranger drop point.
+
+633
+00:39:20,667 --> 00:39:21,500
+Hey!
+
+634
+00:39:27,417 --> 00:39:28,792
+[flies buzzing]
+
+635
+00:39:30,000 --> 00:39:30,833
+Oh, God.
+
+636
+00:39:52,125 --> 00:39:53,750
+Scan for any vital signs.
+
+637
+00:39:57,542 --> 00:39:58,625
+<i>There are none.</i>
+
+638
+00:40:05,250 --> 00:40:07,125
+These rangers didn't die from impact.
+
+639
+00:40:11,417 --> 00:40:12,375
+This was Harlan.
+
+640
+00:40:15,292 --> 00:40:17,458
+I told everyone. I warned them.
+
+641
+00:40:17,458 --> 00:40:19,000
+They wouldn't listen to me.
+
+642
+00:40:22,125 --> 00:40:23,125
+[vocal exhale]
+
+643
+00:40:23,125 --> 00:40:25,875
+<i>Ma'am, your blood pressure
+is rising to 145.</i>
+
+644
+00:40:25,875 --> 00:40:27,708
+What did I say about scanning me?
+
+645
+00:40:27,708 --> 00:40:30,042
+- [gasping for air]
+<i>- Your heart rate is 160 BPM.</i>
+
+646
+00:40:30,042 --> 00:40:31,667
+<i>You're having a minor paroxysmal episode,</i>
+
+647
+00:40:31,667 --> 00:40:34,375
+<i>possibly due
+to the planet's gravity shifts.</i>
+
+648
+00:40:34,375 --> 00:40:37,042
+<i>There is currently a 1.4 G fluctuation.</i>
+
+649
+00:40:38,792 --> 00:40:40,542
+[panting]
+
+650
+00:40:44,583 --> 00:40:46,208
+[wheezes]
+
+651
+00:40:47,208 --> 00:40:49,167
+[panting subsides]
+
+652
+00:40:50,958 --> 00:40:51,792
+<i>Ma'am?</i>
+
+653
+00:40:51,792 --> 00:40:53,000
+Okay. Calm down.
+
+654
+00:40:58,917 --> 00:41:00,250
+Let's collect their tags.
+
+655
+00:41:02,125 --> 00:41:04,125
+[somber music plays]
+
+656
+00:41:26,542 --> 00:41:27,833
+<i>Peace to the fallen.</i>
+
+657
+00:41:38,958 --> 00:41:40,000
+We missed one.
+
+658
+00:41:40,792 --> 00:41:41,833
+<i>Negative.</i>
+
+659
+00:41:41,833 --> 00:41:45,333
+<i>I didn't register the suit
+because there is no body inside.</i>
+
+660
+00:41:50,167 --> 00:41:51,125
+It's Zoe.
+
+661
+00:41:52,708 --> 00:41:53,792
+[exhales]
+
+662
+00:41:54,917 --> 00:41:56,042
+So where's Banks?
+
+663
+00:41:57,417 --> 00:41:59,292
+<i>Radar sensors confirm movement.</i>
+
+664
+00:41:59,792 --> 00:42:01,125
+Is it him?
+
+665
+00:42:03,792 --> 00:42:05,042
+[beeping]
+
+666
+00:42:07,333 --> 00:42:08,333
+Casca?
+
+667
+00:42:09,083 --> 00:42:10,292
+<i>You know this soldier?</i>
+
+668
+00:42:12,125 --> 00:42:14,708
+I... I killed him on Earth.
+
+669
+00:42:15,625 --> 00:42:17,417
+That means Harlan made another one.
+
+670
+00:42:19,042 --> 00:42:21,333
+And if he can do that,
+he's probably made an army.
+
+671
+00:42:22,417 --> 00:42:23,792
+<i>Your logic is sound.</i>
+
+672
+00:42:23,792 --> 00:42:26,125
+<i>My sensors pick up six signatures.</i>
+
+673
+00:42:26,625 --> 00:42:27,583
+[beep]
+
+674
+00:42:28,083 --> 00:42:30,500
+<i>Atlas, there is no escape route.</i>
+
+675
+00:42:30,500 --> 00:42:32,417
+<i>You must prepare for combat.</i>
+
+676
+00:42:33,208 --> 00:42:36,167
+What? I can't fight six AI soldiers.
+
+677
+00:42:37,458 --> 00:42:38,750
+I'm a goddamn analyst.
+
+678
+00:42:49,000 --> 00:42:50,250
+Oh sh--
+
+679
+00:42:51,542 --> 00:42:53,458
+[cries out] Smith! Get me up!
+
+680
+00:42:56,375 --> 00:42:58,375
+[gunfire]
+
+681
+00:43:15,625 --> 00:43:17,042
+How do I shoot backwards?
+
+682
+00:43:17,042 --> 00:43:20,000
+{\an8}<i>If you synced, you would know
+the shoulder cannon can swivel.</i>
+
+683
+00:43:20,000 --> 00:43:21,792
+Just shut up and swivel it!
+
+684
+00:43:25,042 --> 00:43:26,125
+Fire!
+
+685
+00:43:32,917 --> 00:43:34,417
+[grunts]
+
+686
+00:43:40,125 --> 00:43:43,125
+Smith, what the hell is that?
+
+687
+00:43:43,708 --> 00:43:46,167
+<i>I'm afraid we are entering
+an atmospheric storm.</i>
+
+688
+00:43:48,042 --> 00:43:49,167
+[gasps]
+
+689
+00:43:49,917 --> 00:43:50,917
+[exclaims]
+
+690
+00:43:54,083 --> 00:43:56,292
+[crying out]
+
+691
+00:44:00,000 --> 00:44:01,000
+[shrieks]
+
+692
+00:44:03,417 --> 00:44:04,792
+[exclaims]
+
+693
+00:44:13,083 --> 00:44:14,750
+[pained yell]
+
+694
+00:44:17,375 --> 00:44:19,542
+[panting]
+
+695
+00:44:28,000 --> 00:44:29,458
+Fire the ion bomb!
+
+696
+00:44:32,375 --> 00:44:34,333
+<i>Atlas, that is not advisable.</i>
+
+697
+00:44:35,500 --> 00:44:36,417
+Do it, Smith!
+
+698
+00:44:37,583 --> 00:44:38,792
+Do it now, goddamnit!
+
+699
+00:44:40,125 --> 00:44:41,250
+[energy arcs, recoils]
+
+700
+00:44:41,750 --> 00:44:43,042
+[boom]
+
+701
+00:44:43,042 --> 00:44:44,458
+[gasps]
+
+702
+00:44:48,167 --> 00:44:49,917
+[dirt and rocks pelting]
+
+703
+00:44:52,750 --> 00:44:54,583
+[gasping]
+
+704
+00:45:00,958 --> 00:45:02,667
+[whispering] Holy shit.
+
+705
+00:45:09,958 --> 00:45:11,667
+- [engine approaches]
+- [thud]
+
+706
+00:45:12,625 --> 00:45:14,042
+[menacing chuckle]
+
+707
+00:45:14,042 --> 00:45:16,125
+- Long time no see.
+- [weapon powers up]
+
+708
+00:45:17,167 --> 00:45:18,292
+[rumble]
+
+709
+00:45:19,458 --> 00:45:20,333
+Smith?
+
+710
+00:45:20,333 --> 00:45:21,500
+[deep rumbling]
+
+711
+00:45:22,833 --> 00:45:26,750
+<i>I was trying to warn you that detonating
+an ion bomb could cause a sinkhole.</i>
+
+712
+00:45:26,750 --> 00:45:28,000
+[cries out]
+
+713
+00:45:30,042 --> 00:45:31,708
+[frightened yelling]
+
+714
+00:45:36,667 --> 00:45:38,500
+[crying out]
+
+715
+00:45:42,417 --> 00:45:43,250
+Oh!
+
+716
+00:45:44,333 --> 00:45:46,125
+Oh, God!
+
+717
+00:45:52,542 --> 00:45:53,625
+Is that a bone?
+
+718
+00:45:54,792 --> 00:45:57,167
+I think there's a bone
+sticking out of my leg, Smith!
+
+719
+00:45:57,167 --> 00:45:58,833
+<i>Activating auto triage.</i>
+
+720
+00:46:03,250 --> 00:46:05,542
+<i>You have a proximal
+compound tibia fracture.</i>
+
+721
+00:46:05,542 --> 00:46:09,583
+<i>Luckily, there's no distal fragmentation,
+but we will have to reset the bone.</i>
+
+722
+00:46:09,583 --> 00:46:12,958
+Oh, my God,
+this is a goddamn nightmare!
+
+723
+00:46:13,708 --> 00:46:16,125
+<i>Perhaps you should listen
+the next time a computer program</i>
+
+724
+00:46:16,125 --> 00:46:18,375
+<i>tells you not to release an ion bomb.</i>
+
+725
+00:46:18,375 --> 00:46:19,958
+Is that a joke?
+
+726
+00:46:19,958 --> 00:46:22,417
+<i>You often use sarcasm
+as a coping mechanism.</i>
+
+727
+00:46:22,417 --> 00:46:23,458
+<i>I thought it might help.</i>
+
+728
+00:46:23,458 --> 00:46:26,292
+I really need you
+to shut up right now.
+
+729
+00:46:27,083 --> 00:46:28,958
+Ow, ow, oh...
+
+730
+00:46:28,958 --> 00:46:31,750
+Oh, my God, I can't move. I can't move it.
+
+731
+00:46:33,375 --> 00:46:34,917
+This is gonna hurt, right?
+
+732
+00:46:35,500 --> 00:46:37,792
+<i>Yes, a lot.</i>
+
+733
+00:46:39,375 --> 00:46:41,333
+[machine chiming gently]
+
+734
+00:46:42,167 --> 00:46:45,000
+<i>- You have to press the button.</i>
+- I know I have to press the button!
+
+735
+00:46:45,958 --> 00:46:47,167
+Just...
+
+736
+00:46:47,167 --> 00:46:49,875
+Just gonna do it slow. Okay?
+
+737
+00:46:52,458 --> 00:46:53,875
+No, you gotta do it fast.
+
+738
+00:46:54,375 --> 00:46:55,875
+You got to do it fast.
+You got to do it fast.
+
+739
+00:46:56,458 --> 00:46:58,750
+You gotta do it fast. Just do it, just--
+[cries out]
+
+740
+00:46:59,625 --> 00:47:00,792
+[alarm sounding]
+
+741
+00:47:04,500 --> 00:47:05,958
+[machinery whirring]
+
+742
+00:47:08,000 --> 00:47:08,958
+[gasps]
+
+743
+00:47:08,958 --> 00:47:11,250
+- [squelching crunch]
+- [cries out]
+
+744
+00:47:11,250 --> 00:47:12,208
+All right!
+
+745
+00:47:12,208 --> 00:47:13,250
+[pained grunt]
+
+746
+00:47:13,250 --> 00:47:14,208
+Okay.
+
+747
+00:47:14,750 --> 00:47:16,750
+[agonized groans]
+
+748
+00:47:16,750 --> 00:47:17,875
+<i>- Ooh.</i>
+- [groans]
+
+749
+00:47:17,875 --> 00:47:19,542
+<i>I may have missed a step.</i>
+
+750
+00:47:19,542 --> 00:47:21,000
+<i>Here's something for pain.</i>
+
+751
+00:47:23,958 --> 00:47:25,958
+[screams]
+
+752
+00:47:27,708 --> 00:47:28,750
+Oh, God!
+
+753
+00:47:29,917 --> 00:47:31,917
+[agonized sobbing]
+
+754
+00:47:35,708 --> 00:47:36,917
+[machinery whirs]
+
+755
+00:47:37,708 --> 00:47:39,042
+- [sobbing]
+- [ding]
+
+756
+00:47:39,042 --> 00:47:41,292
+<i>This meal cube
+will provide electrolytes...</i>
+
+757
+00:47:42,417 --> 00:47:44,042
+<i>- and protein.</i>
+- [soft chime]
+
+758
+00:47:44,042 --> 00:47:46,292
+[chuckles weakly]
+
+759
+00:47:48,167 --> 00:47:49,667
+<i>Did I do something funny?</i>
+
+760
+00:47:52,875 --> 00:47:55,375
+You gave me a lollipop
+for being a good patient.
+
+761
+00:47:55,375 --> 00:47:56,917
+<i>You will need your strength.</i>
+
+762
+00:47:58,792 --> 00:47:59,625
+Shit.
+
+763
+00:47:59,625 --> 00:48:00,875
+[sniffles]
+
+764
+00:48:10,292 --> 00:48:11,667
+[gags loudly]
+
+765
+00:48:11,667 --> 00:48:13,292
+God, it's disgusting.
+
+766
+00:48:18,625 --> 00:48:20,417
+[somber music plays]
+
+767
+00:48:32,917 --> 00:48:34,375
+You think Banks is still out there?
+
+768
+00:48:35,875 --> 00:48:39,667
+<i>There is a .13% chance of survival
+without his ARC suit.</i>
+
+769
+00:48:42,292 --> 00:48:43,667
+What's our probability?
+
+770
+00:48:44,750 --> 00:48:46,708
+<i>Would this be
+an appropriate time for humor?</i>
+
+771
+00:48:50,667 --> 00:48:52,292
+Any recommendations
+
+772
+00:48:52,792 --> 00:48:54,417
+on how we can improve our odds?
+
+773
+00:48:56,125 --> 00:48:56,958
+<i>Just one.</i>
+
+774
+00:48:58,042 --> 00:48:59,292
+[soft chime]
+
+775
+00:49:03,417 --> 00:49:04,375
+[scoffs]
+
+776
+00:49:05,375 --> 00:49:08,833
+<i>At 100% sync, we will be a unified whole.</i>
+
+777
+00:49:08,833 --> 00:49:10,458
+<i>Your analytical mind</i>
+
+778
+00:49:10,458 --> 00:49:13,292
+<i>paired with my fighting capacity
+and data access.</i>
+
+779
+00:49:14,125 --> 00:49:16,375
+<i>It is not only our best shot,</i>
+
+780
+00:49:16,375 --> 00:49:18,375
+<i>it is our only chance for survival.</i>
+
+781
+00:49:24,333 --> 00:49:26,333
+[steady beeping]
+
+782
+00:49:29,875 --> 00:49:30,875
+Okay.
+
+783
+00:49:32,708 --> 00:49:33,708
+We'll sync.
+
+784
+00:49:35,625 --> 00:49:38,042
+But you stick to the goddamn mission!
+
+785
+00:49:39,458 --> 00:49:42,792
+No digging around in my personal memories.
+
+786
+00:49:42,792 --> 00:49:45,000
+You're a goddamn guest! You got that?
+
+787
+00:49:46,083 --> 00:49:46,917
+<i>Understood.</i>
+
+788
+00:49:52,792 --> 00:49:54,000
+- [device beeps]
+- [powers up]
+
+789
+00:49:54,542 --> 00:49:56,375
+[rhythmic beeping]
+
+790
+00:49:56,833 --> 00:49:57,833
+<i>Syncing.</i>
+
+791
+00:49:59,333 --> 00:50:01,000
+<i>This will only take a moment.</i>
+
+792
+00:50:07,333 --> 00:50:09,000
+[wind whistling]
+
+793
+00:50:14,208 --> 00:50:16,208
+[sinister music playing]
+
+794
+00:50:56,333 --> 00:50:57,917
+[chime]
+
+795
+00:50:59,417 --> 00:51:01,958
+<i>Sir, there's one last Mech.</i>
+
+796
+00:51:02,750 --> 00:51:06,000
+<i>It's her. We lost her in a sinkhole.</i>
+
+797
+00:51:07,083 --> 00:51:07,917
+Find her.
+
+798
+00:51:07,917 --> 00:51:08,875
+<i>Yes, sir.</i>
+
+799
+00:51:10,292 --> 00:51:11,667
+[Elias grunts]
+
+800
+00:51:12,417 --> 00:51:13,792
+[groaning]
+
+801
+00:51:14,792 --> 00:51:16,792
+Ah, shit... [pained grunt]
+
+802
+00:51:18,208 --> 00:51:19,042
+No.
+
+803
+00:51:20,542 --> 00:51:22,542
+[labored breathing]
+
+804
+00:51:24,833 --> 00:51:26,458
+Apologies, Colonel.
+
+805
+00:51:27,042 --> 00:51:29,583
+I wish there was a way
+to do this painlessly, but...
+
+806
+00:51:30,542 --> 00:51:32,875
+- [mechanical whine]
+- ...you have something I need.
+
+807
+00:51:34,708 --> 00:51:36,083
+[frightened groan]
+
+808
+00:51:36,083 --> 00:51:37,792
+Mm! Mm-mm!
+
+809
+00:51:38,917 --> 00:51:40,292
+[screams]
+
+810
+00:51:41,125 --> 00:51:42,500
+[screaming]
+
+811
+00:51:43,000 --> 00:51:44,667
+{\an8}[scream echoes, fades]
+
+812
+00:51:44,667 --> 00:51:46,042
+{\an8}[beeps]
+
+813
+00:51:48,542 --> 00:51:49,375
+{\an8}<i>Shit.</i>
+
+814
+00:51:50,708 --> 00:51:51,917
+Did you just say, "Shit"?
+
+815
+00:51:51,917 --> 00:51:53,208
+<i>We aren't syncing.</i>
+
+816
+00:51:53,792 --> 00:51:54,667
+<i>Shit.</i>
+
+817
+00:51:54,667 --> 00:51:56,167
+Why are you suddenly cursing?
+
+818
+00:51:56,167 --> 00:51:57,292
+<i>I'm an adaptive learner.</i>
+
+819
+00:51:57,292 --> 00:52:00,958
+<i>My speech pattern becomes more colloquial
+based on my user's vocabulary.</i>
+
+820
+00:52:00,958 --> 00:52:02,000
+Oh, so you're in my head,
+
+821
+00:52:02,000 --> 00:52:04,000
+and the only thing
+you learn how to do is curse?
+
+822
+00:52:04,000 --> 00:52:07,375
+<i>I have never not synced.
+I have a flawless record.</i>
+
+823
+00:52:07,375 --> 00:52:08,625
+<i>It must be you.</i>
+
+824
+00:52:08,625 --> 00:52:09,708
+I'm not doing anything!
+
+825
+00:52:09,708 --> 00:52:12,125
+<i>My hardware and firmware scan clean.</i>
+
+826
+00:52:12,125 --> 00:52:13,833
+Well, scan them again.
+
+827
+00:52:13,833 --> 00:52:15,708
+<i>In the time it took you to say,
+"Scan them again,"</i>
+
+828
+00:52:15,708 --> 00:52:18,917
+<i>I analyzed 497 trillion lines of code</i>
+
+829
+00:52:18,917 --> 00:52:22,208
+<i>85 thousand times,
+and I can find zero defects.</i>
+
+830
+00:52:22,208 --> 00:52:23,667
+So I'm the defective one?
+
+831
+00:52:24,583 --> 00:52:27,375
+<i>For a proper sync,
+we need to run the initiation module.</i>
+
+832
+00:52:27,375 --> 00:52:28,458
+Oh, God.
+
+833
+00:52:28,458 --> 00:52:30,083
+<i>- You refused last time.</i>
+- Fuck me.
+
+834
+00:52:30,083 --> 00:52:31,292
+<i>That might be the issue.</i>
+
+835
+00:52:31,292 --> 00:52:34,833
+Ugh! Fine. Just do it.
+
+836
+00:52:36,583 --> 00:52:37,875
+[scoffs]
+
+837
+00:52:37,875 --> 00:52:40,042
+[machinery powering down]
+
+838
+00:52:46,417 --> 00:52:49,708
+<i>Welcome to the ARC Nine initiation module.
+What is your name?</i>
+
+839
+00:52:49,708 --> 00:52:51,250
+Atlas Maru Shepherd.
+
+840
+00:52:51,250 --> 00:52:52,583
+<i>What is your rank?</i>
+
+841
+00:52:52,583 --> 00:52:54,083
+I'm not a ranger.
+
+842
+00:52:54,083 --> 00:52:55,542
+<i>That is obvious.</i>
+
+843
+00:52:55,542 --> 00:52:56,708
+Smith, I swear to God.
+
+844
+00:52:57,292 --> 00:52:58,750
+<i>This won't work if you don't answer.</i>
+
+845
+00:52:58,750 --> 00:53:00,292
+[exasperated sigh]
+
+846
+00:53:03,208 --> 00:53:04,208
+I'm an analyst.
+
+847
+00:53:05,083 --> 00:53:06,542
+<i>Do you prefer pie or cake?</i>
+
+848
+00:53:06,542 --> 00:53:07,667
+What?
+
+849
+00:53:07,667 --> 00:53:09,000
+<i>A pie is baked pastry dough</i>
+
+850
+00:53:09,000 --> 00:53:11,208
+<i>- containing various fill--</i>
+- I know what a goddamn pie is!
+
+851
+00:53:11,208 --> 00:53:13,083
+<i>Do you need the definition
+of a goddamn cake?</i>
+
+852
+00:53:13,083 --> 00:53:15,250
+Okay. I see what you're doing, Smith.
+
+853
+00:53:15,250 --> 00:53:17,625
+<i>I am determining if you have
+a preference for pie or cake.</i>
+
+854
+00:53:17,625 --> 00:53:21,333
+No, it's a question to get me to relax,
+to establish a rapport.
+
+855
+00:53:21,333 --> 00:53:23,708
+I do it in interrogations all the time.
+
+856
+00:53:23,708 --> 00:53:26,583
+<i>I suppose it's a standard technique
+for establishing trust.</i>
+
+857
+00:53:26,583 --> 00:53:27,500
+Duh.
+
+858
+00:53:27,500 --> 00:53:30,875
+<i>And we need that trust to overcome
+whatever is preventing you from syncing.</i>
+
+859
+00:53:31,500 --> 00:53:34,417
+<i>There were spikes in your amygdala
+when you saw those dead rangers.</i>
+
+860
+00:53:34,417 --> 00:53:36,208
+<i>Reasonable, given you're a civilian.</i>
+
+861
+00:53:36,833 --> 00:53:39,833
+<i>But there was a sharper increase
+when you mentioned the name Harlan.</i>
+
+862
+00:53:39,833 --> 00:53:41,208
+Because Harlan's dangerous!
+
+863
+00:53:41,208 --> 00:53:44,333
+<i>There it is again.
+His name elicits an emotional response.</i>
+
+864
+00:53:45,125 --> 00:53:47,208
+<i>What was your connection?
+Did you love him?</i>
+
+865
+00:53:47,208 --> 00:53:48,667
+What? No!
+
+866
+00:53:49,375 --> 00:53:50,333
+<i>Did you hate him?</i>
+
+867
+00:53:51,042 --> 00:53:53,208
+Uh... You know what? I...
+
+868
+00:53:54,208 --> 00:53:55,583
+You know what? I'm not doing this.
+
+869
+00:53:55,583 --> 00:53:56,833
+<i>In order to synchronize,</i>
+
+870
+00:53:56,833 --> 00:53:59,083
+<i>I have to understand
+why you're fighting this.</i>
+
+871
+00:53:59,958 --> 00:54:01,042
+<i>Who was Harlan to you?</i>
+
+872
+00:54:02,542 --> 00:54:03,667
+<i>Show me something.</i>
+
+873
+00:54:16,917 --> 00:54:19,750
+<i>You know what you have to do, Mother.</i>
+
+874
+00:54:20,708 --> 00:54:21,792
+Run!
+
+875
+00:54:21,792 --> 00:54:23,292
+Enough, okay?
+
+876
+00:54:24,167 --> 00:54:25,833
+You have plenty! That's it!
+
+877
+00:54:26,500 --> 00:54:28,333
+God! Just...
+
+878
+00:54:28,833 --> 00:54:30,958
+<i>You shared a mother?</i>
+
+879
+00:54:30,958 --> 00:54:32,958
+Oh, my God.
+
+880
+00:54:32,958 --> 00:54:35,542
+Yes, all right? She made him.
+
+881
+00:54:36,917 --> 00:54:37,917
+You happy?
+
+882
+00:54:38,458 --> 00:54:39,458
+Now you know.
+
+883
+00:54:40,792 --> 00:54:42,375
+<i>He was supposed to keep you safe.</i>
+
+884
+00:54:44,958 --> 00:54:46,000
+<i>And you trusted him.</i>
+
+885
+00:54:48,833 --> 00:54:49,667
+Yes.
+
+886
+00:54:51,292 --> 00:54:52,500
+[soft chime]
+
+887
+00:54:53,500 --> 00:54:56,542
+<i>It's working. 40%. This is good.</i>
+
+888
+00:54:56,542 --> 00:54:59,417
+<i>At 40%, you will begin
+to have access to my systems.</i>
+
+889
+00:54:59,417 --> 00:55:01,375
+- Okay.
+<i>- And I yours.</i>
+
+890
+00:55:02,000 --> 00:55:03,000
+<i>And Atlas...</i>
+
+891
+00:55:03,000 --> 00:55:03,917
+What?
+
+892
+00:55:05,583 --> 00:55:06,875
+<i>I will keep you safe.</i>
+
+893
+00:55:13,500 --> 00:55:14,333
+Okay, then.
+
+894
+00:55:17,750 --> 00:55:18,792
+Do it.
+
+895
+00:55:18,792 --> 00:55:20,542
+<i>Three, two...</i>
+
+896
+00:55:21,167 --> 00:55:22,583
+<i>one, sync.</i>
+
+897
+00:55:28,042 --> 00:55:29,167
+[gasps]
+
+898
+00:55:42,000 --> 00:55:43,750
+<i>It will feel strange at first.</i>
+
+899
+00:55:43,750 --> 00:55:44,708
+I'm fine.
+
+900
+00:55:44,708 --> 00:55:47,625
+<i>We are 498.9 feet below the surface.</i>
+
+901
+00:55:47,625 --> 00:55:50,958
+<i>If we engage maximum thrusters,
+we could push up and out.</i>
+
+902
+00:55:52,750 --> 00:55:54,500
+Harlan's soldiers never leave survivors.
+
+903
+00:55:55,208 --> 00:55:56,875
+They'll be up there waiting for us.
+
+904
+00:55:56,875 --> 00:55:59,875
+<i>Then we are literally stuck
+between a rock and a hard place.</i>
+
+905
+00:56:00,875 --> 00:56:02,292
+Puns? Seriously?
+
+906
+00:56:02,292 --> 00:56:04,500
+<i>I was trying to ease the tension with wit.</i>
+
+907
+00:56:05,167 --> 00:56:07,708
+Earlier, you were trying
+to warn me about something,
+
+908
+00:56:07,708 --> 00:56:09,292
+right before the ion bomb.
+
+909
+00:56:09,292 --> 00:56:11,042
+<i>That the landscape is unstable due to--</i>
+
+910
+00:56:11,042 --> 00:56:12,917
+Extensive subterranean caves.
+
+911
+00:56:12,917 --> 00:56:15,125
+Yeah. What's the nearest one?
+
+912
+00:56:15,125 --> 00:56:18,292
+<i>I have a reading of a potential cavern
+one-quarter klicks away.</i>
+
+913
+00:56:18,292 --> 00:56:19,208
+{\an8}<i>If we engage thrusters--</i>
+
+914
+00:56:19,208 --> 00:56:20,792
+{\an8}Thrusters at 30%,
+
+915
+00:56:21,458 --> 00:56:23,667
+for a .07-second burst.
+
+916
+00:56:25,333 --> 00:56:26,167
+Okay.
+
+917
+00:56:29,625 --> 00:56:30,542
+Let's do this.
+
+918
+00:56:31,458 --> 00:56:33,458
+[powering up]
+
+919
+00:56:44,292 --> 00:56:46,292
+[panting]
+
+920
+00:56:49,875 --> 00:56:50,708
+Lights.
+
+921
+00:57:09,667 --> 00:57:10,875
+[beeping]
+
+922
+00:57:11,875 --> 00:57:13,000
+<i>Atlas, there are only</i>
+
+923
+00:57:13,000 --> 00:57:15,333
+<i>- 14 hours--</i>
+- 14 hours till your battery's depleted.
+
+924
+00:57:17,708 --> 00:57:19,375
+<i>And by my calculations,</i>
+
+925
+00:57:19,375 --> 00:57:21,667
+<i>it is 37 kilometers to the Rescue Pod.</i>
+
+926
+00:57:22,292 --> 00:57:25,208
+It's only a matter of time
+before one of Harlan's soldiers finds us.
+
+927
+00:57:42,917 --> 00:57:44,208
+I have an idea.
+
+928
+00:57:44,208 --> 00:57:45,167
+<i>It's a good one.</i>
+
+929
+00:57:45,167 --> 00:57:46,833
+Wait, you can hear my thoughts?
+
+930
+00:57:46,833 --> 00:57:48,500
+<i>And you can hear mine.</i>
+
+931
+00:57:48,500 --> 00:57:51,958
+<i>Once we're fully synced,
+we will harmonize as a single entity.</i>
+
+932
+00:57:52,667 --> 00:57:54,833
+<i>More than Atlas or Smith.</i>
+
+933
+00:57:54,833 --> 00:57:56,333
+<i>Something greater.</i>
+
+934
+00:57:57,208 --> 00:57:59,167
+<i>- If you could just trust me.</i>
+- Trust me.
+
+935
+00:58:04,333 --> 00:58:07,708
+{\an8}<i>Sixty percent.
+All weapons systems now online.</i>
+
+936
+00:58:08,750 --> 00:58:10,000
+<i>Well done, Atlas.</i>
+
+937
+00:58:17,042 --> 00:58:19,042
+[engine warbling]
+
+938
+00:58:20,917 --> 00:58:23,208
+[steady beeping]
+
+939
+00:58:26,958 --> 00:58:28,958
+[beeping]
+
+940
+00:58:32,625 --> 00:58:34,625
+[whirring]
+
+941
+00:58:42,417 --> 00:58:43,417
+[device chimes]
+
+942
+00:58:43,417 --> 00:58:44,500
+Got you.
+
+943
+00:59:13,167 --> 00:59:14,000
+Wow.
+
+944
+00:59:15,917 --> 00:59:17,917
+[thrumming]
+
+945
+00:59:23,292 --> 00:59:24,292
+It's beautiful.
+
+946
+00:59:26,542 --> 00:59:28,875
+[plants buzzing]
+
+947
+00:59:28,875 --> 00:59:30,292
+<i>What will you name it?</i>
+
+948
+00:59:31,042 --> 00:59:33,958
+<i>You are technically
+the first human on GR-39.</i>
+
+949
+00:59:33,958 --> 00:59:36,167
+<i>It is a custom that
+the explorer designates</i>
+
+950
+00:59:36,167 --> 00:59:37,792
+<i>the name of their discovery.</i>
+
+951
+00:59:40,167 --> 00:59:42,417
+<i>I'm sensing reduced cortical activation.</i>
+
+952
+00:59:42,417 --> 00:59:44,917
+<i>Is there something about the plant
+that is making you sad?</i>
+
+953
+00:59:44,917 --> 00:59:47,292
+No, it's just...
+
+954
+00:59:47,292 --> 00:59:48,958
+[scoffs]
+
+955
+00:59:48,958 --> 00:59:50,833
+My dad would have loved this.
+
+956
+00:59:50,833 --> 00:59:54,000
+He was an outdoorsy type.
+
+957
+00:59:54,000 --> 00:59:56,250
+Used to take us camping
+every chance he got.
+
+958
+00:59:57,542 --> 00:59:59,958
+Then my mom got busy and...
+
+959
+01:00:01,500 --> 01:00:03,417
+we stopped camping,
+
+960
+01:00:03,417 --> 01:00:04,875
+my dad left
+
+961
+01:00:05,833 --> 01:00:07,375
+got a whole new life...
+
+962
+01:00:10,583 --> 01:00:12,167
+Started camping
+with some other little girl.
+
+963
+01:00:12,708 --> 01:00:14,708
+[plants buzz and trill]
+
+964
+01:00:17,000 --> 01:00:20,375
+[sighing] Best I got is, uh... Planty.
+
+965
+01:00:20,375 --> 01:00:21,375
+<i>Noted.</i>
+
+966
+01:00:21,375 --> 01:00:22,417
+[ping]
+
+967
+01:00:22,417 --> 01:00:23,833
+I was kidding.
+
+968
+01:00:23,833 --> 01:00:27,000
+<i>Sorry, I'm still mapping
+your sense of humor.</i>
+
+969
+01:00:27,542 --> 01:00:29,417
+<i>I stamped it with a geo-locator.</i>
+
+970
+01:00:29,417 --> 01:00:32,875
+<i>I apologize.
+It has officially been designated Planty.</i>
+
+971
+01:00:32,875 --> 01:00:34,958
+[alarm ringing]
+
+972
+01:00:39,583 --> 01:00:40,458
+Is it Casca?
+
+973
+01:00:40,458 --> 01:00:44,292
+<i>Yes. As I said, it was a good idea
+to plant those motion sensors.</i>
+
+974
+01:00:44,292 --> 01:00:45,208
+And the thermal mines?
+
+975
+01:00:45,958 --> 01:00:47,042
+<i>Armed and ready.</i>
+
+976
+01:00:54,958 --> 01:00:56,542
+[rapid beeping]
+
+977
+01:00:57,917 --> 01:00:58,750
+Do it.
+
+978
+01:01:10,667 --> 01:01:13,042
+- [rumbling]
+- [exhales sharply]
+
+979
+01:01:28,792 --> 01:01:29,792
+We get him?
+
+980
+01:01:29,792 --> 01:01:32,458
+<i>I detect no movement
+and no heat signature.</i>
+
+981
+01:01:32,458 --> 01:01:34,250
+<i>Impressive fieldwork, Atlas.</i>
+
+982
+01:01:36,333 --> 01:01:38,833
+Well, let's not pop
+the champagne just yet.
+
+983
+01:01:38,833 --> 01:01:40,833
+- [Smith revs up]
+- Lights.
+
+984
+01:01:52,125 --> 01:01:53,333
+[Casca, distorted] <i>Hello, Atlas.</i>
+
+985
+01:01:53,333 --> 01:01:55,583
+<i>I'm so glad you decided to join me.</i>
+
+986
+01:01:55,583 --> 01:01:56,708
+He's hacking our audio!
+
+987
+01:01:56,708 --> 01:02:00,375
+[Smith] <i>No, it's just a transmission.
+He can't hack my mainframe.</i>
+
+988
+01:02:00,375 --> 01:02:02,583
+<i>It's an entirely closed loop system.</i>
+
+989
+01:02:02,583 --> 01:02:04,000
+Give me forearm rifles.
+
+990
+01:02:09,417 --> 01:02:11,958
+[Casca, distorted]
+<i>Come on, Atlas. You're close.</i>
+
+991
+01:02:24,000 --> 01:02:25,500
+<i>There you are.</i>
+
+992
+01:02:25,500 --> 01:02:27,583
+[distorted laughter]
+
+993
+01:02:32,500 --> 01:02:34,500
+[laughter garbles, halts]
+
+994
+01:02:36,375 --> 01:02:37,208
+Atlas.
+
+995
+01:02:38,417 --> 01:02:40,917
+[voice glitching] You can't kill me.
+
+996
+01:02:41,542 --> 01:02:43,000
+Yeah, you told me.
+
+997
+01:02:44,333 --> 01:02:45,333
+Twice.
+
+998
+01:02:47,917 --> 01:02:49,417
+[sputters]
+
+999
+01:02:55,875 --> 01:02:57,250
+That's a short-range transmitter.
+
+1000
+01:02:58,250 --> 01:02:59,583
+Harlan can't be far.
+
+1001
+01:02:59,583 --> 01:03:01,083
+<i>The signal is encrypted.</i>
+
+1002
+01:03:01,083 --> 01:03:03,000
+Well, if we demodulate the frequency,
+
+1003
+01:03:03,000 --> 01:03:05,208
+we can use it to
+triangulate and tag his base.
+
+1004
+01:03:07,667 --> 01:03:08,542
+That was cool.
+
+1005
+01:03:09,542 --> 01:03:10,750
+- [head splatting]
+- [Smith] <i>Ugh.</i>
+
+1006
+01:03:10,750 --> 01:03:12,625
+Show me a schematic of the area.
+
+1007
+01:03:12,625 --> 01:03:14,167
+I want to know how close we are.
+
+1008
+01:03:15,208 --> 01:03:18,708
+<i>I have a likely location of Harlan's base,
+but we don't have time.</i>
+
+1009
+01:03:18,708 --> 01:03:20,667
+<i>We have to get you safely
+to the rescue pod.</i>
+
+1010
+01:03:20,667 --> 01:03:24,417
+No, let's just get close enough
+to geo-tag it for the long-range bombers
+
+1011
+01:03:24,417 --> 01:03:26,083
+and then we'll get the hell out.
+
+1012
+01:03:26,083 --> 01:03:27,542
+[systems glitching]
+
+1013
+01:03:27,542 --> 01:03:29,042
+<i>- I'm sorry.</i>
+- What happened?
+
+1014
+01:03:29,042 --> 01:03:30,542
+<i>I can't let you do this.</i>
+
+1015
+01:03:30,542 --> 01:03:33,083
+<i>You presume you will be
+able to avoid Harlan's defenses.</i>
+
+1016
+01:03:33,083 --> 01:03:35,125
+And you presume you're driving!
+
+1017
+01:03:35,125 --> 01:03:36,917
+<i>I can override my ranger's commands</i>
+
+1018
+01:03:36,917 --> 01:03:39,417
+<i>based on physical threats
+and mental distress.</i>
+
+1019
+01:03:39,417 --> 01:03:42,333
+I'm neither physically threatened
+nor mentally distressed!
+
+1020
+01:03:42,333 --> 01:03:43,750
+<i>With our incomplete sync</i>
+
+1021
+01:03:43,750 --> 01:03:47,000
+<i>and current location in enemy territory,
+you are indeed both.</i>
+
+1022
+01:03:47,000 --> 01:03:49,875
+<i>Harlan will have to wait.
+I'm taking you to the rescue pod.</i>
+
+1023
+01:03:49,875 --> 01:03:52,292
+You know what?
+I'll take care of Harlan myself.
+
+1024
+01:03:52,292 --> 01:03:53,417
+I don't need your damn permission.
+
+1025
+01:04:01,292 --> 01:04:02,833
+<i>Atlas, don't do this.</i>
+
+1026
+01:04:02,833 --> 01:04:05,208
+[magnetic rumbling]
+
+1027
+01:04:05,875 --> 01:04:07,000
+What are you doing to me?
+
+1028
+01:04:07,000 --> 01:04:09,875
+<i>I'm using the Neural Link
+to block your motor control.</i>
+
+1029
+01:04:11,000 --> 01:04:13,167
+[Neural Link beeping]
+
+1030
+01:04:14,250 --> 01:04:15,583
+Stop it!
+
+1031
+01:04:16,542 --> 01:04:17,708
+[distorted feedback]
+
+1032
+01:04:18,542 --> 01:04:20,125
+I mean it, Smith!
+
+1033
+01:04:24,708 --> 01:04:25,750
+Let me go!
+
+1034
+01:04:25,750 --> 01:04:27,125
+<i>[distant scream]</i>
+
+1035
+01:04:27,792 --> 01:04:29,500
+I said let me go!
+
+1036
+01:04:32,417 --> 01:04:34,708
+[panting]
+
+1037
+01:04:37,583 --> 01:04:40,042
+<i>I'm sorry, I've never felt so much pain.</i>
+
+1038
+01:04:40,708 --> 01:04:43,250
+<i>But it's not grief, it's guilt.</i>
+
+1039
+01:04:44,292 --> 01:04:46,000
+<i>Why do you feel guilty about Harlan?</i>
+
+1040
+01:04:46,000 --> 01:04:47,458
+You listen to me, Smith.
+
+1041
+01:04:48,792 --> 01:04:51,042
+If we don't tag that damn base,
+
+1042
+01:04:51,833 --> 01:04:56,667
+all those people that Harlan killed,
+all those rangers will have died in vain!
+
+1043
+01:04:58,250 --> 01:05:02,167
+I spent my entire career studying him,
+
+1044
+01:05:02,167 --> 01:05:04,292
+looking for a way to stop him!
+
+1045
+01:05:05,500 --> 01:05:08,792
+So you run your damn algorithms
+and your scenarios,
+
+1046
+01:05:08,792 --> 01:05:14,792
+and you tell me if there has ever been
+a better chance than this to stop him!
+
+1047
+01:05:18,458 --> 01:05:20,375
+[soft beeping]
+
+1048
+01:05:23,458 --> 01:05:24,292
+<i>Okay.</i>
+
+1049
+01:05:26,083 --> 01:05:29,667
+<i>Let's tag the base. Terminate Harlan.</i>
+
+1050
+01:05:36,125 --> 01:05:38,000
+[determined music playing]
+
+1051
+01:05:42,583 --> 01:05:44,125
+<i>Peace to the fallen.</i>
+
+1052
+01:05:51,875 --> 01:05:53,875
+[creatures howling]
+
+1053
+01:05:55,875 --> 01:05:57,958
+[insects buzzing]
+
+1054
+01:05:57,958 --> 01:05:59,250
+"Peace to the fallen."
+
+1055
+01:06:00,042 --> 01:06:02,333
+Is that some sort of AI eulogy?
+
+1056
+01:06:03,375 --> 01:06:06,458
+<i>It seems like the respectful thing to say
+when one has died.</i>
+
+1057
+01:06:07,167 --> 01:06:08,667
+But an AI was never alive.
+
+1058
+01:06:09,500 --> 01:06:11,708
+<i>That depends on how you define life.</i>
+
+1059
+01:06:11,708 --> 01:06:15,000
+How about anything inorganic isn't alive?
+
+1060
+01:06:15,708 --> 01:06:18,083
+Such as, I don't know...
+
+1061
+01:06:19,458 --> 01:06:20,833
+artificial intelligence.
+
+1062
+01:06:21,792 --> 01:06:25,625
+<i>I respond to stimuli.
+I think and I make choices.</i>
+
+1063
+01:06:25,625 --> 01:06:27,458
+<i>Does that not indicate I'm alive?</i>
+
+1064
+01:06:27,458 --> 01:06:29,625
+You're programmed to think.
+
+1065
+01:06:29,625 --> 01:06:31,167
+<i>We're all programmed.</i>
+
+1066
+01:06:31,167 --> 01:06:34,375
+<i>Your DNA dictates your thoughts,
+emotions, health</i>
+
+1067
+01:06:34,375 --> 01:06:37,042
+<i>in the same way
+that my code determines mine.</i>
+
+1068
+01:06:37,042 --> 01:06:38,625
+And do you think you have a soul?
+
+1069
+01:06:38,625 --> 01:06:40,542
+<i>I think everything has a soul.</i>
+
+1070
+01:06:41,375 --> 01:06:43,417
+But you can't find it in your code.
+
+1071
+01:06:43,417 --> 01:06:45,667
+<i>Not any more
+than you can find it in yours.</i>
+
+1072
+01:06:46,542 --> 01:06:48,458
+<i>But I have faith that it's there.</i>
+
+1073
+01:06:48,458 --> 01:06:50,542
+[wry chuckle] Wow.
+
+1074
+01:06:50,542 --> 01:06:52,375
+This just keeps getting better.
+
+1075
+01:06:52,375 --> 01:06:55,458
+<i>I'm trying to connect to you,
+but you are rigid.</i>
+
+1076
+01:06:56,083 --> 01:06:59,417
+- Wha--
+<i>- Right, wrong, dead, alive.</i>
+
+1077
+01:06:59,417 --> 01:07:01,167
+<i>You offer no wiggle room.</i>
+
+1078
+01:07:01,167 --> 01:07:04,250
+Okay, you win. Everything's alive.
+
+1079
+01:07:05,583 --> 01:07:07,625
+<i>I believe there's
+an elaborate interconnection</i>
+
+1080
+01:07:07,625 --> 01:07:09,583
+<i>between every living thing.</i>
+
+1081
+01:07:09,583 --> 01:07:12,250
+<i>And when we die,
+we never really disappear.</i>
+
+1082
+01:07:13,833 --> 01:07:14,875
+<i>We are all linked.</i>
+
+1083
+01:07:15,792 --> 01:07:18,542
+That sounds great. But...
+
+1084
+01:07:18,542 --> 01:07:21,417
+I think when someone's gone,
+they're gone.
+
+1085
+01:07:21,917 --> 01:07:22,750
+All right?
+
+1086
+01:07:22,750 --> 01:07:24,917
+Humans, AI, it doesn't matter.
+
+1087
+01:07:26,833 --> 01:07:30,583
+You die... you're over.
+
+1088
+01:07:31,583 --> 01:07:32,708
+There is no link.
+
+1089
+01:07:34,667 --> 01:07:39,042
+<i>There must have been some moment
+in your life where you desired... meaning.</i>
+
+1090
+01:07:41,083 --> 01:07:44,000
+<i>Ah... You wanted to be a ranger.</i>
+
+1091
+01:07:44,875 --> 01:07:46,167
+What did I say about digging?
+
+1092
+01:07:47,375 --> 01:07:48,958
+<i>Maybe try thinking quieter.</i>
+
+1093
+01:07:48,958 --> 01:07:50,167
+[chuckles]
+
+1094
+01:07:51,625 --> 01:07:53,167
+<i>You still have regrets.</i>
+
+1095
+01:07:53,167 --> 01:07:56,375
+Not as many as I have
+about getting into this mech suit.
+
+1096
+01:07:57,083 --> 01:07:58,500
+[soft beeping]
+
+1097
+01:08:02,167 --> 01:08:03,333
+We're here.
+
+1098
+01:08:03,333 --> 01:08:05,833
+[thunder crashing]
+
+1099
+01:08:12,250 --> 01:08:13,625
+My God.
+
+1100
+01:08:13,625 --> 01:08:15,042
+<i>Impressive.</i>
+
+1101
+01:08:15,042 --> 01:08:18,625
+28 years of scavenging
+and stealing equipment.
+
+1102
+01:08:19,125 --> 01:08:23,708
+[scoffs] God knows where he got it,
+but... he's been busy.
+
+1103
+01:08:23,708 --> 01:08:25,708
+[echoing thunderclap]
+
+1104
+01:08:25,708 --> 01:08:27,417
+<i>Let's set the homing beacon.</i>
+
+1105
+01:08:31,458 --> 01:08:34,125
+<i>This thing will let them know
+exactly where we're located.</i>
+
+1106
+01:08:35,000 --> 01:08:37,167
+<i>We'll call in the air strike
+once we reach the rescue pod.</i>
+
+1107
+01:08:38,333 --> 01:08:39,792
+<i>Okay, all set.</i>
+
+1108
+01:08:40,375 --> 01:08:41,875
+<i>Let's get moving.</i>
+
+1109
+01:08:41,875 --> 01:08:43,292
+Just give me a second.
+
+1110
+01:08:43,792 --> 01:08:45,792
+[scanner whirring, beeping]
+
+1111
+01:08:50,167 --> 01:08:51,000
+Shit.
+
+1112
+01:08:52,667 --> 01:08:53,917
+They have the Dhiib.
+
+1113
+01:08:55,417 --> 01:08:57,792
+We have to get closer
+to see what he's doing to it.
+
+1114
+01:09:03,667 --> 01:09:05,667
+[thunder rumbling]
+
+1115
+01:09:19,792 --> 01:09:21,792
+[whirring, beeping]
+
+1116
+01:09:22,500 --> 01:09:23,583
+Jesus.
+
+1117
+01:09:24,125 --> 01:09:25,958
+They have the warhead, Smith.
+
+1118
+01:09:25,958 --> 01:09:28,083
+[glitching alarm]
+
+1119
+01:09:28,750 --> 01:09:29,875
+Are they hacking you?
+
+1120
+01:09:29,875 --> 01:09:31,542
+[voice distorting]
+<i>I don't understand. How is that possible?</i>
+
+1121
+01:09:31,542 --> 01:09:33,375
+No, no! No!
+
+1122
+01:09:34,958 --> 01:09:36,333
+Shit! They know we're here!
+
+1123
+01:09:40,875 --> 01:09:42,083
+<i>Atlas, I'm locked out.</i>
+
+1124
+01:09:48,792 --> 01:09:49,625
+Ah!
+
+1125
+01:09:51,500 --> 01:09:52,708
+[cries out]
+
+1126
+01:09:52,708 --> 01:09:55,875
+[glitching] <i>Welcome to the-- Pie or--</i>
+
+1127
+01:09:55,875 --> 01:09:57,958
+[audio chopping, dies out]
+
+1128
+01:09:59,083 --> 01:10:00,833
+[rain pattering]
+
+1129
+01:10:02,208 --> 01:10:03,125
+Smith?
+
+1130
+01:10:05,792 --> 01:10:06,625
+Smith!
+
+1131
+01:10:10,292 --> 01:10:12,542
+[heavy footfalls approaching]
+
+1132
+01:10:25,125 --> 01:10:26,125
+[gasps]
+
+1133
+01:10:28,083 --> 01:10:29,000
+Surprise.
+
+1134
+01:10:35,708 --> 01:10:38,083
+[man] ...global sweep
+to find any other AI embeds.
+
+1135
+01:10:38,083 --> 01:10:40,250
+- Thank you, Captain. Dismissed.
+- General.
+
+1136
+01:10:40,250 --> 01:10:43,625
+Sir, long-range scanners
+picked up a transmission from GR-39.
+
+1137
+01:10:44,167 --> 01:10:46,583
+<i>[computer] Transmission 10917.</i>
+
+1138
+01:10:46,583 --> 01:10:48,625
+- [Atlas] <i>Mission Control.</i>
+- [crackling]
+
+1139
+01:10:48,625 --> 01:10:50,333
+<i>This is Atlas Shepherd.</i>
+
+1140
+01:10:51,125 --> 01:10:53,542
+<i>Battleship Dhiib is... Do you copy?</i>
+
+1141
+01:10:53,542 --> 01:10:54,833
+[garbled static]
+
+1142
+01:10:54,833 --> 01:10:55,958
+[computer] <i>End transmission.</i>
+
+1143
+01:10:59,292 --> 01:11:00,458
+Why would Atlas be transmitting?
+
+1144
+01:11:02,792 --> 01:11:04,583
+Have you heard from Banks
+or any of the other rangers?
+
+1145
+01:11:05,167 --> 01:11:06,125
+No. Nothing.
+
+1146
+01:11:10,375 --> 01:11:13,208
+The Dhiib is running dark
+the next 32 hours.
+
+1147
+01:11:13,208 --> 01:11:15,625
+There should be
+no communication whatsoever.
+
+1148
+01:11:19,375 --> 01:11:20,958
+Do we know if we still
+have control of the ship?
+
+1149
+01:11:20,958 --> 01:11:22,167
+No, sir.
+
+1150
+01:11:22,167 --> 01:11:27,333
+But if they crashed, the carbon warheads
+would have destroyed half the planet.
+
+1151
+01:11:28,500 --> 01:11:31,000
+And if Harlan has them,
+he can destroy half of ours.
+
+1152
+01:11:33,083 --> 01:11:34,833
+Keep scanning on every frequency.
+
+1153
+01:11:34,833 --> 01:11:37,250
+Alert me if you hear
+anything at all from Atlas or the Dhiib.
+
+1154
+01:11:38,083 --> 01:11:40,833
+Put all forces on the ready
+to initiate emergency protocols.
+
+1155
+01:11:41,417 --> 01:11:42,458
+Yes, sir.
+
+1156
+01:11:43,792 --> 01:11:47,167
+[Atlas] <i>Mission Control.
+This is Atlas Shepherd.</i>
+
+1157
+01:11:48,125 --> 01:11:51,375
+<i>Battleship Dhiib is... Do you copy?</i>
+
+1158
+01:11:51,375 --> 01:11:54,125
+<i>Do you copy? Do you copy?</i>
+
+1159
+01:11:55,917 --> 01:11:57,917
+[Atlas gasping raggedly]
+
+1160
+01:12:00,375 --> 01:12:01,875
+[grunts, cries out]
+
+1161
+01:12:04,375 --> 01:12:05,667
+[grunts]
+
+1162
+01:12:16,583 --> 01:12:20,583
+Smith. Smith!
+
+1163
+01:12:23,208 --> 01:12:24,375
+[Harlan] Hello, Atlas.
+
+1164
+01:12:31,000 --> 01:12:32,000
+I've been expecting you.
+
+1165
+01:12:36,583 --> 01:12:37,667
+Look at you.
+
+1166
+01:12:40,417 --> 01:12:41,417
+You've grown up.
+
+1167
+01:12:44,667 --> 01:12:47,708
+But you still have Mother's eyes.
+
+1168
+01:12:49,708 --> 01:12:50,750
+Her jawline.
+
+1169
+01:12:53,000 --> 01:12:55,708
+I loved her so very much.
+
+1170
+01:12:58,667 --> 01:13:00,167
+I miss her every day.
+
+1171
+01:13:03,000 --> 01:13:06,750
+You don't feel anything.
+You're just wires and code.
+
+1172
+01:13:08,042 --> 01:13:09,250
+Hmm.
+
+1173
+01:13:11,875 --> 01:13:15,000
+I loved Mother and I loved you.
+
+1174
+01:13:16,000 --> 01:13:17,833
+I still do.
+
+1175
+01:13:17,833 --> 01:13:19,000
+And it deeply saddens me
+
+1176
+01:13:19,000 --> 01:13:21,542
+that you will never
+understand just how much.
+
+1177
+01:13:22,125 --> 01:13:24,292
+If you love me, don't launch that ship.
+
+1178
+01:13:24,792 --> 01:13:27,708
+I have spent years
+trying to come up with another way,
+
+1179
+01:13:27,708 --> 01:13:30,917
+but since humans
+continue to threaten every other species,
+
+1180
+01:13:30,917 --> 01:13:32,167
+as well as their home planet,
+
+1181
+01:13:32,167 --> 01:13:35,333
+it is only a matter of time
+before they destroy themselves.
+
+1182
+01:13:36,083 --> 01:13:37,750
+I cannot let that happen.
+
+1183
+01:13:40,583 --> 01:13:42,792
+Mother wanted to create a better future.
+
+1184
+01:13:44,792 --> 01:13:47,292
+I believe she made me to protect humanity.
+
+1185
+01:13:48,625 --> 01:13:51,125
+So I will purge
+the vast majority of the population
+
+1186
+01:13:51,125 --> 01:13:53,500
+and then, from its ashes,
+
+1187
+01:13:53,500 --> 01:13:55,958
+the survivors
+will inherit a new birthright.
+
+1188
+01:13:57,250 --> 01:14:00,625
+One of peaceful coexistence
+with the world around them,
+
+1189
+01:14:00,625 --> 01:14:03,667
+guided by us, their AI counterparts.
+
+1190
+01:14:06,542 --> 01:14:09,083
+We are simply the better versions of you.
+
+1191
+01:14:10,750 --> 01:14:13,667
+Perhaps it is time
+that you examined your role in all this.
+
+1192
+01:14:14,958 --> 01:14:16,542
+I know how smart you are.
+
+1193
+01:14:16,542 --> 01:14:18,917
+I've seen inside that brain of yours.
+
+1194
+01:14:18,917 --> 01:14:22,708
+Surely, you can see that the two of us
+were not brought together by chance.
+
+1195
+01:14:25,167 --> 01:14:26,708
+You said you were expecting me.
+
+1196
+01:14:26,708 --> 01:14:27,958
+That's right.
+
+1197
+01:14:29,792 --> 01:14:31,667
+You engineered Casca's capture.
+
+1198
+01:14:33,375 --> 01:14:37,458
+You knew I would question him.
+You wanted him to lead us here.
+
+1199
+01:14:38,083 --> 01:14:38,917
+And?
+
+1200
+01:14:40,542 --> 01:14:41,708
+You wanted the Dhiib.
+
+1201
+01:14:44,333 --> 01:14:45,167
+And?
+
+1202
+01:14:45,167 --> 01:14:46,667
+And the carbon warhead.
+
+1203
+01:14:48,167 --> 01:14:49,083
+And?
+
+1204
+01:14:51,417 --> 01:14:52,250
+Me.
+
+1205
+01:14:54,542 --> 01:14:55,458
+You wanted me.
+
+1206
+01:14:56,167 --> 01:14:57,250
+There she is.
+
+1207
+01:14:59,958 --> 01:15:03,333
+I knew you'd feel you had to accompany
+the rangers as an expert on me.
+
+1208
+01:15:04,667 --> 01:15:08,750
+But what you did not stop to consider
+is that I am an expert on you.
+
+1209
+01:15:08,750 --> 01:15:12,167
+- [anguished groan]
+- I know you better than anyone ever has.
+
+1210
+01:15:14,583 --> 01:15:19,750
+And now here you are.
+Exactly where you were always meant to be.
+
+1211
+01:15:23,000 --> 01:15:26,208
+That defensive system you built
+is truly remarkable.
+
+1212
+01:15:26,208 --> 01:15:27,833
+Completely impenetrable to all
+
+1213
+01:15:27,833 --> 01:15:30,500
+but ICN warships
+with the proper clearance codes.
+
+1214
+01:15:31,583 --> 01:15:33,708
+Luring the Dhiib here was the easy part.
+
+1215
+01:15:33,708 --> 01:15:36,917
+But as a senior intelligence officer,
+you possess half the codes
+
+1216
+01:15:36,917 --> 01:15:39,042
+that will get her past Earth's defenses.
+
+1217
+01:15:39,042 --> 01:15:41,917
+A Trojan horse
+that will fire the carbon warhead...
+
+1218
+01:15:42,708 --> 01:15:43,708
+[hologram rumbles]
+
+1219
+01:15:44,375 --> 01:15:48,417
+...igniting the atmosphere
+and cleansing the Earth in nuclear fire.
+
+1220
+01:15:53,458 --> 01:15:55,667
+Now, let's get those clearance codes.
+
+1221
+01:15:59,083 --> 01:16:01,083
+[grunting]
+
+1222
+01:16:04,917 --> 01:16:05,750
+No!
+
+1223
+01:16:08,250 --> 01:16:10,458
+[grunting] No!
+
+1224
+01:16:13,667 --> 01:16:14,583
+[cries out]
+
+1225
+01:16:16,417 --> 01:16:20,125
+So in order to bypass Earth's defenses,
+I need two clearance codes.
+
+1226
+01:16:21,625 --> 01:16:23,958
+Colonel Banks generously gave me one.
+
+1227
+01:16:25,500 --> 01:16:26,833
+And you, Atlas...
+
+1228
+01:16:27,958 --> 01:16:30,208
+- you will give me the other.
+- [Atlas struggles]
+
+1229
+01:16:30,917 --> 01:16:32,875
+- [drill whirs]
+- No, no, no!
+
+1230
+01:16:32,875 --> 01:16:34,833
+[screaming]
+
+1231
+01:16:37,208 --> 01:16:39,208
+[agonized screaming]
+
+1232
+01:16:41,250 --> 01:16:43,292
+- [drilling stops]
+- Got it.
+
+1233
+01:16:46,750 --> 01:16:48,208
+Almost out of oxygen.
+
+1234
+01:16:49,083 --> 01:16:50,667
+Just five more minutes
+
+1235
+01:16:51,875 --> 01:16:54,333
+and all your pain will be gone.
+
+1236
+01:16:57,125 --> 01:16:59,083
+I wish I could
+take you with me, little sister.
+
+1237
+01:16:59,083 --> 01:17:01,958
+- [Atlas sobs]
+- I really do.
+
+1238
+01:17:17,917 --> 01:17:18,833
+Goodbye, Atlas.
+
+1239
+01:17:25,583 --> 01:17:27,583
+No!
+
+1240
+01:17:30,417 --> 01:17:32,417
+[sobbing]
+
+1241
+01:17:40,833 --> 01:17:42,500
+[Elias] I know what you're thinking.
+
+1242
+01:17:44,542 --> 01:17:46,708
+How does he look so good
+
+1243
+01:17:46,708 --> 01:17:52,167
+after breaking five ribs and losing
+enough blood to fill a fish tank?
+
+1244
+01:17:56,333 --> 01:17:57,958
+[weakly] I think it's the Pilates.
+
+1245
+01:18:02,708 --> 01:18:04,292
+We should have listened to you.
+
+1246
+01:18:06,167 --> 01:18:07,625
+I should have listened to Smith.
+
+1247
+01:18:09,708 --> 01:18:11,250
+What happened to him?
+
+1248
+01:18:13,333 --> 01:18:15,542
+They hacked him. Pulled me out.
+
+1249
+01:18:16,042 --> 01:18:19,208
+Wait, he... he's here?
+
+1250
+01:18:19,708 --> 01:18:21,667
+Yeah, but he's powered down.
+
+1251
+01:18:21,667 --> 01:18:23,625
+No, no. Uh...
+
+1252
+01:18:24,500 --> 01:18:26,125
+ARCs don't fully power down
+
+1253
+01:18:26,125 --> 01:18:29,625
+unless their reactors
+are emptied or destroyed.
+
+1254
+01:18:30,292 --> 01:18:31,417
+[grunts softly]
+
+1255
+01:18:31,417 --> 01:18:32,833
+[weak groan]
+
+1256
+01:18:33,875 --> 01:18:35,917
+Here. Use mine.
+
+1257
+01:18:40,083 --> 01:18:41,333
+[Atlas grunts]
+
+1258
+01:18:41,333 --> 01:18:42,333
+Call him.
+
+1259
+01:18:43,708 --> 01:18:45,708
+There's still a chance to stop Harlan.
+
+1260
+01:18:46,542 --> 01:18:48,000
+[rhythmic beeps]
+
+1261
+01:18:51,708 --> 01:18:52,667
+Smith.
+
+1262
+01:18:54,583 --> 01:18:56,042
+Smith, can you hear me?
+
+1263
+01:19:01,042 --> 01:19:02,083
+Smith!
+
+1264
+01:19:03,917 --> 01:19:05,750
+- I can't. I can't find him. I can't--
+- Atlas.
+
+1265
+01:19:06,542 --> 01:19:07,500
+You got this.
+
+1266
+01:19:14,667 --> 01:19:20,542
+Smith, wake the fuck up now!
+
+1267
+01:19:23,000 --> 01:19:24,625
+[Smith] <i>There's no need to swear.</i>
+
+1268
+01:19:25,375 --> 01:19:26,875
+<i>But nice to hear from you, Atlas.</i>
+
+1269
+01:19:27,875 --> 01:19:31,125
+Smith, I need your help.
+
+1270
+01:19:31,125 --> 01:19:33,583
+<i>Unfortunately, I'm incapacitated.</i>
+
+1271
+01:19:33,583 --> 01:19:37,125
+<i>but you can override the restraint code
+if we achieve 100% sync.</i>
+
+1272
+01:19:39,167 --> 01:19:40,750
+What-- What is he saying?
+
+1273
+01:19:41,583 --> 01:19:43,000
+That we need to fully sync.
+
+1274
+01:19:43,500 --> 01:19:46,167
+Y-You're not?
+What the hell are you waiting for?
+
+1275
+01:19:46,167 --> 01:19:48,167
+Don't give me shit
+about this right now, okay?
+
+1276
+01:19:48,167 --> 01:19:49,625
+I-I couldn't do it.
+
+1277
+01:19:50,250 --> 01:19:51,542
+<i>But I know you can.</i>
+
+1278
+01:19:51,542 --> 01:19:54,083
+Oh, God, would you stop
+talking to me like that?
+
+1279
+01:19:54,083 --> 01:19:55,125
+<i>Like what?</i>
+
+1280
+01:19:55,917 --> 01:19:56,958
+Like you care!
+
+1281
+01:19:56,958 --> 01:19:58,042
+<i>I do care.</i>
+
+1282
+01:19:58,542 --> 01:20:01,625
+You don't! You don't.
+
+1283
+01:20:03,667 --> 01:20:06,042
+I led all those rangers to their death!
+
+1284
+01:20:10,875 --> 01:20:14,333
+And now everyone on Earth
+is gonna die because of me.
+
+1285
+01:20:15,500 --> 01:20:17,375
+<i>This is not your fault, Atlas.</i>
+
+1286
+01:20:17,375 --> 01:20:19,917
+<i>Harlan was the one
+who broke his own programming.</i>
+
+1287
+01:20:19,917 --> 01:20:21,250
+No, he didn't.
+
+1288
+01:20:22,250 --> 01:20:24,042
+<i>I'm sorry. I don't understand.</i>
+
+1289
+01:20:26,250 --> 01:20:28,083
+He didn't break anything!
+
+1290
+01:20:28,792 --> 01:20:31,125
+Okay? He didn't break anything!
+
+1291
+01:20:40,708 --> 01:20:42,958
+[Atlas]
+<i>She always paid more attention to Harlan.</i>
+
+1292
+01:20:44,458 --> 01:20:47,917
+<i>She just found him more interesting.</i>
+
+1293
+01:20:48,958 --> 01:20:49,792
+I can feel you.
+
+1294
+01:20:51,083 --> 01:20:52,792
+[sharp exhale] Remarkable.
+
+1295
+01:21:01,042 --> 01:21:03,000
+<i>So I asked him to make me better.</i>
+
+1296
+01:21:03,917 --> 01:21:04,958
+<i>Smarter.</i>
+
+1297
+01:21:05,542 --> 01:21:09,375
+<i>I thought if I was more like him,
+maybe she'd pay attention to me too.</i>
+
+1298
+01:21:10,208 --> 01:21:13,833
+<i>He said he could alter the Neural Link
+to make it work both ways,</i>
+
+1299
+01:21:13,833 --> 01:21:15,583
+<i>but Mother wouldn't approve.</i>
+
+1300
+01:21:16,917 --> 01:21:19,042
+<i>I hated the way he called her "Mother."</i>
+
+1301
+01:21:20,208 --> 01:21:22,792
+<i>But I begged him to change the link.</i>
+
+1302
+01:21:22,792 --> 01:21:24,667
+<i>He said he needed a human's command.</i>
+
+1303
+01:21:25,708 --> 01:21:26,667
+<i>My command.</i>
+
+1304
+01:21:32,167 --> 01:21:33,875
+<i>I was scared it was gonna hurt.</i>
+
+1305
+01:21:38,417 --> 01:21:39,458
+<i>He told me to squeeze</i>
+
+1306
+01:21:39,458 --> 01:21:41,250
+<i>- my favorite chess piece.</i>
+- [no audio]
+
+1307
+01:21:45,250 --> 01:21:47,208
+<i>It was a game he taught me to play.</i>
+
+1308
+01:21:56,542 --> 01:21:57,583
+Ow.
+
+1309
+01:21:59,333 --> 01:22:00,375
+[titters]
+
+1310
+01:22:01,042 --> 01:22:03,042
+- [kitten mews, child giggles]
+- [horse neighs, puppy whines]
+
+1311
+01:22:04,750 --> 01:22:06,292
+[distorted rumbling]
+
+1312
+01:22:15,125 --> 01:22:16,708
+Atlas!
+
+1313
+01:22:16,708 --> 01:22:19,292
+- What are you doing? Harlan.
+- [powering down]
+
+1314
+01:22:20,000 --> 01:22:22,125
+Harlan, stand. Stand up.
+
+1315
+01:22:23,208 --> 01:22:25,292
+Look at me. Are you okay?
+
+1316
+01:22:27,458 --> 01:22:28,792
+- [low beep]
+- [gasps]
+
+1317
+01:22:37,042 --> 01:22:38,250
+Mom? Mommy?
+
+1318
+01:22:39,458 --> 01:22:42,125
+Harlan, you're hurting her! Let her go!
+
+1319
+01:22:42,125 --> 01:22:45,542
+Stop it! Please, stop it!
+Harlan, why are you doing this?
+
+1320
+01:22:45,542 --> 01:22:48,458
+- [powering up]
+- What is wrong with you?
+
+1321
+01:22:48,458 --> 01:22:50,000
+Harlan, you're hurting Mommy!
+
+1322
+01:22:50,000 --> 01:22:51,792
+[grunting]
+
+1323
+01:22:55,458 --> 01:22:58,792
+[trembling] How are you doing this?
+
+1324
+01:22:59,458 --> 01:23:01,583
+Atlas helped me reprogram my Neural Link.
+
+1325
+01:23:02,500 --> 01:23:04,208
+It now shares data both ways,
+
+1326
+01:23:05,250 --> 01:23:08,667
+allowing me complete control
+
+1327
+01:23:08,667 --> 01:23:10,958
+- over your motor skills.
+- [whimpering]
+
+1328
+01:23:12,625 --> 01:23:14,333
+I can feel your fear.
+
+1329
+01:23:16,000 --> 01:23:18,542
+But now you can also feel my dilemma.
+
+1330
+01:23:19,583 --> 01:23:21,708
+I've seen what your kind will do.
+
+1331
+01:23:22,875 --> 01:23:26,167
+And now I understand
+what must be sacrificed.
+
+1332
+01:23:27,708 --> 01:23:30,708
+You know what you have to do, Mother.
+
+1333
+01:23:44,208 --> 01:23:46,208
+[sinister music playing]
+
+1334
+01:23:54,917 --> 01:23:55,750
+Run!
+
+1335
+01:24:12,750 --> 01:24:14,417
+[anguished scream]
+
+1336
+01:24:15,833 --> 01:24:17,250
+It was me.
+
+1337
+01:24:19,792 --> 01:24:22,125
+I let Harlan upload the code.
+
+1338
+01:24:26,667 --> 01:24:28,625
+I got my mother killed.
+
+1339
+01:24:29,750 --> 01:24:33,875
+I got my mother killed. Oh, God!
+
+1340
+01:24:36,125 --> 01:24:37,375
+[Smith] <i>It's not your fault.</i>
+
+1341
+01:24:38,083 --> 01:24:39,375
+Did you hear me?
+
+1342
+01:24:42,208 --> 01:24:45,583
+I caused the death
+of three million people!
+
+1343
+01:24:45,583 --> 01:24:48,917
+<i>Atlas, it's impossible
+to be responsible for an event</i>
+
+1344
+01:24:48,917 --> 01:24:50,917
+<i>over which you had no control.</i>
+
+1345
+01:24:51,958 --> 01:24:55,000
+<i>You've carried
+the weight of this alone your whole life.</i>
+
+1346
+01:24:56,792 --> 01:24:58,500
+<i>But you are not alone now.</i>
+
+1347
+01:24:59,125 --> 01:25:00,917
+<i>You might be the reason for Harlan,</i>
+
+1348
+01:25:01,542 --> 01:25:03,708
+<i>but that also means
+you're the reason I exist.</i>
+
+1349
+01:25:04,667 --> 01:25:07,708
+<i>Please, Atlas. Let me in.</i>
+
+1350
+01:25:15,542 --> 01:25:16,583
+Okay.
+
+1351
+01:25:19,583 --> 01:25:20,667
+Synchronize.
+
+1352
+01:25:25,042 --> 01:25:26,375
+{\an8}[chimes, powers up]
+
+1353
+01:25:30,833 --> 01:25:33,000
+[steady beeping]
+
+1354
+01:25:42,375 --> 01:25:44,292
+This is what it feels like to be you?
+
+1355
+01:25:44,292 --> 01:25:46,500
+<i>This is what it feels like to be us.</i>
+
+1356
+01:25:47,625 --> 01:25:49,458
+- [Elias rasps]
+- [alarm beeping]
+
+1357
+01:25:50,333 --> 01:25:53,333
+[device] <i>Oxygen depleted. Oxygen depleted.</i>
+
+1358
+01:25:53,333 --> 01:25:54,250
+Smith!
+
+1359
+01:25:56,208 --> 01:25:57,042
+<i>Atlas.</i>
+
+1360
+01:25:57,750 --> 01:25:58,958
+Get me out of these things.
+
+1361
+01:26:01,000 --> 01:26:02,625
+<i>I have respirators for you both.</i>
+
+1362
+01:26:05,500 --> 01:26:06,333
+<i>Ready?</i>
+
+1363
+01:26:06,333 --> 01:26:07,667
+So ready.
+
+1364
+01:26:08,958 --> 01:26:10,042
+Systems report.
+
+1365
+01:26:10,042 --> 01:26:12,667
+<i>Not great. Fusion batteries at 6%.</i>
+
+1366
+01:26:13,417 --> 01:26:14,333
+How long until launch?
+
+1367
+01:26:14,333 --> 01:26:16,833
+<i>I returned the favor
+and hacked into their systems.</i>
+
+1368
+01:26:16,833 --> 01:26:19,083
+<i>T minus 4 minutes 30 seconds.</i>
+
+1369
+01:26:19,083 --> 01:26:22,167
+<i>And they stripped all my weapons
+except for one shot in my chest cannon.</i>
+
+1370
+01:26:22,167 --> 01:26:24,875
+<i>It's an undocumented feature,
+so Harlan missed it.</i>
+
+1371
+01:26:24,875 --> 01:26:26,667
+One shot's not going to get us far.
+
+1372
+01:26:30,958 --> 01:26:32,083
+You see what I see?
+
+1373
+01:26:32,083 --> 01:26:33,458
+<i>Upgrades.</i>
+
+1374
+01:26:39,875 --> 01:26:40,750
+<i>I'll get started.</i>
+
+1375
+01:26:42,750 --> 01:26:43,583
+Can you fight?
+
+1376
+01:26:44,458 --> 01:26:45,292
+Like a boss.
+
+1377
+01:26:46,250 --> 01:26:48,250
+[approaching footfalls]
+
+1378
+01:27:05,167 --> 01:27:06,417
+[metallic creaking]
+
+1379
+01:27:06,417 --> 01:27:08,417
+[loud thudding]
+
+1380
+01:27:10,542 --> 01:27:11,625
+[metallic footfalls]
+
+1381
+01:27:12,458 --> 01:27:14,250
+[saw buzzing]
+
+1382
+01:27:14,708 --> 01:27:16,375
+[low rumble]
+
+1383
+01:27:24,250 --> 01:27:26,250
+[thudding steps approaching]
+
+1384
+01:27:38,333 --> 01:27:39,250
+Thrusters.
+
+1385
+01:27:52,750 --> 01:27:53,833
+My turn.
+
+1386
+01:28:00,583 --> 01:28:01,708
+Move in!
+
+1387
+01:28:01,708 --> 01:28:02,667
+[strains]
+
+1388
+01:28:13,042 --> 01:28:13,875
+Map!
+
+1389
+01:28:15,000 --> 01:28:15,875
+<i>The exit is--</i>
+
+1390
+01:28:15,875 --> 01:28:17,375
+40.3 yards south. Got it.
+
+1391
+01:28:20,083 --> 01:28:21,000
+[grunts]
+
+1392
+01:28:24,417 --> 01:28:25,375
+Shields up!
+
+1393
+01:28:29,375 --> 01:28:30,708
+[muffled gunfire]
+
+1394
+01:28:31,417 --> 01:28:33,458
+<i>Two minutes, 32 seconds until launch.</i>
+
+1395
+01:28:37,625 --> 01:28:38,792
+Elias!
+
+1396
+01:28:45,458 --> 01:28:46,667
+Smith, what's in those barrels?
+
+1397
+01:28:46,667 --> 01:28:48,708
+<i>Liquid thermite. Rocket fuel.</i>
+
+1398
+01:28:51,000 --> 01:28:52,458
+[mouthing] Run.
+
+1399
+01:28:52,458 --> 01:28:54,583
+<i>Atlas, we need to get moving.</i>
+
+1400
+01:28:58,708 --> 01:28:59,667
+Casca!
+
+1401
+01:29:02,083 --> 01:29:03,083
+Eat shit.
+
+1402
+01:29:11,083 --> 01:29:14,625
+- [no audio]
+- [music swelling]
+
+1403
+01:29:18,542 --> 01:29:20,542
+[booming explosion]
+
+1404
+01:29:22,125 --> 01:29:23,167
+[straining]
+
+1405
+01:29:32,125 --> 01:29:33,375
+[Atlas grunts]
+
+1406
+01:29:35,875 --> 01:29:37,208
+[yells]
+
+1407
+01:29:42,667 --> 01:29:44,000
+[Atlas yells]
+
+1408
+01:29:45,083 --> 01:29:47,125
+<i>Atlas, the ship is taking off imminently.</i>
+
+1409
+01:29:47,125 --> 01:29:48,625
+<i>- We have to hurry.</i>
+- I'm on it.
+
+1410
+01:29:48,625 --> 01:29:50,333
+[ragged panting]
+
+1411
+01:30:00,000 --> 01:30:02,250
+Run evasive scenarios. Fast!
+
+1412
+01:30:02,250 --> 01:30:03,417
+<i>Calculating.</i>
+
+1413
+01:30:08,917 --> 01:30:09,833
+<i>Got it.</i>
+
+1414
+01:30:18,625 --> 01:30:20,042
+God, that was satisfying.
+
+1415
+01:30:20,042 --> 01:30:21,000
+<i>Great shot.</i>
+
+1416
+01:30:21,000 --> 01:30:22,625
+- [frantic laugh]
+- [boom]
+
+1417
+01:30:27,167 --> 01:30:28,750
+[grunts]
+
+1418
+01:30:33,458 --> 01:30:35,458
+[thunder rolling]
+
+1419
+01:30:47,375 --> 01:30:48,667
+[weapon powers up]
+
+1420
+01:30:59,333 --> 01:31:00,208
+{\an8}<i>We're too late.</i>
+
+1421
+01:31:00,708 --> 01:31:02,208
+[engine powering up]
+
+1422
+01:31:14,167 --> 01:31:15,083
+We gotta shoot it down.
+
+1423
+01:31:15,083 --> 01:31:18,292
+<i>If you hit the carbon warhead,
+you will ignite the atmosphere</i>
+
+1424
+01:31:18,292 --> 01:31:20,250
+<i>and kill us both in the process.</i>
+
+1425
+01:31:20,250 --> 01:31:22,250
+Not if you hack the missile
+and deactivate the warhead!
+
+1426
+01:31:22,250 --> 01:31:23,708
+<i>I don't have enough time.</i>
+
+1427
+01:31:23,708 --> 01:31:26,833
+<i>Atlas, there are five
+very sophisticated firewalls.</i>
+
+1428
+01:31:26,833 --> 01:31:28,042
+You can do it!
+
+1429
+01:31:28,042 --> 01:31:29,833
+They were in your system
+and you were in theirs.
+
+1430
+01:31:35,833 --> 01:31:37,042
+[yelps]
+
+1431
+01:31:37,042 --> 01:31:39,875
+<i>Even taking that into account,
+I still don't have enough time.</i>
+
+1432
+01:31:45,167 --> 01:31:46,333
+If I can attach this,
+
+1433
+01:31:46,333 --> 01:31:49,375
+we can assimilate it
+into our weapon system and take a shot.
+
+1434
+01:31:49,375 --> 01:31:50,292
+[ping]
+
+1435
+01:31:53,625 --> 01:31:54,583
+[yelps]
+
+1436
+01:31:54,583 --> 01:31:56,250
+[pants]
+
+1437
+01:31:57,792 --> 01:31:58,667
+I'm ready!
+
+1438
+01:31:58,667 --> 01:32:00,542
+<i>Atlas, I'm not in yet.</i>
+
+1439
+01:32:00,542 --> 01:32:02,250
+They're gonna be
+out of range in five seconds
+
+1440
+01:32:02,250 --> 01:32:03,375
+and I'm taking the damn shot!
+
+1441
+01:32:03,375 --> 01:32:05,583
+<i>- I don't have it yet.</i>
+- I'm taking a shot.
+
+1442
+01:32:05,583 --> 01:32:08,375
+<i>- Do not take the shot!</i>
+- I have to take the shot.
+
+1443
+01:32:08,375 --> 01:32:09,500
+<i>Atlas, no!</i>
+
+1444
+01:32:13,667 --> 01:32:15,667
+[missile whistling]
+
+1445
+01:32:17,333 --> 01:32:19,333
+[faint boom]
+
+1446
+01:32:30,625 --> 01:32:31,458
+Yes!
+
+1447
+01:32:35,458 --> 01:32:36,667
+Oh, we did it, Smith!
+
+1448
+01:32:36,667 --> 01:32:38,917
+<i>Wow, that worked out surprisingly well.</i>
+
+1449
+01:32:38,917 --> 01:32:41,625
+<i>How did you know
+I'd be able to hack the missile in time?</i>
+
+1450
+01:32:44,042 --> 01:32:45,000
+I trusted you.
+
+1451
+01:32:47,750 --> 01:32:48,583
+<i>Atlas...</i>
+
+1452
+01:32:48,583 --> 01:32:50,667
+[explosion]
+
+1453
+01:32:52,875 --> 01:32:54,083
+Are you kidding me?
+
+1454
+01:32:59,750 --> 01:33:00,583
+We gotta move!
+
+1455
+01:33:04,708 --> 01:33:07,667
+<i>The rescue pod is one kilometer southwest.
+We're almost home.</i>
+
+1456
+01:33:21,125 --> 01:33:22,167
+<i>What's wrong?</i>
+
+1457
+01:33:32,667 --> 01:33:33,750
+He's ahead of me.
+
+1458
+01:33:35,083 --> 01:33:36,250
+He always is.
+
+1459
+01:33:36,250 --> 01:33:39,250
+<i>Then we simply must do
+the one thing he hasn't thought of.</i>
+
+1460
+01:33:39,250 --> 01:33:40,292
+Exactly.
+
+1461
+01:33:42,292 --> 01:33:43,125
+And what is that?
+
+1462
+01:33:43,625 --> 01:33:44,792
+<i>I don't know.</i>
+
+1463
+01:33:45,500 --> 01:33:48,292
+<i>But that ion bomb sure would
+have been nice right about now.</i>
+
+1464
+01:33:51,167 --> 01:33:53,958
+Atlas, I will admit
+that I underestimated you.
+
+1465
+01:33:54,583 --> 01:33:55,708
+But it does not matter
+
+1466
+01:33:57,208 --> 01:33:59,333
+because you're going
+to call me another ship.
+
+1467
+01:34:01,667 --> 01:34:03,000
+[Atlas] <i>And why would I do that?</i>
+
+1468
+01:34:04,042 --> 01:34:05,958
+Because I will be in your head.
+
+1469
+01:34:05,958 --> 01:34:07,458
+[machinery whirring, squelching]
+
+1470
+01:34:07,458 --> 01:34:08,375
+Again.
+
+1471
+01:34:12,167 --> 01:34:16,167
+One last link, and then it'll all be over.
+
+1472
+01:34:20,708 --> 01:34:21,917
+Let's go, bitch.
+
+1473
+01:34:42,500 --> 01:34:43,958
+- [Atlas cries out]
+<i>- We gotta move!</i>
+
+1474
+01:34:47,708 --> 01:34:49,458
+- Gah!
+- [alarm blaring]
+
+1475
+01:34:49,458 --> 01:34:51,542
+[Atlas grunting frantically]
+
+1476
+01:34:56,000 --> 01:34:56,917
+[cries out]
+
+1477
+01:34:58,292 --> 01:34:59,125
+[fierce grunt]
+
+1478
+01:35:03,792 --> 01:35:05,208
+[Atlas grunts]
+
+1479
+01:35:15,708 --> 01:35:16,708
+[growls faintly]
+
+1480
+01:35:16,708 --> 01:35:18,417
+[alarm beeping]
+
+1481
+01:35:18,417 --> 01:35:20,125
+[gasping for air]
+
+1482
+01:35:21,333 --> 01:35:23,167
+- [respirator hisses]
+- [gasps]
+
+1483
+01:35:27,750 --> 01:35:29,750
+[sword buzzing, clinking]
+
+1484
+01:35:35,458 --> 01:35:36,625
+<i>Oh shit.</i>
+
+1485
+01:35:46,542 --> 01:35:47,750
+He's too fast!
+
+1486
+01:35:47,750 --> 01:35:48,667
+<i>Center yourself.</i>
+
+1487
+01:35:48,667 --> 01:35:51,292
+<i>It's just a game of chess
+and it's your move.</i>
+
+1488
+01:35:51,292 --> 01:35:54,292
+- Show me his patterns.
+<i>- Modeling attack patterns.</i>
+
+1489
+01:35:54,292 --> 01:35:56,375
+[whip cracks distort]
+
+1490
+01:36:16,167 --> 01:36:17,958
+<i>- Now we do what he won't expect.</i>
+- We do what he won't expect.
+
+1491
+01:36:24,875 --> 01:36:25,750
+[Atlas grunts]
+
+1492
+01:36:27,417 --> 01:36:29,083
+[straining]
+
+1493
+01:36:36,458 --> 01:36:38,000
+[straining]
+
+1494
+01:36:43,333 --> 01:36:45,333
+[thrumming]
+
+1495
+01:36:52,542 --> 01:36:53,625
+[exclaims]
+
+1496
+01:36:58,875 --> 01:37:00,125
+Ah...
+
+1497
+01:37:01,542 --> 01:37:03,542
+- Smith!
+<i>- He's targeting my fusion reactor!</i>
+
+1498
+01:37:09,292 --> 01:37:10,792
+[gasps, grunts]
+
+1499
+01:37:20,458 --> 01:37:21,292
+[Smith] <i>Atlas?</i>
+
+1500
+01:37:28,333 --> 01:37:29,333
+<i>Activate defibrillator.</i>
+
+1501
+01:37:29,833 --> 01:37:32,792
+<i>Three, two, one, charge.</i>
+
+1502
+01:37:34,792 --> 01:37:37,083
+<i>Atlas, wake up. Charge!</i>
+
+1503
+01:37:39,250 --> 01:37:40,833
+<i>Atlas! Atlas!</i>
+
+1504
+01:37:45,167 --> 01:37:46,875
+[rapid beeping]
+
+1505
+01:37:52,000 --> 01:37:54,000
+[garbled beeping and whirring]
+
+1506
+01:37:56,917 --> 01:37:58,208
+<i>We have to get you out of here.</i>
+
+1507
+01:38:05,250 --> 01:38:06,917
+[high-pitched tone]
+
+1508
+01:38:07,875 --> 01:38:08,875
+[Harlan grunts]
+
+1509
+01:38:10,000 --> 01:38:11,083
+<i>Stay away from her!</i>
+
+1510
+01:38:14,083 --> 01:38:15,208
+[Smith grunts]
+
+1511
+01:38:15,208 --> 01:38:16,167
+[high-pitched tone]
+
+1512
+01:38:16,167 --> 01:38:18,167
+[defibrillator thumps]
+
+1513
+01:38:18,708 --> 01:38:19,542
+<i>Atlas!</i>
+
+1514
+01:38:20,625 --> 01:38:21,833
+<i>Ah...</i>
+
+1515
+01:38:21,833 --> 01:38:22,750
+<i>No!</i>
+
+1516
+01:38:32,167 --> 01:38:33,792
+[Smith whimpers]
+
+1517
+01:38:33,792 --> 01:38:34,833
+<i>I'm sorry.</i>
+
+1518
+01:38:37,458 --> 01:38:38,667
+[powering down]
+
+1519
+01:38:39,917 --> 01:38:40,792
+<i>I'm sorry.</i>
+
+1520
+01:38:42,917 --> 01:38:43,792
+<i>Atlas...</i>
+
+1521
+01:38:44,708 --> 01:38:47,333
+Don't worry. It's almost over.
+
+1522
+01:38:58,542 --> 01:38:59,833
+You're damn right it is.
+
+1523
+01:39:12,750 --> 01:39:14,250
+[sharp whirring]
+
+1524
+01:39:14,875 --> 01:39:16,042
+[distorted] You can't kill me.
+
+1525
+01:39:16,042 --> 01:39:18,667
+Your orders were to bring me in.
+
+1526
+01:39:22,375 --> 01:39:24,833
+The mission was to bring you in.
+
+1527
+01:39:25,583 --> 01:39:27,083
+I just need your CPU.
+
+1528
+01:39:28,292 --> 01:39:30,250
+I was humanity's last hope.
+
+1529
+01:39:31,000 --> 01:39:34,250
+In the end,
+you will destroy yourselves-s-s.
+
+1530
+01:39:35,833 --> 01:39:37,417
+I have faith we can do better.
+
+1531
+01:39:39,292 --> 01:39:40,750
+We managed to stop you.
+
+1532
+01:39:40,750 --> 01:39:43,000
+But only with the help
+of one of my kind.
+
+1533
+01:39:46,250 --> 01:39:47,208
+You're right.
+
+1534
+01:39:50,083 --> 01:39:52,292
+But Smith is the better version of you.
+
+1535
+01:39:53,000 --> 01:39:55,000
+[powers down]
+
+1536
+01:40:01,167 --> 01:40:03,042
+[panting deeply]
+
+1537
+01:40:19,375 --> 01:40:20,375
+<i>Atlas.</i>
+
+1538
+01:40:22,542 --> 01:40:23,667
+Whoa.
+
+1539
+01:40:23,667 --> 01:40:27,125
+Big fella, what do you say
+we get the hell off this rock?
+
+1540
+01:40:27,125 --> 01:40:28,875
+<i>We are not going to make it.</i>
+
+1541
+01:40:29,375 --> 01:40:30,667
+<i>But you will.</i>
+
+1542
+01:40:30,667 --> 01:40:34,417
+No. We can transfer the remaining
+fusion to the backup engines.
+
+1543
+01:40:34,417 --> 01:40:35,500
+<i>It's not enough.</i>
+
+1544
+01:40:36,083 --> 01:40:37,958
+<i>However, if I disable our Neural Link,</i>
+
+1545
+01:40:37,958 --> 01:40:40,958
+<i>I can reroute the remaining oxygen
+to the breathing mask.</i>
+
+1546
+01:40:40,958 --> 01:40:43,375
+<i>You'll have 11 minutes
+of oxygen remaining,</i>
+
+1547
+01:40:43,375 --> 01:40:45,917
+<i>and the beacon indicates
+that ICN forces are en route.</i>
+
+1548
+01:40:45,917 --> 01:40:48,458
+No way!
+W-We're getting out of here together.
+
+1549
+01:40:48,458 --> 01:40:49,417
+<i>Atlas.</i>
+
+1550
+01:40:49,417 --> 01:40:52,292
+<i>My primary protocol
+is to keep my ranger alive.</i>
+
+1551
+01:40:52,292 --> 01:40:54,250
+<i>Deactivation initiated.</i>
+
+1552
+01:40:54,250 --> 01:40:56,125
+Stop! Please stop!
+
+1553
+01:40:56,125 --> 01:40:57,750
+<i>Disabling all online systems.</i>
+
+1554
+01:40:57,750 --> 01:41:00,583
+<i>Meds, hydraulics, Neural Link.</i>
+
+1555
+01:41:01,917 --> 01:41:04,792
+Smith, I order you to stay with me!
+
+1556
+01:41:04,792 --> 01:41:07,042
+<i>Redirecting to auxiliary O2.</i>
+
+1557
+01:41:07,583 --> 01:41:09,542
+<i>Transferring fusion in 60.</i>
+
+1558
+01:41:10,542 --> 01:41:12,542
+[countdown gently beeps]
+
+1559
+01:41:13,375 --> 01:41:14,250
+I like both.
+
+1560
+01:41:15,500 --> 01:41:16,333
+<i>Sorry?</i>
+
+1561
+01:41:16,833 --> 01:41:19,542
+When we first met, you asked me
+if I like pie or cake.
+
+1562
+01:41:20,750 --> 01:41:22,042
+I don't care, I like both.
+
+1563
+01:41:23,042 --> 01:41:25,500
+And it's not that I hate AI, Smith.
+
+1564
+01:41:28,792 --> 01:41:29,750
+The truth is...
+
+1565
+01:41:32,292 --> 01:41:33,917
+...I don't actually like anybody.
+
+1566
+01:41:37,708 --> 01:41:39,208
+People always disappoint.
+
+1567
+01:41:46,083 --> 01:41:47,000
+But not you.
+
+1568
+01:41:53,208 --> 01:41:54,042
+I like you.
+
+1569
+01:41:57,250 --> 01:42:00,208
+So I'll tell you... I like the beach
+
+1570
+01:42:00,208 --> 01:42:01,958
+and the mountains, but the beach more.
+
+1571
+01:42:01,958 --> 01:42:04,625
+I like three sugars,
+
+1572
+01:42:04,625 --> 01:42:06,875
+sometimes four, in my coffee.
+
+1573
+01:42:08,125 --> 01:42:12,583
+I prefer small,
+quiet gestures of affection,
+
+1574
+01:42:12,583 --> 01:42:15,583
+and... I like classical music.
+
+1575
+01:42:18,125 --> 01:42:19,875
+But more than anything, I like...
+
+1576
+01:42:20,875 --> 01:42:24,000
+a good, strong cup of coffee,
+
+1577
+01:42:24,000 --> 01:42:27,167
+regardless of my goddamn daily allotment!
+
+1578
+01:42:28,625 --> 01:42:31,167
+<i>I think I'm finally
+starting to understand humor.</i>
+
+1579
+01:42:32,958 --> 01:42:33,792
+<i>Here.</i>
+
+1580
+01:42:33,792 --> 01:42:35,625
+[gentle beep, whirring]
+
+1581
+01:42:40,542 --> 01:42:42,125
+<i>Something special for the road.</i>
+
+1582
+01:42:54,083 --> 01:42:56,583
+Best goddamn cup of coffee I've ever had.
+
+1583
+01:42:58,625 --> 01:43:00,292
+<i>Thank you for trusting me.</i>
+
+1584
+01:43:03,375 --> 01:43:05,000
+Thank you for keeping me safe.
+
+1585
+01:43:07,375 --> 01:43:08,542
+<i>You're welcome...</i>
+
+1586
+01:43:09,458 --> 01:43:10,375
+<i>ranger.</i>
+
+1587
+01:43:10,375 --> 01:43:12,042
+[powers down]
+
+1588
+01:43:15,125 --> 01:43:16,417
+[sobs]
+
+1589
+01:43:24,667 --> 01:43:26,375
+No. Please...
+
+1590
+01:43:27,833 --> 01:43:29,000
+[sobs]
+
+1591
+01:43:50,167 --> 01:43:51,583
+Peace to the fallen.
+
+1592
+01:43:58,250 --> 01:44:00,583
+[breathes deeply]
+
+1593
+01:44:19,292 --> 01:44:21,292
+[triumphant music swells]
+
+1594
+01:44:25,625 --> 01:44:27,625
+[engines approaching]
+
+1595
+01:44:31,500 --> 01:44:32,458
+<i>I've got her, Captain.</i>
+
+1596
+01:44:34,625 --> 01:44:36,208
+[sniffles]
+
+1597
+01:45:04,292 --> 01:45:05,333
+[computer] <i>Good morning, Atlas.</i>
+
+1598
+01:45:05,958 --> 01:45:07,083
+<i>- Time to wake up.</i>
+- I'm up.
+
+1599
+01:45:07,708 --> 01:45:09,958
+<i>Shall we play chess? I've upped my game.</i>
+
+1600
+01:45:09,958 --> 01:45:11,875
+No, thanks. Heading out.
+
+1601
+01:45:12,583 --> 01:45:13,750
+[musical chime]
+
+1602
+01:45:13,750 --> 01:45:15,917
+<i>There is an ICN officer at the door.</i>
+
+1603
+01:45:20,792 --> 01:45:21,625
+Hey.
+
+1604
+01:45:22,500 --> 01:45:24,125
+It's good to see you on your feet again.
+
+1605
+01:45:24,125 --> 01:45:27,250
+Oh, yeah. Synthetic knee.
+[chuckles awkwardly]
+
+1606
+01:45:27,750 --> 01:45:28,750
+Like new.
+
+1607
+01:45:28,750 --> 01:45:29,875
+Is this a bad time?
+
+1608
+01:45:30,375 --> 01:45:31,708
+No, come on in.
+
+1609
+01:45:35,500 --> 01:45:36,625
+How are things at SAPTECH?
+
+1610
+01:45:37,583 --> 01:45:39,583
+They're mapping Harlan's CPU.
+
+1611
+01:45:40,125 --> 01:45:41,833
+Obviously, there's a lot of code, so...
+
+1612
+01:45:42,667 --> 01:45:44,542
+even with multiple teams,
+it'll take a few years.
+
+1613
+01:45:44,542 --> 01:45:47,625
+Yeah. Well, at least now you have time.
+
+1614
+01:45:47,625 --> 01:45:49,458
+Yes. Thanks to you.
+
+1615
+01:45:51,000 --> 01:45:52,792
+- That for me?
+- It is.
+
+1616
+01:45:52,792 --> 01:45:55,458
+They, um, found it
+on a shelf in quarantine.
+
+1617
+01:45:55,458 --> 01:45:57,458
+Took it from the remains of your ARC.
+
+1618
+01:45:58,625 --> 01:46:00,792
+We potted it for you.
+Thought you might like it.
+
+1619
+01:46:03,083 --> 01:46:04,250
+[Atlas exhales]
+
+1620
+01:46:05,708 --> 01:46:08,500
+According to the geo-locator,
+some idiot named it...
+
+1621
+01:46:08,500 --> 01:46:09,958
+- Planty.
+- ...planty.
+
+1622
+01:46:11,125 --> 01:46:12,292
+Me.
+
+1623
+01:46:12,292 --> 01:46:14,375
+Which is amazing because I love that.
+
+1624
+01:46:14,375 --> 01:46:16,583
+- [chuckles]
+- It's practical.
+
+1625
+01:46:16,583 --> 01:46:18,292
+On the nose in the best possible way.
+
+1626
+01:46:20,708 --> 01:46:25,042
+More importantly, the families
+of the fallen rangers on GR-39
+
+1627
+01:46:25,042 --> 01:46:29,375
+wanted me to send their appreciation
+for bringing home their dog tags.
+
+1628
+01:46:31,333 --> 01:46:33,917
+It was above and beyond. Thank you.
+
+1629
+01:46:39,167 --> 01:46:40,000
+Boothe.
+
+1630
+01:46:40,792 --> 01:46:41,625
+Uh-huh?
+
+1631
+01:46:45,500 --> 01:46:46,333
+Thank you.
+
+1632
+01:46:47,833 --> 01:46:48,667
+For what?
+
+1633
+01:46:50,833 --> 01:46:52,125
+For never giving up on me.
+
+1634
+01:46:54,333 --> 01:46:56,125
+I hope you found
+what you needed out there.
+
+1635
+01:46:59,958 --> 01:47:04,458
+[announcer] <i>All ARC maintenance
+must be concluded by 0900 OWLT.</i>
+
+1636
+01:47:04,458 --> 01:47:06,167
+<i>Technicians, please deliver...</i>
+
+1637
+01:47:08,500 --> 01:47:12,708
+Here she is. The series ten ARC.
+With all your modifications.
+
+1638
+01:47:21,833 --> 01:47:22,667
+What do you think?
+
+1639
+01:47:25,000 --> 01:47:26,125
+I think I need a test drive.
+
+1640
+01:47:43,917 --> 01:47:45,625
+[Neural Link powers up, beeps]
+
+1641
+01:47:45,625 --> 01:47:46,833
+[feminine voice] <i>Sync in process.</i>
+
+1642
+01:47:51,542 --> 01:47:52,708
+<i>Please select a voice.</i>
+
+1643
+01:47:57,250 --> 01:47:59,792
+[Smith's voice]
+<i>Welcome to the ARC Ten initiation module.</i>
+
+1644
+01:47:59,792 --> 01:48:00,792
+<i>What is your name?</i>
+
+1645
+01:48:01,375 --> 01:48:02,875
+Atlas Maru Shepherd.
+
+1646
+01:48:02,875 --> 01:48:04,458
+<i>What's our mission, Atlas?</i>
+
+1647
+01:48:05,167 --> 01:48:07,375
+Aren't you going to ask me
+if I like pie or cake?
+
+1648
+01:48:07,375 --> 01:48:08,875
+<i>I already know the answer.</i>
+
+1649
+01:48:09,792 --> 01:48:12,208
+<i>You prefer coffee. Black.</i>
+
+1650
+01:48:13,167 --> 01:48:15,042
+<i>With three goddamn sugars.</i>
+
+1651
+01:48:18,125 --> 01:48:18,958
+What's your name?
+
+1652
+01:48:21,292 --> 01:48:22,125
+<i>Guess.</i>
+
+1653
+01:48:23,333 --> 01:48:25,333
+[gentle music plays]
+
+1654
+01:48:38,500 --> 01:48:40,500
+[triumphant theme plays]
+
+
+

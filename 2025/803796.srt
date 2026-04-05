@@ -1,0 +1,2754 @@
+1
+00:05:44,409 --> 00:05:45,909
+<i>♪</i>
+<font color="#7f7f7f"><i>Ugh, you came at a bad time</i></font>
+
+2
+00:05:45,910 --> 00:05:49,029
+<i>Ugh, you came at a bad time</i>
+<font color="#7f7f7f"><i>But you just crossed the line</i></font>
+
+3
+00:05:49,030 --> 00:05:51,178
+<i>But you just crossed the line</i>
+<font color="#7f7f7f"><i>You wanna get wild?</i></font>
+
+4
+00:05:51,179 --> 00:05:52,489
+<i>You wanna get wild?</i>
+<font color="#7f7f7f"><i>Okay, I'll show you wild</i></font>
+
+5
+00:05:52,490 --> 00:05:54,319
+<i>Okay, I'll show you wild</i>
+<font color="#7f7f7f"><i>Better come right, better luck tryin'</i></font>
+
+6
+00:05:54,320 --> 00:05:55,808
+<i>Better come right, better luck tryin'</i>
+<font color="#7f7f7f"><i>Gettin' to our level</i></font>
+
+7
+00:05:55,809 --> 00:05:57,229
+<i>Gettin' to our level</i>
+<font color="#7f7f7f"><i>'Cause you might die, never the time</i></font>
+
+8
+00:05:57,230 --> 00:05:58,796
+<i>'Cause you might die, never the time</i>
+<font color="#7f7f7f"><i>Tryna start a battle</i></font>
+
+9
+00:05:58,797 --> 00:06:00,288
+<i>Tryna start a battle</i>
+<font color="#7f7f7f"><i>Bleeding isn't in my blood</i></font>
+
+10
+00:06:00,289 --> 00:06:01,914
+<i>Bleeding isn't in my blood</i>
+<font color="#7f7f7f"><i>Ppyeosokbuteo dallaseo</i></font>
+
+11
+00:06:01,915 --> 00:06:03,288
+<i>Ppyeosokbuteo dallaseo</i>
+<font color="#7f7f7f"><i>Beating you is what I do- do- do, yeah</i></font>
+
+12
+00:06:03,289 --> 00:06:05,988
+<i>Beating you is what I do- do- do, yeah</i>
+<font color="#7f7f7f"><i>Body on body</i></font>
+
+13
+00:06:05,989 --> 00:06:06,979
+<i>Body on body</i>
+<font color="#7f7f7f"><i>I'm naughty, not even sorry</i></font>
+
+14
+00:06:06,980 --> 00:06:08,409
+<i>I'm naughty, not even sorry</i>
+<font color="#7f7f7f"><i>And when you pull up, I'll pull up</i></font>
+
+15
+00:06:08,410 --> 00:06:09,999
+<i>And when you pull up, I'll pull up</i>
+<font color="#7f7f7f"><i>A little late to the party (Na-na-na-na)</i></font>
+
+16
+00:06:10,000 --> 00:06:12,209
+<i>A little late to the party (Na-na-na-na)</i>
+<font color="#7f7f7f"><i>Locked and loaded, I was born for this</i></font>
+
+17
+00:06:12,210 --> 00:06:13,828
+<i>Locked and loaded, I was born for this</i>
+<font color="#7f7f7f"><i>There ain't no point in avoiding it</i></font>
+
+18
+00:06:13,829 --> 00:06:15,269
+<i>There ain't no point in avoiding it</i>
+<font color="#7f7f7f"><i>Annoyed? A bit</i></font>
+
+19
+00:06:15,270 --> 00:06:16,019
+<i>Annoyed? A bit</i>
+<font color="#7f7f7f"><i>Bureul bichwo da bikyeo, ne apgireul ppaetgyeo</i></font>
+
+20
+00:06:16,020 --> 00:06:18,749
+<i>Bureul bichwo da bikyeo, ne apgireul ppaetgyeo</i>
+<font color="#7f7f7f"><i>Knocking you out like a lullaby</i></font>
+
+21
+00:06:18,750 --> 00:06:21,718
+<i>Knocking you out like a lullaby</i>
+<font color="#7f7f7f"><i>Hear that sound ringing in your mind</i></font>
+
+22
+00:06:21,719 --> 00:06:24,758
+<i>Hear that sound ringing in your mind</i>
+<font color="#7f7f7f"><i>Better sit down for the show</i></font>
+
+23
+00:06:24,759 --> 00:06:26,559
+<i>Better sit down for the show</i>
+<font color="#7f7f7f"><i>'Cause I'm gonna show you</i></font>
+
+24
+00:06:26,560 --> 00:06:28,910
+<i>'Cause I'm gonna show you</i>
+<font color="#7f7f7f"><i>How it's done- done- done</i></font>
+
+25
+00:06:28,911 --> 00:06:31,839
+<i>How it's done- done- done</i>
+<font color="#7f7f7f"><i>(Hey) Huntrix don't miss</i></font>
+
+26
+00:06:31,840 --> 00:06:34,849
+<i>(Hey) Huntrix don't miss</i>
+<font color="#7f7f7f"><i>How it's done- done- done</i></font>
+
+27
+00:06:34,850 --> 00:06:37,769
+<i>How it's done- done- done</i>
+<font color="#7f7f7f"><i>(Hey) Huntrix don't quit</i></font>
+
+28
+00:06:37,770 --> 00:06:40,769
+<i>(Hey) Huntrix don't quit</i>
+<font color="#7f7f7f"><i>How it's done- done- done</i></font>
+
+29
+00:06:40,770 --> 00:06:42,258
+<i>How it's done- done- done</i>
+<font color="#7f7f7f"><i>Run, run, we run the town</i></font>
+
+30
+00:06:42,259 --> 00:06:45,188
+<i>Run, run, we run the town</i>
+<font color="#7f7f7f"><i>Whole world playin' our sound</i></font>
+
+31
+00:06:45,189 --> 00:06:48,259
+<i>Whole world playin' our sound</i>
+<font color="#7f7f7f"><i>Turnin' up, it's going down</i></font>
+
+32
+00:06:48,260 --> 00:06:51,218
+<i>Turnin' up, it's going down</i>
+<font color="#7f7f7f"><i>Huntrix show this, how it's done- done- done</i></font>
+
+33
+00:06:51,219 --> 00:06:54,718
+<i>Huntrix show this, how it's done- done- done</i>
+<font color="#7f7f7f"><i>♪</i></font>
+
+34
+00:06:58,199 --> 00:06:59,699
+<i>♪</i>
+<font color="#7f7f7f"><i>Yeah</i></font>
+
+35
+00:06:59,700 --> 00:07:00,374
+<i>Yeah</i>
+<font color="#7f7f7f"><i>Something about when you come for the crown</i></font>
+
+36
+00:07:00,375 --> 00:07:01,749
+<i>Something about when you come for the crown</i>
+<font color="#7f7f7f"><i>That's so humbling, huh?</i></font>
+
+37
+00:07:01,750 --> 00:07:02,938
+<i>That's so humbling, huh?</i>
+<font color="#7f7f7f"><i>Gapjagi wae geurae? meonjeo geondeuryeo, wae?</i></font>
+
+38
+00:07:02,939 --> 00:07:04,479
+<i>Gapjagi wae geurae? meonjeo geondeuryeo, wae?</i>
+<font color="#7f7f7f"><i>Ijeya pogihae, what?</i></font>
+
+39
+00:07:04,480 --> 00:07:05,568
+<i>Ijeya pogihae, what?</i>
+<font color="#7f7f7f"><i>Nothing to us</i></font>
+
+40
+00:07:05,569 --> 00:07:06,318
+<i>Nothing to us</i>
+<font color="#7f7f7f"><i>Run up, you're done up, we come up</i></font>
+
+41
+00:07:06,319 --> 00:07:07,328
+<i>Run up, you're done up, we come up</i>
+<font color="#7f7f7f"><i>From sunup to sundown, so come out to play</i></font>
+
+42
+00:07:07,329 --> 00:07:08,878
+<i>From sunup to sundown, so come out to play</i>
+<font color="#7f7f7f"><i>Won either way, we're one in a million</i></font>
+
+43
+00:07:08,879 --> 00:07:10,279
+<i>Won either way, we're one in a million</i>
+<font color="#7f7f7f"><i>We killin', we bring it, you want it? Okay</i></font>
+
+44
+00:07:10,280 --> 00:07:11,869
+<i>We killin', we bring it, you want it? Okay</i>
+<font color="#7f7f7f"><i>Heels, nails, blade, mascara</i></font>
+
+45
+00:07:11,870 --> 00:07:15,289
+<i>Heels, nails, blade, mascara</i>
+<font color="#7f7f7f"><i>Fit check for my napalm era</i></font>
+
+46
+00:07:15,290 --> 00:07:17,988
+<i>Fit check for my napalm era</i>
+<font color="#7f7f7f"><i>Need to beat my face, make it cute and savage</i></font>
+
+47
+00:07:17,989 --> 00:07:20,889
+<i>Need to beat my face, make it cute and savage</i>
+<font color="#7f7f7f"><i>Mirror, mirror on my phone, who's the baddest?</i></font>
+
+48
+00:07:20,890 --> 00:07:23,298
+<i>Mirror, mirror on my phone, who's the baddest?</i>
+<font color="#7f7f7f"><i>(Us, hello?)</i></font>
+
+49
+00:07:23,299 --> 00:07:24,809
+<i>(Us, hello?)</i>
+<font color="#7f7f7f"><i>Knocking you out like a lullaby</i></font>
+
+50
+00:07:24,810 --> 00:07:27,688
+<i>Knocking you out like a lullaby</i>
+<font color="#7f7f7f"><i>Hear that sound ringing in your mind</i></font>
+
+51
+00:07:27,689 --> 00:07:30,718
+<i>Hear that sound ringing in your mind</i>
+<font color="#7f7f7f"><i>Better sit down for the show</i></font>
+
+52
+00:07:30,719 --> 00:07:32,509
+<i>Better sit down for the show</i>
+<font color="#7f7f7f"><i>'Cause I'm gonna show you</i></font>
+
+53
+00:07:32,510 --> 00:07:34,388
+<i>'Cause I'm gonna show you</i>
+<font color="#7f7f7f"><i>(I'm gonna show you, I'm gonna show you)</i></font>
+
+54
+00:07:34,389 --> 00:07:37,876
+<i>(I'm gonna show you, I'm gonna show you)</i>
+<font color="#7f7f7f"><i>How it's done- done- done</i></font>
+
+55
+00:07:37,877 --> 00:07:39,408
+<i>How it's done- done- done</i>
+<font color="#7f7f7f"><i>I don't talk, but I bite, full of venom</i></font>
+
+56
+00:07:39,409 --> 00:07:42,289
+<i>I don't talk, but I bite, full of venom</i>
+<font color="#7f7f7f"><i>Spittin' facts, you know that's</i></font>
+
+57
+00:07:42,290 --> 00:07:43,809
+<i>Spittin' facts, you know that's</i>
+<font color="#7f7f7f"><i>How it's done- done- done</i></font>
+
+58
+00:07:43,810 --> 00:07:45,059
+<i>How it's done- done- done</i>
+<font color="#7f7f7f"><i>Okay, like, I know I ramble</i></font>
+
+59
+00:07:45,060 --> 00:07:46,518
+<i>Okay, like, I know I ramble</i>
+<font color="#7f7f7f"><i>But when shootin' my words, I go Rambo</i></font>
+
+60
+00:07:46,519 --> 00:07:48,048
+<i>But when shootin' my words, I go Rambo</i>
+<font color="#7f7f7f"><i>Took blood, sweat, and tears, to look natural</i></font>
+
+61
+00:07:48,049 --> 00:07:49,608
+<i>Took blood, sweat, and tears, to look natural</i>
+<font color="#7f7f7f"><i>That's how it's done- done- done</i></font>
+
+62
+00:07:49,609 --> 00:07:51,739
+<i>That's how it's done- done- done</i>
+<font color="#7f7f7f"><i>Hear our voice unwavering</i></font>
+
+63
+00:07:51,740 --> 00:07:54,589
+<i>Hear our voice unwavering</i>
+<font color="#7f7f7f"><i>'Til our song defeats the night</i></font>
+
+64
+00:07:54,590 --> 00:07:57,638
+<i>'Til our song defeats the night</i>
+<font color="#7f7f7f"><i>Makin' fear afraid to breathe</i></font>
+
+65
+00:07:57,639 --> 00:08:00,279
+<i>Makin' fear afraid to breathe</i>
+<font color="#7f7f7f"><i>'Til the dark meets the light</i></font>
+
+66
+00:08:00,280 --> 00:08:04,973
+<i>'Til the dark meets the light</i>
+<font color="#7f7f7f"><i>(How it's done- done- done)</i></font>
+
+67
+00:08:04,974 --> 00:08:06,318
+<i>(How it's done- done- done)</i>
+<font color="#7f7f7f"><i>Run, run, we run the town</i></font>
+
+68
+00:08:06,319 --> 00:08:09,279
+<i>Run, run, we run the town</i>
+<font color="#7f7f7f"><i>Whole world playin' our sound</i></font>
+
+69
+00:08:09,280 --> 00:08:12,258
+<i>Whole world playin' our sound</i>
+<font color="#7f7f7f"><i>Turnin' up, it's going down</i></font>
+
+70
+00:08:12,259 --> 00:08:15,258
+<i>Turnin' up, it's going down</i>
+<font color="#7f7f7f"><i>Huntrix, show this how it's done- done- done</i></font>
+
+71
+00:08:15,259 --> 00:08:18,549
+<i>Huntrix, show this how it's done- done- done</i>
+<font color="#7f7f7f"><i>We hunt you down- down- down</i></font>
+
+72
+00:08:18,550 --> 00:08:21,529
+<i>We hunt you down- down- down</i>
+<font color="#7f7f7f"><i>We got you now- now- now</i></font>
+
+73
+00:08:21,530 --> 00:08:24,519
+<i>We got you now- now- now</i>
+<font color="#7f7f7f"><i>We show you how- how- how</i></font>
+
+74
+00:08:24,520 --> 00:08:27,318
+<i>We show you how- how- how</i>
+<font color="#7f7f7f"><i>Huntrix, don't miss, how it's done- done- done</i></font>
+
+75
+00:08:27,319 --> 00:08:30,719
+<i>Huntrix, don't miss, how it's done- done- done</i>
+<font color="#7f7f7f"><i>♪</i></font>
+
+76
+00:14:06,758 --> 00:14:08,258
+<i>♪</i>
+<font color="#7f7f7f"><i>I was a ghost, I was alone</i></font>
+
+77
+00:14:08,259 --> 00:14:10,759
+<i>I was a ghost, I was alone</i>
+<font color="#7f7f7f"><i>Eoduwojin abgilsog-e (Aah)</i></font>
+
+78
+00:14:10,760 --> 00:14:16,248
+<i>Eoduwojin abgilsog-e (Aah)</i>
+<font color="#7f7f7f"><i>Given the throne I didn't know</i></font>
+
+79
+00:14:16,249 --> 00:14:18,454
+<i>Given the throne I didn't know</i>
+<font color="#7f7f7f"><i>How to believe</i></font>
+
+80
+00:14:18,455 --> 00:14:20,538
+<i>How to believe</i>
+<font color="#7f7f7f"><i>I was the queen that I'm meant to be</i></font>
+
+81
+00:14:20,539 --> 00:14:23,188
+<i>I was the queen that I'm meant to be</i>
+<font color="#7f7f7f"><i>I lived two lives, tried to play both sides</i></font>
+
+82
+00:14:23,189 --> 00:14:27,049
+<i>I lived two lives, tried to play both sides</i>
+<font color="#7f7f7f"><i>But I couldn't find my own place</i></font>
+
+83
+00:14:27,050 --> 00:14:30,629
+<i>But I couldn't find my own place</i>
+<font color="#7f7f7f"><i>Called a problem child 'cause I got too wild</i></font>
+
+84
+00:14:30,630 --> 00:14:34,689
+<i>Called a problem child 'cause I got too wild</i>
+<font color="#7f7f7f"><i>But now that's how I'm getting paid</i></font>
+
+85
+00:14:34,690 --> 00:14:37,956
+<i>But now that's how I'm getting paid</i>
+<font color="#7f7f7f"><i>(Kkeut-eobs-psi on stage)</i></font>
+
+86
+00:14:37,957 --> 00:14:39,108
+<i>(Kkeut-eobs-psi on stage)</i>
+<font color="#7f7f7f"><i>I'm done hidin', now I'm shinin'</i></font>
+
+87
+00:14:39,109 --> 00:14:43,119
+<i>I'm done hidin', now I'm shinin'</i>
+<font color="#7f7f7f"><i>Like I'm born to be</i></font>
+
+88
+00:14:43,120 --> 00:14:46,469
+<i>Like I'm born to be</i>
+<font color="#7f7f7f"><i>We're dreamin' hard, we came so far</i></font>
+
+89
+00:14:46,470 --> 00:14:50,478
+<i>We're dreamin' hard, we came so far</i>
+<font color="#7f7f7f"><i>Now I believe</i></font>
+
+90
+00:14:50,479 --> 00:14:53,759
+<i>Now I believe</i>
+<font color="#7f7f7f"><i>We're goin' up- up- up, it's our moment</i></font>
+
+91
+00:14:53,760 --> 00:14:57,759
+<i>We're goin' up- up- up, it's our moment</i>
+<font color="#7f7f7f"><i>You know together we're glowing</i></font>
+
+92
+00:14:57,760 --> 00:14:59,688
+<i>You know together we're glowing</i>
+<font color="#7f7f7f"><i>Gonna be, gonna bе golden</i></font>
+
+93
+00:14:59,689 --> 00:15:01,669
+<i>Gonna be, gonna bе golden</i>
+<font color="#7f7f7f"><i>Ooh, up- up- up with our voices</i></font>
+
+94
+00:15:01,670 --> 00:15:05,629
+<i>Ooh, up- up- up with our voices</i>
+<font color="#7f7f7f"><i>Yeong-wonhi kkaеjil su eobsneun</i></font>
+
+95
+00:15:05,630 --> 00:15:07,408
+<i>Yeong-wonhi kkaеjil su eobsneun</i>
+<font color="#7f7f7f"><i>Gonna be, gonna be golden</i></font>
+
+96
+00:15:07,409 --> 00:15:09,349
+<i>Gonna be, gonna be golden</i>
+<font color="#7f7f7f"><i>Ooh, I'm done hidin', now I'm shinin'</i></font>
+
+97
+00:15:09,350 --> 00:15:14,349
+<i>Ooh, I'm done hidin', now I'm shinin'</i>
+<font color="#7f7f7f"><i>Like I'm born to be</i></font>
+
+98
+00:15:14,350 --> 00:15:17,669
+<i>Like I'm born to be</i>
+<font color="#7f7f7f"><i>Oh, our time, no fear, no lies</i></font>
+
+99
+00:15:17,670 --> 00:15:21,539
+<i>Oh, our time, no fear, no lies</i>
+<font color="#7f7f7f"><i>That's who we're born to be</i></font>
+
+100
+00:15:21,540 --> 00:15:25,238
+<i>That's who we're born to be</i>
+<font color="#7f7f7f"><i>♪</i></font>
+
+101
+00:15:28,138 --> 00:15:29,638
+<i>♪</i>
+<font color="#7f7f7f"><i>Waited so long to break these walls down</i></font>
+
+102
+00:15:29,639 --> 00:15:33,629
+<i>Waited so long to break these walls down</i>
+<font color="#7f7f7f"><i>To wake up and feel like me</i></font>
+
+103
+00:15:33,630 --> 00:15:37,628
+<i>To wake up and feel like me</i>
+<font color="#7f7f7f"><i>Put these patterns all in the past now</i></font>
+
+104
+00:15:37,629 --> 00:15:41,519
+<i>Put these patterns all in the past now</i>
+<font color="#7f7f7f"><i>And finally live like the girl they all see</i></font>
+
+105
+00:15:41,520 --> 00:15:46,128
+<i>And finally live like the girl they all see</i>
+<font color="#7f7f7f"><i>No more hiding, I'll be shining</i></font>
+
+106
+00:15:46,129 --> 00:15:50,208
+<i>No more hiding, I'll be shining</i>
+<font color="#7f7f7f"><i>Like I'm born to be</i></font>
+
+107
+00:15:50,209 --> 00:15:53,808
+<i>Like I'm born to be</i>
+<font color="#7f7f7f"><i>'Cause we are hunters, voices strong</i></font>
+
+108
+00:15:53,809 --> 00:15:57,679
+<i>'Cause we are hunters, voices strong</i>
+<font color="#7f7f7f"><i>And I know I believe</i></font>
+
+109
+00:15:57,680 --> 00:16:01,158
+<i>And I know I believe</i>
+<font color="#7f7f7f"><i>We're goin' up- up- up-, it's our moment</i></font>
+
+110
+00:16:01,159 --> 00:16:05,368
+<i>We're goin' up- up- up-, it's our moment</i>
+<font color="#7f7f7f"><i>You know together we're glowing</i></font>
+
+111
+00:16:05,369 --> 00:16:07,319
+<i>You know together we're glowing</i>
+<font color="#7f7f7f"><i>Gonna be, gonna be golden</i></font>
+
+112
+00:16:07,320 --> 00:16:09,168
+<i>Gonna be, gonna be golden</i>
+<font color="#7f7f7f"><i>Ooh, up- up- up with our voices</i></font>
+
+113
+00:16:09,169 --> 00:16:13,128
+<i>Ooh, up- up- up with our voices</i>
+<font color="#7f7f7f"><i>Yeong-wonhi kkaejil su eobsneun</i></font>
+
+114
+00:16:13,129 --> 00:16:15,079
+<i>Yeong-wonhi kkaejil su eobsneun</i>
+<font color="#7f7f7f"><i>Gonna be, gonna be golden</i></font>
+
+115
+00:16:15,080 --> 00:16:16,919
+<i>Gonna be, gonna be golden</i>
+<font color="#7f7f7f"><i>Ooh, I'm done hidin', now I'm shinin'</i></font>
+
+116
+00:16:16,920 --> 00:16:21,918
+<i>Ooh, I'm done hidin', now I'm shinin'</i>
+<font color="#7f7f7f"><i>Like I'm born to b-</i></font>
+
+117
+00:16:21,919 --> 00:16:23,889
+<i>Like I'm born to b-</i>
+<font color="#7f7f7f"><i>♪</i></font>
+
+118
+00:16:30,519 --> 00:16:32,019
+<i>♪</i>
+<font color="#7f7f7f"><i>I'm done hidin', now I'm shinin'</i></font>
+
+119
+00:16:32,020 --> 00:16:36,018
+<i>I'm done hidin', now I'm shinin'</i>
+<font color="#7f7f7f"><i>Like I'm born to b-</i></font>
+
+120
+00:16:36,019 --> 00:16:37,889
+<i>Like I'm born to b-</i>
+<font color="#7f7f7f"><i>♪</i></font>
+
+121
+00:18:41,890 --> 00:18:43,389
+<i>♪</i>
+<font color="#7f7f7f"><i>No more hiding, I'll be shining</i></font>
+
+122
+00:18:43,390 --> 00:18:47,789
+<i>No more hiding, I'll be shining</i>
+<font color="#7f7f7f"><i>Like I'm born to be</i></font>
+
+123
+00:18:47,790 --> 00:18:51,389
+<i>Like I'm born to be</i>
+<font color="#7f7f7f"><i>'Cause we are hunters, voices strong</i></font>
+
+124
+00:18:51,390 --> 00:18:55,789
+<i>'Cause we are hunters, voices strong</i>
+<font color="#7f7f7f"><i>And I know I belie-</i></font>
+
+125
+00:18:55,790 --> 00:18:59,389
+<i>And I know I belie-</i>
+<font color="#7f7f7f"><i>♪</i></font>
+
+126
+00:26:07,218 --> 00:26:08,718
+<i>♪</i>
+<font color="#7f7f7f"><i>Hey hey</i></font>
+
+127
+00:26:08,719 --> 00:26:10,781
+<i>Hey hey</i>
+<font color="#7f7f7f"><i>Hey hey</i></font>
+
+128
+00:26:10,782 --> 00:26:12,591
+<i>Hey hey</i>
+<font color="#7f7f7f"><i>Hey</i></font>
+
+129
+00:26:12,592 --> 00:26:15,376
+<i>Hey</i>
+<font color="#7f7f7f"><i>Don’t want you, need you</i></font>
+
+130
+00:26:15,377 --> 00:26:16,686
+<i>Don’t want you, need you</i>
+<font color="#7f7f7f"><i>Yeah, I need you to fill me up</i></font>
+
+131
+00:26:16,687 --> 00:26:19,323
+<i>Yeah, I need you to fill me up</i>
+<font color="#7f7f7f"><i>Masigo maysyeo bwa do</i></font>
+
+132
+00:26:19,324 --> 00:26:21,133
+<i>Masigo maysyeo bwa do</i>
+<font color="#7f7f7f"><i>Seonge chaji ana</i></font>
+
+133
+00:26:21,134 --> 00:26:23,093
+<i>Seonge chaji ana</i>
+<font color="#7f7f7f"><i>Got a feeling that, oh yeah (Yeah)</i></font>
+
+134
+00:26:23,094 --> 00:26:24,486
+<i>Got a feeling that, oh yeah (Yeah)</i>
+<font color="#7f7f7f"><i>You could be everything that</i></font>
+
+135
+00:26:24,487 --> 00:26:25,857
+<i>You could be everything that</i>
+<font color="#7f7f7f"><i>That I need, taste so sweet</i></font>
+
+136
+00:26:25,858 --> 00:26:27,850
+<i>That I need, taste so sweet</i>
+<font color="#7f7f7f"><i>Every sip makes me want more, yeah</i></font>
+
+137
+00:26:27,851 --> 00:26:30,455
+<i>Every sip makes me want more, yeah</i>
+<font color="#7f7f7f"><i>Lookin like snacks ‘cause you got it like that</i></font>
+
+138
+00:26:30,456 --> 00:26:32,361
+<i>Lookin like snacks ‘cause you got it like that</i>
+<font color="#7f7f7f"><i>Take a big bite, want another bite, yeah</i></font>
+
+139
+00:26:32,362 --> 00:26:34,297
+<i>Take a big bite, want another bite, yeah</i>
+<font color="#7f7f7f"><i>Neoui modeungeol nan</i></font>
+
+140
+00:26:34,298 --> 00:26:35,240
+<i>Neoui modeungeol nan</i>
+<font color="#7f7f7f"><i>Wonhae- wonhae- wonhae</i></font>
+
+141
+00:26:35,241 --> 00:26:36,176
+<i>Wonhae- wonhae- wonhae</i>
+<font color="#7f7f7f"><i>Neomalgon modu</i></font>
+
+142
+00:26:36,177 --> 00:26:37,133
+<i>Neomalgon modu</i>
+<font color="#7f7f7f"><i>Peonhae- peonhae- peonhae</i></font>
+
+143
+00:26:37,134 --> 00:26:38,482
+<i>Peonhae- peonhae- peonhae</i>
+<font color="#7f7f7f"><i>When you’re in my arms</i></font>
+
+144
+00:26:38,483 --> 00:26:39,659
+<i>When you’re in my arms</i>
+<font color="#7f7f7f"><i>I hold you so tight (So tight)</i></font>
+
+145
+00:26:39,660 --> 00:26:42,346
+<i>I hold you so tight (So tight)</i>
+<font color="#7f7f7f"><i>Can’t let go no, no, not tonight</i></font>
+
+146
+00:26:42,347 --> 00:26:45,249
+<i>Can’t let go no, no, not tonight</i>
+<font color="#7f7f7f"><i>Jigeum dangjang nal bwa shigan eobtjana</i></font>
+
+147
+00:26:45,250 --> 00:26:49,003
+<i>Jigeum dangjang nal bwa shigan eobtjana</i>
+<font color="#7f7f7f"><i>Neon naegeoya imi algo itjana</i></font>
+
+148
+00:26:49,004 --> 00:26:52,544
+<i>Neon naegeoya imi algo itjana</i>
+<font color="#7f7f7f"><i>‘Cause I need you to need me</i></font>
+
+149
+00:26:52,545 --> 00:26:54,738
+<i>‘Cause I need you to need me</i>
+<font color="#7f7f7f"><i>I’m empty, you feed me</i></font>
+
+150
+00:26:54,739 --> 00:26:56,681
+<i>I’m empty, you feed me</i>
+<font color="#7f7f7f"><i>So, refreshing</i></font>
+
+151
+00:26:56,682 --> 00:26:59,060
+<i>So, refreshing</i>
+<font color="#7f7f7f"><i>My little soda pop</i></font>
+
+152
+00:26:59,061 --> 00:27:00,999
+<i>My little soda pop</i>
+<font color="#7f7f7f"><i>You’re all I can think of</i></font>
+
+153
+00:27:01,000 --> 00:27:02,773
+<i>You’re all I can think of</i>
+<font color="#7f7f7f"><i>Every drop I drink up</i></font>
+
+154
+00:27:02,774 --> 00:27:05,131
+<i>Every drop I drink up</i>
+<font color="#7f7f7f"><i>You’re my soda pop</i></font>
+
+155
+00:27:05,132 --> 00:27:06,620
+<i>You’re my soda pop</i>
+<font color="#7f7f7f"><i>My little soda pop</i></font>
+
+156
+00:27:06,621 --> 00:27:08,579
+<i>My little soda pop</i>
+<font color="#7f7f7f"><i>Cool me down you’re so hot</i></font>
+
+157
+00:27:08,580 --> 00:27:10,400
+<i>Cool me down you’re so hot</i>
+<font color="#7f7f7f"><i>Pour me up I won’t stop</i></font>
+
+158
+00:27:10,401 --> 00:27:12,792
+<i>Pour me up I won’t stop</i>
+<font color="#7f7f7f"><i>You’re my soda pop</i></font>
+
+159
+00:27:12,793 --> 00:27:14,252
+<i>You’re my soda pop</i>
+<font color="#7f7f7f"><i>My little soda pop</i></font>
+
+160
+00:27:14,253 --> 00:27:15,713
+<i>My little soda pop</i>
+<font color="#7f7f7f"><i>♪</i></font>
+
+161
+00:27:28,012 --> 00:27:29,512
+<i>♪</i>
+<font color="#7f7f7f"><i>My little soda pop</i></font>
+
+162
+00:27:29,513 --> 00:27:31,218
+<i>My little soda pop</i>
+<font color="#7f7f7f"><i>Uh, make me wanna flip the top</i></font>
+
+163
+00:27:31,219 --> 00:27:33,138
+<i>Uh, make me wanna flip the top</i>
+<font color="#7f7f7f"><i>Han mogume you hit the spot</i></font>
+
+164
+00:27:33,139 --> 00:27:34,734
+<i>Han mogume you hit the spot</i>
+<font color="#7f7f7f"><i>Every little drip and drop</i></font>
+
+165
+00:27:34,735 --> 00:27:35,917
+<i>Every little drip and drop</i>
+<font color="#7f7f7f"><i>Fizz and pop, ah</i></font>
+
+166
+00:27:35,918 --> 00:27:36,889
+<i>Fizz and pop, ah</i>
+<font color="#7f7f7f"><i>Soreum doda it’s gettin’ hot</i></font>
+
+167
+00:27:36,890 --> 00:27:38,504
+<i>Soreum doda it’s gettin’ hot</i>
+<font color="#7f7f7f"><i>Yes, I’m sippin’ when it’s drippin’ now</i></font>
+
+168
+00:27:38,505 --> 00:27:40,629
+<i>Yes, I’m sippin’ when it’s drippin’ now</i>
+<font color="#7f7f7f"><i>It's done? I need a second round</i></font>
+
+169
+00:27:40,630 --> 00:27:42,615
+<i>It's done? I need a second round</i>
+<font color="#7f7f7f"><i>And pour a lot and don’t you stop</i></font>
+
+170
+00:27:42,616 --> 00:27:44,562
+<i>And pour a lot and don’t you stop</i>
+<font color="#7f7f7f"><i>‘Til my soda pop fizzles out</i></font>
+
+171
+00:27:44,563 --> 00:27:46,690
+<i>‘Til my soda pop fizzles out</i>
+<font color="#7f7f7f"><i>Kkum soke geuryeowatdeon neo</i></font>
+
+172
+00:27:46,691 --> 00:27:52,264
+<i>Kkum soke geuryeowatdeon neo</i>
+<font color="#7f7f7f"><i>Nan jeoldae notchil su eopseo</i></font>
+
+173
+00:27:52,265 --> 00:27:55,949
+<i>Nan jeoldae notchil su eopseo</i>
+<font color="#7f7f7f"><i>Neol wonhae kkok</i></font>
+
+174
+00:27:55,950 --> 00:27:57,230
+<i>Neol wonhae kkok</i>
+<font color="#7f7f7f"><i>I waited so long for a taste of soda</i></font>
+
+175
+00:27:57,231 --> 00:28:00,692
+<i>I waited so long for a taste of soda</i>
+<font color="#7f7f7f"><i>So, the wait is over, baby</i></font>
+
+176
+00:28:00,693 --> 00:28:04,426
+<i>So, the wait is over, baby</i>
+<font color="#7f7f7f"><i>Come and fill me up</i></font>
+
+177
+00:28:04,427 --> 00:28:05,642
+<i>Come and fill me up</i>
+<font color="#7f7f7f"><i>Just can’t get enough</i></font>
+
+178
+00:28:05,643 --> 00:28:09,645
+<i>Just can’t get enough</i>
+<font color="#7f7f7f"><i>You’re all I can think of</i></font>
+
+179
+00:28:09,646 --> 00:28:11,403
+<i>You’re all I can think of</i>
+<font color="#7f7f7f"><i>Every drop I drink up</i></font>
+
+180
+00:28:11,404 --> 00:28:13,748
+<i>Every drop I drink up</i>
+<font color="#7f7f7f"><i>You’re my soda pop</i></font>
+
+181
+00:28:13,749 --> 00:28:15,218
+<i>You’re my soda pop</i>
+<font color="#7f7f7f"><i>My little soda pop</i></font>
+
+182
+00:28:15,219 --> 00:28:17,097
+<i>My little soda pop</i>
+<font color="#7f7f7f"><i>Cool me down you’re so hot</i></font>
+
+183
+00:28:17,098 --> 00:28:19,007
+<i>Cool me down you’re so hot</i>
+<font color="#7f7f7f"><i>Pour me up I won’t stop</i></font>
+
+184
+00:28:19,008 --> 00:28:21,445
+<i>Pour me up I won’t stop</i>
+<font color="#7f7f7f"><i>You’re my soda pop</i></font>
+
+185
+00:28:21,446 --> 00:28:22,802
+<i>You’re my soda pop</i>
+<font color="#7f7f7f"><i>My little soda pop</i></font>
+
+186
+00:28:22,803 --> 00:28:25,291
+<i>My little soda pop</i>
+<font color="#7f7f7f"><i>Ooh ooh</i></font>
+
+187
+00:28:25,292 --> 00:28:28,986
+<i>Ooh ooh</i>
+<font color="#7f7f7f"><i>You’re my soda pop</i></font>
+
+188
+00:28:28,987 --> 00:28:30,392
+<i>You’re my soda pop</i>
+<font color="#7f7f7f"><i>Gotta drink every drop</i></font>
+
+189
+00:28:30,393 --> 00:28:31,493
+<i>Gotta drink every drop</i>
+<font color="#7f7f7f"><i>♪</i></font>
+
+190
+00:28:44,402 --> 00:28:45,902
+<i>♪</i>
+<font color="#7f7f7f"><i>My little soda pop</i></font>
+
+191
+00:28:45,903 --> 00:28:47,793
+<i>My little soda pop</i>
+<font color="#7f7f7f"><i>♪</i></font>
+
+192
+00:42:54,782 --> 00:42:56,282
+<i>♪</i>
+<font color="#7f7f7f"><i>So sweet, so easy on the eyes</i></font>
+
+193
+00:42:56,283 --> 00:42:58,041
+<i>So sweet, so easy on the eyes</i>
+<font color="#7f7f7f"><i>But hideous on the inside</i></font>
+
+194
+00:42:58,042 --> 00:42:59,731
+<i>But hideous on the inside</i>
+<font color="#7f7f7f"><i>Whole life spreading lies, but you can’t hide</i></font>
+
+195
+00:42:59,732 --> 00:43:01,716
+<i>Whole life spreading lies, but you can’t hide</i>
+<font color="#7f7f7f"><i>Baby, nice try</i></font>
+
+196
+00:43:01,717 --> 00:43:03,078
+<i>Baby, nice try</i>
+<font color="#7f7f7f"><i>I’m ’bout to switch up these vibes</i></font>
+
+197
+00:43:03,079 --> 00:43:04,803
+<i>I’m ’bout to switch up these vibes</i>
+<font color="#7f7f7f"><i>I finally opened my eyes</i></font>
+
+198
+00:43:04,804 --> 00:43:06,685
+<i>I finally opened my eyes</i>
+<font color="#7f7f7f"><i>It’s time to kick you straight back into the night</i></font>
+
+199
+00:43:06,686 --> 00:43:09,727
+<i>It’s time to kick you straight back into the night</i>
+<font color="#7f7f7f"><i>♪</i></font>
+
+200
+00:43:27,174 --> 00:43:28,674
+<i>♪</i>
+<font color="#7f7f7f"><i>I’ma gear up</i></font>
+
+201
+00:43:28,675 --> 00:43:29,789
+<i>I’ma gear up</i>
+<font color="#7f7f7f"><i>And take you down (Ooh-oh da-da-da down)</i></font>
+
+202
+00:43:29,790 --> 00:43:33,002
+<i>And take you down (Ooh-oh da-da-da down)</i>
+<font color="#7f7f7f"><i>It’s a takedown (Ooh-oh da-da-da down)</i></font>
+
+203
+00:43:33,003 --> 00:43:37,030
+<i>It’s a takedown (Ooh-oh da-da-da down)</i>
+<font color="#7f7f7f"><i>It’s a takedown, I’ma take you out</i></font>
+
+204
+00:43:37,031 --> 00:43:38,708
+<i>It’s a takedown, I’ma take you out</i>
+<font color="#7f7f7f"><i>You break down like, “What?”</i></font>
+
+205
+00:43:38,709 --> 00:43:40,390
+<i>You break down like, “What?”</i>
+<font color="#7f7f7f"><i>It’s a takedown, I’ma take you out</i></font>
+
+206
+00:43:40,391 --> 00:43:42,092
+<i>It’s a takedown, I’ma take you out</i>
+<font color="#7f7f7f"><i>And it ain’t gonna stop</i></font>
+
+207
+00:43:42,093 --> 00:43:43,563
+<i>And it ain’t gonna stop</i>
+<font color="#7f7f7f"><i>♪</i></font>
+
+208
+00:43:47,743 --> 00:43:49,243
+<i>♪</i>
+<font color="#7f7f7f"><i>I’ma gear up</i></font>
+
+209
+00:43:49,244 --> 00:43:50,297
+<i>I’ma gear up</i>
+<font color="#7f7f7f"><i>And take you down (Ooh-oh da-da-da down)</i></font>
+
+210
+00:43:50,298 --> 00:43:53,642
+<i>And take you down (Ooh-oh da-da-da down)</i>
+<font color="#7f7f7f"><i>It's a takedown (Ooh-oh da-da-da down)</i></font>
+
+211
+00:43:53,643 --> 00:43:56,995
+<i>It's a takedown (Ooh-oh da-da-da down)</i>
+<font color="#7f7f7f"><i>I'ma take it down (Ooh-oh da-da-da down)</i></font>
+
+212
+00:43:56,996 --> 00:44:01,245
+<i>I'ma take it down (Ooh-oh da-da-da down)</i>
+<font color="#7f7f7f"><i>(Ooh-oh da-da-da down)</i></font>
+
+213
+00:44:01,246 --> 00:44:04,453
+<i>(Ooh-oh da-da-da down)</i>
+<font color="#7f7f7f"><i>♪</i></font>
+
+214
+00:52:01,079 --> 00:52:02,579
+<i>♪</i>
+<font color="#7f7f7f"><i>Time to put you in your place</i></font>
+
+215
+00:52:02,580 --> 00:52:04,226
+<i>Time to put you in your place</i>
+<font color="#7f7f7f"><i>'Cause you're rotten within</i></font>
+
+216
+00:52:04,227 --> 00:52:06,058
+<i>'Cause you're rotten within</i>
+<font color="#7f7f7f"><i>When your patterns start to show</i></font>
+
+217
+00:52:06,059 --> 00:52:07,375
+<i>When your patterns start to show</i>
+<font color="#7f7f7f"><i>It makes the hatred wanna grow outta my-</i></font>
+
+218
+00:52:07,376 --> 00:52:09,846
+<i>It makes the hatred wanna grow outta my-</i>
+<font color="#7f7f7f"><i>♪</i></font>
+
+219
+00:53:58,330 --> 00:53:59,830
+<i>♪</i>
+<font color="#7f7f7f"><i>It’s a takedown, I’ma take you out</i></font>
+
+220
+00:53:59,831 --> 00:54:01,508
+<i>It’s a takedown, I’ma take you out</i>
+<font color="#7f7f7f"><i>You break down like, “What?”</i></font>
+
+221
+00:54:01,509 --> 00:54:03,290
+<i>You break down like, “What?”</i>
+<font color="#7f7f7f"><i>It’s a takedown, I’ma take you out</i></font>
+
+222
+00:54:03,291 --> 00:54:04,892
+<i>It’s a takedown, I’ma take you out</i>
+<font color="#7f7f7f"><i>And it ain’t gonna stop</i></font>
+
+223
+00:54:04,893 --> 00:54:06,663
+<i>And it ain’t gonna stop</i>
+<font color="#7f7f7f"><i>Jeongsin-eul nohgo neoljib balgo</i></font>
+
+224
+00:54:06,664 --> 00:54:08,604
+<i>Jeongsin-eul nohgo neoljib balgo</i>
+<font color="#7f7f7f"><i>Galleul segeonwa</i></font>
+
+225
+00:54:08,605 --> 00:54:09,874
+<i>Galleul segeonwa</i>
+<font color="#7f7f7f"><i>You’ll be begging and crying, all of you dying</i></font>
+
+226
+00:54:09,875 --> 00:54:11,960
+<i>You’ll be begging and crying, all of you dying</i>
+<font color="#7f7f7f"><i>Never miss my shot</i></font>
+
+227
+00:54:11,961 --> 00:54:13,819
+<i>Never miss my shot</i>
+<font color="#7f7f7f"><i>I don’t think you’re ready for the takedown</i></font>
+
+228
+00:54:13,820 --> 00:54:17,054
+<i>I don’t think you’re ready for the takedown</i>
+<font color="#7f7f7f"><i>A demon with no feelings don't deserve to live</i></font>
+
+229
+00:54:17,055 --> 00:54:20,166
+<i>A demon with no feelings don't deserve to live</i>
+<font color="#7f7f7f"><i>It's so obvious</i></font>
+
+230
+00:54:20,167 --> 00:54:22,304
+<i>It's so obvious</i>
+<font color="#7f7f7f"><i>I'ma gear up-</i></font>
+
+231
+00:54:22,305 --> 00:54:23,352
+<i>I'ma gear up-</i>
+<font color="#7f7f7f"><i>♪</i></font>
+
+232
+00:54:29,570 --> 00:54:31,070
+<i>♪</i>
+<font color="#7f7f7f"><i>(You can try but you can’t hide)</i></font>
+
+233
+00:54:31,071 --> 00:54:33,106
+<i>(You can try but you can’t hide)</i>
+<font color="#7f7f7f"><i>It’s a takedown, I’ma take you out</i></font>
+
+234
+00:54:33,107 --> 00:54:34,754
+<i>It’s a takedown, I’ma take you out</i>
+<font color="#7f7f7f"><i>And I ain’t gonna stop</i></font>
+
+235
+00:54:34,755 --> 00:54:35,922
+<i>And I ain’t gonna stop</i>
+<font color="#7f7f7f"><i>♪</i></font>
+
+236
+00:56:26,489 --> 00:56:27,989
+<i>♪</i>
+<font color="#7f7f7f"><i>I tried to hide but something broke</i></font>
+
+237
+00:56:27,990 --> 00:56:31,398
+<i>I tried to hide but something broke</i>
+<font color="#7f7f7f"><i>I tried to sing, couldn't hit the notes</i></font>
+
+238
+00:56:31,399 --> 00:56:34,128
+<i>I tried to sing, couldn't hit the notes</i>
+<font color="#7f7f7f"><i>The words kept catching in my throat</i></font>
+
+239
+00:56:34,129 --> 00:56:38,159
+<i>The words kept catching in my throat</i>
+<font color="#7f7f7f"><i>I tried to smile, I was suffocating though</i></font>
+
+240
+00:56:38,160 --> 00:56:41,038
+<i>I tried to smile, I was suffocating though</i>
+<font color="#7f7f7f"><i>But here with you, I can finally breathe</i></font>
+
+241
+00:56:41,039 --> 00:56:44,569
+<i>But here with you, I can finally breathe</i>
+<font color="#7f7f7f"><i>You say you're no good</i></font>
+
+242
+00:56:44,570 --> 00:56:46,355
+<i>You say you're no good</i>
+<font color="#7f7f7f"><i>But you're good for me</i></font>
+
+243
+00:56:46,356 --> 00:56:48,139
+<i>But you're good for me</i>
+<font color="#7f7f7f"><i>I've been hoping to change</i></font>
+
+244
+00:56:48,140 --> 00:56:50,050
+<i>I've been hoping to change</i>
+<font color="#7f7f7f"><i>Now I know we can change</i></font>
+
+245
+00:56:50,051 --> 00:56:52,199
+<i>Now I know we can change</i>
+<font color="#7f7f7f"><i>But I won't if you're not by my side</i></font>
+
+246
+00:56:52,200 --> 00:56:57,099
+<i>But I won't if you're not by my side</i>
+<font color="#7f7f7f"><i>Why does it feel right every time I let you in?</i></font>
+
+247
+00:56:57,100 --> 00:57:00,699
+<i>Why does it feel right every time I let you in?</i>
+<font color="#7f7f7f"><i>Why does it feel like I can tell you anything?</i></font>
+
+248
+00:57:00,700 --> 00:57:04,459
+<i>Why does it feel like I can tell you anything?</i>
+<font color="#7f7f7f"><i>All the secrets that keep me in chains, and</i></font>
+
+249
+00:57:04,460 --> 00:57:07,888
+<i>All the secrets that keep me in chains, and</i>
+<font color="#7f7f7f"><i>All the damage that might make me dangerous</i></font>
+
+250
+00:57:07,889 --> 00:57:10,949
+<i>All the damage that might make me dangerous</i>
+<font color="#7f7f7f"><i>You got a dark side</i></font>
+
+251
+00:57:10,950 --> 00:57:12,635
+<i>You got a dark side</i>
+<font color="#7f7f7f"><i>Guess you're not the only one</i></font>
+
+252
+00:57:12,636 --> 00:57:14,349
+<i>Guess you're not the only one</i>
+<font color="#7f7f7f"><i>What if we both tried</i></font>
+
+253
+00:57:14,350 --> 00:57:15,927
+<i>What if we both tried</i>
+<font color="#7f7f7f"><i>Fighting what we're running from?</i></font>
+
+254
+00:57:15,928 --> 00:57:18,248
+<i>Fighting what we're running from?</i>
+<font color="#7f7f7f"><i>We can't fix it if we never face it</i></font>
+
+255
+00:57:18,249 --> 00:57:21,609
+<i>We can't fix it if we never face it</i>
+<font color="#7f7f7f"><i>What if we find a way to escape it?</i></font>
+
+256
+00:57:21,610 --> 00:57:24,639
+<i>What if we find a way to escape it?</i>
+<font color="#7f7f7f"><i>We could be free- free</i></font>
+
+257
+00:57:24,640 --> 00:57:31,889
+<i>We could be free- free</i>
+<font color="#7f7f7f"><i>We can't fix it if we never face it</i></font>
+
+258
+00:57:31,890 --> 00:57:35,339
+<i>We can't fix it if we never face it</i>
+<font color="#7f7f7f"><i>Let the past be the past 'til it's weightless</i></font>
+
+259
+00:57:35,340 --> 00:57:38,619
+<i>Let the past be the past 'til it's weightless</i>
+<font color="#7f7f7f"><i>Ooh, time goes by, and I lose perspective</i></font>
+
+260
+00:57:38,620 --> 00:57:42,339
+<i>Ooh, time goes by, and I lose perspective</i>
+<font color="#7f7f7f"><i>Yeah, hope only hurts, so I just forget it</i></font>
+
+261
+00:57:42,340 --> 00:57:45,718
+<i>Yeah, hope only hurts, so I just forget it</i>
+<font color="#7f7f7f"><i>But you're breaking through all the dark in me</i></font>
+
+262
+00:57:45,719 --> 00:57:47,429
+<i>But you're breaking through all the dark in me</i>
+<font color="#7f7f7f"><i>When I thought that nobody could</i></font>
+
+263
+00:57:47,430 --> 00:57:48,958
+<i>When I thought that nobody could</i>
+<font color="#7f7f7f"><i>And you're waking up all these parts of me</i></font>
+
+264
+00:57:48,959 --> 00:57:50,835
+<i>And you're waking up all these parts of me</i>
+<font color="#7f7f7f"><i>That I thought were buried for good</i></font>
+
+265
+00:57:50,836 --> 00:57:52,399
+<i>That I thought were buried for good</i>
+<font color="#7f7f7f"><i>Between imposter and this monster</i></font>
+
+266
+00:57:52,400 --> 00:57:54,228
+<i>Between imposter and this monster</i>
+<font color="#7f7f7f"><i>I been lost inside my head</i></font>
+
+267
+00:57:54,229 --> 00:57:55,848
+<i>I been lost inside my head</i>
+<font color="#7f7f7f"><i>Ain't no choice when all these voices</i></font>
+
+268
+00:57:55,849 --> 00:57:57,539
+<i>Ain't no choice when all these voices</i>
+<font color="#7f7f7f"><i>Keep me pointing towards no end</i></font>
+
+269
+00:57:57,540 --> 00:57:59,478
+<i>Keep me pointing towards no end</i>
+<font color="#7f7f7f"><i>It's just easy when I'm with you</i></font>
+
+270
+00:57:59,479 --> 00:58:01,194
+<i>It's just easy when I'm with you</i>
+<font color="#7f7f7f"><i>No one sees me the way you do</i></font>
+
+271
+00:58:01,195 --> 00:58:02,939
+<i>No one sees me the way you do</i>
+<font color="#7f7f7f"><i>I don't trust it, but I want to</i></font>
+
+272
+00:58:02,940 --> 00:58:04,550
+<i>I don't trust it, but I want to</i>
+<font color="#7f7f7f"><i>I keep coming back to</i></font>
+
+273
+00:58:04,551 --> 00:58:05,708
+<i>I keep coming back to</i>
+<font color="#7f7f7f"><i>Why does it feel right every time I let you in?</i></font>
+
+274
+00:58:05,709 --> 00:58:09,228
+<i>Why does it feel right every time I let you in?</i>
+<font color="#7f7f7f"><i>Why does it feel like I can tell you anything?</i></font>
+
+275
+00:58:09,229 --> 00:58:12,988
+<i>Why does it feel like I can tell you anything?</i>
+<font color="#7f7f7f"><i>We can't fix it if we never face it</i></font>
+
+276
+00:58:12,989 --> 00:58:16,428
+<i>We can't fix it if we never face it</i>
+<font color="#7f7f7f"><i>What if we find a way to escape it?</i></font>
+
+277
+00:58:16,429 --> 00:58:19,348
+<i>What if we find a way to escape it?</i>
+<font color="#7f7f7f"><i>We could be free- free</i></font>
+
+278
+00:58:19,349 --> 00:58:26,598
+<i>We could be free- free</i>
+<font color="#7f7f7f"><i>We can't fix it if we never face it</i></font>
+
+279
+00:58:26,599 --> 00:58:30,068
+<i>We can't fix it if we never face it</i>
+<font color="#7f7f7f"><i>Let the past be the past 'til it's weightless</i></font>
+
+280
+00:58:30,069 --> 00:58:33,119
+<i>Let the past be the past 'til it's weightless</i>
+<font color="#7f7f7f"><i>Ooh, so take my hand, it's open (Free, free)</i></font>
+
+281
+00:58:33,120 --> 00:58:48,529
+<i>Ooh, so take my hand, it's open (Free, free)</i>
+<font color="#7f7f7f"><i>What if we heal what's broken? (Free, free)</i></font>
+
+282
+00:58:48,530 --> 00:59:01,638
+<i>What if we heal what's broken? (Free, free)</i>
+<font color="#7f7f7f"><i>I tried to hide but something broke</i></font>
+
+283
+00:59:01,639 --> 00:59:05,099
+<i>I tried to hide but something broke</i>
+<font color="#7f7f7f"><i>I couldn't sing, but you give me hope</i></font>
+
+284
+00:59:05,100 --> 00:59:07,908
+<i>I couldn't sing, but you give me hope</i>
+<font color="#7f7f7f"><i>We can't fix it if we never face it</i></font>
+
+285
+00:59:07,909 --> 00:59:11,298
+<i>We can't fix it if we never face it</i>
+<font color="#7f7f7f"><i>Let the past be the past 'til it's weightless</i></font>
+
+286
+00:59:11,299 --> 00:59:14,599
+<i>Let the past be the past 'til it's weightless</i>
+<font color="#7f7f7f"><i>♪</i></font>
+
+287
+01:04:45,258 --> 01:04:46,758
+<i>♪</i>
+<font color="#7f7f7f"><i>I was a ghost, I was alone</i></font>
+
+288
+01:04:46,759 --> 01:04:49,059
+<i>I was a ghost, I was alone</i>
+<font color="#7f7f7f"><i>Eoduwojin abgilsog-e (Aah)</i></font>
+
+289
+01:04:49,060 --> 01:04:54,548
+<i>Eoduwojin abgilsog-e (Aah)</i>
+<font color="#7f7f7f"><i>Given the throne I didn't know</i></font>
+
+290
+01:04:54,549 --> 01:04:56,754
+<i>Given the throne I didn't know</i>
+<font color="#7f7f7f"><i>How to believe</i></font>
+
+291
+01:04:56,755 --> 01:04:58,738
+<i>How to believe</i>
+<font color="#7f7f7f"><i>I was the queen that I'm meant to be</i></font>
+
+292
+01:04:58,739 --> 01:05:01,488
+<i>I was the queen that I'm meant to be</i>
+<font color="#7f7f7f"><i>I lived two lives, tried to play both sides</i></font>
+
+293
+01:05:01,489 --> 01:05:05,349
+<i>I lived two lives, tried to play both sides</i>
+<font color="#7f7f7f"><i>But I couldn't find my own place</i></font>
+
+294
+01:05:05,350 --> 01:05:08,929
+<i>But I couldn't find my own place</i>
+<font color="#7f7f7f"><i>Called a problem child 'cause I got too wild</i></font>
+
+295
+01:05:08,930 --> 01:05:13,089
+<i>Called a problem child 'cause I got too wild</i>
+<font color="#7f7f7f"><i>But now that's how I'm getting paid</i></font>
+
+296
+01:05:13,090 --> 01:05:16,256
+<i>But now that's how I'm getting paid</i>
+<font color="#7f7f7f"><i>(Kkeut-eobs-psi on stage)</i></font>
+
+297
+01:05:16,257 --> 01:05:17,508
+<i>(Kkeut-eobs-psi on stage)</i>
+<font color="#7f7f7f"><i>I'm done hidin', now I'm shinin'</i></font>
+
+298
+01:05:17,509 --> 01:05:21,419
+<i>I'm done hidin', now I'm shinin'</i>
+<font color="#7f7f7f"><i>Like I'm born to be</i></font>
+
+299
+01:05:21,420 --> 01:05:24,769
+<i>Like I'm born to be</i>
+<font color="#7f7f7f"><i>We're dreamin' hard, we came so far</i></font>
+
+300
+01:05:24,770 --> 01:05:28,778
+<i>We're dreamin' hard, we came so far</i>
+<font color="#7f7f7f"><i>Now I believe</i></font>
+
+301
+01:05:28,779 --> 01:05:32,159
+<i>Now I believe</i>
+<font color="#7f7f7f"><i>We're goin' up- up- up, it's our moment</i></font>
+
+302
+01:05:32,160 --> 01:05:36,059
+<i>We're goin' up- up- up, it's our moment</i>
+<font color="#7f7f7f"><i>You know together we're glowing</i></font>
+
+303
+01:05:36,060 --> 01:05:37,988
+<i>You know together we're glowing</i>
+<font color="#7f7f7f"><i>Gonna be, gonna bе golden</i></font>
+
+304
+01:05:37,989 --> 01:05:39,969
+<i>Gonna be, gonna bе golden</i>
+<font color="#7f7f7f"><i>Ooh, up- up- up with our voices</i></font>
+
+305
+01:05:39,970 --> 01:05:43,929
+<i>Ooh, up- up- up with our voices</i>
+<font color="#7f7f7f"><i>Yeong-wonhi kkaеjil su eobsneun</i></font>
+
+306
+01:05:43,930 --> 01:05:45,808
+<i>Yeong-wonhi kkaеjil su eobsneun</i>
+<font color="#7f7f7f"><i>Gonna be, gonna be golden</i></font>
+
+307
+01:05:45,809 --> 01:05:47,749
+<i>Gonna be, gonna be golden</i>
+<font color="#7f7f7f"><i>Ooh, I'm done hidin', now I'm shinin'</i></font>
+
+308
+01:05:47,750 --> 01:05:52,649
+<i>Ooh, I'm done hidin', now I'm shinin'</i>
+<font color="#7f7f7f"><i>Like I'm born to be</i></font>
+
+309
+01:05:52,650 --> 01:05:55,969
+<i>Like I'm born to be</i>
+<font color="#7f7f7f"><i>Oh, our time, no fears, no lies</i></font>
+
+310
+01:05:55,970 --> 01:05:59,839
+<i>Oh, our time, no fears, no lies</i>
+<font color="#7f7f7f"><i>That's who we're born to be</i></font>
+
+311
+01:05:59,840 --> 01:06:03,437
+<i>That's who we're born to be</i>
+<font color="#7f7f7f"><i>You know we're gonna be, gonna be golden</i></font>
+
+312
+01:06:03,438 --> 01:06:06,208
+<i>You know we're gonna be, gonna be golden</i>
+<font color="#7f7f7f"><i>We're gonna be, gonna be</i></font>
+
+313
+01:06:06,209 --> 01:06:08,391
+<i>We're gonna be, gonna be</i>
+<font color="#7f7f7f"><i>Born to be, born to be glowin'</i></font>
+
+314
+01:06:08,392 --> 01:06:10,194
+<i>Born to be, born to be glowin'</i>
+<font color="#7f7f7f"><i>Balg-ge bichnaneun uli</i></font>
+
+315
+01:06:10,195 --> 01:06:11,503
+<i>Balg-ge bichnaneun uli</i>
+<font color="#7f7f7f"><i>You know that it's our time, no fears, no lies</i></font>
+
+316
+01:06:11,504 --> 01:06:15,595
+<i>You know that it's our time, no fears, no lies</i>
+<font color="#7f7f7f"><i>That's who we're born to be</i></font>
+
+317
+01:06:15,596 --> 01:06:19,638
+<i>That's who we're born to be</i>
+<font color="#7f7f7f"><i>♪</i></font>
+
+318
+01:06:23,297 --> 01:06:24,797
+<i>♪</i>
+<font color="#7f7f7f"><i>(Takedown, takedown)</i></font>
+
+319
+01:06:24,798 --> 01:06:26,451
+<i>(Takedown, takedown)</i>
+<font color="#7f7f7f"><i>(Takedown- down- down- down)</i></font>
+
+320
+01:06:26,452 --> 01:06:28,209
+<i>(Takedown- down- down- down)</i>
+<font color="#7f7f7f"><i>(Takedown, takedown)</i></font>
+
+321
+01:06:28,210 --> 01:06:29,863
+<i>(Takedown, takedown)</i>
+<font color="#7f7f7f"><i>(I don't think you're ready for the takedown<i>)</i></i></font>
+
+322
+01:06:29,864 --> 01:06:33,421
+<i>(I don't think you're ready for the takedown<i>)</i></i>
+<font color="#7f7f7f"><i>(Break you into pieces in a world of pain)</i></font>
+
+323
+01:06:33,422 --> 01:06:36,341
+<i>(Break you into pieces in a world of pain)</i>
+<font color="#7f7f7f"><i>('Cause you're all the same)</i></font>
+
+324
+01:06:36,342 --> 01:06:37,521
+<i>('Cause you're all the same)</i>
+<font color="#7f7f7f"><i>(Yeah, it's a takedown- takedown)</i></font>
+
+325
+01:06:37,522 --> 01:06:40,521
+<i>(Yeah, it's a takedown- takedown)</i>
+<font color="#7f7f7f"><i>It's a takedown</i></font>
+
+326
+01:06:40,522 --> 01:06:42,121
+<i>It's a takedown</i>
+<font color="#7f7f7f"><i>So sweet, so easy on the eyes</i></font>
+
+327
+01:06:42,122 --> 01:06:43,680
+<i>So sweet, so easy on the eyes</i>
+<font color="#7f7f7f"><i>But hideous on the inside</i></font>
+
+328
+01:06:43,681 --> 01:06:45,370
+<i>But hideous on the inside</i>
+<font color="#7f7f7f"><i>Whole life spreading lies, but you can’t hide</i></font>
+
+329
+01:06:45,371 --> 01:06:47,355
+<i>Whole life spreading lies, but you can’t hide</i>
+<font color="#7f7f7f"><i>Baby, nice try</i></font>
+
+330
+01:06:47,356 --> 01:06:48,717
+<i>Baby, nice try</i>
+<font color="#7f7f7f"><i>I’m ’bout to switch up these vibes</i></font>
+
+331
+01:06:48,718 --> 01:06:50,442
+<i>I’m ’bout to switch up these vibes</i>
+<font color="#7f7f7f"><i>I finally opened my eyes</i></font>
+
+332
+01:06:50,443 --> 01:06:52,324
+<i>I finally opened my eyes</i>
+<font color="#7f7f7f"><i>It’s time to kick you straight back into the night</i></font>
+
+333
+01:06:52,325 --> 01:06:55,066
+<i>It’s time to kick you straight back into the night</i>
+<font color="#7f7f7f"><i>‘Cause I see your real face and it’s ugly as sin</i></font>
+
+334
+01:06:55,067 --> 01:06:58,597
+<i>‘Cause I see your real face and it’s ugly as sin</i>
+<font color="#7f7f7f"><i>Time to put you in your place</i></font>
+
+335
+01:06:58,598 --> 01:07:00,293
+<i>Time to put you in your place</i>
+<font color="#7f7f7f"><i>’Cause you’re rotten within</i></font>
+
+336
+01:07:00,294 --> 01:07:02,065
+<i>’Cause you’re rotten within</i>
+<font color="#7f7f7f"><i>When your patterns start to show</i></font>
+
+337
+01:07:02,066 --> 01:07:03,482
+<i>When your patterns start to show</i>
+<font color="#7f7f7f"><i>It makes the hatred wanna grow outta my veins</i></font>
+
+338
+01:07:03,483 --> 01:07:07,601
+<i>It makes the hatred wanna grow outta my veins</i>
+<font color="#7f7f7f"><i>I don’t think you’re ready for the takedown</i></font>
+
+339
+01:07:07,602 --> 01:07:10,979
+<i>I don’t think you’re ready for the takedown</i>
+<font color="#7f7f7f"><i>Breaking into pieces in the world of pain</i></font>
+
+340
+01:07:10,980 --> 01:07:14,014
+<i>Breaking into pieces in the world of pain</i>
+<font color="#7f7f7f"><i>’Cause you’re all the same</i></font>
+
+341
+01:07:14,015 --> 01:07:15,476
+<i>’Cause you’re all the same</i>
+<font color="#7f7f7f"><i>Yeah, it’s a takedown</i></font>
+
+342
+01:07:15,477 --> 01:07:17,661
+<i>Yeah, it’s a takedown</i>
+<font color="#7f7f7f"><i>A demon with no feelings don’t deserve to live</i></font>
+
+343
+01:07:17,662 --> 01:07:20,846
+<i>A demon with no feelings don’t deserve to live</i>
+<font color="#7f7f7f"><i>It’s so obvious</i></font>
+
+344
+01:07:20,847 --> 01:07:23,013
+<i>It’s so obvious</i>
+<font color="#7f7f7f"><i>I’ma gear up</i></font>
+
+345
+01:07:23,014 --> 01:07:24,038
+<i>I’ma gear up</i>
+<font color="#7f7f7f"><i>And take you down (Ooh-oh da-da-da down)</i></font>
+
+346
+01:07:24,039 --> 01:07:28,220
+<i>And take you down (Ooh-oh da-da-da down)</i>
+<font color="#7f7f7f"><i>(Ooh-oh da-da-da down)</i></font>
+
+347
+01:07:28,221 --> 01:07:31,694
+<i>(Ooh-oh da-da-da down)</i>
+<font color="#7f7f7f"><i>(Ooh-oh da-da-da down)</i></font>
+
+348
+01:07:31,695 --> 01:07:34,643
+<i>(Ooh-oh da-da-da down)</i>
+<font color="#7f7f7f"><i>♪</i></font>
+
+349
+01:15:52,307 --> 01:15:53,807
+<i>♪</i>
+<font color="#7f7f7f"><i>(I'll be your idol)</i></font>
+
+350
+01:15:53,808 --> 01:15:55,988
+<i>(I'll be your idol)</i>
+<font color="#7f7f7f"><i>Keeping you in check, keeping you obsessed</i></font>
+
+351
+01:15:55,989 --> 01:15:58,692
+<i>Keeping you in check, keeping you obsessed</i>
+<font color="#7f7f7f"><i>Play me on repeat, kkeuteobsi in your head</i></font>
+
+352
+01:15:58,693 --> 01:16:01,307
+<i>Play me on repeat, kkeuteobsi in your head</i>
+<font color="#7f7f7f"><i>Anytime it hurts, play another verse</i></font>
+
+353
+01:16:01,308 --> 01:16:03,928
+<i>Anytime it hurts, play another verse</i>
+<font color="#7f7f7f"><i>I can be your sanctuary</i></font>
+
+354
+01:16:03,929 --> 01:16:06,317
+<i>I can be your sanctuary</i>
+<font color="#7f7f7f"><i>Know I'm the only one right now</i></font>
+
+355
+01:16:06,318 --> 01:16:08,705
+<i>Know I'm the only one right now</i>
+<font color="#7f7f7f"><i>I will love you more when it all burns down</i></font>
+
+356
+01:16:08,706 --> 01:16:11,044
+<i>I will love you more when it all burns down</i>
+<font color="#7f7f7f"><i>More than power, more than gold</i></font>
+
+357
+01:16:11,045 --> 01:16:13,616
+<i>More than power, more than gold</i>
+<font color="#7f7f7f"><i>Yeah, you gave me your heart</i></font>
+
+358
+01:16:13,617 --> 01:16:14,953
+<i>Yeah, you gave me your heart</i>
+<font color="#7f7f7f"><i>Now I'm here for your soul</i></font>
+
+359
+01:16:14,954 --> 01:16:16,286
+<i>Now I'm here for your soul</i>
+<font color="#7f7f7f"><i>I'm thе only one who'll love your sins</i></font>
+
+360
+01:16:16,287 --> 01:16:21,326
+<i>I'm thе only one who'll love your sins</i>
+<font color="#7f7f7f"><i>Feel the way my voicе</i></font>
+
+361
+01:16:21,327 --> 01:16:22,600
+<i>Feel the way my voicе</i>
+<font color="#7f7f7f"><i>Gets underneath your skin</i></font>
+
+362
+01:16:22,601 --> 01:16:26,745
+<i>Gets underneath your skin</i>
+<font color="#7f7f7f"><i>Listen 'cause I'm preachin' to the choir</i></font>
+
+363
+01:16:26,746 --> 01:16:29,878
+<i>Listen 'cause I'm preachin' to the choir</i>
+<font color="#7f7f7f"><i>Can I get the mic' a little higher?</i></font>
+
+364
+01:16:29,879 --> 01:16:33,237
+<i>Can I get the mic' a little higher?</i>
+<font color="#7f7f7f"><i>Gimme your desire</i></font>
+
+365
+01:16:33,238 --> 01:16:35,200
+<i>Gimme your desire</i>
+<font color="#7f7f7f"><i>I can be the star you rely on (You rely on)</i></font>
+
+366
+01:16:35,201 --> 01:16:37,948
+<i>I can be the star you rely on (You rely on)</i>
+<font color="#7f7f7f"><i>Nae hwanghorui chwihae you can't look away</i></font>
+
+367
+01:16:37,949 --> 01:16:40,813
+<i>Nae hwanghorui chwihae you can't look away</i>
+<font color="#7f7f7f"><i>Don't you know I'm here to save you</i></font>
+
+368
+01:16:40,814 --> 01:16:44,019
+<i>Don't you know I'm here to save you</i>
+<font color="#7f7f7f"><i>Now we runnin' wild</i></font>
+
+369
+01:16:44,020 --> 01:16:45,659
+<i>Now we runnin' wild</i>
+<font color="#7f7f7f"><i>Yeah, I'm all you need, I'ma be your idol</i></font>
+
+370
+01:16:45,660 --> 01:16:49,648
+<i>Yeah, I'm all you need, I'ma be your idol</i>
+<font color="#7f7f7f"><i>Uh, bichineun fame, gyesog oechyeo</i></font>
+
+371
+01:16:49,649 --> 01:16:51,667
+<i>Uh, bichineun fame, gyesog oechyeo</i>
+<font color="#7f7f7f"><i>I'm your idol</i></font>
+
+372
+01:16:51,668 --> 01:16:52,754
+<i>I'm your idol</i>
+<font color="#7f7f7f"><i>Thank you for the pain</i></font>
+
+373
+01:16:52,755 --> 01:16:53,779
+<i>Thank you for the pain</i>
+<font color="#7f7f7f"><i>'Cause it got me going viral</i></font>
+
+374
+01:16:53,780 --> 01:16:55,410
+<i>'Cause it got me going viral</i>
+<font color="#7f7f7f"><i>Uh, yeah, natji anhneun fever</i></font>
+
+375
+01:16:55,411 --> 01:16:57,394
+<i>Uh, yeah, natji anhneun fever</i>
+<font color="#7f7f7f"><i>Makin' you a believer</i></font>
+
+376
+01:16:57,395 --> 01:16:58,659
+<i>Makin' you a believer</i>
+<font color="#7f7f7f"><i>Naleul wae neon jonjaehaneun idol?</i></font>
+
+377
+01:16:58,660 --> 01:17:01,115
+<i>Naleul wae neon jonjaehaneun idol?</i>
+<font color="#7f7f7f"><i>Living in your mind now</i></font>
+
+378
+01:17:01,116 --> 01:17:03,589
+<i>Living in your mind now</i>
+<font color="#7f7f7f"><i>Too late 'cause you're mine now</i></font>
+
+379
+01:17:03,590 --> 01:17:06,059
+<i>Too late 'cause you're mine now</i>
+<font color="#7f7f7f"><i>I will make you free</i></font>
+
+380
+01:17:06,060 --> 01:17:08,161
+<i>I will make you free</i>
+<font color="#7f7f7f"><i>When you're all part of me</i></font>
+
+381
+01:17:08,162 --> 01:17:10,753
+<i>When you're all part of me</i>
+<font color="#7f7f7f"><i>(Listen 'cause I'm) preaching to the choir</i></font>
+
+382
+01:17:10,754 --> 01:17:12,791
+<i>(Listen 'cause I'm) preaching to the choir</i>
+<font color="#7f7f7f"><i>(Now) Can I get the mic a little higher?</i></font>
+
+383
+01:17:12,792 --> 01:17:16,849
+<i>(Now) Can I get the mic a little higher?</i>
+<font color="#7f7f7f"><i>Gimme your desire</i></font>
+
+384
+01:17:16,850 --> 01:17:18,606
+<i>Gimme your desire</i>
+<font color="#7f7f7f"><i>Watch me set your world on fire</i></font>
+
+385
+01:17:18,607 --> 01:17:21,208
+<i>Watch me set your world on fire</i>
+<font color="#7f7f7f"><i>Nae hwanghorui chwihae you can't look away</i></font>
+
+386
+01:17:21,209 --> 01:17:23,946
+<i>Nae hwanghorui chwihae you can't look away</i>
+<font color="#7f7f7f"><i>No one is coming to save you</i></font>
+
+387
+01:17:23,947 --> 01:17:27,434
+<i>No one is coming to save you</i>
+<font color="#7f7f7f"><i>Now we runnin' wild</i></font>
+
+388
+01:17:27,435 --> 01:17:29,042
+<i>Now we runnin' wild</i>
+<font color="#7f7f7f"><i>You're down on your knees, I'ma be your idol</i></font>
+
+389
+01:17:29,043 --> 01:17:32,043
+<i>You're down on your knees, I'ma be your idol</i>
+<font color="#7f7f7f"><i>♪</i></font>
+
+390
+01:18:20,699 --> 01:18:22,199
+<i>♪</i>
+<font color="#7f7f7f"><i>Nothing but the truth now</i></font>
+
+391
+01:18:22,200 --> 01:18:26,649
+<i>Nothing but the truth now</i>
+<font color="#7f7f7f"><i>Nothing but the proof of what I am</i></font>
+
+392
+01:18:26,650 --> 01:18:30,999
+<i>Nothing but the proof of what I am</i>
+<font color="#7f7f7f"><i>The worst of what I came from</i></font>
+
+393
+01:18:31,000 --> 01:18:33,369
+<i>The worst of what I came from</i>
+<font color="#7f7f7f"><i>Patterns I'm ashamed of</i></font>
+
+394
+01:18:33,370 --> 01:18:35,708
+<i>Patterns I'm ashamed of</i>
+<font color="#7f7f7f"><i>Things that even I don't understand</i></font>
+
+395
+01:18:35,709 --> 01:18:39,328
+<i>Things that even I don't understand</i>
+<font color="#7f7f7f"><i>I tried to fix it, I tried to fight it</i></font>
+
+396
+01:18:39,329 --> 01:18:43,829
+<i>I tried to fix it, I tried to fight it</i>
+<font color="#7f7f7f"><i>My head was twisted, my heart divided</i></font>
+
+397
+01:18:43,830 --> 01:18:47,859
+<i>My head was twisted, my heart divided</i>
+<font color="#7f7f7f"><i>My lies all collided</i></font>
+
+398
+01:18:47,860 --> 01:18:50,109
+<i>My lies all collided</i>
+<font color="#7f7f7f"><i>I don't know why I didn't trust you</i></font>
+
+399
+01:18:50,110 --> 01:18:53,779
+<i>I don't know why I didn't trust you</i>
+<font color="#7f7f7f"><i>To be on my side</i></font>
+
+400
+01:18:53,780 --> 01:18:59,829
+<i>To be on my side</i>
+<font color="#7f7f7f"><i>I broke into a million pieces</i></font>
+
+401
+01:18:59,830 --> 01:19:02,524
+<i>I broke into a million pieces</i>
+<font color="#7f7f7f"><i>And I can't go back</i></font>
+
+402
+01:19:02,525 --> 01:19:04,289
+<i>And I can't go back</i>
+<font color="#7f7f7f"><i>But now I'm seeing all the beauty</i></font>
+
+403
+01:19:04,290 --> 01:19:06,744
+<i>But now I'm seeing all the beauty</i>
+<font color="#7f7f7f"><i>In the broken glass</i></font>
+
+404
+01:19:06,745 --> 01:19:08,789
+<i>In the broken glass</i>
+<font color="#7f7f7f"><i>The scars are part of me</i></font>
+
+405
+01:19:08,790 --> 01:19:11,103
+<i>The scars are part of me</i>
+<font color="#7f7f7f"><i>Darkness and harmony</i></font>
+
+406
+01:19:11,104 --> 01:19:13,249
+<i>Darkness and harmony</i>
+<font color="#7f7f7f"><i>My voice without the lies</i></font>
+
+407
+01:19:13,250 --> 01:19:15,289
+<i>My voice without the lies</i>
+<font color="#7f7f7f"><i>This is what it sounds like</i></font>
+
+408
+01:19:15,290 --> 01:19:17,909
+<i>This is what it sounds like</i>
+<font color="#7f7f7f"><i>Why did I cover up</i></font>
+
+409
+01:19:17,910 --> 01:19:19,551
+<i>Why did I cover up</i>
+<font color="#7f7f7f"><i>The colors stuck inside my head?</i></font>
+
+410
+01:19:19,552 --> 01:19:22,469
+<i>The colors stuck inside my head?</i>
+<font color="#7f7f7f"><i>I should've let the jagged edges</i></font>
+
+411
+01:19:22,470 --> 01:19:24,876
+<i>I should've let the jagged edges</i>
+<font color="#7f7f7f"><i>Meet the light instead</i></font>
+
+412
+01:19:24,877 --> 01:19:26,869
+<i>Meet the light instead</i>
+<font color="#7f7f7f"><i>Show me what's underneath</i></font>
+
+413
+01:19:26,870 --> 01:19:29,183
+<i>Show me what's underneath</i>
+<font color="#7f7f7f"><i>I'll find your harmony</i></font>
+
+414
+01:19:29,184 --> 01:19:31,408
+<i>I'll find your harmony</i>
+<font color="#7f7f7f"><i>The song we couldn't write</i></font>
+
+415
+01:19:31,409 --> 01:19:33,538
+<i>The song we couldn't write</i>
+<font color="#7f7f7f"><i>This is what it sounds like</i></font>
+
+416
+01:19:33,539 --> 01:19:37,790
+<i>This is what it sounds like</i>
+<font color="#7f7f7f"><i>♪</i></font>
+
+417
+01:19:39,489 --> 01:19:40,989
+<i>♪</i>
+<font color="#7f7f7f"><i>We're shattering the silence</i></font>
+
+418
+01:19:40,990 --> 01:19:43,028
+<i>We're shattering the silence</i>
+<font color="#7f7f7f"><i>We're rising, defiant</i></font>
+
+419
+01:19:43,029 --> 01:19:45,258
+<i>We're rising, defiant</i>
+<font color="#7f7f7f"><i>Shouting in the quiet, "You're not alone"</i></font>
+
+420
+01:19:45,259 --> 01:19:49,069
+<i>Shouting in the quiet, "You're not alone"</i>
+<font color="#7f7f7f"><i>We listened to the demons</i></font>
+
+421
+01:19:49,070 --> 01:19:51,098
+<i>We listened to the demons</i>
+<font color="#7f7f7f"><i>We let them get between us</i></font>
+
+422
+01:19:51,099 --> 01:19:53,209
+<i>We let them get between us</i>
+<font color="#7f7f7f"><i>But none of us are out here on our own</i></font>
+
+423
+01:19:53,210 --> 01:19:56,698
+<i>But none of us are out here on our own</i>
+<font color="#7f7f7f"><i>So we were cowards, so we were liars</i></font>
+
+424
+01:19:56,699 --> 01:20:00,729
+<i>So we were cowards, so we were liars</i>
+<font color="#7f7f7f"><i>So we're not heroes, we're still survivors</i></font>
+
+425
+01:20:00,730 --> 01:20:04,338
+<i>So we're not heroes, we're still survivors</i>
+<font color="#7f7f7f"><i>The dreamers, the fighters</i></font>
+
+426
+01:20:04,339 --> 01:20:06,319
+<i>The dreamers, the fighters</i>
+<font color="#7f7f7f"><i>No lying, I'm tired</i></font>
+
+427
+01:20:06,320 --> 01:20:08,459
+<i>No lying, I'm tired</i>
+<font color="#7f7f7f"><i>But dive in the fire</i></font>
+
+428
+01:20:08,460 --> 01:20:10,410
+<i>But dive in the fire</i>
+<font color="#7f7f7f"><i>And I'll be right here by your side</i></font>
+
+429
+01:20:10,411 --> 01:20:14,099
+<i>And I'll be right here by your side</i>
+<font color="#7f7f7f"><i>♪</i></font>
+
+430
+01:20:17,498 --> 01:20:18,998
+<i>♪</i>
+<font color="#7f7f7f"><i>We broke into a million pieces</i></font>
+
+431
+01:20:18,999 --> 01:20:21,405
+<i>We broke into a million pieces</i>
+<font color="#7f7f7f"><i>And we can't go back</i></font>
+
+432
+01:20:21,406 --> 01:20:23,008
+<i>And we can't go back</i>
+<font color="#7f7f7f"><i>But now we're seeing all the beauty</i></font>
+
+433
+01:20:23,009 --> 01:20:25,320
+<i>But now we're seeing all the beauty</i>
+<font color="#7f7f7f"><i>In the broken glass</i></font>
+
+434
+01:20:25,321 --> 01:20:27,039
+<i>In the broken glass</i>
+<font color="#7f7f7f"><i>The scars are part of me</i></font>
+
+435
+01:20:27,040 --> 01:20:29,048
+<i>The scars are part of me</i>
+<font color="#7f7f7f"><i>Darkness and harmony</i></font>
+
+436
+01:20:29,049 --> 01:20:30,988
+<i>Darkness and harmony</i>
+<font color="#7f7f7f"><i>My voice without the lies</i></font>
+
+437
+01:20:30,989 --> 01:20:32,908
+<i>My voice without the lies</i>
+<font color="#7f7f7f"><i>This is what it sounds like</i></font>
+
+438
+01:20:32,909 --> 01:20:34,979
+<i>This is what it sounds like</i>
+<font color="#7f7f7f"><i>Why did we cover up the colors</i></font>
+
+439
+01:20:34,980 --> 01:20:37,316
+<i>Why did we cover up the colors</i>
+<font color="#7f7f7f"><i>Stuck inside our head?</i></font>
+
+440
+01:20:37,317 --> 01:20:39,028
+<i>Stuck inside our head?</i>
+<font color="#7f7f7f"><i>Get up and let the jagged edges</i></font>
+
+441
+01:20:39,029 --> 01:20:41,351
+<i>Get up and let the jagged edges</i>
+<font color="#7f7f7f"><i>Meet the light instead</i></font>
+
+442
+01:20:41,352 --> 01:20:42,998
+<i>Meet the light instead</i>
+<font color="#7f7f7f"><i>Show me what's underneath</i></font>
+
+443
+01:20:42,999 --> 01:20:44,990
+<i>Show me what's underneath</i>
+<font color="#7f7f7f"><i>I'll find your harmony</i></font>
+
+444
+01:20:44,991 --> 01:20:47,118
+<i>I'll find your harmony</i>
+<font color="#7f7f7f"><i>Fearless and undefined</i></font>
+
+445
+01:20:47,119 --> 01:20:48,875
+<i>Fearless and undefined</i>
+<font color="#7f7f7f"><i>This is what it sounds like</i></font>
+
+446
+01:20:48,876 --> 01:20:51,030
+<i>This is what it sounds like</i>
+<font color="#7f7f7f"><i>♪</i></font>
+
+447
+01:22:29,329 --> 01:22:30,829
+<i>♪</i>
+<font color="#7f7f7f"><i>(This is what it sounds like)</i></font>
+
+448
+01:22:30,830 --> 01:22:32,769
+<i>(This is what it sounds like)</i>
+<font color="#7f7f7f"><i>(Hey, hey)</i></font>
+
+449
+01:22:32,770 --> 01:22:38,468
+<i>(Hey, hey)</i>
+<font color="#7f7f7f"><i>(This is what it sounds like)</i></font>
+
+450
+01:22:38,469 --> 01:22:40,538
+<i>(This is what it sounds like)</i>
+<font color="#7f7f7f"><i>(Hey, hey)</i></font>
+
+451
+01:22:40,539 --> 01:22:46,168
+<i>(Hey, hey)</i>
+<font color="#7f7f7f"><i>(This is what it sounds like)</i></font>
+
+452
+01:22:46,169 --> 01:22:48,189
+<i>(This is what it sounds like)</i>
+<font color="#7f7f7f"><i>(Hey)</i></font>
+
+453
+01:22:48,190 --> 01:22:52,038
+<i>(Hey)</i>
+<font color="#7f7f7f"><i>(This is what it, this is what it)</i></font>
+
+454
+01:22:52,039 --> 01:22:53,998
+<i>(This is what it, this is what it)</i>
+<font color="#7f7f7f"><i>This is what it sounds like</i></font>
+
+455
+01:22:53,999 --> 01:22:57,089
+<i>This is what it sounds like</i>
+<font color="#7f7f7f"><i>We broke into a million pieces</i></font>
+
+456
+01:22:57,090 --> 01:22:59,172
+<i>We broke into a million pieces</i>
+<font color="#7f7f7f"><i>And we can't go back</i></font>
+
+457
+01:22:59,173 --> 01:23:00,959
+<i>And we can't go back</i>
+<font color="#7f7f7f"><i>But now I'm seeing all the beauty</i></font>
+
+458
+01:23:00,960 --> 01:23:03,084
+<i>But now I'm seeing all the beauty</i>
+<font color="#7f7f7f"><i>In the broken glass</i></font>
+
+459
+01:23:03,085 --> 01:23:04,779
+<i>In the broken glass</i>
+<font color="#7f7f7f"><i>The scars are part of me</i></font>
+
+460
+01:23:04,780 --> 01:23:06,763
+<i>The scars are part of me</i>
+<font color="#7f7f7f"><i>Darkness and harmony</i></font>
+
+461
+01:23:06,764 --> 01:23:08,598
+<i>Darkness and harmony</i>
+<font color="#7f7f7f"><i>My voice without the lies</i></font>
+
+462
+01:23:08,599 --> 01:23:10,317
+<i>My voice without the lies</i>
+<font color="#7f7f7f"><i>This is what it sounds like</i></font>
+
+463
+01:23:10,318 --> 01:23:12,589
+<i>This is what it sounds like</i>
+<font color="#7f7f7f"><i>Why did we cover up the colors</i></font>
+
+464
+01:23:12,590 --> 01:23:14,745
+<i>Why did we cover up the colors</i>
+<font color="#7f7f7f"><i>Stuck inside our head?</i></font>
+
+465
+01:23:14,746 --> 01:23:16,399
+<i>Stuck inside our head?</i>
+<font color="#7f7f7f"><i>Get up and let the jagged edges</i></font>
+
+466
+01:23:16,400 --> 01:23:18,581
+<i>Get up and let the jagged edges</i>
+<font color="#7f7f7f"><i>Meet the light instead</i></font>
+
+467
+01:23:18,582 --> 01:23:20,228
+<i>Meet the light instead</i>
+<font color="#7f7f7f"><i>Show me what's underneath</i></font>
+
+468
+01:23:20,229 --> 01:23:22,214
+<i>Show me what's underneath</i>
+<font color="#7f7f7f"><i>I'll find your harmony</i></font>
+
+469
+01:23:22,215 --> 01:23:24,149
+<i>I'll find your harmony</i>
+<font color="#7f7f7f"><i>Fearless and undefined</i></font>
+
+470
+01:23:24,150 --> 01:23:25,865
+<i>Fearless and undefined</i>
+<font color="#7f7f7f"><i>This is what it sounds like</i></font>
+
+471
+01:23:25,866 --> 01:23:27,968
+<i>This is what it sounds like</i>
+<font color="#7f7f7f"><i>My voice without the lies</i></font>
+
+472
+01:23:27,969 --> 01:23:29,782
+<i>My voice without the lies</i>
+<font color="#7f7f7f"><i>This is what it sounds like</i></font>
+
+473
+01:23:29,783 --> 01:23:31,848
+<i>This is what it sounds like</i>
+<font color="#7f7f7f"><i>Fearless and undefined</i></font>
+
+474
+01:23:31,849 --> 01:23:33,605
+<i>Fearless and undefined</i>
+<font color="#7f7f7f"><i>This is what it sounds like</i></font>
+
+475
+01:23:33,607 --> 01:23:35,718
+<i>This is what it sounds like</i>
+<font color="#7f7f7f"><i>Truth after all this time</i></font>
+
+476
+01:23:35,719 --> 01:23:37,654
+<i>Truth after all this time</i>
+<font color="#7f7f7f"><i>Our voices all combined</i></font>
+
+477
+01:23:37,656 --> 01:23:39,688
+<i>Our voices all combined</i>
+<font color="#7f7f7f"><i>When darkness meets the light</i></font>
+
+478
+01:23:39,689 --> 01:23:41,478
+<i>When darkness meets the light</i>
+<font color="#7f7f7f"><i>This is what it sounds like</i></font>
+
+479
+01:23:41,479 --> 01:23:46,209
+<i>This is what it sounds like</i>
+<font color="#7f7f7f"><i>♪</i></font>
+
+480
+01:25:42,297 --> 01:25:43,797
+<i>♪</i>
+<font color="#7f7f7f"><i>(Takedown, takedown)</i></font>
+
+481
+01:25:43,798 --> 01:25:45,451
+<i>(Takedown, takedown)</i>
+<font color="#7f7f7f"><i>(Takedown- down- down- down)</i></font>
+
+482
+01:25:45,452 --> 01:25:46,709
+<i>(Takedown- down- down- down)</i>
+<font color="#7f7f7f"><i>Huntrix girls to the world</i></font>
+
+483
+01:25:46,710 --> 01:25:49,363
+<i>Huntrix girls to the world</i>
+<font color="#7f7f7f"><i>It's a takedown</i></font>
+
+484
+01:25:49,364 --> 01:25:50,821
+<i>It's a takedown</i>
+<font color="#7f7f7f"><i>So sweet, so easy on the eyes</i></font>
+
+485
+01:25:50,822 --> 01:25:52,480
+<i>So sweet, so easy on the eyes</i>
+<font color="#7f7f7f"><i>But hideous on the inside</i></font>
+
+486
+01:25:52,481 --> 01:25:54,070
+<i>But hideous on the inside</i>
+<font color="#7f7f7f"><i>Whole life spreading lies, but you can’t hide</i></font>
+
+487
+01:25:54,071 --> 01:25:56,055
+<i>Whole life spreading lies, but you can’t hide</i>
+<font color="#7f7f7f"><i>Baby, nice try</i></font>
+
+488
+01:25:56,056 --> 01:25:57,417
+<i>Baby, nice try</i>
+<font color="#7f7f7f"><i>I’m ’bout to switch up these vibes</i></font>
+
+489
+01:25:57,418 --> 01:25:59,142
+<i>I’m ’bout to switch up these vibes</i>
+<font color="#7f7f7f"><i>I finally opened my eyes</i></font>
+
+490
+01:25:59,143 --> 01:26:01,024
+<i>I finally opened my eyes</i>
+<font color="#7f7f7f"><i>It’s time to kick you straight back into the night</i></font>
+
+491
+01:26:01,025 --> 01:26:03,766
+<i>It’s time to kick you straight back into the night</i>
+<font color="#7f7f7f"><i>‘Cause I see your real face and it’s ugly as sin</i></font>
+
+492
+01:26:03,767 --> 01:26:07,297
+<i>‘Cause I see your real face and it’s ugly as sin</i>
+<font color="#7f7f7f"><i>Time to put you in your place</i></font>
+
+493
+01:26:07,298 --> 01:26:08,993
+<i>Time to put you in your place</i>
+<font color="#7f7f7f"><i>’Cause you’re rotten within</i></font>
+
+494
+01:26:08,994 --> 01:26:10,715
+<i>’Cause you’re rotten within</i>
+<font color="#7f7f7f"><i>When your patterns start to show</i></font>
+
+495
+01:26:10,716 --> 01:26:12,182
+<i>When your patterns start to show</i>
+<font color="#7f7f7f"><i>It makes the hatred wanna grow outta my veins</i></font>
+
+496
+01:26:12,183 --> 01:26:16,301
+<i>It makes the hatred wanna grow outta my veins</i>
+<font color="#7f7f7f"><i>I don’t think you’re ready for the takedown</i></font>
+
+497
+01:26:16,302 --> 01:26:19,679
+<i>I don’t think you’re ready for the takedown</i>
+<font color="#7f7f7f"><i>Breaking into pieces in the world of pain</i></font>
+
+498
+01:26:19,680 --> 01:26:22,714
+<i>Breaking into pieces in the world of pain</i>
+<font color="#7f7f7f"><i>’Cause you’re all the same</i></font>
+
+499
+01:26:22,715 --> 01:26:24,176
+<i>’Cause you’re all the same</i>
+<font color="#7f7f7f"><i>Yeah, it’s a takedown</i></font>
+
+500
+01:26:24,177 --> 01:26:26,361
+<i>Yeah, it’s a takedown</i>
+<font color="#7f7f7f"><i>A demon with no feelings don’t deserve to live</i></font>
+
+501
+01:26:26,362 --> 01:26:29,546
+<i>A demon with no feelings don’t deserve to live</i>
+<font color="#7f7f7f"><i>It’s so obvious</i></font>
+
+502
+01:26:29,547 --> 01:26:31,713
+<i>It’s so obvious</i>
+<font color="#7f7f7f"><i>I’ma gear up</i></font>
+
+503
+01:26:31,714 --> 01:26:32,735
+<i>I’ma gear up</i>
+<font color="#7f7f7f"><i>And take you down (Ooh-oh da-da-da down)</i></font>
+
+504
+01:26:32,736 --> 01:26:35,942
+<i>And take you down (Ooh-oh da-da-da down)</i>
+<font color="#7f7f7f"><i>It's a takedown (Ooh-oh da-da-da down)</i></font>
+
+505
+01:26:35,943 --> 01:26:39,378
+<i>It's a takedown (Ooh-oh da-da-da down)</i>
+<font color="#7f7f7f"><i>I'ma take it down (Ooh-oh da-da-da down)</i></font>
+
+506
+01:26:39,379 --> 01:26:42,784
+<i>I'ma take it down (Ooh-oh da-da-da down)</i>
+<font color="#7f7f7f"><i>It's a takedown (Ooh-oh da-da-da down)</i></font>
+
+507
+01:26:42,785 --> 01:26:45,921
+<i>It's a takedown (Ooh-oh da-da-da down)</i>
+<font color="#7f7f7f"><i>Take it down</i></font>
+
+508
+01:26:45,922 --> 01:26:46,943
+<i>Take it down</i>
+<font color="#7f7f7f"><i>It’s a takedown, I’ma take you out</i></font>
+
+509
+01:26:46,944 --> 01:26:48,621
+<i>It’s a takedown, I’ma take you out</i>
+<font color="#7f7f7f"><i>You break down like, “What?”</i></font>
+
+510
+01:26:48,622 --> 01:26:50,303
+<i>You break down like, “What?”</i>
+<font color="#7f7f7f"><i>It’s a takedown, I’ma take you out</i></font>
+
+511
+01:26:50,304 --> 01:26:51,905
+<i>It’s a takedown, I’ma take you out</i>
+<font color="#7f7f7f"><i>And it ain’t gonna stop</i></font>
+
+512
+01:26:51,906 --> 01:26:53,676
+<i>And it ain’t gonna stop</i>
+<font color="#7f7f7f"><i>Jeongsin-eul nohgo neoljib balgo</i></font>
+
+513
+01:26:53,677 --> 01:26:55,617
+<i>Jeongsin-eul nohgo neoljib balgo</i>
+<font color="#7f7f7f"><i>Galleul segeonwa</i></font>
+
+514
+01:26:55,618 --> 01:26:56,887
+<i>Galleul segeonwa</i>
+<font color="#7f7f7f"><i>You’ll be begging and crying, all of you dying</i></font>
+
+515
+01:26:56,888 --> 01:26:58,973
+<i>You’ll be begging and crying, all of you dying</i>
+<font color="#7f7f7f"><i>Never miss my shot</i></font>
+
+516
+01:26:58,974 --> 01:27:00,415
+<i>Never miss my shot</i>
+<font color="#7f7f7f"><i>When your patterns start to show</i></font>
+
+517
+01:27:00,416 --> 01:27:01,882
+<i>When your patterns start to show</i>
+<font color="#7f7f7f"><i>It makes the hatred wanna grow outta my veins</i></font>
+
+518
+01:27:01,883 --> 01:27:06,001
+<i>It makes the hatred wanna grow outta my veins</i>
+<font color="#7f7f7f"><i>I don’t think you’re ready for the takedown</i></font>
+
+519
+01:27:06,002 --> 01:27:09,379
+<i>I don’t think you’re ready for the takedown</i>
+<font color="#7f7f7f"><i>Dangdanghage eodum ape dagaseo</i></font>
+
+520
+01:27:09,380 --> 01:27:12,414
+<i>Dangdanghage eodum ape dagaseo</i>
+<font color="#7f7f7f"><i>Da muneotteuryeo</i></font>
+
+521
+01:27:12,415 --> 01:27:13,876
+<i>Da muneotteuryeo</i>
+<font color="#7f7f7f"><i>Yeah, it’s a takedown</i></font>
+
+522
+01:27:13,877 --> 01:27:16,061
+<i>Yeah, it’s a takedown</i>
+<font color="#7f7f7f"><i>A demon with no feelings don’t deserve to live</i></font>
+
+523
+01:27:16,062 --> 01:27:19,246
+<i>A demon with no feelings don’t deserve to live</i>
+<font color="#7f7f7f"><i>It’s so obvious</i></font>
+
+524
+01:27:19,247 --> 01:27:21,413
+<i>It’s so obvious</i>
+<font color="#7f7f7f"><i>I’ma gear up</i></font>
+
+525
+01:27:21,414 --> 01:27:22,487
+<i>I’ma gear up</i>
+<font color="#7f7f7f"><i>And take you down (Ooh-oh da-da-da down)</i></font>
+
+526
+01:27:22,488 --> 01:27:25,699
+<i>And take you down (Ooh-oh da-da-da down)</i>
+<font color="#7f7f7f"><i>It's a takedown (Ooh-oh da-da-da down)</i></font>
+
+527
+01:27:25,700 --> 01:27:29,115
+<i>It's a takedown (Ooh-oh da-da-da down)</i>
+<font color="#7f7f7f"><i>I'ma take it down (Watch me do it, yeah)</i></font>
+
+528
+01:27:29,116 --> 01:27:32,626
+<i>I'ma take it down (Watch me do it, yeah)</i>
+<font color="#7f7f7f"><i>It's a takedown (Ooh-oh da-da-da down)</i></font>
+
+529
+01:27:32,627 --> 01:27:37,743
+<i>It's a takedown (Ooh-oh da-da-da down)</i>
+<font color="#7f7f7f"><i>Oh, you're the master of illusion</i></font>
+
+530
+01:27:37,744 --> 01:27:41,576
+<i>Oh, you're the master of illusion</i>
+<font color="#7f7f7f"><i>Nareul sogiryeo hajima</i></font>
+
+531
+01:27:41,577 --> 01:27:44,531
+<i>Nareul sogiryeo hajima</i>
+<font color="#7f7f7f"><i>Look at all the masses that you're foolin'</i></font>
+
+532
+01:27:44,532 --> 01:27:48,426
+<i>Look at all the masses that you're foolin'</i>
+<font color="#7f7f7f"><i>But they'll turn on you soon, so how?</i></font>
+
+533
+01:27:48,427 --> 01:27:51,386
+<i>But they'll turn on you soon, so how?</i>
+<font color="#7f7f7f"><i>How can you sleep or live with yourself?</i></font>
+
+534
+01:27:51,387 --> 01:27:54,568
+<i>How can you sleep or live with yourself?</i>
+<font color="#7f7f7f"><i>A broken soul trapped in a nastiest shell</i></font>
+
+535
+01:27:54,569 --> 01:27:58,056
+<i>A broken soul trapped in a nastiest shell</i>
+<font color="#7f7f7f"><i>Yeonghoneomneun ni moksumeul geuneureo</i></font>
+
+536
+01:27:58,057 --> 01:28:03,141
+<i>Yeonghoneomneun ni moksumeul geuneureo</i>
+<font color="#7f7f7f"><i>And watch you die-ie-ie</i></font>
+
+537
+01:28:03,142 --> 01:28:07,250
+<i>And watch you die-ie-ie</i>
+<font color="#7f7f7f"><i>(You can try but you can't hide)</i></font>
+
+538
+01:28:07,251 --> 01:28:09,143
+<i>(You can try but you can't hide)</i>
+<font color="#7f7f7f"><i>It’s a takedown, I’ma take you out</i></font>
+
+539
+01:28:09,144 --> 01:28:10,921
+<i>It’s a takedown, I’ma take you out</i>
+<font color="#7f7f7f"><i>You break down like, “What?”</i></font>
+
+540
+01:28:10,922 --> 01:28:12,603
+<i>You break down like, “What?”</i>
+<font color="#7f7f7f"><i>It’s a takedown, I’ma take you out</i></font>
+
+541
+01:28:12,604 --> 01:28:14,305
+<i>It’s a takedown, I’ma take you out</i>
+<font color="#7f7f7f"><i>And it ain’t gonna stop</i></font>
+
+542
+01:28:14,306 --> 01:28:16,076
+<i>And it ain’t gonna stop</i>
+<font color="#7f7f7f"><i>I'ma cut you up, you'll lose control</i></font>
+
+543
+01:28:16,077 --> 01:28:17,717
+<i>I'ma cut you up, you'll lose control</i>
+<font color="#7f7f7f"><i>Then rip out your heart</i></font>
+
+544
+01:28:17,718 --> 01:28:19,187
+<i>Then rip out your heart</i>
+<font color="#7f7f7f"><i>You’ll be begging and crying, all of you dying</i></font>
+
+545
+01:28:19,188 --> 01:28:21,373
+<i>You’ll be begging and crying, all of you dying</i>
+<font color="#7f7f7f"><i>I’ma gear up</i></font>
+
+546
+01:28:21,374 --> 01:28:22,447
+<i>I’ma gear up</i>
+<font color="#7f7f7f"><i>And take you down (Ooh-oh da-da-da down)</i></font>
+
+547
+01:28:22,448 --> 01:28:25,659
+<i>And take you down (Ooh-oh da-da-da down)</i>
+<font color="#7f7f7f"><i>It's a takedown (Ooh-oh da-da-da down)</i></font>
+
+548
+01:28:25,660 --> 01:28:29,175
+<i>It's a takedown (Ooh-oh da-da-da down)</i>
+<font color="#7f7f7f"><i>I'ma take it down (Ooh-oh da-da-da down)</i></font>
+
+549
+01:28:29,176 --> 01:28:32,586
+<i>I'ma take it down (Ooh-oh da-da-da down)</i>
+<font color="#7f7f7f"><i>It's a takedown (Watch be do it, yeah)</i></font>
+
+550
+01:28:32,587 --> 01:28:36,403
+<i>It's a takedown (Watch be do it, yeah)</i>
+<font color="#7f7f7f"><i>Take it down</i></font>
+
+551
+01:28:36,404 --> 01:28:37,703
+<i>Take it down</i>
+<font color="#7f7f7f"><i>♪</i></font>

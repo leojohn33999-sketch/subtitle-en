@@ -1,0 +1,8748 @@
+﻿1
+00:00:26,568 --> 00:00:29,530
+<i>Glinda, exactly how dead is she?</i>
+
+2
+00:00:36,411 --> 00:00:39,915
+<i>Because there has been
+so much rumor and speculation...</i>
+
+3
+00:00:43,585 --> 00:00:45,921
+<i>let me tell you the whole story.</i>
+
+4
+00:00:50,300 --> 00:00:52,719
+<i>According to the Time Dragon Clock...</i>
+
+5
+00:00:54,054 --> 00:00:56,223
+<i>...the melting occurred at the 13th hour.</i>
+
+6
+00:01:00,102 --> 00:01:03,689
+<i>The direct result of a bucket of water
+thrown by a female child.</i>
+
+7
+00:01:15,450 --> 00:01:18,787
+<i>Yes, the Wicked Witch of the West is dead.</i>
+
+8
+00:02:19,431 --> 00:02:21,642
+Good news! The Witch! She's dead!
+
+9
+00:02:21,725 --> 00:02:23,769
+Come out! She's gone!
+
+10
+00:02:23,852 --> 00:02:25,562
+She's dead!
+
+11
+00:02:28,148 --> 00:02:29,816
+Munchkins, wake up!
+
+12
+00:02:29,900 --> 00:02:31,818
+Watch out! Come on! Come on!
+
+13
+00:02:34,488 --> 00:02:37,115
+Good news! The Wicked Witch is dead!
+
+14
+00:02:37,199 --> 00:02:41,703
+♪ <i>Good news</i> ♪
+
+15
+00:02:41,787 --> 00:02:44,623
+♪ <i>She's dead ♪</i>
+
+16
+00:02:44,706 --> 00:02:46,208
+♪ <i>The Witch of the West is dead ♪</i>
+
+17
+00:02:47,042 --> 00:02:49,336
+♪ <i>The wickedest witch there ever was</i> ♪
+
+18
+00:02:49,419 --> 00:02:51,880
+♪ <i>The enemy of all of us here in Oz</i> ♪
+
+19
+00:02:51,963 --> 00:02:55,467
+♪ <i>ls dead ♪</i>
+
+20
+00:02:55,967 --> 00:03:00,514
+♪ <i>Good news</i> ♪
+
+21
+00:03:00,597 --> 00:03:04,101
+♪ <i>Good news</i> ♪
+
+22
+00:03:06,645 --> 00:03:10,691
+♪ <i>Let us be glad ♪</i>
+
+23
+00:03:10,774 --> 00:03:13,735
+Look! It's Glinda!
+
+24
+00:03:13,819 --> 00:03:18,323
+♪ <i>Let us be grateful ♪</i>
+
+25
+00:03:20,200 --> 00:03:25,997
+♪ <i>Let us rejoicify
+That Goodness could subdue</i> ♪
+
+26
+00:03:26,081 --> 00:03:33,088
+♪ <i>The wicked workings of you-know-who</i> ♪
+
+27
+00:03:43,223 --> 00:03:44,766
+-Hi!
+-Glinda!
+
+28
+00:03:46,435 --> 00:03:48,353
+It's good to see me, isn't it?
+
+29
+00:03:48,437 --> 00:03:50,647
+Huh?
+
+30
+00:03:54,568 --> 00:03:58,071
+Fellow Ozians...
+let me set the record straight.
+
+31
+00:03:59,990 --> 00:04:01,032
+Yes...
+
+32
+00:04:03,452 --> 00:04:05,537
+the Wicked Witch of the West is dead!
+
+33
+00:04:09,374 --> 00:04:14,129
+♪ <i>Isn't it nice to know ♪</i>
+
+34
+00:04:14,212 --> 00:04:19,718
+♪ <i>That good will conquer evil?</i> ♪
+
+35
+00:04:19,801 --> 00:04:23,472
+♪ <i>The truth we all believe'll ♪</i>
+
+36
+00:04:23,555 --> 00:04:28,685
+♪ <i>By and by ♪</i>
+
+37
+00:04:28,769 --> 00:04:33,940
+♪ <i>Outlive a lie</i> ♪
+
+38
+00:04:34,024 --> 00:04:37,110
+♪ <i>For you and</i>... ♪
+
+39
+00:04:37,194 --> 00:04:40,447
+♪ <i>No one mourns the Wicked ♪</i>
+
+40
+00:04:40,530 --> 00:04:43,700
+♪ <i>No one cries, "They won't return" ♪</i>
+
+41
+00:04:43,784 --> 00:04:48,371
+♪ <i>No one lays a lily on their grave</i> ♪
+
+42
+00:04:48,455 --> 00:04:51,792
+♪ <i>The good man scorns the Wicked ♪</i>
+
+43
+00:04:51,875 --> 00:04:55,086
+♪ <i>Through their lives
+Our children learn</i> ♪
+
+44
+00:04:55,170 --> 00:04:59,800
+♪ <i>What we miss when we misbehave</i> ♪
+
+45
+00:04:59,883 --> 00:05:03,470
+♪ <i>And Goodness knows</i> ♪
+
+46
+00:05:03,553 --> 00:05:07,641
+♪ <i>The Wicked's lives are lonely</i> ♪
+
+47
+00:05:07,724 --> 00:05:10,185
+♪ <i>Goodness knows</i> ♪
+
+48
+00:05:10,268 --> 00:05:14,648
+♪ <i>The Wicked die alone</i> ♪
+
+49
+00:05:14,731 --> 00:05:18,068
+♪ <i>It just shows when you're Wicked ♪</i>
+
+50
+00:05:18,151 --> 00:05:20,570
+♪ <i>You're left only ♪</i>
+
+51
+00:05:21,488 --> 00:05:23,156
+♪ <i>On your own</i> ♪
+
+52
+00:05:23,240 --> 00:05:27,410
+♪ <i>Yes, Goodness knows</i> ♪
+
+53
+00:05:27,494 --> 00:05:31,832
+♪ <i>The Wicked's lives are lonely</i> ♪
+
+54
+00:05:31,915 --> 00:05:34,334
+♪ <i>Goodness knows</i> ♪
+
+55
+00:05:34,417 --> 00:05:38,255
+♪ <i>The Wicked cry alone</i> ♪
+
+56
+00:05:38,755 --> 00:05:41,967
+♪ <i>Nothing grows for the Wicked ♪</i>
+
+57
+00:05:42,050 --> 00:05:43,677
+♪ <i>They reap only...</i> ♪
+
+58
+00:05:45,262 --> 00:05:46,763
+♪ <i>... what they've sown</i> ♪
+
+59
+00:05:46,847 --> 00:05:48,890
+-But, Miss Glinda?
+-Yes?
+
+60
+00:05:49,724 --> 00:05:51,810
+Why does Wickedness happen?
+
+61
+00:05:54,980 --> 00:05:56,439
+That's a good question.
+
+62
+00:05:56,523 --> 00:05:59,818
+One many people find confusifying.
+
+63
+00:05:59,901 --> 00:06:02,445
+Are people born Wicked?
+
+64
+00:06:02,529 --> 00:06:05,031
+Or do they have Wickedness
+thrust upon them?
+
+65
+00:06:06,157 --> 00:06:07,242
+After all,
+
+66
+00:06:07,325 --> 00:06:09,327
+the Wicked Witch had a childhood.
+
+67
+00:06:09,953 --> 00:06:10,954
+<i>She had a father,</i>
+
+68
+00:06:11,037 --> 00:06:14,165
+<i>who, by the way, had been appointed
+governor of Munchkinland.</i>
+
+69
+00:06:14,249 --> 00:06:15,542
+I'm off to the Assembly, dear.
+
+70
+00:06:15,625 --> 00:06:18,003
+<i>And she had a mother, as so many do.</i>
+
+71
+00:06:18,086 --> 00:06:22,090
+♪ <i>How I hate to go and leave you lonely</i> ♪
+
+72
+00:06:22,173 --> 00:06:25,844
+♪ <i>That's all right
+It's only just one night</i> ♪
+
+73
+00:06:26,678 --> 00:06:29,806
+♪ <i>But know that you're here in my heart</i> ♪
+
+74
+00:06:29,890 --> 00:06:36,897
+♪ <i>While I'm out of your sight ♪</i>
+
+75
+00:06:38,064 --> 00:06:39,482
+<i>Like every family,</i>
+
+76
+00:06:40,442 --> 00:06:42,319
+<i>they had their secrets.</i>
+
+77
+00:06:47,240 --> 00:06:49,367
+Oh.
+
+78
+00:06:56,499 --> 00:06:59,711
+♪ <i>Have another drink
+My dark-eyed beauty</i> ♪
+
+79
+00:06:59,794 --> 00:07:02,589
+♪ <i>I've got one more night left
+Here in town</i> ♪
+
+80
+00:07:02,672 --> 00:07:05,926
+♪ <i>So have another drink of green elixir</i> ♪
+
+81
+00:07:06,009 --> 00:07:09,262
+♪ <i>And we'll have ourselves
+A little mixer ♪</i>
+
+82
+00:07:09,346 --> 00:07:12,098
+♪ <i>Have another little swallow
+Little lady</i> ♪
+
+83
+00:07:12,182 --> 00:07:15,560
+♪ <i>And follow me down</i> ♪
+
+84
+00:07:16,478 --> 00:07:18,438
+<i>And one thing led to another,</i>
+
+85
+00:07:19,105 --> 00:07:20,398
+as it so often does.
+
+86
+00:07:22,651 --> 00:07:24,861
+<i>But from the moment
+the Witch was born, she was...</i>
+
+87
+00:07:24,945 --> 00:07:25,820
+Dulcibear!
+
+88
+00:07:25,904 --> 00:07:27,656
+<i>... well...</i>
+
+89
+00:07:27,739 --> 00:07:28,573
+<i>... different.</i>
+
+90
+00:07:28,657 --> 00:07:29,950
+It's coming!
+
+91
+00:07:30,033 --> 00:07:31,076
+Now?
+
+92
+00:07:31,159 --> 00:07:32,285
+The ba By's coming.
+
+93
+00:07:32,369 --> 00:07:33,703
+Oh. And how!
+
+94
+00:07:33,787 --> 00:07:35,080
+♪ <i>I see a nose</i> ♪
+
+95
+00:07:35,163 --> 00:07:36,748
+♪ <i>I see a curl ♪</i>
+
+96
+00:07:36,831 --> 00:07:40,961
+♪ <i>It's a healthy, perfect
+Lovely, little</i>... ♪
+
+97
+00:07:41,044 --> 00:07:43,338
+Oh, sweet Oz!
+
+98
+00:07:43,421 --> 00:07:44,965
+What is it? What's wrong?
+
+99
+00:07:45,048 --> 00:07:46,132
+♪ <i>How can it be?</i> ♪
+
+100
+00:07:46,216 --> 00:07:48,468
+♪ <i>What does it mean?</i> ♪
+
+101
+00:07:49,052 --> 00:07:50,261
+♪ <i>It's uncanny ♪</i>
+
+102
+00:07:50,345 --> 00:07:53,848
+♪ <i>It's obscene</i> ♪
+
+103
+00:07:53,932 --> 00:07:56,476
+♪ <i>Like a froggy, ferny cabbage</i> ♪
+
+104
+00:07:56,559 --> 00:07:59,187
+♪ <i>The baby is unnaturally...</i> ♪
+
+105
+00:08:01,856 --> 00:08:02,899
+Green.
+
+106
+00:08:14,160 --> 00:08:15,537
+Take it away.
+
+107
+00:08:24,295 --> 00:08:25,505
+Take it away!
+
+108
+00:08:34,180 --> 00:08:38,727
+It's all right, little one.
+
+109
+00:08:38,810 --> 00:08:41,146
+We'll look after you.
+
+110
+00:08:44,357 --> 00:08:45,191
+Oh.
+
+111
+00:08:45,275 --> 00:08:47,736
+<i>So, her nanny,
+Dulcibear, raised her.</i>
+
+112
+00:08:48,903 --> 00:08:52,073
+<i>And as she grew,
+so did her challenges.</i>
+
+113
+00:08:53,074 --> 00:08:54,200
+Dulcibear.
+
+114
+00:08:54,284 --> 00:08:55,744
+Coming, Governor.
+
+115
+00:08:56,327 --> 00:08:59,873
+Little one, watch your baby sister.
+Just a clock tick.
+
+116
+00:09:02,000 --> 00:09:06,796
+Oh, Nessarose. Don't you worry. I'm here.
+
+117
+00:09:06,880 --> 00:09:09,382
+Now, you want to see something amazing?
+
+118
+00:09:09,466 --> 00:09:10,300
+Yeah.
+
+119
+00:09:10,383 --> 00:09:14,095
+This is all about
+our wonderful Wizard of Oz.
+
+120
+00:09:14,679 --> 00:09:16,431
+Do you know how he got here?
+
+121
+00:09:16,514 --> 00:09:17,766
+No.
+
+122
+00:09:18,308 --> 00:09:21,603
+From the sky. In a balloon. See?
+
+123
+00:09:22,353 --> 00:09:25,648
+Then, he built a city made of emeralds,
+
+124
+00:09:25,732 --> 00:09:27,776
+'cause he loves emeralds.
+
+125
+00:09:28,401 --> 00:09:30,278
+Even though they are green.
+
+126
+00:09:30,361 --> 00:09:33,031
+And Nessa, you want to know a Secret?
+
+127
+00:09:33,531 --> 00:09:37,368
+if you get to meet him,
+he grants your heart's desire.
+
+128
+00:09:38,411 --> 00:09:41,164
+Elphaba Thropp, green on top.
+
+129
+00:09:41,247 --> 00:09:44,876
+Someone run and tell her
+that everyone can smell her.
+
+130
+00:09:44,959 --> 00:09:48,546
+-Ew, green and ugly?
+-She's so green.
+
+131
+00:09:48,630 --> 00:09:51,716
+Where did you come from?
+You don't belong here.
+
+132
+00:09:55,136 --> 00:09:57,931
+-She's as green as the trees!
+-I do not like that.
+
+133
+00:10:01,476 --> 00:10:06,981
+So green.
+
+134
+00:10:07,065 --> 00:10:08,191
+Stop!
+
+135
+00:10:10,026 --> 00:10:11,528
+-Elphaba.
+-Ow!
+
+136
+00:10:11,611 --> 00:10:13,113
+Elphaba Thropp.
+
+137
+00:10:13,196 --> 00:10:15,824
+What have you done this time?
+
+138
+00:10:15,907 --> 00:10:17,617
+Oh. That's okay. Come to Daddy.
+
+139
+00:10:17,700 --> 00:10:19,619
+And now you've made your sister cry.
+
+140
+00:10:19,702 --> 00:10:21,621
+Let's go get you a beautiful piece of cake
+
+141
+00:10:21,704 --> 00:10:23,540
+for the beautiful girl.
+
+142
+00:10:23,623 --> 00:10:27,293
+It's all right, little one.
+He shouldn't have bla Med you.
+
+143
+00:10:28,294 --> 00:10:29,546
+Dulcibear.
+
+144
+00:10:30,171 --> 00:10:31,172
+Hmm.
+
+145
+00:10:35,885 --> 00:10:36,928
+<i>And so...</i>
+
+146
+00:10:37,720 --> 00:10:39,264
+it couldn't have been easy.
+
+147
+00:10:40,849 --> 00:10:46,104
+♪ <i>No one mourns the Wicked ♪</i>
+
+148
+00:10:46,187 --> 00:10:51,442
+♪ <i>Now at last, she's dead and gone</i> ♪
+
+149
+00:10:51,526 --> 00:10:56,698
+<i>♪ Now at last
+There's joy throughout the land</i> ♪
+
+150
+00:10:56,781 --> 00:11:03,538
+-♪ <i>And Goodness knows</i> ♪
+-♪ <i>Goodness knows</i> ♪
+
+151
+00:11:03,621 --> 00:11:06,875
+♪ <i>We know what Goodness is</i> ♪
+
+152
+00:11:06,958 --> 00:11:09,377
+♪ <i>Goodness knows</i> ♪
+
+153
+00:11:09,460 --> 00:11:11,796
+♪ <i>The Wicked die alone</i> ♪
+
+154
+00:11:11,880 --> 00:11:15,300
+-♪ <i>She died alone</i> ♪
+-♪ <i>Woe to those</i> ♪
+
+155
+00:11:15,383 --> 00:11:17,635
+♪ <i>Woe to those</i> ♪
+
+156
+00:11:17,719 --> 00:11:20,346
+♪ <i>Who spurn what goodnesses</i> ♪
+
+157
+00:11:20,430 --> 00:11:26,227
+♪ <i>They are shown</i> ♪
+
+158
+00:11:26,311 --> 00:11:28,855
+♪ <i>No one mourns the Wicked ♪</i>
+
+159
+00:11:28,938 --> 00:11:32,192
+♪ <i>Good news</i> ♪
+
+160
+00:11:32,942 --> 00:11:35,653
+♪ <i>No one mourns the Wicked ♪</i>
+
+161
+00:11:35,737 --> 00:11:38,281
+♪ <i>Good news</i> ♪
+
+162
+00:11:39,574 --> 00:11:46,456
+♪ <i>No one mourns the Wicked ♪</i>
+
+163
+00:11:48,166 --> 00:11:50,877
+♪ <i>Wicked ♪</i>
+
+164
+00:11:52,795 --> 00:11:59,802
+♪ <i>Wicked ♪</i>
+
+165
+00:12:05,892 --> 00:12:07,602
+Whoo! Yep.
+
+166
+00:12:09,479 --> 00:12:11,481
+Well, this has been fun.
+
+167
+00:12:11,564 --> 00:12:12,565
+As you can imagine,
+
+168
+00:12:12,649 --> 00:12:15,360
+I have much to attend to
+with the Wizard's unexpected departure.
+
+169
+00:12:15,443 --> 00:12:19,239
+So if there are no further questions,
+I'm gonna go.
+
+170
+00:12:20,615 --> 00:12:22,075
+Glinda,
+
+171
+00:12:22,158 --> 00:12:24,077
+is it true you were her friend?
+
+172
+00:12:24,160 --> 00:12:25,662
+What?
+
+173
+00:12:25,745 --> 00:12:28,289
+Sorry. One sec.
+
+174
+00:12:29,082 --> 00:12:29,916
+What?
+
+175
+00:12:30,541 --> 00:12:32,794
+Is it true you were her friend?
+
+176
+00:12:36,547 --> 00:12:37,548
+Friend?
+
+177
+00:12:40,635 --> 00:12:42,512
+Yes.
+
+178
+00:12:42,595 --> 00:12:45,181
+I-I mean, I did know her.
+
+179
+00:12:46,933 --> 00:12:48,017
+That is,
+
+180
+00:12:49,269 --> 00:12:51,020
+our paths did cross.
+
+181
+00:13:02,115 --> 00:13:04,575
+At school.
+
+182
+00:13:07,704 --> 00:13:09,038
+<i>But you must understand,</i>
+
+183
+00:13:09,706 --> 00:13:10,915
+<i>it was a long time ago.</i>
+
+184
+00:14:00,173 --> 00:14:01,007
+Hi.
+
+185
+00:14:01,090 --> 00:14:02,091
+Oh, it's Galinda.
+
+186
+00:14:02,175 --> 00:14:04,052
+Hi! Galinda!
+
+187
+00:14:04,844 --> 00:14:06,637
+Oh, we're so proud of you!
+
+188
+00:14:06,721 --> 00:14:09,390
+Thank you. I love you. Just remember,
+
+189
+00:14:09,474 --> 00:14:11,768
+-it's not goodbye, it's farewell.
+-We love you.
+
+190
+00:14:11,851 --> 00:14:12,977
+-You have all your cases?
+-Yes.
+
+191
+00:14:13,061 --> 00:14:14,312
+-And you will write?
+-Yes.
+
+192
+00:14:14,395 --> 00:14:16,481
+-I love you. It's that time.
+-My darling.
+
+193
+00:14:16,564 --> 00:14:17,398
+Miss you already.
+
+194
+00:14:17,482 --> 00:14:19,484
+Popsicle, board the boat.
+
+195
+00:14:19,567 --> 00:14:21,861
+They are gonna miss me so much.
+
+196
+00:14:21,944 --> 00:14:24,572
+My parents don't even know I left.
+
+197
+00:14:24,655 --> 00:14:27,075
+Uh... Uh...
+
+198
+00:14:27,158 --> 00:14:27,992
+I'm Boq.
+
+199
+00:14:29,118 --> 00:14:30,453
+I'm from Munchkinland.
+
+200
+00:14:31,829 --> 00:14:34,082
+I know we don't really know
+ea Ch other yet...
+
+201
+00:14:34,165 --> 00:14:35,958
+-You know what I believe, Bick?
+-... but...
+
+202
+00:14:36,834 --> 00:14:38,002
+It's Bick... It's Boq.
+
+203
+00:14:38,544 --> 00:14:40,088
+That strangers...
+
+204
+00:14:40,755 --> 00:14:42,382
+are just people I've never met.
+
+205
+00:14:46,302 --> 00:14:47,303
+Bye.
+
+206
+00:14:48,346 --> 00:14:53,309
+♪ <i>O hallowed halls and vine-draped walls</i> ♪
+
+207
+00:14:53,393 --> 00:14:58,481
+-♪ <i>The proudliest sight there is</i> ♪
+-♪ <i>Sight there is</i> ♪
+
+208
+00:14:58,564 --> 00:15:03,319
+♪ <i>When gray and sere
+Our hair hath turned</i> ♪
+
+209
+00:15:03,403 --> 00:15:08,574
+♪ <i>We shall still revere
+The lessons learned</i> ♪
+
+210
+00:15:08,658 --> 00:15:13,496
+♪ <i>In our days at dear old Shiz</i> ♪
+
+211
+00:15:13,579 --> 00:15:18,084
+♪ <i>Our days at dear old...</i> ♪
+
+212
+00:15:20,086 --> 00:15:25,508
+♪ <i>Old...</i> ♪
+
+213
+00:15:26,509 --> 00:15:33,349
+-♪ <i>Shiz</i> ♪
+-♪ <i>Dear old Shiz</i> ♪
+
+214
+00:15:34,684 --> 00:15:37,019
+Oh, Oz.
+
+215
+00:15:37,103 --> 00:15:40,231
+What? What are you staring at?
+
+216
+00:15:40,815 --> 00:15:42,275
+Do I have something in my teeth?
+
+217
+00:15:43,067 --> 00:15:44,318
+No, it's just...
+
+218
+00:15:45,528 --> 00:15:46,529
+You're green.
+
+219
+00:15:48,948 --> 00:15:50,324
+I am?
+
+220
+00:15:56,539 --> 00:15:59,208
+Fine. Let's get this over with.
+
+221
+00:15:59,292 --> 00:16:00,960
+No, I am not seasick.
+
+222
+00:16:01,043 --> 00:16:04,630
+No, I did not eat grass as a child.
+
+223
+00:16:04,714 --> 00:16:06,090
+And, yes,
+
+224
+00:16:06,591 --> 00:16:08,176
+I've always been green.
+
+225
+00:16:09,343 --> 00:16:10,344
+Well,
+
+226
+00:16:11,429 --> 00:16:14,140
+I, for one, am so sorry
+
+227
+00:16:14,724 --> 00:16:17,852
+that you have been forced to live with...
+
+228
+00:16:19,270 --> 00:16:20,271
+this.
+
+229
+00:16:20,354 --> 00:16:21,355
+Is that so?
+
+230
+00:16:21,439 --> 00:16:22,440
+Yes.
+
+231
+00:16:24,358 --> 00:16:26,068
+And it is my intention
+
+232
+00:16:26,152 --> 00:16:27,987
+to major in sorcery.
+
+233
+00:16:28,070 --> 00:16:31,908
+So, if at some point,
+you wanted to address the, um...
+
+234
+00:16:33,701 --> 00:16:34,702
+problem.
+
+235
+00:16:35,453 --> 00:16:36,454
+Problem.
+
+236
+00:16:37,163 --> 00:16:38,331
+Perhaps I could help.
+
+237
+00:16:38,414 --> 00:16:39,999
+Oh.
+
+238
+00:16:40,082 --> 00:16:43,336
+-She's so good. She's so good.
+-You're so good. We love you.
+
+239
+00:16:44,253 --> 00:16:47,965
+Thank you.
+
+240
+00:16:50,801 --> 00:16:52,470
+All right.
+
+241
+00:16:52,553 --> 00:16:55,014
+Offering to help someone
+that you don't know
+
+242
+00:16:55,097 --> 00:16:56,641
+with skills that you don't have.
+
+243
+00:16:57,308 --> 00:16:59,727
+I'm sure everyone is duly impressed.
+
+244
+00:16:59,810 --> 00:17:01,562
+I could care less what others think.
+
+245
+00:17:01,646 --> 00:17:03,481
+-Couldn't.
+-What?
+
+246
+00:17:03,564 --> 00:17:06,067
+You "couldn't" care less
+what other people think.
+
+247
+00:17:06,567 --> 00:17:07,568
+Though, I...
+
+248
+00:17:08,152 --> 00:17:09,153
+I doubt that.
+
+249
+00:17:09,946 --> 00:17:10,947
+Elphaba.
+
+250
+00:17:11,030 --> 00:17:12,865
+Elphaba Thropp.
+
+251
+00:17:14,367 --> 00:17:16,577
+Ah. This is my younger sister, Nessarose.
+
+252
+00:17:16,661 --> 00:17:18,996
+As you can see,
+she's a perfectly acceptable color.
+
+253
+00:17:22,208 --> 00:17:24,919
+-Oh, my God.
+-Stop making a spectacle of yourself.
+
+254
+00:17:25,545 --> 00:17:26,754
+I was trying to be nice.
+
+255
+00:17:26,837 --> 00:17:28,881
+-You were so nice and good and correct.
+-Did I do something bad?
+
+256
+00:17:28,965 --> 00:17:29,799
+-I was...
+-No.
+
+257
+00:17:29,882 --> 00:17:32,009
+-How did that come across?
+-I don't see color, but...
+
+258
+00:17:33,678 --> 00:17:34,762
+My precious little girl.
+
+259
+00:17:34,845 --> 00:17:36,222
+Father.
+
+260
+00:17:38,266 --> 00:17:39,809
+A parting gift.
+
+261
+00:17:45,565 --> 00:17:47,650
+Mother's jeweled shoes.
+
+262
+00:17:48,317 --> 00:17:53,948
+So they can all see how beautiful you are
+right down to your toes.
+
+263
+00:17:54,031 --> 00:17:55,533
+Thank you.
+
+264
+00:17:56,367 --> 00:17:58,578
+Thank you so much. I love them.
+
+265
+00:17:58,661 --> 00:18:00,413
+Let me put them with your boxes.
+
+266
+00:18:00,496 --> 00:18:02,164
+Of course.
+
+267
+00:18:05,501 --> 00:18:07,253
+I shouldn't have sprouted off like that.
+
+268
+00:18:08,629 --> 00:18:10,464
+No, you shouldn't have.
+
+269
+00:18:12,300 --> 00:18:13,301
+Today is...
+
+270
+00:18:13,384 --> 00:18:15,094
+The start of your new life.
+
+271
+00:18:16,887 --> 00:18:18,556
+New friends.
+
+272
+00:18:19,056 --> 00:18:20,725
+New books.
+
+273
+00:18:22,602 --> 00:18:24,145
+I'm excited for you.
+
+274
+00:18:24,228 --> 00:18:25,479
+I'll miss you.
+
+275
+00:18:25,563 --> 00:18:27,231
+No, you won't.
+
+276
+00:18:27,857 --> 00:18:29,233
+You'll be having too good a Time.
+
+277
+00:18:34,989 --> 00:18:36,657
+<i>All new Shiz students,</i>
+
+278
+00:18:36,741 --> 00:18:38,367
+<i>please report to the quad.</i>
+
+279
+00:18:38,451 --> 00:18:39,869
+-Don't help her.
+-Don't help me.
+
+280
+00:18:43,331 --> 00:18:44,582
+She'll be fine.
+
+281
+00:18:45,833 --> 00:18:50,421
+<i>All new Shiz students,
+please report to the quad.</i>
+
+282
+00:18:54,634 --> 00:18:57,845
+-Hey. Nice to meet you.
+-Hi. Nice to meet you too.
+
+283
+00:18:58,346 --> 00:18:59,430
+We should head back.
+
+284
+00:18:59,513 --> 00:19:01,641
+-Go with her.
+-What?
+
+285
+00:19:01,724 --> 00:19:03,976
+Just until she's safely settled
+in her room.
+
+286
+00:19:04,060 --> 00:19:06,896
+Make sure she has everything she needs.
+
+287
+00:19:06,979 --> 00:19:08,272
+Father, she's on her own now.
+
+288
+00:19:08,356 --> 00:19:09,774
+-I can't just...
+-Just stop jabbering.
+
+289
+00:19:09,857 --> 00:19:11,233
+Just do what I say.
+
+290
+00:19:13,569 --> 00:19:15,863
+If anything should happen to her...
+
+291
+00:19:26,332 --> 00:19:29,168
+Thank you
+for your contribution to our university.
+
+292
+00:19:29,251 --> 00:19:34,256
+And rounding out the rest of our faculty,
+we have two scholars
+
+293
+00:19:34,340 --> 00:19:39,512
+eminent in their respective fields
+of forestry and agriculture...
+
+294
+00:19:41,013 --> 00:19:44,308
+...as well as Professor Mombi
+of the Biological Arts,
+
+295
+00:19:44,392 --> 00:19:48,312
+and, of course, the head of our
+History department, Dr. Dillamond.
+
+296
+00:19:50,898 --> 00:19:54,110
+You know,
+except for our wonderful Wizard,
+
+297
+00:19:54,193 --> 00:19:57,113
+true magic has become all too rare,
+
+298
+00:19:57,196 --> 00:20:03,411
+which is why we are privileged to have
+our esteemed Dean of Sorcery Studies,
+
+299
+00:20:03,494 --> 00:20:04,995
+Madame Morrible.
+
+300
+00:20:17,258 --> 00:20:18,259
+Oh.
+
+301
+00:20:22,054 --> 00:20:23,055
+Could you...
+
+302
+00:20:24,807 --> 00:20:26,225
+I don't...
+
+303
+00:20:26,308 --> 00:20:28,561
+Oh, my goodness.
+It's really her.
+
+304
+00:20:37,611 --> 00:20:39,447
+Welcome, new students.
+
+305
+00:20:39,530 --> 00:20:43,492
+And congratulations
+for having been accepted to Shiz.
+
+306
+00:20:44,243 --> 00:20:48,622
+Whether you'll be studying law,
+logic or linguification,
+
+307
+00:20:49,206 --> 00:20:52,626
+I know I speak for
+my fellow faculty members
+
+308
+00:20:53,377 --> 00:20:59,091
+when I say we have
+nothing but the highest hopes
+
+309
+00:20:59,175 --> 00:21:01,135
+for some of you.
+
+310
+00:21:03,846 --> 00:21:06,766
+And now, Miss Coddle, if you please.
+
+311
+00:21:06,849 --> 00:21:10,644
+I am Miss Coddle, Head Shizstress.
+
+312
+00:21:10,728 --> 00:21:14,815
+And these are your dormitory designations
+and room assignments.
+
+313
+00:21:17,276 --> 00:21:20,821
+Good luck, and welcome to Shiz.
+
+314
+00:21:31,791 --> 00:21:33,250
+Madame Morrible, hi.
+
+315
+00:21:33,334 --> 00:21:37,880
+I am Galinda Upland, of the Upper Uplands.
+
+316
+00:21:37,963 --> 00:21:40,174
+If this is regarding room assignments...
+
+317
+00:21:40,257 --> 00:21:43,469
+Oh, thank you so much, but I've already
+been assigned a private suite.
+
+318
+00:21:43,552 --> 00:21:46,263
+This is about my application
+to your sorcery seminar.
+
+319
+00:21:46,347 --> 00:21:50,726
+Perhaps you recall my essay,
+"Magic Wands, need they ha Ve a point?"
+
+320
+00:21:50,810 --> 00:21:54,647
+Well, dear,
+I don't teach my seminar every semester.
+
+321
+00:21:54,730 --> 00:21:58,275
+Of course, if someone very special
+were to come along...
+
+322
+00:21:58,359 --> 00:22:01,612
+Exactly.
+This is why I wanted to talk to you. Um...
+
+323
+00:22:02,613 --> 00:22:03,864
+We'll be in touch.
+
+324
+00:22:04,907 --> 00:22:07,660
+There you are.
+
+325
+00:22:08,160 --> 00:22:09,870
+-Miss Nessarose, isn't it?
+-Yes.
+
+326
+00:22:09,954 --> 00:22:11,247
+-The Governor's daughter?
+-Mm-hmm.
+
+327
+00:22:11,330 --> 00:22:15,584
+How tragically beautiful you are.
+
+328
+00:22:16,168 --> 00:22:18,671
+It is such an honor to...
+
+329
+00:22:19,964 --> 00:22:21,173
+I'm the other daughter.
+
+330
+00:22:21,257 --> 00:22:22,883
+I'm beautifully tragic.
+
+331
+00:22:22,967 --> 00:22:25,511
+The other daughter?
+
+332
+00:22:25,594 --> 00:22:27,680
+Elphaba What are you doing?
+
+333
+00:22:27,763 --> 00:22:30,933
+Well... ... I wasn't made aware.
+
+334
+00:22:31,016 --> 00:22:33,269
+-I know. I was just...
+-Not to fret.
+
+335
+00:22:33,352 --> 00:22:35,521
+Just a slight gulch.
+
+336
+00:22:36,605 --> 00:22:39,108
+We'll find some place to hide you.
+
+337
+00:22:39,191 --> 00:22:41,861
+I mean, house you.
+
+338
+00:22:42,528 --> 00:22:44,655
+That won't be necessary.
+
+339
+00:22:44,738 --> 00:22:46,615
+-I'm not enrolled.
+-Oh, good.
+
+340
+00:22:47,241 --> 00:22:48,409
+Why are you still here?
+
+341
+00:22:48,492 --> 00:22:49,952
+I'm sorry, Nessa Father insisted...
+
+342
+00:22:50,035 --> 00:22:52,663
+Oh, the Governor made his concern
+for your sister quite apparent.
+
+343
+00:22:52,746 --> 00:22:53,581
+Wait.
+
+344
+00:22:53,664 --> 00:22:56,292
+Please assure him
+I am honored to help her.
+
+345
+00:22:56,375 --> 00:22:59,211
+-She doesn't need your help.
+-Stop. I just need to find my room.
+
+346
+00:22:59,295 --> 00:23:02,214
+-I'll bring you there myself.
+-Miss Coddle, I...
+
+347
+00:23:02,298 --> 00:23:05,009
+-Now, you have an entire staff...
+-Miss Coddle, I promised my father.
+
+348
+00:23:05,092 --> 00:23:07,553
+-...at your disposal 24 hours a Day...
+-Just stop, Miss Coddle...
+
+349
+00:23:07,636 --> 00:23:09,221
+-...seven days a week...
+-She can do it alone.
+
+350
+00:23:09,305 --> 00:23:10,806
+-...365 days...
+-Please, you don't understand.
+
+351
+00:23:10,890 --> 00:23:11,974
+Stop!
+
+352
+00:23:12,057 --> 00:23:13,809
+Let her go!
+
+353
+00:23:26,030 --> 00:23:27,197
+No!
+
+354
+00:23:51,472 --> 00:23:54,475
+This was my chance, my new start.
+
+355
+00:23:55,392 --> 00:23:56,977
+I'm sorry, Nessa I just...
+
+356
+00:23:58,270 --> 00:23:59,355
+I didn't...
+
+357
+00:23:59,438 --> 00:24:02,983
+Magic is merely the mind's attempt
+
+358
+00:24:03,567 --> 00:24:06,904
+to wrap itself around the impossible.
+
+359
+00:24:07,529 --> 00:24:10,574
+Yes, that was me.
+
+360
+00:24:12,493 --> 00:24:18,999
+To prepare you to expect
+the unexpected here at Shiz.
+
+361
+00:24:25,839 --> 00:24:27,383
+-Did you visually see that?
+-Yeah.
+
+362
+00:24:27,466 --> 00:24:29,134
+I simply must get into her seminar.
+
+363
+00:24:29,218 --> 00:24:33,263
+And speaking...
+...of the unexpected.
+
+364
+00:24:40,562 --> 00:24:42,314
+Which of you would volunteer
+
+365
+00:24:42,398 --> 00:24:44,525
+-to share a room with...
+-Ow. Ow.
+
+366
+00:24:45,693 --> 00:24:47,194
+Madame Morrible, um...
+
+367
+00:24:47,277 --> 00:24:48,445
+Thank you, dear.
+
+368
+00:24:49,321 --> 00:24:51,031
+That is very good of you.
+
+369
+00:24:51,115 --> 00:24:52,116
+What?
+
+370
+00:24:52,741 --> 00:24:54,952
+-Miss?
+-Elphaba.
+
+371
+00:24:58,288 --> 00:24:59,289
+Elphaba.
+
+372
+00:25:01,500 --> 00:25:03,210
+You can room with Miss Galinda.
+
+373
+00:25:03,293 --> 00:25:05,546
+What I... What?
+
+374
+00:25:05,629 --> 00:25:08,132
+Now, go. All of you, go.
+
+375
+00:25:10,259 --> 00:25:11,260
+Go.
+
+376
+00:25:12,052 --> 00:25:13,554
+And you.
+
+377
+00:25:14,471 --> 00:25:16,390
+-Come with me.
+-Of course.
+
+378
+00:25:16,473 --> 00:25:17,683
+Not you.
+
+379
+00:25:20,686 --> 00:25:21,854
+You.
+
+380
+00:25:32,072 --> 00:25:36,285
+I would like to teach you privately
+and take no other students.
+
+381
+00:25:36,368 --> 00:25:38,454
+Uh, thank you so much.
+
+382
+00:25:41,248 --> 00:25:42,875
+-What happened?
+-What happened?
+
+383
+00:25:42,958 --> 00:25:45,544
+Something is very wrong.
+
+384
+00:25:45,627 --> 00:25:47,880
+I didn't get my way.
+
+385
+00:25:47,963 --> 00:25:49,465
+-I need to lie down.
+-Yes.
+
+386
+00:25:49,548 --> 00:25:50,716
+-I need to lie down.
+-Get her.
+
+387
+00:25:50,799 --> 00:25:52,092
+-Go, go, go.
+-Just get her.
+
+388
+00:25:52,176 --> 00:25:53,761
+-How?
+-We need a pastry.
+
+389
+00:25:53,844 --> 00:25:54,845
+We need a pastry.
+
+390
+00:25:55,095 --> 00:25:56,847
+Thank you for covering for me.
+
+391
+00:25:56,930 --> 00:25:59,308
+And I'm humbled by your munificent offer,
+
+392
+00:25:59,391 --> 00:26:01,101
+but my father would never allow it.
+
+393
+00:26:01,185 --> 00:26:04,605
+Leave your father to me.
+I'll speak to him immediately.
+
+394
+00:26:05,105 --> 00:26:09,359
+So, how long have you had this talent?
+
+395
+00:26:10,027 --> 00:26:11,528
+Talent, uh...
+
+396
+00:26:11,612 --> 00:26:12,613
+No, uh...
+
+397
+00:26:13,405 --> 00:26:14,740
+Something just...
+
+398
+00:26:15,949 --> 00:26:18,202
+Something just takes over me, and...
+
+399
+00:26:19,328 --> 00:26:20,829
+Something I can't control.
+
+400
+00:26:21,497 --> 00:26:22,498
+And when it does,
+
+401
+00:26:23,248 --> 00:26:24,625
+bad things happen.
+
+402
+00:26:30,547 --> 00:26:35,177
+If you can learn to use your powers
+in the right way...
+
+403
+00:26:37,805 --> 00:26:39,181
+Miss Elphaba..
+
+404
+00:26:40,474 --> 00:26:45,896
+♪ <i>Many years I have waited
+For a gift like yours to appear</i> ♪
+
+405
+00:26:46,647 --> 00:26:53,403
+♪ <i>Why, I predict the Wizard might make you
+His Magic Grand Vizier</i> ♪
+
+406
+00:26:53,487 --> 00:26:54,947
+The Wizard?
+
+407
+00:26:55,030 --> 00:27:00,202
+♪ <i>My dear, my dear
+I'll write at once to the Wizard ♪</i>
+
+408
+00:27:00,828 --> 00:27:04,248
+♪ <i>Tell him of you in advance</i> ♪
+
+409
+00:27:04,331 --> 00:27:10,295
+♪ <i>With a talent like yours, dear
+There is a definish chance</i> ♪
+
+410
+00:27:10,379 --> 00:27:14,675
+♪ <i>If you work as you should ♪</i>
+
+411
+00:27:15,300 --> 00:27:20,430
+♪ <i>You'll be making good</i> ♪
+
+412
+00:27:23,934 --> 00:27:25,185
+Welcome to Shiz.
+
+413
+00:27:27,521 --> 00:27:30,107
+See you in class.
+
+414
+00:27:36,989 --> 00:27:38,615
+♪ <i>Did that really just happen?</i> ♪
+
+415
+00:27:39,992 --> 00:27:42,703
+♪ <i>Have I actually understood? ♪</i>
+
+416
+00:27:43,537 --> 00:27:48,208
+♪ <i>This weird quirk I've tried
+To suppress or hide</i> ♪
+
+417
+00:27:48,917 --> 00:27:55,924
+♪ <i>Is a talent that could help me
+Meet the Wizard</i> ♪
+
+418
+00:27:57,593 --> 00:28:02,681
+♪ <i>If I make good</i> ♪
+
+419
+00:28:02,764 --> 00:28:09,771
+♪ <i>So I'll make good...</i> ♪
+
+420
+00:28:13,400 --> 00:28:16,612
+♪ <i>When I meet the Wizard ♪</i>
+
+421
+00:28:16,695 --> 00:28:18,780
+♪ <i>Once I prove my worth</i> ♪
+
+422
+00:28:19,656 --> 00:28:22,284
+♪ <i>Then I meet the Wizard ♪</i>
+
+423
+00:28:22,367 --> 00:28:25,495
+♪ <i>What I've waited for since
+Since birth</i> ♪
+
+424
+00:28:25,579 --> 00:28:28,790
+♪ <i>And with all his Wizard wisdom</i> ♪
+
+425
+00:28:28,874 --> 00:28:32,419
+♪ <i>By my looks, he won't be blinded</i> ♪
+
+426
+00:28:32,502 --> 00:28:35,756
+♪ <i>Do you think the Wizard is dumb?</i> ♪
+
+427
+00:28:35,839 --> 00:28:39,176
+♪ <i>Or like Munchkins, so small-minded? No</i> ♪
+
+428
+00:28:39,259 --> 00:28:42,721
+♪ <i>He'll say to me
+"I see who you truly are</i> ♪
+
+429
+00:28:42,804 --> 00:28:45,599
+♪ <i>A girl on whom I can rely!</i>" ♪
+
+430
+00:28:45,682 --> 00:28:48,518
+♪ <i>And that's how we'll begin</i> ♪
+
+431
+00:28:48,602 --> 00:28:52,814
+♪ <i>The Wizard and I...</i> ♪
+
+432
+00:28:56,777 --> 00:29:03,075
+♪ <i>Once I'm with the Wizard
+My whole life will change</i> ♪
+
+433
+00:29:03,158 --> 00:29:08,830
+♪ <i>'Cause once you're with the Wizard
+No one thinks you're strange</i> ♪
+
+434
+00:29:08,914 --> 00:29:12,251
+♪ <i>No father is not proud of you</i> ♪
+
+435
+00:29:12,334 --> 00:29:16,046
+♪ <i>No sister acts ashamed</i> ♪
+
+436
+00:29:16,129 --> 00:29:22,386
+♪ <i>And all of Oz has to love you
+When by the Wizard, you're acclaimed</i> ♪
+
+437
+00:29:22,469 --> 00:29:26,223
+♪ <i>And this gift or this curse
+I have inside</i> ♪
+
+438
+00:29:26,306 --> 00:29:28,934
+♪ <i>Maybe at last, I'll know why</i> ♪
+
+439
+00:29:29,017 --> 00:29:31,937
+♪ <i>As we work hand in hand</i> ♪
+
+440
+00:29:32,020 --> 00:29:36,024
+♪ <i>The Wizard and I</i> ♪
+
+441
+00:29:36,108 --> 00:29:42,572
+♪ <i>And one day, he'll say to me
+"Elphaba, a girl who is so superior</i> ♪"
+
+442
+00:29:42,656 --> 00:29:48,537
+♪ <i>Shouldn't a girl who's so good inside
+Have a matching exterior?</i> ♪
+
+443
+00:29:48,620 --> 00:29:52,499
+♪ <i>And since folks here
+To an absurd degree</i> ♪
+
+444
+00:29:52,582 --> 00:29:55,919
+♪ <i>Seem fixated on your verdigris</i> ♪
+
+445
+00:29:56,003 --> 00:30:00,090
+♪ <i>Would it be all right by you</i> ♪
+
+446
+00:30:00,173 --> 00:30:05,470
+"♪ <i>If I de-greenify you?" ♪</i>
+
+447
+00:30:05,554 --> 00:30:08,890
+♪ <i>And though, of course
+That's not important to me</i> ♪
+
+448
+00:30:08,974 --> 00:30:12,227
+♪ <i>"All right, why not?" I'll reply</i> ♪
+
+449
+00:30:12,311 --> 00:30:14,855
+♪ <i>Oh, what a pair we'll be</i> ♪
+
+450
+00:30:14,938 --> 00:30:18,984
+♪ <i>The Wizard and I</i> ♪
+
+451
+00:30:19,067 --> 00:30:21,778
+♪ <i>Yes, what a pair we'll be</i> ♪
+
+452
+00:30:21,862 --> 00:30:23,447
+♪ <i>The Wizard and...</i> ♪
+
+453
+00:30:35,542 --> 00:30:39,212
+♪ <i>Unlimited ♪</i>
+
+454
+00:30:39,296 --> 00:30:44,176
+♪ <i>My future is unlimited ♪</i>
+
+455
+00:30:44,259 --> 00:30:49,139
+♪ <i>And I've just had a vision
+Almost like a prophecy</i> ♪
+
+456
+00:30:49,222 --> 00:30:53,477
+♪ <i>I know</i>... <i>It sounds truly crazy</i> ♪
+
+457
+00:30:54,603 --> 00:30:57,939
+♪ <i>And true, the vision's hazy ♪</i>
+
+458
+00:30:58,023 --> 00:31:05,030
+♪ <i>But I swear, someday there'll be
+A celebration throughout Oz</i> ♪
+
+459
+00:31:05,113 --> 00:31:07,199
+♪ <i>That's all to do</i> ♪
+
+460
+00:31:08,075 --> 00:31:15,082
+♪ <i>With me</i> ♪
+
+461
+00:31:15,749 --> 00:31:21,046
+♪ <i>And I'll stand there with the Wizard</i> ♪
+
+462
+00:31:21,129 --> 00:31:25,467
+♪ <i>Feeling things I've never felt</i> ♪
+
+463
+00:31:25,550 --> 00:31:31,765
+♪ <i>And though I'd never show it
+I'd be so happy, I could melt</i> ♪
+
+464
+00:31:31,848 --> 00:31:35,102
+♪ <i>And so it will be
+For the rest of my life</i> ♪
+
+465
+00:31:35,185 --> 00:31:37,813
+♪ <i>And I'll want nothing else till I die</i> ♪
+
+466
+00:31:37,896 --> 00:31:40,732
+♪ <i>Held in such high esteem</i> ♪
+
+467
+00:31:42,776 --> 00:31:45,654
+♪ <i>When people see me, they will scream</i> ♪
+
+468
+00:31:45,737 --> 00:31:52,035
+♪ <i>For half of Oz's favorite team</i> ♪
+
+469
+00:31:54,496 --> 00:31:56,415
+♪ <i>The Wizard ♪</i>
+
+470
+00:31:57,290 --> 00:32:04,297
+♪ <i>And I ♪</i>
+
+471
+00:32:32,909 --> 00:32:34,244
+Come in.
+
+472
+00:32:41,418 --> 00:32:43,837
+The rest of my bags
+should be arriving shortly.
+
+473
+00:32:48,258 --> 00:32:50,093
+Do you really think this is fair?
+
+474
+00:32:50,177 --> 00:32:54,264
+Oh, I do not.
+I was promised a private suite.
+
+475
+00:32:55,015 --> 00:32:56,516
+But thanks for asking.
+
+476
+00:32:58,435 --> 00:32:59,436
+Hmm.
+
+477
+00:32:59,519 --> 00:33:00,979
+-Wait. Uh...
+-What?
+
+478
+00:33:01,062 --> 00:33:02,397
+-What?
+-I was just...
+
+479
+00:33:02,981 --> 00:33:05,233
+I was just gonna close the door.
+
+480
+00:33:07,444 --> 00:33:12,199
+Oh, well, could you not? I'm sorry.
+I just... I so enjoy air.
+
+481
+00:33:15,494 --> 00:33:16,828
+You know what I mean?
+
+482
+00:33:21,082 --> 00:33:22,792
+Oh, I saved you some space by the way.
+
+483
+00:33:24,878 --> 00:33:27,255
+♪ <i>Here it is! ♪</i>
+
+484
+00:33:27,339 --> 00:33:28,673
+Just in here.
+
+485
+00:33:40,060 --> 00:33:41,144
+It's great.
+
+486
+00:33:43,855 --> 00:33:45,690
+It was nothing.
+
+487
+00:33:45,774 --> 00:33:47,859
+Roommates do these things for each other.
+
+488
+00:33:47,943 --> 00:33:49,903
+So I've been told.
+
+489
+00:33:54,241 --> 00:33:57,994
+And in return, perhaps you could, um...
+
+490
+00:33:58,078 --> 00:33:59,120
+Let's see.
+
+491
+00:33:59,204 --> 00:34:02,374
+Put in a good word for me
+with Madame Morrible? Deal?
+
+492
+00:34:05,502 --> 00:34:07,879
+That was you down there
+who made all that happen.
+
+493
+00:34:07,963 --> 00:34:09,297
+I know it was.
+
+494
+00:34:09,381 --> 00:34:10,799
+You heard Madame Morrible.
+
+495
+00:34:14,761 --> 00:34:15,720
+How did you do it?
+
+496
+00:34:16,429 --> 00:34:18,390
+Tell me, please. I can keep a secret.
+
+497
+00:34:20,308 --> 00:34:21,393
+Fine.
+
+498
+00:34:22,394 --> 00:34:23,603
+Be that way.
+
+499
+00:34:23,687 --> 00:34:25,355
+But it really is
+rather selfish on your part.
+
+500
+00:34:25,438 --> 00:34:27,899
+You know, I asked really nicely,
+and I saved you this whole drawer...
+
+501
+00:34:27,983 --> 00:34:29,568
+I don't know. I've never known!
+
+502
+00:34:39,995 --> 00:34:42,122
+There. Enjoy the air.
+
+503
+00:34:47,460 --> 00:34:49,671
+<i>Dearest darlingest
+Momsie and Popsicle...</i>
+
+504
+00:34:50,672 --> 00:34:51,923
+My dear father.
+
+505
+00:34:52,007 --> 00:34:54,593
+Thank you for agreeing to let me stay.
+
+506
+00:34:54,676 --> 00:34:56,261
+Guess what?
+
+507
+00:34:56,344 --> 00:35:00,015
+In regards to our request
+that I move in with Nessa..
+
+508
+00:35:00,098 --> 00:35:06,855
+I can't hear your guesses
+because this is a letter.
+
+509
+00:35:07,439 --> 00:35:10,025
+I know how much she wants to be...
+
+510
+00:35:13,820 --> 00:35:15,280
+So I'll just tell you.
+
+511
+00:35:16,781 --> 00:35:21,119
+♪ <i>There's been some confusion
+Over rooming here at Shiz</i> ♪
+
+512
+00:35:21,202 --> 00:35:23,705
+♪ <i>But of course, I'll care for Nessa</i> ♪
+
+513
+00:35:23,788 --> 00:35:27,626
+♪ <i>But of course, I'll rise above it</i> ♪
+
+514
+00:35:27,709 --> 00:35:31,713
+♪ <i>For I know that's how
+You'd want me to respond</i> ♪
+
+515
+00:35:31,796 --> 00:35:35,425
+♪ <i>Yes, there's been some confusion</i> ♪
+
+516
+00:35:35,508 --> 00:35:39,512
+♪ <i>For you see, my roommate is</i> ♪
+
+517
+00:35:41,056 --> 00:35:45,810
+♪ <i>Unusually and exceedingly peculiar</i> ♪
+
+518
+00:35:45,894 --> 00:35:52,233
+♪ <i>And altogether
+Quite impossible to describe</i> ♪
+
+519
+00:35:53,693 --> 00:35:54,694
+Blonde.
+
+520
+00:36:02,911 --> 00:36:04,287
+♪ <i>What is this feeling</i> ♪
+
+521
+00:36:04,371 --> 00:36:05,747
+♪ <i>So sudden and new?</i> ♪
+
+522
+00:36:06,373 --> 00:36:09,000
+♪ <i>I felt the moment I laid eyes on you</i> ♪
+
+523
+00:36:09,084 --> 00:36:10,585
+♪ <i>My pulse is rushing</i> ♪
+
+524
+00:36:10,669 --> 00:36:11,920
+♪ <i>My head is reeling</i> ♪
+
+525
+00:36:12,003 --> 00:36:13,838
+♪ <i>Yeah, well, my face is flushing</i> ♪
+
+526
+00:36:13,922 --> 00:36:15,590
+♪ <i>What is this feeling? ♪</i>
+
+527
+00:36:15,674 --> 00:36:18,677
+♪ <i>Fervid as a flame</i> ♪
+
+528
+00:36:18,760 --> 00:36:21,930
+♪ <i>Does it have a name? ♪</i>
+
+529
+00:36:22,013 --> 00:36:28,228
+♪ <i>Yes</i> ♪
+
+530
+00:36:28,311 --> 00:36:29,604
+♪ <i>Loathing</i> ♪
+
+531
+00:36:29,688 --> 00:36:32,732
+♪ <i>Unadulterated loathing</i> ♪
+
+532
+00:36:32,816 --> 00:36:33,858
+♪ <i>For your face</i> ♪
+
+533
+00:36:33,942 --> 00:36:35,902
+-♪ <i>Your voice</i> ♪
+-♪ <i>Your clothing</i> ♪
+
+534
+00:36:35,985 --> 00:36:38,988
+♪ <i>Let's just say, I loathe it all</i> ♪
+
+535
+00:36:40,073 --> 00:36:45,870
+♪ <i>Every little trait, however small
+Makes my very flesh begin to crawl</i> ♪
+
+536
+00:36:45,954 --> 00:36:48,289
+♪ <i>With simple utter loathing</i> ♪
+
+537
+00:36:48,373 --> 00:36:54,421
+♪ <i>There's a strange exhilaration
+In such total detestation</i> ♪
+
+538
+00:36:55,338 --> 00:36:58,925
+♪ <i>It's so pure, so strong</i> ♪
+
+539
+00:36:59,008 --> 00:37:02,053
+♪ <i>Though I do admit it came on fast ♪</i>
+
+540
+00:37:02,137 --> 00:37:05,223
+♪ <i>Still I do believe that it can last</i> ♪
+
+541
+00:37:05,306 --> 00:37:07,434
+♪ <i>And I will be loathing</i> ♪
+
+542
+00:37:07,517 --> 00:37:08,977
+♪ <i>Loathing you</i> ♪
+
+543
+00:37:09,060 --> 00:37:12,856
+♪ <i>My whole life long</i> ♪
+
+544
+00:37:12,939 --> 00:37:15,900
+♪ <i>Dear Galinda, you are just too good ♪</i>
+
+545
+00:37:15,984 --> 00:37:18,486
+♪ <i>How do you stand it?
+I don't think I could</i> ♪
+
+546
+00:37:18,570 --> 00:37:20,196
+♪ <i>She's a terror! She's a Tartar! ♪</i>
+
+547
+00:37:20,280 --> 00:37:23,742
+♪ <i>We don't mean to show a bias
+But Galinda, you're a martyr</i> ♪
+
+548
+00:37:23,825 --> 00:37:25,452
+♪ <i>Well ♪</i>
+
+549
+00:37:25,535 --> 00:37:31,666
+♪ <i>These things are sent to try us</i> ♪
+
+550
+00:37:31,750 --> 00:37:33,460
+Ah.
+
+551
+00:37:40,425 --> 00:37:45,889
+♪ <i>Poor Galinda, forced to reside
+With someone so disgustikified ♪</i>
+
+552
+00:37:45,972 --> 00:37:51,269
+♪ <i>We just want to tell you
+We're all on your side</i> ♪
+
+553
+00:37:51,352 --> 00:37:54,230
+-♪ <i>We share your loathing</i> ♪
+-♪ <i>What is this feeling</i> ♪
+
+554
+00:37:54,314 --> 00:37:56,065
+-♪ <i>So sudden and new?</i> ♪
+-♪ <i>Unadulterated loathing</i> ♪
+
+555
+00:37:56,149 --> 00:37:59,152
+-♪ <i>I felt the moment I laid eyes on you</i> ♪
+-♪ <i>For her face, her voice, her clothing</i> ♪
+
+556
+00:37:59,235 --> 00:38:00,445
+♪ <i>My pulse is rushing</i> ♪
+
+557
+00:38:00,528 --> 00:38:02,238
+-♪ <i>My head is reeling</i> ♪
+-♪ <i>Let's just say</i> ♪
+
+558
+00:38:02,322 --> 00:38:05,617
+-♪ <i>We loathe it all ♪</i>
+-♪ <i>Oh, what is this feeling? ♪</i>
+
+559
+00:38:05,700 --> 00:38:08,620
+-♪ <i>Every little trait, however small</i> ♪
+-♪ <i>Does it have a name?</i> ♪
+
+560
+00:38:08,703 --> 00:38:12,081
+-♪ <i>Makes our very flesh begin to crawl ♪</i>
+-♪ <i>Yes</i> ♪
+
+561
+00:38:12,165 --> 00:38:15,126
+♪ <i>Ah...</i> ♪
+
+562
+00:38:15,210 --> 00:38:16,544
+-♪ <i>Loathing</i> ♪
+-♪ <i>Loathing</i> ♪
+
+563
+00:38:16,628 --> 00:38:19,798
+-♪ <i>There's a strange exhilaration</i> ♪
+-♪ <i>Loathing</i> ♪
+
+564
+00:38:19,881 --> 00:38:23,218
+-♪ <i>In such total detestation</i> ♪
+-♪ <i>Loathing</i> ♪
+
+565
+00:38:23,301 --> 00:38:26,846
+-♪ <i>It's so pure, so strong</i> ♪
+-♪ <i>So strong</i> ♪
+
+566
+00:38:26,930 --> 00:38:29,474
+♪ <i>Though I do admit it came on fast ♪</i>
+
+567
+00:38:29,557 --> 00:38:33,019
+♪ <i>Still I do believe that it can last</i> ♪
+
+568
+00:38:33,102 --> 00:38:37,106
+-♪ <i>And I will be loathing for forever</i> ♪
+-♪ <i>Loathing</i> ♪
+
+569
+00:38:37,190 --> 00:38:40,193
+-♪ <i>Loathing truly, deeply ♪</i>
+-♪ <i>Loathing</i> ♪
+
+570
+00:38:40,276 --> 00:38:45,365
+-♪ <i>Loathing you</i> ♪
+-♪ <i>Loathing, loathing you</i> ♪
+
+571
+00:38:45,448 --> 00:38:50,495
+-♪ <i>My whole life long</i> ♪
+-♪ <i>Loathing! Unadulterated loathing</i> ♪
+
+572
+00:38:55,333 --> 00:38:58,127
+Boo!
+
+573
+00:39:16,980 --> 00:39:19,691
+All right. All right, everyone.
+Settle down.
+
+574
+00:39:19,774 --> 00:39:21,985
+Ladies and gentlemen, settle down.
+
+575
+00:39:22,068 --> 00:39:24,070
+Quiet! Quiet, everyone.
+
+576
+00:39:25,071 --> 00:39:26,072
+Now then,
+
+577
+00:39:26,155 --> 00:39:29,075
+I have read your most recent essays,
+
+578
+00:39:29,158 --> 00:39:32,579
+and I am amazed to report some progress.
+
+579
+00:39:32,662 --> 00:39:33,663
+Thank you.
+
+580
+00:39:33,746 --> 00:39:38,626
+Although, some of us still tend to favor
+form over content, Miss Glinda.
+
+581
+00:39:39,794 --> 00:39:43,590
+Oh. Actually, it's Galinda With a "Ga"
+
+582
+00:39:44,090 --> 00:39:46,301
+Yes, of course.
+
+583
+00:39:46,885 --> 00:39:48,636
+Glinda.
+
+584
+00:39:48,720 --> 00:39:50,430
+-No.
+-Not even close.
+
+585
+00:39:50,513 --> 00:39:52,140
+I don't see what the problem is.
+
+586
+00:39:52,223 --> 00:39:55,310
+You know, every other professor
+manages to pronouncify my name.
+
+587
+00:39:55,894 --> 00:39:58,146
+Maybe the pronuncifi-cation
+of your precious name
+
+588
+00:39:58,229 --> 00:40:00,732
+is not the sole focus
+of Dr. Dillamond's life.
+
+589
+00:40:00,815 --> 00:40:03,902
+Maybe Dr. Dillamond
+is not like every other professor.
+
+590
+00:40:04,402 --> 00:40:06,905
+Maybe some of us are just different.
+
+591
+00:40:08,197 --> 00:40:11,618
+Well, it seems the artichoke is steamed.
+
+592
+00:40:11,701 --> 00:40:13,328
+Oh, my...
+
+593
+00:40:13,411 --> 00:40:16,331
+The worst way to cook an artichoke.
+
+594
+00:40:16,414 --> 00:40:18,625
+Quiet, please. Please!
+
+595
+00:40:19,292 --> 00:40:22,712
+Yes, we goats lack upper front teeth,
+
+596
+00:40:22,795 --> 00:40:26,841
+which accounts for the mispronunciation,
+Miss Glinda
+
+597
+00:40:28,927 --> 00:40:31,512
+You see, indeed,
+
+598
+00:40:32,096 --> 00:40:33,681
+some of us are different.
+
+599
+00:40:35,099 --> 00:40:40,480
+Now, you may have noticed that I am one of
+the last animal professors here at Shiz.
+
+600
+00:40:40,563 --> 00:40:45,026
+And it isn't encouraged
+to discuss this in our classes,
+
+601
+00:40:45,109 --> 00:40:48,196
+but there have been some great changes
+throughout Oz
+
+602
+00:40:48,279 --> 00:40:50,907
+with the rejection of animal culture.
+
+603
+00:40:51,908 --> 00:40:54,702
+However, there was a time,
+before you were born,
+
+604
+00:40:55,244 --> 00:40:57,914
+when life in Oz was different.
+
+605
+00:41:00,166 --> 00:41:01,918
+When one could walk these halls
+
+606
+00:41:02,001 --> 00:41:05,171
+and hear a snow leopard
+solving an equation,
+
+607
+00:41:05,254 --> 00:41:08,174
+or an antelope explicating a sonnet.
+
+608
+00:41:08,257 --> 00:41:12,887
+So, when and why did this change?
+
+609
+00:41:12,971 --> 00:41:14,597
+From what I've read, the Great Drought.
+
+610
+00:41:15,598 --> 00:41:17,809
+-Okay, excuse me.
+-Like, raise your hand.
+
+611
+00:41:18,393 --> 00:41:19,394
+Precisely.
+
+612
+00:41:20,520 --> 00:41:21,688
+Food grew scarce.
+
+613
+00:41:21,771 --> 00:41:24,524
+And when people are hungry and angry,
+
+614
+00:41:24,607 --> 00:41:27,360
+-well, then they begin to look for...
+-Someone to blame.
+
+615
+00:41:28,736 --> 00:41:30,947
+Quite right, Miss Elphaba
+
+616
+00:41:34,784 --> 00:41:37,495
+Yes, Miss Glinda?
+
+617
+00:41:37,578 --> 00:41:39,914
+It is Galinda.
+
+618
+00:41:39,998 --> 00:41:42,208
+Galinda Galinda.
+
+619
+00:41:42,291 --> 00:41:44,377
+And I don't see why
+you can't just teach us history
+
+620
+00:41:44,460 --> 00:41:46,587
+instead of always harping on the past.
+
+621
+00:41:47,630 --> 00:41:50,133
+Because we cannot escape the past,
+
+622
+00:41:50,717 --> 00:41:53,094
+and we ignore it at our own peril.
+
+623
+00:41:54,095 --> 00:41:57,265
+The past helps explain
+our present circumstances.
+
+624
+00:41:57,348 --> 00:42:00,935
+For instance,
+if we examine this timeline...
+
+625
+00:42:16,659 --> 00:42:18,870
+Who is responsible for this?
+
+626
+00:42:25,084 --> 00:42:29,088
+I asked, who is responsible for this?
+
+627
+00:42:33,718 --> 00:42:36,012
+Very well. Class dismissed.
+
+628
+00:42:38,389 --> 00:42:40,475
+I said, class dismissed.
+
+629
+00:42:51,986 --> 00:42:52,987
+Dr. Dillamond.
+
+630
+00:42:54,113 --> 00:42:55,364
+Miss Elphaba.
+
+631
+00:42:58,367 --> 00:43:00,078
+Miss Elphaba, you don't have to...
+
+632
+00:43:02,497 --> 00:43:04,791
+Thank you. You're very kind.
+
+633
+00:43:12,840 --> 00:43:13,841
+Not bad.
+
+634
+00:43:18,721 --> 00:43:20,640
+Poppies are my favorite.
+
+635
+00:43:21,307 --> 00:43:22,350
+Mine too.
+
+636
+00:43:23,768 --> 00:43:26,521
+They keep me cheerful in these dark times.
+
+637
+00:43:29,107 --> 00:43:32,151
+Miss Elphaba, please.
+Go and join your friends.
+
+638
+00:43:32,235 --> 00:43:34,362
+That's all right.
+I don't have any friends.
+
+639
+00:43:34,862 --> 00:43:37,156
+Well, maybe one.
+
+640
+00:43:53,047 --> 00:43:54,382
+<i>Try again.</i>
+
+641
+00:43:56,175 --> 00:43:57,593
+Eyes shut.
+
+642
+00:43:58,469 --> 00:44:00,138
+Toes clenched.
+
+643
+00:44:01,889 --> 00:44:02,890
+Now...
+
+644
+00:44:04,433 --> 00:44:06,185
+levitate the coin.
+
+645
+00:44:44,599 --> 00:44:46,267
+It's all right.
+
+646
+00:44:47,143 --> 00:44:49,478
+It takes time. Hmm?
+
+647
+00:44:56,277 --> 00:45:00,489
+I hear there was
+ain unfortunate disturbance
+
+648
+00:45:00,573 --> 00:45:02,909
+in Dr. Dillamond's class today.
+
+649
+00:45:07,622 --> 00:45:09,957
+That must ha Ve been
+so distressful for you.
+
+650
+00:45:10,666 --> 00:45:11,667
+Well,
+
+651
+00:45:12,376 --> 00:45:14,378
+someone wrote those horrendible words,
+
+652
+00:45:15,129 --> 00:45:17,381
+on purpose, for him to see.
+
+653
+00:45:20,801 --> 00:45:22,053
+I just wish I could...
+
+654
+00:45:22,595 --> 00:45:23,679
+What?
+
+655
+00:45:24,388 --> 00:45:25,598
+You wish what?
+
+656
+00:45:26,515 --> 00:45:29,143
+I wish there were something I could do.
+Because no one...
+
+657
+00:45:30,853 --> 00:45:33,356
+No one... Do what?
+
+658
+00:45:37,526 --> 00:45:38,986
+No one should be scorned
+
+659
+00:45:40,363 --> 00:45:41,530
+or laughed at.
+
+660
+00:45:44,742 --> 00:45:46,494
+Or looked down upon
+
+661
+00:45:48,329 --> 00:45:52,416
+or told to stop jabbering and keep quiet.
+
+662
+00:45:58,714 --> 00:45:59,757
+Remarkable.
+
+663
+00:46:00,883 --> 00:46:02,718
+Absolutely remarkable.
+
+664
+00:46:04,595 --> 00:46:07,223
+Once you learn to harness your emotion...
+
+665
+00:46:09,016 --> 00:46:10,518
+the sky's the limit.
+
+666
+00:46:11,310 --> 00:46:14,021
+It could lead you to the Wizard himself.
+
+667
+00:46:22,613 --> 00:46:26,075
+-Have a good night, Dr. Dillamond.
+-Goodbye, Dr. Dillamond.
+
+668
+00:46:32,206 --> 00:46:33,249
+Dr. Dillamond.
+
+669
+00:46:34,583 --> 00:46:35,751
+Did you find out who...
+
+670
+00:46:45,177 --> 00:46:48,097
+...yet another incident here at Shiz.
+
+671
+00:46:48,180 --> 00:46:52,560
+We animals are now being blamed
+for everything that goes wrong.
+
+672
+00:46:52,643 --> 00:46:55,771
+Forced from our jobs, told to keep silent.
+
+673
+00:46:55,855 --> 00:46:59,567
+This is much bigger
+than just some words on a chalkboard.
+
+674
+00:46:59,650 --> 00:47:02,778
+We can still converse in private,
+thank Oz.
+
+675
+00:47:02,862 --> 00:47:04,363
+A dear friend of mine...
+
+676
+00:47:04,447 --> 00:47:06,657
+-A deer?
+-A cow, actually.
+
+677
+00:47:06,741 --> 00:47:08,868
+She's been speaking out at protests.
+
+678
+00:47:08,951 --> 00:47:11,787
+Recently wrote me,
+asking to meet at a cafė.
+
+679
+00:47:12,455 --> 00:47:13,956
+She said it was urgent.
+
+680
+00:47:14,040 --> 00:47:15,499
+What did she tell you?
+
+681
+00:47:15,583 --> 00:47:18,461
+She never showed.
+And no one's seen her since.
+
+682
+00:47:18,544 --> 00:47:22,006
+Many animals have gone missing,
+or are actually leaving.
+
+683
+00:47:22,089 --> 00:47:25,134
+Yesterday, a Badger acquaintance,
+a solicitor,
+
+684
+00:47:25,217 --> 00:47:28,179
+was sacked, just for arguing a case.
+
+685
+00:47:28,262 --> 00:47:29,638
+At least he can still argue.
+
+686
+00:47:29,722 --> 00:47:31,015
+What do you mean?
+
+687
+00:47:31,557 --> 00:47:32,558
+Let me show you.
+
+688
+00:47:35,644 --> 00:47:36,645
+♪ <i>I've heard of an ox</i> ♪
+
+689
+00:47:36,729 --> 00:47:38,230
+♪ <i>A professor from Quox</i> ♪
+
+690
+00:47:38,314 --> 00:47:40,358
+♪ <i>No longer permitted to teach</i> ♪
+
+691
+00:47:40,441 --> 00:47:42,568
+♪ <i>Who has lost all powers of speech</i> ♪
+
+692
+00:47:42,651 --> 00:47:44,362
+-Oh, no.
+-Can't speak.
+
+693
+00:47:44,445 --> 00:47:46,572
+♪ <i>And an owl in Munchkin Rock</i> ♪
+
+694
+00:47:46,655 --> 00:47:49,158
+♪ <i>A vicar with a thriving flock ♪</i>
+
+695
+00:47:49,241 --> 00:47:50,326
+♪ <i>Forbidden to preach</i> ♪
+
+696
+00:47:50,409 --> 00:47:51,619
+-Oh!
+-No!
+
+697
+00:47:51,702 --> 00:47:53,621
+♪ <i>Now he only can screech</i> ♪
+
+698
+00:47:54,413 --> 00:47:57,124
+♪ <i>Only rumors
+But still enough to give pause</i> ♪
+
+699
+00:47:57,208 --> 00:47:59,502
+♪ <i>To anyone with paws</i> ♪
+
+700
+00:47:59,585 --> 00:48:03,255
+♪ <i>Something bad is happening in Oz</i> ♪
+
+701
+00:48:04,298 --> 00:48:07,385
+♪ <i>Something bad? Happening in</i>... ♪
+
+702
+00:48:07,468 --> 00:48:11,389
+That's it. I'm leaving Oz while
+I can still speak the word "goodbye."
+
+703
+00:48:11,472 --> 00:48:13,265
+-No, you can't.
+-Leave Oz?
+
+704
+00:48:15,768 --> 00:48:16,769
+Take it away!
+
+705
+00:48:16,852 --> 00:48:17,686
+<i>Stop jabbering.</i>
+
+706
+00:48:22,775 --> 00:48:23,609
+Someone's there.
+
+707
+00:48:23,692 --> 00:48:24,902
+What is it?
+
+708
+00:48:24,985 --> 00:48:27,405
+Miss Elphaba, what are you doing here?
+
+709
+00:48:27,905 --> 00:48:29,115
+Well, I was just...
+
+710
+00:48:29,782 --> 00:48:30,950
+It's all right.
+
+711
+00:48:31,033 --> 00:48:33,077
+Quickly, come inside.
+
+712
+00:48:43,087 --> 00:48:44,255
+Don't be frightened.
+
+713
+00:48:46,215 --> 00:48:47,716
+Let me get you some tea.
+
+714
+00:48:48,884 --> 00:48:51,262
+Dr. Dillamond,
+what you were saying just now...
+
+715
+00:48:52,638 --> 00:48:54,098
+could that really happen?
+
+716
+00:48:55,015 --> 00:48:56,350
+It is happening.
+
+717
+00:48:57,268 --> 00:49:00,396
+You'll find if you make it
+discouraging enough,
+
+718
+00:49:00,479 --> 00:49:03,274
+you can keep anyone silent.
+
+719
+00:49:11,824 --> 00:49:14,577
+But if animals are losing
+the ability to speak,
+
+720
+00:49:15,161 --> 00:49:16,412
+leaving Oz,
+
+721
+00:49:16,495 --> 00:49:18,456
+then someone's got to tell the Wizard.
+
+722
+00:49:18,539 --> 00:49:20,124
+Listen to me.
+
+723
+00:49:20,207 --> 00:49:22,918
+You mustn't tell another soul
+what you've heard and seen here tonight.
+
+724
+00:49:23,002 --> 00:49:24,795
+But that's why we have a Wizard.
+
+725
+00:49:25,838 --> 00:49:29,049
+♪ <i>So nothing bad ♪</i>
+
+726
+00:49:29,133 --> 00:49:30,426
+Perhaps you're right.
+
+727
+00:49:30,509 --> 00:49:34,972
+♪ <i>Nothing all that bad</i> ♪
+
+728
+00:49:35,556 --> 00:49:38,726
+♪ <i>Nothing truly bad</i> ♪
+
+729
+00:49:41,729 --> 00:49:42,730
+Sorry.
+
+730
+00:49:43,814 --> 00:49:44,815
+Bad.
+
+731
+00:49:45,524 --> 00:49:47,443
+I must be catching a cold.
+
+732
+00:49:51,572 --> 00:49:53,365
+Oz bless you, Dr. Dillamond.
+
+733
+00:49:59,955 --> 00:50:02,583
+You'd better go. Take the lamp.
+
+734
+00:50:18,307 --> 00:50:20,601
+Whoa! Whoa! Whoa, there.
+
+735
+00:50:21,602 --> 00:50:24,313
+-Whoa!
+-I did not see her.
+
+736
+00:50:24,396 --> 00:50:26,524
+Yeah, neither did I.
+
+737
+00:50:26,607 --> 00:50:30,611
+-Um, you might want to, um, you know.
+-Okay. Yeah, leave it with me.
+
+738
+00:50:31,278 --> 00:50:34,365
+I'm so sorry, miss.
+We didn't see you there. You must've...
+
+739
+00:50:36,200 --> 00:50:37,660
+blended with the foliage.
+
+740
+00:50:37,743 --> 00:50:39,453
+Is this how you go through life,
+
+741
+00:50:39,537 --> 00:50:41,956
+just running amok
+and trampling anyone in your path?
+
+742
+00:50:42,790 --> 00:50:44,875
+No.
+
+743
+00:50:44,959 --> 00:50:46,919
+No. Sometimes I'm asleep.
+
+744
+00:50:50,589 --> 00:50:51,799
+All right.
+
+745
+00:50:52,466 --> 00:50:54,760
+Here we go. No, I'm not seasick.
+
+746
+00:50:54,843 --> 00:50:55,928
+Neither am I.
+
+747
+00:50:56,011 --> 00:50:57,638
+No, I did not eat grass as a child.
+
+748
+00:50:57,721 --> 00:50:58,722
+Oh, you didn't? I did.
+
+749
+00:50:58,806 --> 00:51:01,475
+And, yes, I have always been green.
+
+750
+00:51:02,142 --> 00:51:04,436
+And the defensiveness,
+is that a recent development?
+
+751
+00:51:08,774 --> 00:51:09,775
+Hmm.
+
+752
+00:51:15,531 --> 00:51:16,532
+Oh, no, no.
+
+753
+00:51:20,327 --> 00:51:22,705
+I'm off for some more trampling.
+May we offer you a ride?
+
+754
+00:51:22,788 --> 00:51:24,832
+No, thanks. Get stuffed.
+
+755
+00:51:26,500 --> 00:51:27,501
+Well.
+
+756
+00:51:28,294 --> 00:51:30,504
+Feldspur, we have just been
+spurned by a girl.
+
+757
+00:51:30,588 --> 00:51:32,840
+Hmm, indeed.
+
+758
+00:51:32,923 --> 00:51:34,675
+I guess there's
+a first time for everything.
+
+759
+00:51:36,051 --> 00:51:37,886
+<i>Attention, students.</i>
+
+760
+00:51:37,970 --> 00:51:39,555
+<i>It is my honor to announce that.</i>
+
+761
+00:51:39,638 --> 00:51:44,560
+<i>Prince Fiyero Tigelaar of Winkie Country
+will be filling out our student body...</i>
+
+762
+00:51:45,728 --> 00:51:48,772
+<i>...having transferred from
+the Royal Winkie Academy.</i>
+
+763
+00:51:50,482 --> 00:51:52,318
+<i>Please help him feel welcome</i>
+
+764
+00:51:52,860 --> 00:51:54,987
+<i>without making direct eye contact.</i>
+
+765
+00:52:07,374 --> 00:52:09,209
+-Hi.
+-Hi.
+
+766
+00:52:09,293 --> 00:52:10,294
+Hi.
+
+767
+00:52:12,129 --> 00:52:13,130
+Hi.
+
+768
+00:52:21,138 --> 00:52:22,890
+Enroll here often?
+
+769
+00:52:22,973 --> 00:52:24,600
+Could I ask you...
+
+770
+00:52:25,517 --> 00:52:27,728
+Anything. Anything you want.
+
+771
+00:52:28,270 --> 00:52:29,396
+...just to move out the way?
+
+772
+00:52:29,480 --> 00:52:31,482
+Absolute... Yeah, that's anything.
+
+773
+00:52:32,524 --> 00:52:34,943
+-How are you?
+-Hi. Yeah.
+
+774
+00:52:41,784 --> 00:52:42,785
+Mmm.
+
+775
+00:52:46,872 --> 00:52:50,125
+Are you looking for something? Or...
+
+776
+00:52:51,919 --> 00:52:52,920
+someone?
+
+777
+00:52:53,003 --> 00:52:54,546
+No, I was...
+
+778
+00:52:57,383 --> 00:52:58,592
+What was I doing?
+
+779
+00:52:59,843 --> 00:53:01,011
+How would I know?
+
+780
+00:53:01,595 --> 00:53:02,971
+Our first fight.
+
+781
+00:53:10,813 --> 00:53:12,898
+-Oh. Still here.
+-Mm-hmm.
+
+782
+00:53:14,316 --> 00:53:18,070
+Well, I promised to give a guided tour
+to any recently arrived students, so...
+
+783
+00:53:18,570 --> 00:53:19,571
+Hmm.
+
+784
+00:53:20,906 --> 00:53:24,910
+Wait. Are you a recently arrived student?
+
+785
+00:53:24,993 --> 00:53:26,412
+I am, yeah.
+
+786
+00:53:26,495 --> 00:53:28,205
+Oh, I didn't know.
+
+787
+00:53:28,288 --> 00:53:32,209
+Though, I'm not sure I'll last longer
+at this school than any of the others.
+
+788
+00:53:32,835 --> 00:53:36,338
+But I wasn't at any of your other schools.
+
+789
+00:54:06,535 --> 00:54:08,537
+And this is the, um...
+
+790
+00:54:09,329 --> 00:54:10,414
+the book place.
+
+791
+00:54:11,790 --> 00:54:15,544
+There's a collection of, um, rare books
+around here somewhere,
+
+792
+00:54:15,627 --> 00:54:17,379
+and some medium rare as well.
+
+793
+00:54:18,172 --> 00:54:19,965
+Well, there's so many to choose from.
+
+794
+00:54:20,048 --> 00:54:21,592
+Right?
+
+795
+00:54:35,564 --> 00:54:37,399
+So, what do you do for fun around here?
+
+796
+00:54:37,483 --> 00:54:39,568
+Oh, well, nothing.
+
+797
+00:54:39,651 --> 00:54:40,819
+Until now.
+
+798
+00:54:40,903 --> 00:54:42,488
+You ever been to the Ozdust Ballroom?
+
+799
+00:54:42,571 --> 00:54:44,573
+The Ozdust Ballroom?
+
+800
+00:54:44,656 --> 00:54:46,658
+I mean, isn't that place somewhat illegal?
+
+801
+00:54:47,159 --> 00:54:48,619
+And scandalocious?
+
+802
+00:54:48,702 --> 00:54:50,913
+-Yeah, it is both of those things. Yeah.
+-Hmm?
+
+803
+00:54:50,996 --> 00:54:53,832
+It's also not far from here,
+which is another plus.
+
+804
+00:54:53,916 --> 00:54:55,250
+Whoa!
+
+805
+00:54:56,960 --> 00:54:57,961
+You all right?
+
+806
+00:54:59,421 --> 00:55:00,547
+Yeah.
+
+807
+00:55:02,716 --> 00:55:04,051
+I'm Fiyero Tigelaar.
+
+808
+00:55:05,844 --> 00:55:06,887
+Winkie Country.
+
+809
+00:55:06,970 --> 00:55:08,514
+Oh, Oz.
+
+810
+00:55:09,097 --> 00:55:10,307
+Boq Woodsman...
+
+811
+00:55:12,392 --> 00:55:13,727
+of Munchkinland.
+
+812
+00:55:15,854 --> 00:55:17,022
+Great.
+
+813
+00:55:17,105 --> 00:55:18,690
+Excuse me. Good to know.
+
+814
+00:55:18,774 --> 00:55:20,234
+Um, what were you saying again
+
+815
+00:55:20,317 --> 00:55:24,279
+about the Ozdust and fun, and you and me?
+
+816
+00:55:24,363 --> 00:55:27,199
+Um, unfortunately, it's against Shiz rules
+to go into town after dark.
+
+817
+00:55:27,282 --> 00:55:30,160
+I see that, once again, the responsibility
+to corrupt my fellow students...
+
+818
+00:55:30,244 --> 00:55:31,870
+...falls to me.
+
+819
+00:55:33,288 --> 00:55:34,665
+Uh, excuse me.
+
+820
+00:55:43,465 --> 00:55:45,467
+Whoa.
+
+821
+00:55:45,551 --> 00:55:47,177
+The trouble with schools is...
+
+822
+00:55:47,761 --> 00:55:51,139
+♪ <i>They always try
+To teach the wrong lesson</i> ♪
+
+823
+00:55:53,267 --> 00:55:54,476
+Oh.
+
+824
+00:55:56,353 --> 00:55:57,855
+♪ <i>Believe me</i> ♪
+
+825
+00:55:57,938 --> 00:56:02,025
+♪ <i>I've been kicked out of
+Enough of them to know ♪</i>
+
+826
+00:56:03,694 --> 00:56:05,904
+♪ <i>They want you to become less callow ♪</i>
+
+827
+00:56:05,988 --> 00:56:07,281
+♪ <i>Less shallow ♪</i>
+
+828
+00:56:09,032 --> 00:56:13,453
+♪ <i>But I say, why invite stress in?</i> ♪
+
+829
+00:56:20,335 --> 00:56:22,754
+♪ <i>Stop studying strife</i> ♪
+
+830
+00:56:25,757 --> 00:56:29,052
+♪ <i>And learn to live</i> ♪
+
+831
+00:56:30,512 --> 00:56:37,519
+♪ <i>The unexamined life</i> ♪
+
+832
+00:56:43,692 --> 00:56:45,569
+♪ <i>Dancing through life</i> ♪
+
+833
+00:56:45,652 --> 00:56:47,321
+♪ <i>Skimming the surface</i> ♪
+
+834
+00:56:47,404 --> 00:56:51,658
+♪ <i>Gliding where turf is smooth</i> ♪
+
+835
+00:56:51,742 --> 00:56:53,827
+♪ <i>Life's more painless</i> ♪
+
+836
+00:56:53,911 --> 00:56:55,579
+♪ <i>For the brainless</i> ♪
+
+837
+00:56:55,662 --> 00:56:57,748
+♪ <i>Why think too hard ♪</i>
+
+838
+00:56:57,831 --> 00:56:59,666
+♪ <i>When it's so soothing? ♪</i>
+
+839
+00:56:59,750 --> 00:57:01,376
+♪ <i>Dancing through life</i> ♪
+
+840
+00:57:01,460 --> 00:57:03,420
+♪ <i>No need to tough it ♪</i>
+
+841
+00:57:03,503 --> 00:57:07,466
+♪ <i>When you can slough it off as I do</i> ♪
+
+842
+00:57:07,549 --> 00:57:09,259
+♪ <i>Nothing matters</i> ♪
+
+843
+00:57:09,343 --> 00:57:11,887
+♪ <i>But knowing nothing matters</i> ♪
+
+844
+00:57:11,970 --> 00:57:13,597
+♪ <i>It's just life</i> ♪
+
+845
+00:57:13,680 --> 00:57:18,310
+♪ <i>So keep dancing through</i> ♪
+
+846
+00:57:30,822 --> 00:57:32,824
+♪ <i>Dancing through life</i> ♪
+
+847
+00:57:32,908 --> 00:57:34,451
+♪ <i>Swaying and sweeping</i> ♪
+
+848
+00:57:34,534 --> 00:57:38,789
+♪ <i>And always keeping cool</i> ♪
+
+849
+00:57:38,872 --> 00:57:40,624
+♪ <i>Life is fraught-less</i> ♪
+
+850
+00:57:40,707 --> 00:57:42,376
+♪ <i>When you're thoughtless</i> ♪
+
+851
+00:57:42,459 --> 00:57:43,961
+♪ <i>Those who don't try ♪</i>
+
+852
+00:57:44,544 --> 00:57:46,380
+♪ <i>Never look foolish</i> ♪
+
+853
+00:57:46,463 --> 00:57:48,173
+♪ <i>Dancing through life</i> ♪
+
+854
+00:57:48,256 --> 00:57:50,175
+♪ <i>Mindless and careless</i> ♪
+
+855
+00:57:50,258 --> 00:57:53,595
+<i>♪ Make sure you're where
+Less trouble is rife</i> ♪
+
+856
+00:57:53,679 --> 00:57:55,764
+♪ <i>Woes are fleeting</i> ♪
+
+857
+00:57:55,847 --> 00:57:58,183
+♪ <i>Blows are glancing</i> ♪
+
+858
+00:57:58,266 --> 00:58:05,273
+♪ <i>When you're dancing through life</i> ♪
+
+859
+00:58:12,072 --> 00:58:13,240
+Hey!
+
+860
+00:58:21,623 --> 00:58:23,625
+I'm gonna go study outside. I can't...
+
+861
+00:58:35,053 --> 00:58:38,390
+♪ <i>Let's go down to the Ozdust Ballroom</i> ♪
+
+862
+00:58:38,473 --> 00:58:41,309
+♪ <i>We'll meet there later tonight</i> ♪
+
+863
+00:58:42,519 --> 00:58:45,647
+♪ <i>We can dance till it's light</i> ♪
+
+864
+00:58:45,731 --> 00:58:48,025
+♪ <i>Find the prettiest girl</i> ♪
+
+865
+00:58:48,108 --> 00:58:50,235
+♪ <i>Give her a whirl</i> ♪
+
+866
+00:58:50,318 --> 00:58:54,656
+♪ <i>Right on down to the Ozdust Ballroom</i> ♪
+
+867
+00:58:54,740 --> 00:58:58,118
+♪ <i>Come on, follow me</i> ♪
+
+868
+00:58:58,201 --> 00:59:01,788
+♪ <i>You'll be happy to be there</i> ♪
+
+869
+00:59:01,872 --> 00:59:03,749
+♪ <i>Dancing through life</i> ♪
+
+870
+00:59:03,832 --> 00:59:05,542
+♪ <i>Down at the Ozdust ♪</i>
+
+871
+00:59:05,625 --> 00:59:09,421
+♪ <i>If only because
+Dust is what we come to</i> ♪
+
+872
+00:59:09,504 --> 00:59:13,550
+<i>♪Nothing matters
+But knowing nothing matters</i> ♪
+
+873
+00:59:14,342 --> 00:59:18,597
+♪ <i>It's just life</i> ♪
+
+874
+00:59:20,015 --> 00:59:23,602
+♪ <i>It's just life</i> ♪
+
+875
+00:59:23,685 --> 00:59:29,066
+♪ <i>So keep dancing through</i> ♪
+
+876
+00:59:32,319 --> 00:59:33,987
+Galinda. Galinda.
+
+877
+00:59:34,071 --> 00:59:35,155
+-Hey. Here.
+-Oh.
+
+878
+00:59:36,156 --> 00:59:37,157
+Oh.
+
+879
+00:59:37,824 --> 00:59:39,367
+Uh, keep it.
+
+880
+00:59:40,452 --> 00:59:41,703
+I've got many.
+
+881
+00:59:41,787 --> 00:59:43,121
+I cry a Lot.
+
+882
+00:59:43,872 --> 00:59:44,873
+Well, thank you.
+
+883
+00:59:44,956 --> 00:59:47,626
+Um, I hope you'll save a dance
+for me tonight.
+
+884
+00:59:47,709 --> 00:59:49,920
+I'll be right there, waiting.
+
+885
+00:59:50,504 --> 00:59:53,173
+-All night.
+-That's so kind.
+
+886
+00:59:53,757 --> 00:59:55,425
+But you know what would be even kinder?
+
+887
+00:59:55,509 --> 00:59:58,470
+♪ <i>See that tragically beautiful girl</i> ♪
+
+888
+00:59:58,553 --> 01:00:00,055
+♪ <i>The one in the chair ♪</i>
+
+889
+01:00:01,723 --> 01:00:03,391
+♪ <i>It seems so unfair ♪</i>
+
+890
+01:00:03,475 --> 01:00:05,560
+♪ <i>We should go on a spree</i> ♪
+
+891
+01:00:05,644 --> 01:00:07,896
+♪ <i>And not she, gee</i> ♪
+
+892
+01:00:07,979 --> 01:00:10,816
+♪ <i>I know someone would be my hero</i> ♪
+
+893
+01:00:10,899 --> 01:00:13,318
+♪ <i>If that someone were</i> ♪
+
+894
+01:00:14,027 --> 01:00:16,905
+♪ <i>To go invite her ♪</i>
+
+895
+01:00:17,989 --> 01:00:20,617
+Well, maybe I could invite her.
+
+896
+01:00:22,244 --> 01:00:23,870
+Oh, Bick, really?
+
+897
+01:00:24,538 --> 01:00:27,124
+♪ <i>You would do that for me?</i> ♪
+
+898
+01:00:30,877 --> 01:00:32,754
+I would do anything for you.
+
+899
+01:00:33,338 --> 01:00:34,339
+Well?
+
+900
+01:00:35,048 --> 01:00:36,675
+-Oh, right now?
+-Why not?
+
+901
+01:00:36,758 --> 01:00:37,968
+Go ask her right now?
+
+902
+01:00:38,051 --> 01:00:39,427
+Why not? She's right there.
+
+903
+01:00:49,479 --> 01:00:52,732
+-Uh, hey, Nessa.
+-Hi.
+
+904
+01:00:56,069 --> 01:00:58,113
+You're good.
+
+905
+01:00:58,613 --> 01:01:00,991
+I don't know what you mean.
+
+906
+01:01:02,117 --> 01:01:03,451
+I love helping others.
+
+907
+01:01:04,703 --> 01:01:08,206
+Oh, and I happen to be free tonight.
+After all...
+
+908
+01:01:09,207 --> 01:01:12,752
+♪ <i>Now that we've met one another ♪</i>
+
+909
+01:01:12,836 --> 01:01:16,756
+♪ <i>It's clear we deserve each other ♪</i>
+
+910
+01:01:16,840 --> 01:01:18,341
+-You're perfect.
+-You're perfect.
+
+911
+01:01:18,425 --> 01:01:21,386
+♪ <i>So we're perfect together ♪</i>
+
+912
+01:01:21,469 --> 01:01:24,514
+♪ <i>Born to be forever ♪</i>
+
+913
+01:01:24,598 --> 01:01:28,810
+♪ <i>Dancing through life</i> ♪
+
+914
+01:01:35,442 --> 01:01:37,360
+You'll never guess
+what just happened to me.
+
+915
+01:01:37,444 --> 01:01:38,445
+What?
+
+916
+01:01:38,528 --> 01:01:42,407
+That perfectly adorable Munchkin boy
+just asked me out.
+
+917
+01:01:42,490 --> 01:01:47,078
+He said he was too shy to ask me at first,
+but then Galinda emboldened him.
+
+918
+01:01:47,162 --> 01:01:49,164
+-Wait. Galinda?
+-Don't.
+
+919
+01:01:49,748 --> 01:01:52,584
+Don't you dare say
+another word against her.
+
+920
+01:01:53,335 --> 01:01:56,463
+I'm about to have the happiest night
+of my life,
+
+921
+01:01:57,589 --> 01:01:59,174
+thanks to Galinda.
+
+922
+01:02:01,426 --> 01:02:03,929
+♪ <i>Finally for this one night ♪</i>
+
+923
+01:02:04,012 --> 01:02:07,474
+♪ <i>I'm about to have a fun night ♪</i>
+
+924
+01:02:07,557 --> 01:02:12,312
+♪ <i>With this Munchkin boy
+Galinda found for me</i> ♪
+
+925
+01:02:12,395 --> 01:02:15,065
+♪ <i>And I only wish there were</i> ♪
+
+926
+01:02:15,148 --> 01:02:21,112
+♪ <i>Something I could do for her
+To repay her</i> ♪
+
+927
+01:02:21,613 --> 01:02:24,366
+♪ <i>Elphaba, see? ♪</i>
+
+928
+01:02:24,449 --> 01:02:26,576
+♪ <i>We deserve each other ♪</i>
+
+929
+01:02:26,660 --> 01:02:30,080
+♪ <i>And Galinda helped it come true</i> ♪
+
+930
+01:02:31,122 --> 01:02:34,751
+♪ <i>We deserve each other, me and Boq</i> ♪
+
+931
+01:02:35,335 --> 01:02:38,296
+Please, Elphaba, try to understand.
+
+932
+01:02:38,380 --> 01:02:41,716
+♪ <i>I do</i> ♪
+
+933
+01:02:43,009 --> 01:02:44,261
+One, two, three!
+
+934
+01:02:44,344 --> 01:02:46,429
+-Whoo! That was it. That was it.
+-We're in.
+
+935
+01:02:46,513 --> 01:02:47,847
+-And it's perfect.
+-Oh, sweet Oz.
+
+936
+01:02:47,931 --> 01:02:48,765
+Wow.
+
+937
+01:02:48,848 --> 01:02:50,934
+Am I not the most scandalocious
+little fish in the sea?
+
+938
+01:02:51,017 --> 01:02:52,811
+The most.
+
+939
+01:02:52,894 --> 01:02:55,605
+Fiyero's gonna lose
+what's left of his mind.
+
+940
+01:02:55,689 --> 01:02:57,440
+I mean, we nailed it.
+
+941
+01:02:57,524 --> 01:02:59,734
+-Now, hurry up.
+-Okay, I may have to...
+
+942
+01:02:59,818 --> 01:03:02,570
+I can't believe this boy knows
+how to get into the Ozdust Ballroom.
+
+943
+01:03:02,654 --> 01:03:03,655
+I know.
+
+944
+01:03:03,738 --> 01:03:06,783
+And that we just happened
+to cross paths today. Am I right?
+
+945
+01:03:06,866 --> 01:03:08,285
+Um...
+
+946
+01:03:08,785 --> 01:03:10,036
+Ew.
+
+947
+01:03:10,662 --> 01:03:11,955
+What even is that?
+
+948
+01:03:12,038 --> 01:03:13,164
+-Galinda?
+-Hmm?
+
+949
+01:03:15,083 --> 01:03:16,710
+What's the reason?
+
+950
+01:03:17,419 --> 01:03:19,379
+I know. It's my granny.
+
+951
+01:03:19,462 --> 01:03:21,631
+She always makes me
+the most hideoteous hats.
+
+952
+01:03:22,215 --> 01:03:25,844
+I'd give it away,
+but I don't hate anyone that much.
+
+953
+01:03:28,805 --> 01:03:29,889
+I couldn't.
+
+954
+01:03:31,641 --> 01:03:32,726
+Could I?
+
+955
+01:03:34,311 --> 01:03:35,562
+No.
+
+956
+01:03:35,645 --> 01:03:36,813
+Oh!
+
+957
+01:03:38,106 --> 01:03:39,607
+-Hey.
+-Hi.
+
+958
+01:03:40,400 --> 01:03:41,484
+Um, we should go.
+
+959
+01:03:41,568 --> 01:03:43,278
+Yeah,
+we have to go rouge our knees.
+
+960
+01:03:43,361 --> 01:03:44,404
+-I know.
+-Do it.
+
+961
+01:03:44,487 --> 01:03:45,322
+-Yeah.
+-Super rouge.
+
+962
+01:03:45,405 --> 01:03:46,656
+-Right.
+-I do it every day.
+
+963
+01:03:46,740 --> 01:03:48,783
+Bye, Elphaba Love your shoulder pad...
+
+964
+01:03:48,867 --> 01:03:51,453
+Yeah. You just always look... Just a joy...
+
+965
+01:03:51,536 --> 01:03:53,872
+So good and joyful.
+
+966
+01:03:56,666 --> 01:03:58,043
+Galinda, um,
+
+967
+01:03:58,752 --> 01:04:01,504
+Nessa And I were talking about you
+just now, and...
+
+968
+01:04:01,588 --> 01:04:03,256
+Oh, well, we were just talking about you,
+
+969
+01:04:03,840 --> 01:04:05,383
+how you should join us tonight.
+
+970
+01:04:06,843 --> 01:04:07,844
+I don't follow.
+
+971
+01:04:08,511 --> 01:04:11,848
+You join us at the Ozdust.
+
+972
+01:04:12,432 --> 01:04:13,600
+I'm inviting you.
+
+973
+01:04:13,683 --> 01:04:14,684
+Why?
+
+974
+01:04:14,768 --> 01:04:17,270
+Well, because everyone will be there.
+
+975
+01:04:17,354 --> 01:04:20,065
+And don't tell me
+you have nothing to wear,
+
+976
+01:04:20,148 --> 01:04:21,649
+because you could wear this.
+
+977
+01:04:23,818 --> 01:04:26,863
+I mean, it goes with everything you own.
+
+978
+01:04:28,114 --> 01:04:31,201
+♪ <i>It's really, uh, sharp
+Don't you think? ♪</i>
+
+979
+01:04:31,284 --> 01:04:33,787
+♪ <i>You know, black is this year's pink ♪</i>
+
+980
+01:04:34,537 --> 01:04:37,999
+♪ <i>You deserve each other
+This hat and you</i> ♪
+
+981
+01:04:38,083 --> 01:04:40,001
+♪ <i>You're both so smart ♪</i>
+
+982
+01:04:40,835 --> 01:04:44,130
+♪ <i>You deserve each other, so here</i> ♪
+
+983
+01:04:44,214 --> 01:04:47,634
+♪ <i>Out of the Goodness of my heart</i> ♪
+
+984
+01:05:03,983 --> 01:05:06,277
+We're gonna get arrested.
+
+985
+01:05:06,361 --> 01:05:07,779
+There's too much light.
+
+986
+01:05:08,571 --> 01:05:10,740
+Move.
+Come on, come on, come on, come on.
+
+987
+01:05:15,787 --> 01:05:19,666
+Sorry to disturb you, Madame Morrible,
+but I have a favor to ask.
+
+988
+01:05:58,746 --> 01:06:00,582
+Here we go. Go. Ready?
+
+989
+01:06:00,665 --> 01:06:01,666
+Yep!
+
+990
+01:06:04,169 --> 01:06:05,795
+Hey, hey!
+
+991
+01:06:05,879 --> 01:06:07,088
+Yeah! Come on!
+
+992
+01:06:38,453 --> 01:06:39,287
+♪ <i>Listen, Nessa</i> ♪
+
+993
+01:06:39,370 --> 01:06:40,455
+Yes?
+
+994
+01:06:40,538 --> 01:06:41,539
+♪ <i>Uh, Nessa</i> ♪
+
+995
+01:06:41,623 --> 01:06:44,125
+♪ <i>I've got something to confess</i> ♪
+
+996
+01:06:44,209 --> 01:06:46,961
+♪ <i>A reason why, well ♪</i>
+
+997
+01:06:47,045 --> 01:06:49,631
+♪ <i>Why I asked you here tonight</i> ♪
+
+998
+01:06:49,714 --> 01:06:52,258
+♪ <i>And I know it isn't fair</i> ♪
+
+999
+01:06:52,342 --> 01:06:53,885
+Oh, Boq, I know why.
+
+1000
+01:06:53,968 --> 01:06:55,386
+You do?
+
+1001
+01:06:56,054 --> 01:06:59,140
+♪ <i>It's because I'm in this chair ♪</i>
+
+1002
+01:06:59,224 --> 01:07:01,142
+♪ <i>And you felt sorry for me</i> ♪
+
+1003
+01:07:02,685 --> 01:07:03,728
+Well, isn't that right?
+
+1004
+01:07:03,811 --> 01:07:05,813
+No. Whoa No, no.
+
+1005
+01:07:05,897 --> 01:07:07,732
+I don't feel sorry for you.
+
+1006
+01:07:07,815 --> 01:07:09,901
+You're great. I asked you because...
+
+1007
+01:07:11,361 --> 01:07:12,362
+Because...
+
+1008
+01:07:14,447 --> 01:07:17,784
+♪ <i>Because you are so beautiful ♪</i>
+
+1009
+01:07:17,867 --> 01:07:21,246
+♪ <i>Oh, Boq, I think you're wonderful</i> ♪
+
+1010
+01:07:21,329 --> 01:07:23,623
+♪ <i>And we deserve each other ♪</i>
+
+1011
+01:07:23,706 --> 01:07:26,918
+♪ <i>Don't you see, this is our chance? ♪</i>
+
+1012
+01:07:28,002 --> 01:07:30,088
+♪ <i>We deserve each other ♪</i>
+
+1013
+01:07:30,171 --> 01:07:31,589
+♪ <i>Don't we, Boq? ♪</i>
+
+1014
+01:07:32,507 --> 01:07:33,758
+You know what?
+
+1015
+01:07:33,841 --> 01:07:35,343
+♪ <i>Let's dance</i> ♪
+
+1016
+01:07:36,219 --> 01:07:37,053
+What?
+
+1017
+01:07:37,929 --> 01:07:41,975
+♪ <i>Let's dance</i> ♪
+
+1018
+01:07:52,318 --> 01:07:53,945
+-Ooh.
+-Yeah!
+
+1019
+01:08:07,875 --> 01:08:10,378
+Are all the Tigelaars so nimble?
+
+1020
+01:08:11,045 --> 01:08:12,380
+You.
+
+1021
+01:08:12,463 --> 01:08:13,464
+Me?
+
+1022
+01:08:13,548 --> 01:08:16,801
+And you can go ba Ck
+to doing whatever this is.
+
+1023
+01:08:17,969 --> 01:08:18,970
+Go.
+
+1024
+01:08:19,053 --> 01:08:19,929
+Go.
+
+1025
+01:08:21,764 --> 01:08:23,808
+Madame Morrible, you are...
+
+1026
+01:08:24,559 --> 01:08:27,186
+-Seriously, I admire you so...
+-Enough.
+
+1027
+01:08:29,564 --> 01:08:31,482
+A magic wand?
+
+1028
+01:08:32,191 --> 01:08:33,526
+It's a training wand.
+
+1029
+01:08:33,610 --> 01:08:36,487
+A training wand? For me?
+
+1030
+01:08:36,571 --> 01:08:39,282
+Madame Morrible,
+how can I express my gratitution?
+
+1031
+01:08:40,116 --> 01:08:42,452
+It is my heart's desire
+to become a sorceress.
+
+1032
+01:08:42,535 --> 01:08:45,872
+Thank you for having fa Ith in me.
+
+1033
+01:08:45,955 --> 01:08:48,499
+Actually, I have no faith in you.
+
+1034
+01:08:49,292 --> 01:08:52,503
+This is your roommate's idea, not mine.
+
+1035
+01:08:54,130 --> 01:08:55,298
+I'm confused.
+
+1036
+01:08:55,798 --> 01:09:00,845
+Miss Elphaba has requested
+that I include you in our sorcery seminar
+
+1037
+01:09:00,928 --> 01:09:04,974
+and insisted that I tell you
+this very night, or she would quit.
+
+1038
+01:09:05,058 --> 01:09:06,059
+Elphaba did?
+
+1039
+01:09:06,142 --> 01:09:07,602
+Mm-hmm.
+
+1040
+01:09:07,685 --> 01:09:09,270
+But why?
+
+1041
+01:09:09,771 --> 01:09:13,608
+I'm a sorceress, not a mind reader.
+I have no idea why.
+
+1042
+01:09:13,691 --> 01:09:16,069
+But I can't risk losing her,
+
+1043
+01:09:16,152 --> 01:09:17,362
+so here I am.
+
+1044
+01:09:18,529 --> 01:09:22,992
+My personal opinion, dear,
+is that you do not have what it takes.
+
+1045
+01:09:23,576 --> 01:09:25,161
+I hope you prove me wrong.
+
+1046
+01:09:26,287 --> 01:09:27,538
+I doubt you will.
+
+1047
+01:09:29,290 --> 01:09:32,251
+Uh, you may want to thank her.
+She just got here.
+
+1048
+01:09:32,960 --> 01:09:33,961
+What?
+
+1049
+01:10:13,793 --> 01:10:15,670
+What is she wearing?
+
+1050
+01:10:19,674 --> 01:10:21,259
+What a ridiculous hat.
+
+1051
+01:11:11,142 --> 01:11:13,311
+Her hat is disgustifying.
+
+1052
+01:11:17,356 --> 01:11:18,733
+Oh, look at her go.
+
+1053
+01:11:21,694 --> 01:11:23,446
+What does she think she's doing?
+
+1054
+01:11:23,529 --> 01:11:24,947
+Is she dancing?
+
+1055
+01:11:42,465 --> 01:11:43,466
+Whoa
+
+1056
+01:12:22,755 --> 01:12:23,965
+I'll say this much,
+
+1057
+01:12:24,048 --> 01:12:26,217
+she doesn't give a twig
+what anyone thinks.
+
+1058
+01:12:26,801 --> 01:12:27,844
+Of course she does.
+
+1059
+01:12:29,512 --> 01:12:31,013
+She just pretends not to.
+
+1060
+01:12:39,105 --> 01:12:40,481
+I can't watch.
+
+1061
+01:12:43,109 --> 01:12:44,277
+I feel awful.
+
+1062
+01:12:44,819 --> 01:12:45,903
+Why?
+
+1063
+01:12:46,571 --> 01:12:48,155
+It's not like it's your fault.
+
+1064
+01:12:58,291 --> 01:12:59,292
+Excuse me.
+
+1065
+01:13:52,386 --> 01:13:53,930
+-What are you doing?
+-Stop.
+
+1066
+01:13:58,225 --> 01:13:59,226
+No.
+
+1067
+01:15:14,427 --> 01:15:15,720
+It's all right.
+
+1068
+01:15:29,775 --> 01:15:30,776
+Mmm.
+
+1069
+01:16:12,109 --> 01:16:13,903
+♪ <i>Dancing through life</i> ♪
+
+1070
+01:16:13,986 --> 01:16:15,780
+♪ <i>Here at the Ozdust ♪</i>
+
+1071
+01:16:15,863 --> 01:16:20,284
+♪ <i>If only because
+Dust is what we come to</i> ♪
+
+1072
+01:16:20,367 --> 01:16:22,119
+♪ <i>And here's a strange thing</i> ♪
+
+1073
+01:16:22,203 --> 01:16:24,288
+♪ <i>Your life could end up changing</i> ♪
+
+1074
+01:16:24,872 --> 01:16:28,626
+♪ <i>While you're dancing</i> ♪
+
+1075
+01:16:28,709 --> 01:16:34,173
+♪ <i>Through</i> ♪
+
+1076
+01:16:41,347 --> 01:16:43,474
+Wait a second.
+
+1077
+01:16:43,557 --> 01:16:47,186
+You're telling me
+that was your first party ever?
+
+1078
+01:16:47,269 --> 01:16:48,604
+Well, do funerals count?
+
+1079
+01:16:49,438 --> 01:16:52,316
+That was funny.
+
+1080
+01:16:52,399 --> 01:16:53,400
+Thank you.
+
+1081
+01:16:54,068 --> 01:16:56,904
+-I couldn't remotely sleep.
+-Neither can I.
+
+1082
+01:16:56,987 --> 01:17:00,950
+I know. Let's tell each other
+something we've never told anyone before.
+
+1083
+01:17:01,033 --> 01:17:02,618
+Okay, fine. I'll go first.
+
+1084
+01:17:05,663 --> 01:17:07,331
+Fiyero and I are getting married.
+
+1085
+01:17:07,832 --> 01:17:09,458
+Oh, my God.
+
+1086
+01:17:10,793 --> 01:17:11,877
+He asked you already?
+
+1087
+01:17:11,961 --> 01:17:13,295
+Oh, he doesn't know yet.
+
+1088
+01:17:14,046 --> 01:17:15,631
+Oh, okay.
+
+1089
+01:17:16,382 --> 01:17:17,925
+Okay, now you tell me a secret.
+
+1090
+01:17:18,008 --> 01:17:19,969
+-Like what?
+-Like...
+
+1091
+01:17:21,303 --> 01:17:22,471
+Like...
+
+1092
+01:17:23,305 --> 01:17:26,350
+why do you sleep with this funny
+little green bottle under your pillow?
+
+1093
+01:17:26,433 --> 01:17:28,310
+-No, please, give that back.
+-What is this? I wanna know.
+
+1094
+01:17:28,394 --> 01:17:29,895
+-Give it back, please.
+-I wanna know.
+
+1095
+01:17:29,979 --> 01:17:31,522
+-Serious... Oh.
+-Give it back!
+
+1096
+01:17:34,525 --> 01:17:36,193
+It was my mother's. That's all.
+
+1097
+01:17:39,113 --> 01:17:40,531
+Well, that's not fair.
+
+1098
+01:17:40,614 --> 01:17:42,283
+I told you a really good one.
+
+1099
+01:18:04,889 --> 01:18:06,015
+My father hates me.
+
+1100
+01:18:06,098 --> 01:18:07,600
+What?
+
+1101
+01:18:08,100 --> 01:18:09,560
+That's not the secret.
+
+1102
+01:18:10,144 --> 01:18:11,312
+Oh.
+
+1103
+01:18:11,395 --> 01:18:13,522
+The secret is that, um,
+
+1104
+01:18:14,398 --> 01:18:15,691
+he has a good reason.
+
+1105
+01:18:25,492 --> 01:18:26,994
+It's my fault.
+
+1106
+01:18:28,162 --> 01:18:29,413
+What is?
+
+1107
+01:18:33,667 --> 01:18:35,419
+That my sister is the way she is.
+
+1108
+01:18:39,506 --> 01:18:41,175
+When my mother was carrying Nessa,
+
+1109
+01:18:41,258 --> 01:18:44,386
+my father began to worry
+that she might come out...
+
+1110
+01:18:44,470 --> 01:18:45,721
+-Green.
+-...green.
+
+1111
+01:18:48,015 --> 01:18:52,436
+He was so worried that he made my mother
+chew milk flowers day and night.
+
+1112
+01:18:54,855 --> 01:18:55,856
+Only,
+
+1113
+01:18:57,149 --> 01:18:59,777
+the milk flowers made Nessa
+come too soon, and...
+
+1114
+01:19:02,112 --> 01:19:03,781
+and her little legs, they...
+
+1115
+01:19:07,117 --> 01:19:08,452
+And my mother...
+
+1116
+01:19:11,997 --> 01:19:13,499
+Well, she never woke up.
+
+1117
+01:19:15,000 --> 01:19:17,336
+None of which would've ever happened
+if it wasn't for...
+
+1118
+01:19:19,672 --> 01:19:20,673
+for me.
+
+1119
+01:19:22,549 --> 01:19:23,550
+So...
+
+1120
+01:19:24,969 --> 01:19:26,136
+it's my fault.
+
+1121
+01:19:27,763 --> 01:19:29,431
+What? No.
+
+1122
+01:19:30,432 --> 01:19:34,561
+That was the milk flowers' fault,
+not yours.
+
+1123
+01:19:36,647 --> 01:19:39,525
+That might be your secret, Elphaba,
+but that doesn't make it true.
+
+1124
+01:19:43,445 --> 01:19:45,155
+Look.
+
+1125
+01:19:45,990 --> 01:19:47,366
+It's tomorrow.
+
+1126
+01:19:52,288 --> 01:19:53,580
+And, Elphie...
+
+1127
+01:19:53,664 --> 01:19:56,917
+-Can I call you "Elphie"?
+-Well, it's a little bit perky.
+
+1128
+01:19:57,001 --> 01:20:00,087
+-I know. I know. I'm gonna call you that.
+-I don't really...
+
+1129
+01:20:01,297 --> 01:20:03,215
+And you can call me...
+
+1130
+01:20:03,299 --> 01:20:04,300
+Galinda.
+
+1131
+01:20:04,383 --> 01:20:05,551
+That is your name.
+
+1132
+01:20:05,634 --> 01:20:07,594
+Let's not quarrel.
+
+1133
+01:20:08,387 --> 01:20:09,388
+-Elphie?
+-Hmm?
+
+1134
+01:20:10,264 --> 01:20:11,473
+Now that we're friends...
+
+1135
+01:20:12,891 --> 01:20:15,144
+...I've decided to make you my new project.
+
+1136
+01:20:15,227 --> 01:20:16,854
+Oh, you really don't have to do that.
+
+1137
+01:20:16,937 --> 01:20:18,188
+I know.
+
+1138
+01:20:18,689 --> 01:20:20,357
+That's what makes me so nice.
+
+1139
+01:20:22,359 --> 01:20:27,031
+♪ <i>Whenever I see someone
+Less fortunate than I ♪</i>
+
+1140
+01:20:27,114 --> 01:20:28,657
+♪ <i>And let's face it, right</i> ♪
+
+1141
+01:20:28,741 --> 01:20:31,910
+♪ <i>Who isn't less fortunate than I?</i> ♪
+
+1142
+01:20:32,494 --> 01:20:36,081
+♪ <i>My tender heart
+Tends to start to bleed</i> ♪
+
+1143
+01:20:36,165 --> 01:20:37,791
+♪ <i>And when someone needs a makeover ♪</i>
+
+1144
+01:20:37,875 --> 01:20:39,835
+♪ <i>I simply have to take over</i> ♪
+
+1145
+01:20:39,918 --> 01:20:42,546
+♪ <i>I know, I know ♪</i>
+
+1146
+01:20:45,174 --> 01:20:50,220
+♪ <i>Exactly what they need</i> ♪
+
+1147
+01:20:50,304 --> 01:20:53,390
+♪ <i>And even in your case</i> ♪
+
+1148
+01:20:55,976 --> 01:20:56,977
+Hmm.
+
+1149
+01:21:00,230 --> 01:21:01,231
+Never mind.
+
+1150
+01:21:01,815 --> 01:21:04,985
+-I should... Okay.
+-Yeah. Gonna put these right back on ya.
+
+1151
+01:21:07,029 --> 01:21:10,074
+♪ <i>Tho' it's the toughest case</i> ♪
+
+1152
+01:21:10,657 --> 01:21:13,077
+♪ <i>I've yet to face</i> ♪
+
+1153
+01:21:13,160 --> 01:21:17,122
+♪ <i>Don't worry, I'm determined to succeed ♪</i>
+
+1154
+01:21:17,956 --> 01:21:21,794
+♪ <i>Follow my lead</i> ♪
+
+1155
+01:21:21,877 --> 01:21:24,755
+♪ <i>And, yes, indeed ♪</i>
+
+1156
+01:21:25,631 --> 01:21:27,049
+♪ <i>You</i> ♪
+
+1157
+01:21:27,132 --> 01:21:28,675
+♪ <i>Will ♪</i>
+
+1158
+01:21:28,759 --> 01:21:31,095
+♪ <i>Be</i> ♪
+
+1159
+01:21:40,354 --> 01:21:41,897
+♪ <i>Popular ♪</i>
+
+1160
+01:21:42,398 --> 01:21:45,192
+♪ <i>You're gonna be popular ♪</i>
+
+1161
+01:21:45,275 --> 01:21:47,111
+♪ <i>I'll teach you the proper ploys</i> ♪
+
+1162
+01:21:47,194 --> 01:21:48,654
+♪ <i>When you talk to boys</i> ♪
+
+1163
+01:21:48,737 --> 01:21:50,739
+♪ <i>Little ways to flirt and flounce, ew ♪</i>
+
+1164
+01:21:50,823 --> 01:21:54,034
+♪ <i>I'll show you what shoes to wear
+How to fix your hair</i> ♪
+
+1165
+01:21:54,118 --> 01:21:56,912
+♪ <i>Everything that really counts to be</i> ♪
+
+1166
+01:21:56,995 --> 01:21:58,330
+♪ <i>Popular ♪</i>
+
+1167
+01:21:58,414 --> 01:22:01,291
+♪ <i>I'll help you be popular</i> ♪
+
+1168
+01:22:01,375 --> 01:22:04,670
+♪ <i>You'll hang with the right cohorts
+You'll be good at sports</i> ♪
+
+1169
+01:22:04,753 --> 01:22:07,339
+♪ <i>Know the slang you've got to know</i> ♪
+
+1170
+01:22:07,423 --> 01:22:08,549
+♪ <i>So let's start ♪</i>
+
+1171
+01:22:08,632 --> 01:22:12,719
+♪ <i>'Cause you've got
+An awf'lly long way to go</i> ♪
+
+1172
+01:22:16,014 --> 01:22:18,684
+♪ <i>Don't be offended by my frank analysis</i> ♪
+
+1173
+01:22:18,767 --> 01:22:21,437
+♪ <i>Think of it as personality dialysis</i> ♪
+
+1174
+01:22:21,520 --> 01:22:25,023
+♪ <i>Now that I've chosen to become a pal
+A sister and adviser</i> ♪
+
+1175
+01:22:25,107 --> 01:22:26,692
+♪ <i>There's nobody wiser ♪</i>
+
+1176
+01:22:26,775 --> 01:22:28,235
+♪ <i>Not when it comes to</i> ♪
+
+1177
+01:22:28,318 --> 01:22:29,319
+♪ <i>Popular ♪</i>
+
+1178
+01:22:29,862 --> 01:22:32,406
+♪ <i>I know about popular</i> ♪
+
+1179
+01:22:32,489 --> 01:22:34,450
+♪ <i>And with an assist from me</i> ♪
+
+1180
+01:22:34,533 --> 01:22:35,826
+♪ <i>To be who you'll be</i> ♪
+
+1181
+01:22:35,909 --> 01:22:38,704
+♪ <i>Instead of dreary who-you-were
+Well, are</i> ♪
+
+1182
+01:22:38,787 --> 01:22:41,999
+♪ <i>There's nothing that can stop you
+From becoming popu-ler</i> ♪
+
+1183
+01:22:43,250 --> 01:22:44,251
+♪ <i>Lar ♪</i>
+
+1184
+01:22:45,002 --> 01:22:50,382
+♪ <i>La, la, Ia, Ia</i> ♪
+
+1185
+01:22:50,466 --> 01:22:53,510
+♪ <i>We're gonna make you popular</i> ♪
+
+1186
+01:22:55,846 --> 01:22:57,097
+This is never gonna work.
+
+1187
+01:22:57,181 --> 01:22:58,932
+What?
+
+1188
+01:22:59,016 --> 01:23:02,352
+Elphie, you mustn't think that way.
+
+1189
+01:23:02,436 --> 01:23:06,690
+Your whole life is gonna change,
+and it's all because of me.
+
+1190
+01:23:07,649 --> 01:23:09,276
+Come on.
+
+1191
+01:23:09,359 --> 01:23:11,570
+♪ <i>When I see depressing creatures</i> ♪
+
+1192
+01:23:11,653 --> 01:23:14,698
+♪ <i>With unprepossessing features</i> ♪
+
+1193
+01:23:14,781 --> 01:23:17,409
+♪ <i>I remind them on their own behalf ♪</i>
+
+1194
+01:23:17,493 --> 01:23:19,703
+-Get down.
+-♪ <i>To think of ♪</i>
+
+1195
+01:23:19,786 --> 01:23:25,751
+♪ <i>Celebrated heads of state
+Or specially great communicators</i> ♪
+
+1196
+01:23:25,834 --> 01:23:27,920
+♪ <i>Did they have brains or knowledge?</i> ♪
+
+1197
+01:23:28,003 --> 01:23:30,380
+-Well, actually...
+-Don't make me laugh!
+
+1198
+01:23:30,464 --> 01:23:31,840
+-They were...
+-Popular.
+
+1199
+01:23:31,924 --> 01:23:32,758
+Right!
+
+1200
+01:23:32,841 --> 01:23:35,219
+♪ <i>It's all about popular</i> ♪
+
+1201
+01:23:35,302 --> 01:23:38,805
+♪ <i>It's not about aptitude
+It's the way you're viewed</i> ♪
+
+1202
+01:23:38,889 --> 01:23:41,517
+♪ <i>So it's very shrewd to be</i> ♪
+
+1203
+01:23:41,600 --> 01:23:43,727
+♪ <i>Very, very popular</i> ♪
+
+1204
+01:23:43,810 --> 01:23:45,062
+♪ <i>Like me</i> ♪
+
+1205
+01:23:48,482 --> 01:23:49,608
+Come here.
+
+1206
+01:23:49,691 --> 01:23:51,443
+First, hair.
+
+1207
+01:23:52,152 --> 01:23:53,737
+We toss our hair.
+
+1208
+01:23:54,363 --> 01:23:55,531
+Ready?
+
+1209
+01:23:56,114 --> 01:23:58,116
+Toss, toss.
+
+1210
+01:24:00,536 --> 01:24:02,538
+Toss, toss.
+
+1211
+01:24:04,790 --> 01:24:05,791
+That's a choice.
+
+1212
+01:24:07,251 --> 01:24:11,129
+Next, I'm gonna transform
+this simple frock/coat,
+
+1213
+01:24:11,213 --> 01:24:14,633
+this simple "froat"... boop...
+into a magnificent ball gown.
+
+1214
+01:24:16,802 --> 01:24:17,803
+Ball gown.
+
+1215
+01:24:22,474 --> 01:24:23,475
+Ball gown.
+
+1216
+01:24:24,142 --> 01:24:25,143
+Ball gown.
+
+1217
+01:24:25,644 --> 01:24:26,645
+Come on!
+
+1218
+01:24:27,229 --> 01:24:29,064
+Come on. I'm counting on you.
+
+1219
+01:24:39,866 --> 01:24:41,201
+Ball gown.
+
+1220
+01:24:43,203 --> 01:24:44,663
+-Seriously?
+-Do you need my help?
+
+1221
+01:24:44,746 --> 01:24:46,873
+No! Just wear the "froat." It's pretty.
+
+1222
+01:24:49,585 --> 01:24:52,004
+Let's just start a little smaller.
+
+1223
+01:24:52,087 --> 01:24:54,298
+After you, madame.
+
+1224
+01:24:54,381 --> 01:24:55,424
+-Let's see.
+-Thank you.
+
+1225
+01:24:58,135 --> 01:24:59,803
+Oh.
+
+1226
+01:25:00,971 --> 01:25:01,972
+Maybe...
+
+1227
+01:25:03,682 --> 01:25:05,100
+just this.
+
+1228
+01:25:10,230 --> 01:25:11,815
+Pink goes good with green.
+
+1229
+01:25:12,399 --> 01:25:13,859
+Goes "well" with green.
+
+1230
+01:25:13,942 --> 01:25:15,902
+It so does.
+
+1231
+01:25:31,960 --> 01:25:33,462
+Why, Miss Elphaba..
+
+1232
+01:25:36,298 --> 01:25:37,549
+Look at you.
+
+1233
+01:25:41,261 --> 01:25:42,512
+You're beautiful.
+
+1234
+01:25:46,642 --> 01:25:47,809
+I have to go.
+
+1235
+01:25:48,393 --> 01:25:49,519
+Wha..
+
+1236
+01:25:56,568 --> 01:25:57,653
+You're welcome.
+
+1237
+01:25:59,363 --> 01:26:01,490
+Oh, hello.
+
+1238
+01:26:02,449 --> 01:26:04,201
+Wow.
+
+1239
+01:26:06,828 --> 01:26:09,581
+♪ <i>And tho' you protest</i> ♪
+
+1240
+01:26:10,457 --> 01:26:14,419
+♪ <i>Your disinterest ♪</i>
+
+1241
+01:26:14,503 --> 01:26:21,510
+♪ <i>I know clandestinely ♪</i>
+
+1242
+01:26:23,345 --> 01:26:25,430
+♪ <i>You're gonna grin and bear it</i> ♪
+
+1243
+01:26:25,514 --> 01:26:28,016
+♪ <i>Your newfound popularity</i> ♪
+
+1244
+01:26:29,267 --> 01:26:34,272
+♪ <i>La, la, Ia, Ia</i> ♪
+
+1245
+01:26:34,356 --> 01:26:39,319
+♪ <i>La, la, Ia, Ia</i> ♪
+
+1246
+01:26:39,403 --> 01:26:41,947
+♪ <i>La, Ia</i> ♪
+
+1247
+01:26:47,119 --> 01:26:49,871
+♪ <i>You'll be popular</i> ♪
+
+1248
+01:26:53,125 --> 01:27:00,132
+♪ <i>Just not quite as popular as me</i> ♪
+
+1249
+01:27:10,016 --> 01:27:11,852
+-Oh, hi, Elphaba.
+-Hey.
+
+1250
+01:27:11,935 --> 01:27:13,186
+Hey, Elphaba.
+
+1251
+01:27:19,943 --> 01:27:21,611
+Toss, toss.
+
+1252
+01:27:22,279 --> 01:27:23,280
+No.
+
+1253
+01:27:35,125 --> 01:27:36,543
+You've been Galinda-fied.
+
+1254
+01:27:40,756 --> 01:27:43,049
+You don't need to do that, you know.
+
+1255
+01:27:45,927 --> 01:27:47,763
+Come on. Let's get to class.
+
+1256
+01:27:49,389 --> 01:27:51,641
+-Dr. Dilly.
+-Dr. Dilly, because you can't...
+
+1257
+01:27:51,725 --> 01:27:53,310
+-Well, he calls me...
+-Dr. Dillamond.
+
+1258
+01:27:53,393 --> 01:27:54,978
+-It's not his fault.
+-He needs to accept it.
+
+1259
+01:27:55,061 --> 01:27:56,438
+He doesn't have upper front teeth.
+
+1260
+01:27:58,315 --> 01:28:00,525
+Uh, Dr. Dillamond,
+I picked you some poppies.
+
+1261
+01:28:00,609 --> 01:28:02,444
+Not now, Miss Elphaba.
+
+1262
+01:28:03,028 --> 01:28:05,864
+Please, everyone, take your seats.
+
+1263
+01:28:05,947 --> 01:28:08,366
+I've something to say
+and very little time.
+
+1264
+01:28:10,410 --> 01:28:12,245
+My dear students,
+
+1265
+01:28:12,329 --> 01:28:15,540
+this will be my last day here at Shiz.
+
+1266
+01:28:15,624 --> 01:28:19,294
+You see,
+animals are no longer permitted to teach.
+
+1267
+01:28:19,377 --> 01:28:20,378
+What?
+
+1268
+01:28:20,462 --> 01:28:23,507
+It's all right, Miss Elphaba
+I'll be all right. I...
+
+1269
+01:28:31,389 --> 01:28:35,060
+Students, remain calm, please.
+There's no cause for alarm.
+
+1270
+01:28:35,143 --> 01:28:36,561
+What is this? What's happening?
+
+1271
+01:28:36,645 --> 01:28:37,813
+Come on, goat.
+
+1272
+01:28:40,106 --> 01:28:40,941
+Hey!
+
+1273
+01:28:41,024 --> 01:28:42,025
+You can't permit this.
+
+1274
+01:28:42,108 --> 01:28:44,194
+Miss Elphaba,
+I'm afraid it's out of our hands.
+
+1275
+01:28:44,277 --> 01:28:45,779
+They can take away my job,
+
+1276
+01:28:45,862 --> 01:28:48,281
+-but I shall continue speaking out!
+-Dr. Dillamond.
+
+1277
+01:28:48,365 --> 01:28:52,369
+Listen to me!
+You're not being told the whole story!
+
+1278
+01:28:56,790 --> 01:28:59,000
+Are we all just gonna sit here in silence?
+
+1279
+01:29:01,294 --> 01:29:04,714
+That's quite enough, Miss Elphaba.
+
+1280
+01:29:06,800 --> 01:29:07,884
+Take your seat.
+
+1281
+01:29:24,693 --> 01:29:25,694
+Students...
+
+1282
+01:29:26,278 --> 01:29:27,279
+Are you all right?
+
+1283
+01:29:27,362 --> 01:29:31,658
+...your new history professor
+has prepared a special presentation.
+
+1284
+01:29:47,799 --> 01:29:50,343
+Good afternoon, students.
+
+1285
+01:29:53,513 --> 01:29:55,932
+-Good afternoon.
+-Good afternoon.
+
+1286
+01:29:56,016 --> 01:29:57,684
+In times such as these,
+
+1287
+01:29:57,767 --> 01:30:02,188
+it behooves us all
+not merely to study the past,
+
+1288
+01:30:02,272 --> 01:30:05,108
+but to look to the future.
+
+1289
+01:30:09,112 --> 01:30:12,782
+This is called a cage.
+
+1290
+01:30:18,705 --> 01:30:21,708
+This remarkable innovation
+is for the good of all Oz,
+
+1291
+01:30:21,791 --> 01:30:24,169
+as well as for the animal's own good.
+You see...
+
+1292
+01:30:24,252 --> 01:30:26,254
+If it's so good, why is he trembling?
+
+1293
+01:30:31,051 --> 01:30:33,136
+He's just happy to be here.
+
+1294
+01:30:34,888 --> 01:30:37,724
+Now, one benefit
+of caging an animal this young
+
+1295
+01:30:37,807 --> 01:30:40,644
+is that in all likelihood,
+he'll never learn to speak.
+
+1296
+01:30:41,269 --> 01:30:42,270
+Oh, no.
+
+1297
+01:30:42,354 --> 01:30:45,148
+The dimensions of the cage
+will vary upon the size of the animal,
+
+1298
+01:30:45,231 --> 01:30:47,484
+but the basic design remains the same.
+
+1299
+01:30:47,567 --> 01:30:49,194
+Let me show you.
+
+1300
+01:30:52,238 --> 01:30:54,658
+Can you imagine a world
+where animals are kept in cages
+
+1301
+01:30:54,741 --> 01:30:56,326
+and they never learn to speak?
+
+1302
+01:30:56,409 --> 01:30:58,036
+This poor lion cub seems so frightened.
+
+1303
+01:30:58,745 --> 01:30:59,913
+What are we gonna do?
+
+1304
+01:30:59,996 --> 01:31:01,581
+Sorry, "we"?
+
+1305
+01:31:01,665 --> 01:31:04,501
+Well, someone's got to do something.
+
+1306
+01:31:35,407 --> 01:31:38,201
+Hey. Hey, hey. Hey, come here.
+
+1307
+01:31:40,745 --> 01:31:41,746
+What is happening?
+
+1308
+01:31:43,039 --> 01:31:44,874
+I don't know. I got mad and...
+
+1309
+01:31:47,127 --> 01:31:48,712
+Fiyero, what are you doing?
+
+1310
+01:31:50,630 --> 01:31:52,465
+Well, you coming?
+
+1311
+01:31:53,258 --> 01:31:54,384
+Come on.
+
+1312
+01:31:59,514 --> 01:32:00,515
+Look.
+
+1313
+01:32:00,598 --> 01:32:01,599
+Come on.
+
+1314
+01:32:03,518 --> 01:32:05,186
+Come, buddy. That's it.
+
+1315
+01:32:05,812 --> 01:32:08,440
+-There we go. There we go.
+-Yeah. All right.
+
+1316
+01:32:33,339 --> 01:32:34,632
+What in the name of Oz?
+
+1317
+01:33:11,419 --> 01:33:13,213
+I didn't mean to scare you.
+
+1318
+01:33:15,548 --> 01:33:18,384
+Why is it you're always causing
+some sort of commotion?
+
+1319
+01:33:18,468 --> 01:33:20,553
+I don't cause commotions. I am one.
+
+1320
+01:33:20,637 --> 01:33:22,597
+Yeah. Well, that's for sure.
+
+1321
+01:33:22,680 --> 01:33:25,683
+So, you think I should just keep my
+mouth shut? Is that what you're saying?
+
+1322
+01:33:25,767 --> 01:33:27,227
+What? No. No, I'm saying...
+
+1323
+01:33:27,310 --> 01:33:29,020
+-You think I wanna be this way?
+-I...
+
+1324
+01:33:29,104 --> 01:33:31,231
+-You think I wanna care this much?
+-No, I mean...
+
+1325
+01:33:31,314 --> 01:33:33,274
+I know my life would be much easier
+if I didn't care, but...
+
+1326
+01:33:33,358 --> 01:33:35,110
+Do you ever let anyone else talk?
+
+1327
+01:33:37,403 --> 01:33:38,404
+Sorry.
+
+1328
+01:33:40,198 --> 01:33:42,117
+-I was just...
+-But can I just say one more thing?
+
+1329
+01:33:44,035 --> 01:33:45,870
+You could've walked away back there.
+
+1330
+01:33:46,454 --> 01:33:47,455
+So?
+
+1331
+01:33:47,539 --> 01:33:50,834
+So no matter how shallow and self-absorbed
+you pretend to be...
+
+1332
+01:33:50,917 --> 01:33:53,002
+Uh, excuse me. There is no pretense here.
+
+1333
+01:33:53,086 --> 01:33:55,171
+I happen to be genuinely self-absorbed
+and deeply shallow.
+
+1334
+01:33:55,255 --> 01:33:57,215
+Oh, please. No, you're not.
+
+1335
+01:33:57,298 --> 01:33:58,967
+Otherwise, you wouldn't be so unhappy.
+
+1336
+01:34:08,476 --> 01:34:09,477
+Fine.
+
+1337
+01:34:11,896 --> 01:34:14,232
+-Well, if you don't want my help...
+-No, I do.
+
+1338
+01:35:02,155 --> 01:35:03,907
+What did you mean to do back there?
+
+1339
+01:35:06,659 --> 01:35:08,912
+And why was I the only one
+you didn't do it to?
+
+1340
+01:35:15,585 --> 01:35:16,586
+You're bleeding.
+
+1341
+01:35:17,921 --> 01:35:18,922
+Am I?
+
+1342
+01:35:19,714 --> 01:35:20,715
+Mm-hmm.
+
+1343
+01:35:35,021 --> 01:35:36,022
+There.
+
+1344
+01:35:41,027 --> 01:35:42,820
+It must've scratched you.
+
+1345
+01:35:42,904 --> 01:35:43,905
+Yeah.
+
+1346
+01:35:47,242 --> 01:35:49,369
+Or maybe it scratched me or something.
+
+1347
+01:35:52,664 --> 01:35:53,790
+I better get to safety.
+
+1348
+01:35:54,958 --> 01:35:56,417
+-The cub.
+-Mm-hmm.
+
+1349
+01:35:57,126 --> 01:35:58,336
+-I better get the, uh...
+-Of course.
+
+1350
+01:35:58,419 --> 01:36:00,171
+-...the cub to safety.
+-Mm-hmm.
+
+1351
+01:36:06,844 --> 01:36:07,845
+Fiyero.
+
+1352
+01:36:18,773 --> 01:36:20,858
+♪ <i>Hands touch</i> ♪
+
+1353
+01:36:23,820 --> 01:36:26,239
+♪ <i>Eyes meet ♪</i>
+
+1354
+01:36:29,117 --> 01:36:32,287
+♪ <i>Sudden silence</i> ♪
+
+1355
+01:36:33,037 --> 01:36:36,040
+♪ <i>Sudden heat ♪</i>
+
+1356
+01:36:37,542 --> 01:36:44,382
+♪ <i>Hearts leap in a giddy whirl ♪</i>
+
+1357
+01:36:45,091 --> 01:36:51,431
+♪ <i>He could be that boy</i> ♪
+
+1358
+01:36:52,724 --> 01:36:58,438
+♪ <i>But I'm not that girl</i> ♪
+
+1359
+01:36:59,147 --> 01:37:05,069
+♪ <i>Don't dream too far ♪</i>
+
+1360
+01:37:05,778 --> 01:37:11,576
+♪ <i>Don't lose sight of who you are</i> ♪
+
+1361
+01:37:11,659 --> 01:37:18,249
+♪ <i>Don't remember that rush of joy</i> ♪
+
+1362
+01:37:18,333 --> 01:37:24,714
+♪ <i>He could be that boy</i> ♪
+
+1363
+01:37:24,797 --> 01:37:30,094
+♪ <i>I'm not that girl</i> ♪
+
+1364
+01:37:30,178 --> 01:37:34,223
+♪ <i>Every so often we long to steal ♪</i>
+
+1365
+01:37:34,307 --> 01:37:38,561
+♪ <i>To the land of what-might-have-been</i> ♪
+
+1366
+01:37:38,644 --> 01:37:43,608
+♪ <i>But that doesn't soften
+The ache we feel ♪</i>
+
+1367
+01:37:43,691 --> 01:37:49,364
+♪ <i>When reality sets back in</i> ♪
+
+1368
+01:37:51,199 --> 01:37:57,330
+♪ <i>Blithe smile, lithe limb</i> ♪
+
+1369
+01:37:57,955 --> 01:38:03,419
+♪ <i>She who's winsome, she wins him</i> ♪
+
+1370
+01:38:04,128 --> 01:38:10,259
+♪ <i>Gold hair with a gentle curl</i> ♪
+
+1371
+01:38:10,343 --> 01:38:15,973
+♪ <i>That's the girl he chose</i> ♪
+
+1372
+01:38:16,599 --> 01:38:21,938
+♪ <i>And heaven knows</i> ♪
+
+1373
+01:38:22,939 --> 01:38:28,778
+♪ <i>I'm not that girl</i> ♪
+
+1374
+01:38:32,740 --> 01:38:33,741
+Dearest!
+
+1375
+01:38:34,575 --> 01:38:36,702
+Oh, my goodness. I was worried sick.
+
+1376
+01:38:38,329 --> 01:38:42,792
+♪ <i>Don't wish, don't start ♪</i>
+
+1377
+01:38:44,585 --> 01:38:49,799
+♪ <i>Wishing only wounds the heart ♪</i>
+
+1378
+01:38:50,591 --> 01:38:57,598
+♪ <i>I wasn't born for the rose and pearl</i> ♪
+
+1379
+01:38:59,308 --> 01:39:05,314
+♪ <i>There's a girl I know</i> ♪
+
+1380
+01:39:05,857 --> 01:39:10,194
+♪ <i>He loves her so</i> ♪
+
+1381
+01:39:17,952 --> 01:39:24,375
+♪ <i>I'm not that girl</i> ♪
+
+1382
+01:39:37,513 --> 01:39:39,098
+<i>Miss Elphaba!</i>
+
+1383
+01:39:39,682 --> 01:39:40,766
+<i>Come at once!</i>
+
+1384
+01:39:47,607 --> 01:39:48,774
+There!
+
+1385
+01:39:51,319 --> 01:39:53,738
+Elphie, you gotta get down there. Come on.
+
+1386
+01:39:58,326 --> 01:40:01,662
+Miss Elphaba,
+I finally heard back from the Wizard.
+
+1387
+01:40:01,746 --> 01:40:03,039
+Look!
+
+1388
+01:40:10,421 --> 01:40:13,007
+-Oh. Stop.
+-I know.
+
+1389
+01:40:13,090 --> 01:40:15,843
+I... I just cannot.
+
+1390
+01:40:27,271 --> 01:40:29,065
+It's yours. Open it.
+
+1391
+01:40:35,863 --> 01:40:39,367
+"His Royal Ozness,
+the Wonderful Wizard of Oz..."
+
+1392
+01:40:40,785 --> 01:40:42,870
+"...Summons you most ceremony-ishly
+
+1393
+01:40:42,954 --> 01:40:46,040
+to his personal palace
+in the Emerald City."
+
+1394
+01:40:46,123 --> 01:40:47,959
+Uh, wait. Um, wait.
+
+1395
+01:40:48,543 --> 01:40:50,086
+"This invitation is non-transferable."
+
+1396
+01:41:01,639 --> 01:41:04,517
+This is your chance to make good.
+
+1397
+01:41:05,851 --> 01:41:09,105
+Of course, you're going to have to
+prove yourself first.
+
+1398
+01:41:09,188 --> 01:41:10,356
+Prove myself?
+
+1399
+01:41:10,439 --> 01:41:12,024
+Prove yourself worthy.
+
+1400
+01:41:12,108 --> 01:41:15,778
+Dearie, this is the Wizard of Oz.
+
+1401
+01:41:16,571 --> 01:41:18,739
+If he's gonna grant your heart's desire...
+
+1402
+01:41:18,823 --> 01:41:20,908
+But prove myself how? I...
+
+1403
+01:41:21,701 --> 01:41:23,536
+I'm not ready. It's too soon.
+
+1404
+01:41:23,619 --> 01:41:25,288
+Don't be so pessi-mystical.
+
+1405
+01:41:25,371 --> 01:41:28,624
+I, too, had to prove my powers
+when I met the Wizard.
+
+1406
+01:41:29,208 --> 01:41:31,919
+You'll find a way. I have faith in you.
+
+1407
+01:41:36,924 --> 01:41:40,136
+Not to fret. Weather is my specialty.
+
+1408
+01:41:43,180 --> 01:41:44,682
+Mustn't let you get wet.
+
+1409
+01:41:45,391 --> 01:41:46,934
+Okay. I'll make a hand umbrella.
+
+1410
+01:41:47,018 --> 01:41:49,061
+My hair. Thank you.
+
+1411
+01:41:57,486 --> 01:42:01,240
+Not when you're on the cusp of greatness.
+
+1412
+01:42:31,687 --> 01:42:35,191
+All aboard for the Emerald City!
+
+1413
+01:42:35,274 --> 01:42:37,902
+Father, this is Boq,
+the boy I wrote to you about.
+
+1414
+01:42:37,985 --> 01:42:41,989
+Oh, yes. Governor Thropp,
+good to meet you.
+
+1415
+01:42:42,073 --> 01:42:44,283
+Oh, I've heard so much about you.
+
+1416
+01:42:44,367 --> 01:42:47,370
+My Nessarose is very precious to me,
+
+1417
+01:42:47,453 --> 01:42:49,914
+so you see you take good care of her.
+
+1418
+01:42:52,208 --> 01:42:53,542
+I-I understand.
+
+1419
+01:42:54,669 --> 01:42:55,670
+Good.
+
+1420
+01:42:57,546 --> 01:42:58,923
+Elphie!
+
+1421
+01:42:59,006 --> 01:43:00,383
+Elphie, the train is here.
+
+1422
+01:43:00,466 --> 01:43:03,469
+And it came with the cutest little man
+with a mustache. You gotta see him.
+
+1423
+01:43:03,552 --> 01:43:06,222
+Oh, Elphie.
+How will we manage without you?
+
+1424
+01:43:06,806 --> 01:43:08,224
+You won't even notice I'm gone.
+
+1425
+01:43:08,307 --> 01:43:10,142
+-Uh, you have Fiyero.
+-Oh.
+
+1426
+01:43:10,226 --> 01:43:11,936
+Um,
+speaking of Fiyero, where is he?
+
+1427
+01:43:12,019 --> 01:43:14,021
+Not that I expected him
+to come and say goodbye, but...
+
+1428
+01:43:14,105 --> 01:43:16,524
+I mean, we barely know each other.
+
+1429
+01:43:16,607 --> 01:43:18,776
+Well, I barely know him anymore either.
+
+1430
+01:43:18,859 --> 01:43:20,277
+He's been different.
+
+1431
+01:43:21,487 --> 01:43:23,489
+He's distant and moodified.
+
+1432
+01:43:25,074 --> 01:43:26,784
+And he's been thinking,
+
+1433
+01:43:26,867 --> 01:43:29,286
+which really worries me.
+
+1434
+01:43:30,204 --> 01:43:32,039
+It all started
+the day Dr. Dillamond was fired.
+
+1435
+01:43:32,123 --> 01:43:34,667
+I mean, who knew he cared so much
+about that old goat?
+
+1436
+01:43:34,750 --> 01:43:37,336
+Look. He did come.
+
+1437
+01:43:37,420 --> 01:43:38,587
+Dearest.
+
+1438
+01:43:38,671 --> 01:43:41,674
+We're over here, darling. Come.
+
+1439
+01:43:42,258 --> 01:43:44,301
+Hi.
+
+1440
+01:43:45,177 --> 01:43:47,263
+-Elphaba.
+-Fiyero.
+
+1441
+01:43:49,140 --> 01:43:50,307
+I'm happy for you.
+
+1442
+01:43:50,891 --> 01:43:51,892
+Thank you.
+
+1443
+01:43:52,518 --> 01:43:55,354
+Yes. We are both so happy.
+
+1444
+01:43:55,438 --> 01:43:58,733
+-I've been thinking...
+-Yeah. I heard.
+
+1445
+01:43:58,816 --> 01:44:01,694
+...about the, uh, the lion cub
+and Dr. Dillamond.
+
+1446
+01:44:03,612 --> 01:44:05,072
+I think about that day a lot.
+
+1447
+01:44:06,240 --> 01:44:07,491
+So do I.
+
+1448
+01:44:14,248 --> 01:44:15,416
+Oh, me too.
+
+1449
+01:44:16,292 --> 01:44:18,627
+Oh, me too. Me too. Mm-hmm.
+
+1450
+01:44:18,711 --> 01:44:20,296
+I think about it constantly.
+
+1451
+01:44:20,796 --> 01:44:22,548
+I mean, poor Dr. Dillamond.
+
+1452
+01:44:23,466 --> 01:44:25,342
+It makes one want to...
+
+1453
+01:44:27,219 --> 01:44:28,554
+...to take a stand.
+
+1454
+01:44:30,139 --> 01:44:32,391
+In fact, excuse me.
+
+1455
+01:44:32,475 --> 01:44:36,061
+Everyone. Please, I have an announcement.
+
+1456
+01:44:40,524 --> 01:44:42,610
+I am changing my name.
+
+1457
+01:44:43,903 --> 01:44:44,904
+-What?
+-What?
+
+1458
+01:44:45,654 --> 01:44:47,281
+-Your name?
+-Yes.
+
+1459
+01:44:47,364 --> 01:44:49,116
+-Are you sure?
+-Yes.
+
+1460
+01:44:49,200 --> 01:44:53,954
+Since Dr. Dillamond used to have his own
+goat-like way of pronouncifying my name,
+
+1461
+01:44:54,038 --> 01:44:55,456
+in solidarity
+
+1462
+01:44:55,539 --> 01:44:58,959
+and in order to express my outrage,
+
+1463
+01:44:59,043 --> 01:45:02,755
+I will henceforward be known
+no longer as "Galinda,"
+
+1464
+01:45:04,256 --> 01:45:05,424
+but simply...
+
+1465
+01:45:08,469 --> 01:45:09,595
+Glinda.
+
+1466
+01:45:09,678 --> 01:45:12,097
+Clapping!
+
+1467
+01:45:12,181 --> 01:45:14,266
+-She's so good.
+-Oh. She so is.
+
+1468
+01:45:14,350 --> 01:45:16,435
+Such braverism.
+
+1469
+01:45:19,313 --> 01:45:20,147
+Glinda!
+
+1470
+01:45:21,524 --> 01:45:25,027
+Galinda no more,
+Glinda henceforth!
+
+1471
+01:45:25,110 --> 01:45:26,862
+Glinda, you're wonderful!
+
+1472
+01:45:29,406 --> 01:45:30,407
+Glinda!
+
+1473
+01:45:44,380 --> 01:45:45,548
+Good luck.
+
+1474
+01:45:53,013 --> 01:45:54,932
+See? There.
+
+1475
+01:45:55,850 --> 01:45:57,184
+What is that?
+
+1476
+01:45:57,268 --> 01:45:58,269
+Don't be upset, Galinda.
+
+1477
+01:45:58,352 --> 01:46:01,188
+It's "Glinda" now. Stupid.
+I don't even know what made me say it.
+
+1478
+01:46:01,272 --> 01:46:02,565
+It doesn't even matter what your name is.
+
+1479
+01:46:02,648 --> 01:46:04,817
+-Everyone loves you.
+-I don't care.
+
+1480
+01:46:04,900 --> 01:46:06,068
+I want him.
+
+1481
+01:46:07,236 --> 01:46:09,822
+I don't even think he's perfect anymore,
+and I still want him.
+
+1482
+01:46:10,614 --> 01:46:12,700
+This must be what other people feel like.
+
+1483
+01:46:13,784 --> 01:46:15,411
+How do they bear it?
+
+1484
+01:46:16,453 --> 01:46:19,707
+All aboard for the Emerald City!
+
+1485
+01:46:19,790 --> 01:46:21,625
+The mustache man.
+
+1486
+01:46:21,709 --> 01:46:23,460
+Hey, come on. The train.
+
+1487
+01:46:26,755 --> 01:46:27,756
+Thank you.
+
+1488
+01:46:33,929 --> 01:46:35,764
+Yes! We love you!
+
+1489
+01:46:49,570 --> 01:46:51,864
+-Stand clear of the doors!
+-Goodbye!
+
+1490
+01:46:56,994 --> 01:46:59,121
+Oh. Wait.
+
+1491
+01:46:59,204 --> 01:47:00,789
+Oh, excuse me. Um...
+
+1492
+01:47:01,415 --> 01:47:04,460
+Elphie, here.
+I forgot to give you this. Oh.
+
+1493
+01:47:05,920 --> 01:47:07,129
+Bye.
+
+1494
+01:47:16,055 --> 01:47:17,973
+-Come with me.
+-What?
+
+1495
+01:47:18,057 --> 01:47:19,058
+To meet the Wizard.
+
+1496
+01:47:19,141 --> 01:47:20,601
+What are you saying?
+
+1497
+01:47:20,684 --> 01:47:22,686
+Get on the train. You're gonna miss it.
+
+1498
+01:47:22,770 --> 01:47:23,979
+I wouldn't want to impose.
+
+1499
+01:47:24,063 --> 01:47:25,773
+It doesn't matter. Just come with me.
+
+1500
+01:47:25,856 --> 01:47:28,150
+I couldn't possibly. This is your moment.
+I'm coming.
+
+1501
+01:47:30,945 --> 01:47:32,738
+Oh. Ow. Ow.
+
+1502
+01:47:46,669 --> 01:47:49,463
+♪ <i>One short day ♪</i>
+
+1503
+01:47:49,546 --> 01:47:53,717
+♪ <i>If you only have, if you only have</i> ♪
+
+1504
+01:47:53,801 --> 01:47:59,640
+♪ <i>One short day ♪</i>
+
+1505
+01:48:00,557 --> 01:48:05,312
+♪ <i>One short day in the Emerald City</i> ♪
+
+1506
+01:48:06,271 --> 01:48:08,440
+<i>Now arriving
+at Emerald City Station.</i>
+
+1507
+01:48:08,524 --> 01:48:14,780
+♪ <i>One short day in the Emerald City</i> ♪
+
+1508
+01:48:14,863 --> 01:48:16,407
+-♪ <i>One short day ♪</i>
+-♪ <i>One short day ♪</i>
+
+1509
+01:48:16,490 --> 01:48:18,534
+-♪ <i>One short day ♪</i>
+-♪ <i>One short...</i> ♪
+
+1510
+01:48:19,118 --> 01:48:21,120
+♪ <i>Day ♪</i>
+
+1511
+01:48:21,704 --> 01:48:28,585
+♪ <i>In the Emerald City ♪</i>
+
+1512
+01:48:28,669 --> 01:48:33,507
+♪ <i>Emerald City ♪</i>
+
+1513
+01:48:33,590 --> 01:48:37,469
+♪ <i>One short day in the Emerald City</i> ♪
+
+1514
+01:48:37,553 --> 01:48:41,432
+♪ <i>One short day full of so much to do</i> ♪
+
+1515
+01:48:41,515 --> 01:48:45,185
+♪ <i>Every way that you look in this city ♪</i>
+
+1516
+01:48:45,269 --> 01:48:49,148
+♪ <i>There's something exquisite
+You'll want to visit ♪</i>
+
+1517
+01:48:49,231 --> 01:48:51,483
+♪ <i>Before the day's through</i> ♪
+
+1518
+01:48:52,985 --> 01:48:55,154
+♪ <i>There are buildings
+Tall as Quoxwood trees</i> ♪
+
+1519
+01:48:55,237 --> 01:48:57,364
+-♪ <i>Dress salons</i> ♪
+-♪ <i>And libraries</i> ♪
+
+1520
+01:48:57,448 --> 01:48:58,866
+-♪ <i>Palaces</i> ♪
+-♪ <i>Museums</i> ♪
+
+1521
+01:48:58,949 --> 01:49:01,201
+♪ <i>A hundred strong</i> ♪
+
+1522
+01:49:01,285 --> 01:49:03,579
+♪ <i>There are wonders like I've never seen</i> ♪
+
+1523
+01:49:03,662 --> 01:49:05,456
+-♪ <i>It's all grand</i> ♪
+-♪ <i>And it's all green</i> ♪
+
+1524
+01:49:05,539 --> 01:49:08,667
+♪ <i>I think we've found the place
+Where we belong</i> ♪
+
+1525
+01:49:08,751 --> 01:49:13,464
+♪ <i>I wanna be in this hoi polloi ♪</i>
+
+1526
+01:49:13,547 --> 01:49:15,507
+♪ <i>So I'll be back for good someday</i> ♪
+
+1527
+01:49:15,591 --> 01:49:17,593
+♪ <i>To make my life and make my way</i> ♪
+
+1528
+01:49:17,676 --> 01:49:23,807
+♪ <i>But for today, we'll wander and enjoy</i> ♪
+
+1529
+01:49:23,891 --> 01:49:27,811
+♪ <i>One short day in the Emerald City</i> ♪
+
+1530
+01:49:27,895 --> 01:49:31,648
+♪ <i>One short day
+To have a lifetime of fun</i> ♪
+
+1531
+01:49:31,732 --> 01:49:33,150
+♪ <i>One short day ♪</i>
+
+1532
+01:49:33,233 --> 01:49:35,694
+♪ <i>And we're warning the city ♪</i>
+
+1533
+01:49:35,778 --> 01:49:39,406
+♪ <i>Now that we're in here
+You'll know we've been here</i> ♪
+
+1534
+01:49:39,490 --> 01:49:42,534
+♪ <i>Before we are done</i> ♪
+
+1535
+01:49:42,618 --> 01:49:45,496
+<i>Presenting the absolute factual story</i>
+
+1536
+01:49:45,579 --> 01:49:47,456
+<i>of our Wonderful Wizard of Oz,</i>
+
+1537
+01:49:47,539 --> 01:49:49,833
+<i>starring the Emerald City Players.</i>
+
+1538
+01:49:50,417 --> 01:49:55,714
+♪ <i>Long, long ago
+Long before we can recall ♪</i>
+
+1539
+01:49:55,798 --> 01:50:01,678
+♪ <i>There lived here in Oz
+The magical Wise Ones</i> ♪
+
+1540
+01:50:03,472 --> 01:50:06,433
+♪ <i>The magical Wise Ones</i> ♪
+
+1541
+01:50:06,517 --> 01:50:12,815
+-♪ <i>The wisest of them all ♪</i>
+-♪ <i>Wisest of them all ♪</i>
+
+1542
+01:50:17,736 --> 01:50:22,324
+♪ <i>We will not live forever
+That I can foresee</i> ♪
+
+1543
+01:50:22,407 --> 01:50:25,828
+♪ <i>So let us set down all our magic</i> ♪
+
+1544
+01:50:25,911 --> 01:50:28,205
+♪ <i>In a strange and secret language</i> ♪
+
+1545
+01:50:28,288 --> 01:50:29,873
+♪ <i>In a book ♪</i>
+
+1546
+01:50:29,957 --> 01:50:32,626
+♪ <i>The Grimmerie</i> ♪
+
+1547
+01:50:32,709 --> 01:50:36,421
+♪ <i>The Grimmerie</i> ♪
+
+1548
+01:50:36,505 --> 01:50:41,301
+♪ <i>But time ticked ever onward day by day</i> ♪
+
+1549
+01:50:41,385 --> 01:50:46,306
+♪ <i>And all those who could read it
+Passed away</i> ♪
+
+1550
+01:50:46,390 --> 01:50:50,769
+♪ <i>Till one day no one could</i> ♪
+
+1551
+01:50:51,645 --> 01:50:55,399
+But the Wise Ones left a prophecy.
+
+1552
+01:50:57,818 --> 01:51:00,320
+♪ <i>In Oz's darkest hour ♪</i>
+
+1553
+01:51:00,904 --> 01:51:03,407
+♪ <i>Though we cannot say when</i> ♪
+
+1554
+01:51:03,490 --> 01:51:07,077
+♪ <i>There will come one with a power ♪</i>
+
+1555
+01:51:07,161 --> 01:51:11,623
+♪ <i>To read the Grimmerie again</i> ♪
+
+1556
+01:51:11,707 --> 01:51:15,127
+♪ <i>And Oz, which had been sad and blah</i> ♪
+
+1557
+01:51:15,210 --> 01:51:18,130
+♪ <i>Once more will sing a joyous</i> ♪
+
+1558
+01:51:18,213 --> 01:51:22,092
+♪ <i>Ah</i> ♪
+
+1559
+01:51:22,926 --> 01:51:24,052
+Look.
+
+1560
+01:51:26,597 --> 01:51:30,184
+A man in a balloon arriving from the sky.
+
+1561
+01:51:30,893 --> 01:51:33,604
+Maybe he is here to fulfill the prophecy,
+
+1562
+01:51:33,687 --> 01:51:36,148
+but can he read the Grimmerie?
+
+1563
+01:51:36,231 --> 01:51:41,278
+♪ <i>This man who comes out of the blue
+Is he the prophecy? ♪</i>
+
+1564
+01:51:42,029 --> 01:51:45,407
+♪ <i>There's one way we'll know
+If it's true</i> ♪
+
+1565
+01:51:45,490 --> 01:51:49,286
+♪ <i>Fetch the Grimmerie</i> ♪
+
+1566
+01:51:53,540 --> 01:52:00,088
+"Omaha Omaha."
+
+1567
+01:52:00,172 --> 01:52:03,425
+He can read it! He must be...
+
+1568
+01:52:04,509 --> 01:52:05,928
+a Wizard.
+
+1569
+01:52:06,511 --> 01:52:09,723
+♪ <i>The prophecy fulfilled ♪</i>
+
+1570
+01:52:09,806 --> 01:52:13,101
+♪ <i>What merriness he'll bring</i> ♪
+
+1571
+01:52:13,185 --> 01:52:18,357
+♪ <i>Now every Ozian raise a voice and sing</i> ♪
+
+1572
+01:52:18,440 --> 01:52:24,696
+♪ <i>And sing, and sing</i> ♪
+
+1573
+01:52:26,198 --> 01:52:27,824
+♪ <i>Who's the mage</i> ♪
+
+1574
+01:52:27,908 --> 01:52:32,120
+♪ <i>Whose major itinerary
+Is making all Oz merrier?</i> ♪
+
+1575
+01:52:32,204 --> 01:52:33,997
+♪ <i>Who's the sage</i> ♪
+
+1576
+01:52:34,081 --> 01:52:38,502
+♪ <i>Who sagely sailed in
+To save our posteriors?</i> ♪
+
+1577
+01:52:38,585 --> 01:52:42,130
+♪ <i>Whose enthuse for hot-air ballooning</i> ♪
+
+1578
+01:52:42,214 --> 01:52:44,967
+♪ <i>Has all of Oz honeymooning?</i> ♪
+
+1579
+01:52:47,427 --> 01:52:51,431
+♪ <i>Isn't he wonderful?
+Our wonderful Wizard?</i> ♪
+
+1580
+01:52:51,515 --> 01:52:54,059
+-♪ <i>One short day ♪</i>
+-♪ <i>Who's the mage whose major ♪</i>
+
+1581
+01:52:54,142 --> 01:52:58,021
+-♪ <i>In the Emerald City</i> ♪
+-♪ <i>Itinerary is making all Oz merrier?</i> ♪
+
+1582
+01:52:58,105 --> 01:53:01,275
+-♪ <i>One short day ♪</i>
+-♪ <i>Who's the sage who sagely ♪</i>
+
+1583
+01:53:01,358 --> 01:53:04,820
+-♪ <i>To have a lifetime of fun</i> ♪
+-♪ <i>Sailed in to save our posteriors?</i> ♪
+
+1584
+01:53:04,903 --> 01:53:10,659
+♪ <i>What a way to be seeing the city ♪</i>
+
+1585
+01:53:10,742 --> 01:53:12,744
+♪ <i>Where so many roam to</i> ♪
+
+1586
+01:53:15,038 --> 01:53:17,624
+♪ <i>We'll call it home too</i> ♪
+
+1587
+01:53:18,917 --> 01:53:23,755
+♪ <i>And then, just like now, we can say</i> ♪
+
+1588
+01:53:23,839 --> 01:53:26,550
+♪ <i>We're just two friends</i> ♪
+
+1589
+01:53:26,633 --> 01:53:29,094
+♪ <i>Two good friends</i> ♪
+
+1590
+01:53:29,177 --> 01:53:32,639
+♪ <i>Two best friends</i> ♪
+
+1591
+01:53:35,684 --> 01:53:37,728
+♪ <i>Sharing one wonderful ♪</i>
+
+1592
+01:53:37,811 --> 01:53:41,440
+♪ <i>One short...</i> ♪
+
+1593
+01:53:53,452 --> 01:53:55,620
+The Wizard will see you now.
+
+1594
+01:53:56,204 --> 01:53:59,791
+♪ <i>Day ♪</i>
+
+1595
+01:54:50,509 --> 01:54:51,343
+Hello.
+
+1596
+01:55:16,201 --> 01:55:17,202
+Elphaba Thropp.
+
+1597
+01:55:17,869 --> 01:55:19,329
+Listen to me.
+
+1598
+01:55:19,413 --> 01:55:20,914
+You can do this.
+
+1599
+01:55:21,790 --> 01:55:24,835
+You can do anything.
+
+1600
+01:56:02,330 --> 01:56:04,332
+-What is that sound?
+-Oh, I don't know.
+
+1601
+01:56:06,835 --> 01:56:08,837
+-No.
+-No. Go... Go, go, go.
+
+1602
+01:56:08,920 --> 01:56:11,173
+-Go. Elphaba Go.
+-I don't...
+
+1603
+01:56:15,719 --> 01:56:19,848
+I am Oz.
+
+1604
+01:56:19,931 --> 01:56:21,266
+Oh, Elphie.
+
+1605
+01:56:21,349 --> 01:56:26,062
+I am Oz, the Great and Terrible.
+
+1606
+01:56:27,397 --> 01:56:29,024
+Who are you?
+
+1607
+01:56:29,107 --> 01:56:33,361
+And why do you seek me?
+
+1608
+01:56:33,445 --> 01:56:35,906
+Elphie. Say something. Say something.
+
+1609
+01:56:35,989 --> 01:56:37,449
+-What am I supposed to say?
+-Anything.
+
+1610
+01:56:37,532 --> 01:56:39,659
+-Say something.
+-Um...
+
+1611
+01:56:40,243 --> 01:56:42,370
+Say something.
+
+1612
+01:56:43,747 --> 01:56:45,290
+My name is Elphaba Thropp,
+
+1613
+01:56:46,458 --> 01:56:47,459
+Your Ozness.
+
+1614
+01:56:47,542 --> 01:56:48,835
+And-And this is...
+
+1615
+01:56:48,919 --> 01:56:50,795
+Elphaba, is that you?
+
+1616
+01:56:55,008 --> 01:56:56,009
+Elphaba Thropp?
+
+1617
+01:56:56,092 --> 01:56:57,427
+A man.
+
+1618
+01:56:57,511 --> 01:56:59,179
+Elphaba Thropp?
+
+1619
+01:56:59,262 --> 01:57:00,597
+I didn't know it was you.
+
+1620
+01:57:01,181 --> 01:57:02,682
+You made it.
+
+1621
+01:57:03,683 --> 01:57:08,438
+Uh. Sorry about all that.
+I didn't mean to startle you.
+
+1622
+01:57:10,148 --> 01:57:13,652
+You know, when I'm back there,
+I cannot make out people's faces.
+
+1623
+01:57:14,945 --> 01:57:15,987
+Well, it's just so...
+
+1624
+01:57:16,821 --> 01:57:18,281
+It's so great to meet you...
+
+1625
+01:57:22,536 --> 01:57:24,704
+-It's so great to... Hang on. What's that?
+-What?
+
+1626
+01:57:24,788 --> 01:57:26,873
+-I'm so sorry. May I?
+-Sure. Yes.
+
+1627
+01:57:26,957 --> 01:57:28,166
+Now, just... It's okay.
+
+1628
+01:57:31,920 --> 01:57:34,089
+For you. My special guest.
+
+1629
+01:57:34,172 --> 01:57:37,842
+That's a keepsake for you to cherish
+for all of your days.
+
+1630
+01:57:37,926 --> 01:57:41,388
+Very kind of you, Your Ozness. Thank you.
+
+1631
+01:57:42,180 --> 01:57:46,351
+And this is,
+uh, an additional unexpected...
+
+1632
+01:57:46,434 --> 01:57:47,727
+Hi. What's your name?
+
+1633
+01:57:47,811 --> 01:57:49,104
+Glinda.
+
+1634
+01:57:50,230 --> 01:57:51,481
+The "Ga" is silent.
+
+1635
+01:57:52,065 --> 01:57:53,692
+Hello, Belinda.
+
+1636
+01:57:54,276 --> 01:57:57,153
+Uh, what you looking at there? Oh, yeah.
+
+1637
+01:57:57,237 --> 01:58:00,323
+Ugh. Well, I don't know.
+I think it's a bit much.
+
+1638
+01:58:00,824 --> 01:58:03,535
+But, uh, folks have come to expect
+that sort of thing.
+
+1639
+01:58:03,618 --> 01:58:05,829
+♪ <i>And you gotta give the people</i> ♪
+
+1640
+01:58:06,871 --> 01:58:08,873
+♪ <i>What they want ♪</i>
+
+1641
+01:58:08,957 --> 01:58:10,709
+That's good. Thank you. Thank you.
+
+1642
+01:58:10,792 --> 01:58:15,213
+But, if you think that's something to see,
+wait till you see this.
+
+1643
+01:58:15,297 --> 01:58:19,634
+I give you the Oz of tomorrow.
+
+1644
+01:58:25,140 --> 01:58:27,517
+Yes. Yes.
+
+1645
+01:58:29,144 --> 01:58:31,354
+Now, I don't know
+if your eyes have already fallen upon
+
+1646
+01:58:31,438 --> 01:58:33,565
+this long and winding path.
+
+1647
+01:58:33,648 --> 01:58:34,649
+-Do you see that?
+-Mm-hmm.
+
+1648
+01:58:34,733 --> 01:58:36,818
+-I think people need direction.
+-Hmm.
+
+1649
+01:58:36,901 --> 01:58:39,237
+When this thing gets built,
+everybody, always,
+
+1650
+01:58:39,321 --> 01:58:42,240
+is going to remember
+that if you just follow the road...
+
+1651
+01:58:42,324 --> 01:58:43,867
+Follow the road.
+
+1652
+01:58:43,950 --> 01:58:46,578
+It's gonna lead you right to me.
+
+1653
+01:58:48,163 --> 01:58:49,456
+Recently, I've gotten a little stuck
+
+1654
+01:58:49,539 --> 01:58:52,709
+trying to figure out what color
+the bricks of that road ought to be.
+
+1655
+01:58:52,792 --> 01:58:55,211
+So, I jerry-rigged this thing up,
+
+1656
+01:58:55,295 --> 01:58:57,631
+-which does that.
+-Oh.
+
+1657
+01:58:58,131 --> 01:59:00,925
+Uh, Elphaba, you give that a whirl.
+
+1658
+01:59:01,009 --> 01:59:02,552
+Oh, sure. Um, let's try.
+
+1659
+01:59:06,014 --> 01:59:08,058
+What about green?
+
+1660
+01:59:08,141 --> 01:59:10,018
+-Mmm.
+-Um.
+
+1661
+01:59:10,101 --> 01:59:11,686
+Yellow.
+
+1662
+01:59:12,270 --> 01:59:13,772
+Maybe purple?
+
+1663
+01:59:14,689 --> 01:59:17,317
+Wait. Just go back one, please.
+
+1664
+01:59:17,400 --> 01:59:18,777
+The yellow, really?
+
+1665
+01:59:18,860 --> 01:59:20,570
+-Yes.
+-Huh.
+
+1666
+01:59:20,654 --> 01:59:22,113
+It just says "road" to me.
+
+1667
+01:59:22,197 --> 01:59:24,074
+Let me see. Huh.
+
+1668
+01:59:24,157 --> 01:59:26,034
+And... Oh.
+
+1669
+01:59:26,117 --> 01:59:28,495
+Yellow brick road?
+
+1670
+01:59:28,578 --> 01:59:29,913
+I don't know.
+
+1671
+01:59:29,996 --> 01:59:31,706
+-Oh, hey. Come up here.
+-Oh.
+
+1672
+01:59:31,790 --> 01:59:34,584
+Come up here with me in my sandbox.
+
+1673
+01:59:34,668 --> 01:59:36,336
+Step right up. Watch this.
+
+1674
+01:59:36,419 --> 01:59:41,716
+So here's where we are,
+and when we open it up, inside...
+
+1675
+01:59:42,592 --> 01:59:43,593
+That's you.
+
+1676
+01:59:43,677 --> 01:59:44,803
+Well, it is me.
+
+1677
+01:59:44,886 --> 01:59:46,262
+Yeah, it is me.
+
+1678
+01:59:46,346 --> 01:59:47,514
+I like it. I shouldn't.
+
+1679
+01:59:47,597 --> 01:59:48,973
+I'm here by myself a lot.
+
+1680
+01:59:49,057 --> 01:59:51,059
+Anyway. I don't, uh... Oh.
+
+1681
+01:59:52,227 --> 01:59:53,228
+I forgot.
+
+1682
+01:59:53,311 --> 01:59:55,397
+If my head wasn't attached, it would, uh...
+
+1683
+01:59:55,480 --> 01:59:58,441
+I'd... I'd leave it in, uh, Munchkinland.
+
+1684
+01:59:58,525 --> 02:00:00,735
+Hey, you know what I had made?
+Look. Special.
+
+1685
+02:00:04,656 --> 02:00:06,074
+Keep that.
+
+1686
+02:00:06,157 --> 02:00:08,326
+I... No, I mean it.
+Keep it... Keep it forever.
+
+1687
+02:00:08,410 --> 02:00:11,371
+Because at some point, who knows?
+
+1688
+02:00:11,454 --> 02:00:16,626
+We might be putting your little artifact
+in there right next to mine.
+
+1689
+02:00:16,710 --> 02:00:17,836
+Because maybe someday,
+
+1690
+02:00:17,919 --> 02:00:22,090
+you're gonna be calling
+this whole pile of stones your home.
+
+1691
+02:00:25,093 --> 02:00:26,094
+Elphie.
+
+1692
+02:00:28,555 --> 02:00:30,098
+She's green.
+
+1693
+02:00:30,181 --> 02:00:31,349
+Oh, well...
+
+1694
+02:00:31,975 --> 02:00:33,893
+she doesn't have to be.
+
+1695
+02:00:33,977 --> 02:00:36,730
+Would that be your... your heart's desire?
+
+1696
+02:00:46,990 --> 02:00:47,991
+No.
+
+1697
+02:00:51,494 --> 02:00:52,495
+No.
+
+1698
+02:00:54,748 --> 02:00:57,125
+My heart's desire
+is for you to help the animals.
+
+1699
+02:00:57,834 --> 02:01:00,253
+Something bad is happening to them,
+and they need you.
+
+1700
+02:01:01,045 --> 02:01:03,339
+I had a feeling you were gonna say that.
+
+1701
+02:01:03,423 --> 02:01:05,383
+And I agree wholeheartedly.
+
+1702
+02:01:05,467 --> 02:01:07,761
+Yeah. Wow, that's the darndest thing.
+
+1703
+02:01:07,844 --> 02:01:11,514
+It's almost like I, uh...
+I already know you.
+
+1704
+02:01:12,223 --> 02:01:14,350
+I knew you'd understand.
+
+1705
+02:01:15,602 --> 02:01:18,104
+That makes me... That makes me so happy.
+
+1706
+02:01:18,188 --> 02:01:22,484
+Well, that's what I love best.
+Making people happy.
+
+1707
+02:01:25,195 --> 02:01:27,655
+♪ <i>I am a sentimental man</i> ♪
+
+1708
+02:01:28,573 --> 02:01:33,119
+♪ <i>Who always longed to be a father ♪</i>
+
+1709
+02:01:34,370 --> 02:01:38,041
+♪ <i>That's why I do the best I can</i> ♪
+
+1710
+02:01:38,124 --> 02:01:43,338
+♪ <i>To treat each citizen of Oz as son</i> ♪
+
+1711
+02:01:44,172 --> 02:01:45,381
+♪ <i>Or daughter ♪</i>
+
+1712
+02:01:46,883 --> 02:01:52,430
+♪ <i>So Elphaba, I'd like to raise you high</i> ♪
+
+1713
+02:01:52,514 --> 02:01:59,521
+♪ <i>'Cause I think everyone
+Deserves the chance to fly ♪</i>
+
+1714
+02:02:04,317 --> 02:02:07,987
+♪ <i>And helping you with your ascent</i> ♪
+
+1715
+02:02:08,071 --> 02:02:11,741
+♪ <i>Allows me to feel so...</i> ♪
+
+1716
+02:02:13,785 --> 02:02:15,036
+♪ <i>Parental ♪</i>
+
+1717
+02:02:18,581 --> 02:02:24,212
+♪ <i>For I am...</i> ♪
+
+1718
+02:02:25,588 --> 02:02:29,926
+♪ <i>A sentimental...</i> ♪
+
+1719
+02:02:33,137 --> 02:02:36,307
+♪ <i>Man</i> ♪
+
+1720
+02:03:03,209 --> 02:03:05,545
+That's enough of that. Okay.
+
+1721
+02:03:05,628 --> 02:03:07,463
+Uh, uh, away with the moon.
+
+1722
+02:03:09,173 --> 02:03:10,717
+-Huh.
+-Is that...
+
+1723
+02:03:12,510 --> 02:03:14,387
+-Oh, it is.
+-It is.
+
+1724
+02:03:14,470 --> 02:03:17,432
+Madame Morrible,
+what are you doing here?
+
+1725
+02:03:18,016 --> 02:03:20,685
+Oh, dearie.
+
+1726
+02:03:20,768 --> 02:03:22,729
+I couldn't miss your big moment.
+
+1727
+02:03:28,401 --> 02:03:31,237
+Neither could you, I see. Hmm.
+
+1728
+02:03:31,321 --> 02:03:32,322
+I...
+
+1729
+02:03:41,706 --> 02:03:43,875
+I don't believe it.
+
+1730
+02:03:44,500 --> 02:03:46,002
+Is that the Grimmerie?
+
+1731
+02:03:46,836 --> 02:03:47,837
+Yes.
+
+1732
+02:03:49,464 --> 02:03:54,260
+That's the ancient book of wisdom,
+thaumaturgy and enchantments.
+
+1733
+02:04:06,314 --> 02:04:07,649
+Can I touch it?
+
+1734
+02:04:09,067 --> 02:04:10,068
+No.
+
+1735
+02:04:11,861 --> 02:04:13,863
+Wait a minute.
+Wait a minute. Wait a minute.
+
+1736
+02:04:13,947 --> 02:04:15,531
+She may not be ready.
+
+1737
+02:04:15,615 --> 02:04:20,161
+Casting a spell with the Grimmerie,
+that's a mighty tall order.
+
+1738
+02:04:20,954 --> 02:04:22,246
+I... You know, I should know.
+
+1739
+02:04:22,330 --> 02:04:24,290
+You're right. We mustn't rush her.
+
+1740
+02:04:24,374 --> 02:04:26,250
+Perhaps today has been too overwhelming.
+
+1741
+02:04:26,334 --> 02:04:27,669
+No.
+
+1742
+02:04:27,752 --> 02:04:28,753
+Please.
+
+1743
+02:04:29,879 --> 02:04:31,047
+Let me try.
+
+1744
+02:04:32,256 --> 02:04:33,675
+Let me prove myself.
+
+1745
+02:04:34,842 --> 02:04:35,677
+Well...
+
+1746
+02:04:58,574 --> 02:05:00,743
+Sweet Oz.
+
+1747
+02:05:00,827 --> 02:05:02,620
+It opened for her.
+
+1748
+02:05:16,300 --> 02:05:18,803
+So, which spell are you gonna start with?
+
+1749
+02:05:18,886 --> 02:05:21,556
+We've been working on levitation.
+
+1750
+02:05:21,639 --> 02:05:25,309
+Levitation? Oh, that's interesting.
+
+1751
+02:05:25,393 --> 02:05:28,896
+Do you know that, um, Chistery here...
+
+1752
+02:05:29,605 --> 02:05:32,608
+Ha.. Have you ladies met, uh, Ch-Chistery,
+
+1753
+02:05:32,692 --> 02:05:35,486
+the leader of my... my Emerald Guards?
+
+1754
+02:05:36,070 --> 02:05:37,363
+Pleased to meet you.
+
+1755
+02:05:37,447 --> 02:05:39,198
+Uh, he'd hate to admit this.
+
+1756
+02:05:39,282 --> 02:05:40,908
+Does not like talking about himself.
+
+1757
+02:05:41,659 --> 02:05:46,581
+But he watches birds so longingly
+
+1758
+02:05:46,664 --> 02:05:48,207
+every morning.
+
+1759
+02:05:48,291 --> 02:05:49,584
+Birds?
+
+1760
+02:05:51,210 --> 02:05:53,755
+-How can I help him? I don't...
+-Elphie, look.
+
+1761
+02:06:01,095 --> 02:06:02,889
+Are those words?
+
+1762
+02:06:05,433 --> 02:06:07,351
+The lost language.
+
+1763
+02:06:07,435 --> 02:06:10,229
+Our lost language of spells.
+
+1764
+02:06:10,813 --> 02:06:14,192
+Don't be discouraged
+if you can't decipher it.
+
+1765
+02:06:15,026 --> 02:06:19,030
+Dearie, I, myself,
+can only read a word or two,
+
+1766
+02:06:19,113 --> 02:06:20,782
+and that took years.
+
+1767
+02:06:26,454 --> 02:06:28,122
+-Oh, Elphie.
+-Praise Oz.
+
+1768
+02:06:47,767 --> 02:06:48,935
+What did I tell you?
+
+1769
+02:07:03,449 --> 02:07:04,700
+Chistery, are you all right?
+
+1770
+02:07:04,784 --> 02:07:06,494
+Chistery?
+
+1771
+02:07:09,831 --> 02:07:11,749
+It's just the transition, dearie.
+
+1772
+02:07:11,833 --> 02:07:13,459
+It's just the transition.
+
+1773
+02:07:24,011 --> 02:07:25,221
+Oh.
+
+1774
+02:07:28,808 --> 02:07:30,143
+But it's hurting him.
+
+1775
+02:07:31,310 --> 02:07:32,186
+Chistery.
+
+1776
+02:07:32,270 --> 02:07:33,771
+Don't bite. Don't bite.
+
+1777
+02:08:03,968 --> 02:08:05,344
+Glory-osky.
+
+1778
+02:08:05,428 --> 02:08:08,431
+You did it. You actually did it.
+
+1779
+02:08:19,483 --> 02:08:20,818
+He's in pain.
+
+1780
+02:08:20,902 --> 02:08:22,403
+Quick. How do I reverse it?
+
+1781
+02:08:22,486 --> 02:08:24,447
+-Reverse...
+-How do I reverse it?
+
+1782
+02:08:24,530 --> 02:08:27,074
+A spell from the Grimmerie
+can never be reversed.
+
+1783
+02:08:31,495 --> 02:08:34,165
+Elphaba Elphaba.
+
+1784
+02:08:34,248 --> 02:08:35,625
+No. No!
+
+1785
+02:08:53,142 --> 02:08:56,145
+I knew she had the power. I told you.
+
+1786
+02:08:56,229 --> 02:08:57,897
+Elphie, this is astoundifying.
+
+1787
+02:08:57,980 --> 02:09:00,233
+It's just what we hoped for.
+Eyes in the skies.
+
+1788
+02:09:00,316 --> 02:09:03,444
+Yes. They'll make perfect spies.
+
+1789
+02:09:03,527 --> 02:09:04,528
+Spies?
+
+1790
+02:09:06,364 --> 02:09:08,741
+-Elphaba? Elphaba?
+-Oh, uh, no. No. Uh...
+
+1791
+02:09:08,824 --> 02:09:11,118
+Elphie? Elphie?
+
+1792
+02:09:13,162 --> 02:09:14,538
+You're right. That's a very harsh word.
+
+1793
+02:09:14,622 --> 02:09:17,416
+Oh, "scouts." What about "scouts"?
+Because they're gonna be flying around Oz
+
+1794
+02:09:17,500 --> 02:09:19,252
+reporting back
+on any seditious animal activity...
+
+1795
+02:09:19,335 --> 02:09:21,128
+Seditious animal activity?
+What does that mean?
+
+1796
+02:09:21,212 --> 02:09:24,173
+Elphie. I'm sure the Wizard
+has a good reason.
+
+1797
+02:09:28,844 --> 02:09:29,971
+It's you.
+
+1798
+02:09:31,430 --> 02:09:32,765
+You're behind all of this.
+
+1799
+02:09:34,183 --> 02:09:36,560
+You're the reason why
+people are turning against the animals.
+
+1800
+02:09:36,644 --> 02:09:37,937
+You... It's all because of you.
+
+1801
+02:09:39,605 --> 02:09:41,399
+We're doing this to keep people safe.
+
+1802
+02:09:41,482 --> 02:09:43,401
+All of Oz will benefit.
+
+1803
+02:09:43,985 --> 02:09:45,069
+And you've known all along.
+
+1804
+02:09:46,779 --> 02:09:48,239
+Since the day you met me.
+
+1805
+02:09:48,823 --> 02:09:51,492
+You will benefit too, dearie.
+
+1806
+02:09:51,575 --> 02:09:53,744
+-You must trust me.
+-Don't. Don't.
+
+1807
+02:09:53,828 --> 02:09:55,246
+El-Elphaba.
+
+1808
+02:09:55,329 --> 02:09:58,791
+When I first got here, well,
+there was discord.
+
+1809
+02:09:58,874 --> 02:10:00,084
+There was discontent.
+
+1810
+02:10:00,167 --> 02:10:02,169
+And back where I come from,
+
+1811
+02:10:02,253 --> 02:10:06,674
+everybody knows that the best way
+to bring folks together
+
+1812
+02:10:07,341 --> 02:10:10,803
+is to give them a.. A real good enemy.
+
+1813
+02:10:11,804 --> 02:10:14,390
+If you wanted s-spies,
+why wouldn't you just...
+
+1814
+02:10:14,473 --> 02:10:16,434
+Why wouldn't you just
+make them yourself? You...
+
+1815
+02:10:25,609 --> 02:10:26,694
+Elphaba.
+
+1816
+02:10:27,611 --> 02:10:28,696
+Elphaba.
+
+1817
+02:10:29,447 --> 02:10:31,657
+You are talking to the Wizard of Oz.
+
+1818
+02:10:34,243 --> 02:10:35,161
+Read it.
+
+1819
+02:10:35,244 --> 02:10:37,204
+Cast a spell.
+
+1820
+02:10:37,288 --> 02:10:39,081
+Read it!
+
+1821
+02:10:39,165 --> 02:10:40,499
+-Elphaba.
+-Don't...
+
+1822
+02:10:45,296 --> 02:10:46,922
+You can't, can you?
+
+1823
+02:10:49,258 --> 02:10:50,593
+Can you?
+
+1824
+02:10:57,433 --> 02:10:58,976
+That's why you need all of this.
+
+1825
+02:10:59,060 --> 02:11:02,772
+And you need spies
+and-and animals in cages and an enemy.
+
+1826
+02:11:02,855 --> 02:11:04,231
+You...
+
+1827
+02:11:04,315 --> 02:11:05,816
+You have no real power.
+
+1828
+02:11:06,609 --> 02:11:08,319
+Exactly.
+
+1829
+02:11:08,402 --> 02:11:09,862
+That's why I need you.
+
+1830
+02:11:09,945 --> 02:11:13,908
+Think of your future, dearie.
+
+1831
+02:11:13,991 --> 02:11:15,201
+Stay back.
+
+1832
+02:11:17,953 --> 02:11:19,372
+Elphie, listen to them.
+
+1833
+02:11:21,582 --> 02:11:22,750
+Please.
+
+1834
+02:11:23,417 --> 02:11:24,835
+Good advice, young lady.
+
+1835
+02:11:24,919 --> 02:11:26,379
+Listen, uh, Elphaba,
+
+1836
+02:11:26,462 --> 02:11:31,092
+if you can pull this off
+first crack out of the box...
+
+1837
+02:11:31,175 --> 02:11:35,096
+Oh. Oh, my golly. I can't even imagine...
+
+1838
+02:11:35,179 --> 02:11:38,516
+And I meant every word
+about you having a home here.
+
+1839
+02:11:38,599 --> 02:11:40,976
+It's gonna be you and me
+
+1840
+02:11:41,060 --> 02:11:44,146
+and, hey, if it'd make you happy,
+
+1841
+02:11:44,230 --> 02:11:47,233
+possibly your friend.
+
+1842
+02:11:47,316 --> 02:11:48,484
+Really?
+
+1843
+02:11:49,860 --> 02:11:51,070
+Why not?
+
+1844
+02:11:52,822 --> 02:11:54,365
+No.
+
+1845
+02:11:56,409 --> 02:11:58,369
+Elphaba.
+
+1846
+02:11:58,452 --> 02:12:01,163
+You want to do yourself some good?
+Get her back.
+
+1847
+02:12:04,417 --> 02:12:06,710
+Elphie. Elphie!
+
+1848
+02:12:13,467 --> 02:12:14,468
+Listen.
+
+1849
+02:12:19,223 --> 02:12:20,558
+Listen!
+
+1850
+02:12:22,101 --> 02:12:24,895
+If you want to keep your families safe,
+
+1851
+02:12:24,979 --> 02:12:27,731
+you'll stay loyal to our Wizard.
+
+1852
+02:12:28,315 --> 02:12:31,193
+She did this! The green one.
+
+1853
+02:12:31,277 --> 02:12:33,487
+Don't let her get away!
+
+1854
+02:13:20,701 --> 02:13:22,203
+Elphie, where are you going?
+
+1855
+02:13:22,286 --> 02:13:24,288
+Elphie, what are you doing?
+
+1856
+02:13:24,371 --> 02:13:26,081
+Oh. Oh! No.
+
+1857
+02:13:26,790 --> 02:13:29,293
+Elphaba, please. Come back.
+Let's just have a word with them.
+
+1858
+02:13:30,252 --> 02:13:31,670
+Elphie. Elphie.
+
+1859
+02:13:31,754 --> 02:13:32,838
+What are you doing?
+
+1860
+02:13:34,507 --> 02:13:35,591
+Too much.
+
+1861
+02:13:38,636 --> 02:13:39,637
+Take it.
+
+1862
+02:13:41,597 --> 02:13:43,641
+Elphie! Oh! No...
+
+1863
+02:13:58,614 --> 02:14:03,035
+Guards. Guards. Guards.
+
+1864
+02:14:03,118 --> 02:14:07,331
+There's a fugitive at large
+here in the palace.
+
+1865
+02:14:07,414 --> 02:14:10,834
+Bring her to me.
+
+1866
+02:14:16,090 --> 02:14:17,091
+Let's go.
+
+1867
+02:14:17,967 --> 02:14:20,261
+-Elphaba, what are you doing?
+-Just follow me. Follow me.
+
+1868
+02:14:20,344 --> 02:14:22,930
+Where? What? Are you out of your mind?
+
+1869
+02:14:23,013 --> 02:14:24,682
+Goodness, Elphaba,
+you're being ridiculous.
+
+1870
+02:14:24,765 --> 02:14:26,934
+-Just come on.
+-Where are you going?
+
+1871
+02:14:27,810 --> 02:14:28,811
+Up.
+
+1872
+02:14:32,398 --> 02:14:34,191
+-They're in here!
+-There she is! The green one.
+
+1873
+02:14:36,068 --> 02:14:38,153
+-Get in quickly.
+-Absolutely rid...
+
+1874
+02:14:40,906 --> 02:14:42,366
+Quick. Jump.
+
+1875
+02:14:42,449 --> 02:14:44,159
+Jump? Me, jump?
+
+1876
+02:14:44,243 --> 02:14:46,954
+Quick. Jump, Glinda Jump now!
+
+1877
+02:14:47,037 --> 02:14:49,248
+Slipping...
+
+1878
+02:14:49,331 --> 02:14:50,958
+Just grab my hand. Come on!
+
+1879
+02:14:57,965 --> 02:14:59,967
+Come on. Grab on!
+
+1880
+02:15:01,218 --> 02:15:02,845
+Get off!
+
+1881
+02:15:03,429 --> 02:15:04,805
+Give me my leg.
+
+1882
+02:15:05,681 --> 02:15:06,890
+Give me my leg.
+
+1883
+02:15:10,019 --> 02:15:11,520
+Everyone, wait!
+
+1884
+02:15:33,751 --> 02:15:35,336
+-Move!
+-Faster!
+
+1885
+02:15:35,419 --> 02:15:36,545
+-Push!
+-Help me with this!
+
+1886
+02:15:36,629 --> 02:15:37,963
+Hey! No!
+
+1887
+02:15:43,969 --> 02:15:45,054
+Oh, no, no.
+
+1888
+02:15:48,182 --> 02:15:49,516
+Elphie, Elphie, Elphie.
+
+1889
+02:15:51,268 --> 02:15:52,728
+Faster! Look out!
+
+1890
+02:16:02,988 --> 02:16:04,073
+Quick! Get off.
+
+1891
+02:16:04,156 --> 02:16:05,532
+Ow, ow!
+
+1892
+02:16:08,952 --> 02:16:10,371
+Don't look back!
+
+1893
+02:16:10,454 --> 02:16:13,040
+-Get out of the way! Move!
+-Watch out!
+
+1894
+02:16:16,293 --> 02:16:19,755
+This is not good.
+This is not good. This is not good.
+
+1895
+02:16:19,838 --> 02:16:21,173
+Elphie.
+
+1896
+02:16:21,256 --> 02:16:22,341
+Elphie!
+
+1897
+02:16:22,925 --> 02:16:25,260
+Calm down.
+You have got to let him explain.
+
+1898
+02:16:25,344 --> 02:16:26,512
+Over my dead body.
+
+1899
+02:16:27,221 --> 02:16:28,806
+This is everything you've dreamed of.
+
+1900
+02:16:36,146 --> 02:16:39,358
+Elphaba, this is so much bigger than us.
+
+1901
+02:16:39,441 --> 02:16:41,485
+Why couldn't you have stayed calm
+for once,
+
+1902
+02:16:41,568 --> 02:16:43,445
+instead of flying off the handle?
+
+1903
+02:16:43,529 --> 02:16:44,822
+I hope you're happy!
+
+1904
+02:16:44,905 --> 02:16:46,240
+♪ <i>I hope you're happy now</i> ♪
+
+1905
+02:16:46,323 --> 02:16:49,326
+♪ <i>I hope you're happy how
+You hurt your cause forever</i> ♪
+
+1906
+02:16:49,410 --> 02:16:51,495
+♪ <i>I hope you think you're clever</i> ♪
+
+1907
+02:16:51,578 --> 02:16:52,454
+I hope you're happy.
+
+1908
+02:16:53,038 --> 02:16:54,415
+♪ <i>I hope you're happy too</i> ♪
+
+1909
+02:16:54,498 --> 02:16:57,960
+♪ <i>I hope you're proud how you
+Would grovel in submission</i> ♪
+
+1910
+02:16:58,043 --> 02:17:00,462
+♪ <i>To feed your own ambition</i> ♪
+
+1911
+02:17:00,546 --> 02:17:04,967
+♪ <i>So though I can't imagine how</i> ♪
+
+1912
+02:17:05,050 --> 02:17:07,678
+♪ <i>I hope you're happy ♪</i>
+
+1913
+02:17:08,262 --> 02:17:12,641
+♪ <i>Right now</i> ♪
+
+1914
+02:17:12,725 --> 02:17:14,977
+<i>Citizens of Oz,</i>
+
+1915
+02:17:15,060 --> 02:17:20,858
+there is an enemy who must be found
+and captured.
+
+1916
+02:17:20,941 --> 02:17:24,194
+<i>Believe nothing she says.</i>
+
+1917
+02:17:24,278 --> 02:17:27,573
+She has stolen our Grimmerie.
+
+1918
+02:17:28,157 --> 02:17:30,909
+<i>She is evil,</i>
+
+1919
+02:17:30,993 --> 02:17:36,582
+<i>responsible for the mutilation
+of these poor, innocent monkeys.</i>
+
+1920
+02:17:36,665 --> 02:17:37,750
+Oh, no.
+
+1921
+02:17:37,833 --> 02:17:41,044
+<i>Her green skin</i>
+
+1922
+02:17:41,128 --> 02:17:46,884
+<i>is but an outward manifestorium
+of her twisted nature.</i>
+
+1923
+02:17:48,343 --> 02:17:50,888
+<i>This distortion,</i>
+
+1924
+02:17:50,971 --> 02:17:53,891
+<i>this repulsion,</i>
+
+1925
+02:17:53,974 --> 02:17:55,309
+<i>this...</i>
+
+1926
+02:17:56,977 --> 02:18:00,063
+<i>Wicked Witch.</i>
+
+1927
+02:18:15,746 --> 02:18:17,456
+Don't be afraid.
+
+1928
+02:18:20,167 --> 02:18:21,376
+I'm not afraid.
+
+1929
+02:18:24,171 --> 02:18:26,215
+It's the Wizard
+who should be afraid of me.
+
+1930
+02:18:29,718 --> 02:18:30,761
+Elphie, listen to me.
+
+1931
+02:18:31,845 --> 02:18:35,140
+Listen to me. Just...
+Just say you're sorry.
+
+1932
+02:18:36,600 --> 02:18:40,854
+♪ <i>You can still be with the Wizard</i> ♪
+
+1933
+02:18:40,938 --> 02:18:45,651
+♪ <i>What you've worked and waited for</i> ♪
+
+1934
+02:18:45,734 --> 02:18:51,365
+♪ <i>You can have all you ever wanted ♪</i>
+
+1935
+02:18:55,160 --> 02:18:56,328
+I know.
+
+1936
+02:18:58,413 --> 02:19:00,457
+♪ <i>But I don't want it ♪</i>
+
+1937
+02:19:02,459 --> 02:19:03,544
+No.
+
+1938
+02:19:04,628 --> 02:19:07,923
+♪ <i>I can't want it</i> ♪
+
+1939
+02:19:09,466 --> 02:19:16,348
+♪ <i>Anymore</i> ♪
+
+1940
+02:19:21,436 --> 02:19:26,149
+♪ <i>Something has changed within me</i> ♪
+
+1941
+02:19:28,193 --> 02:19:31,572
+♪ <i>Something is not the same</i> ♪
+
+1942
+02:19:33,448 --> 02:19:38,495
+♪ <i>I'm through with playing by the rules</i> ♪
+
+1943
+02:19:38,579 --> 02:19:42,374
+♪ <i>Of someone else's game</i> ♪
+
+1944
+02:19:43,417 --> 02:19:46,670
+♪ <i>Too late for second-guessing</i> ♪
+
+1945
+02:19:47,504 --> 02:19:52,509
+♪ <i>Too late to go back to sleep</i> ♪
+
+1946
+02:19:52,593 --> 02:19:56,680
+♪ <i>It's time to trust my instincts</i> ♪
+
+1947
+02:19:56,763 --> 02:19:59,933
+♪ <i>Close my eyes...</i> ♪
+
+1948
+02:20:03,103 --> 02:20:05,814
+♪ <i>And leap</i> ♪
+
+1949
+02:20:05,898 --> 02:20:11,862
+♪ <i>It's time to try defying gravity ♪</i>
+
+1950
+02:20:11,945 --> 02:20:17,993
+♪ <i>I think I'll try defying gravity ♪</i>
+
+1951
+02:20:18,076 --> 02:20:21,330
+♪ <i>And you can't pull me down</i> ♪
+
+1952
+02:20:21,413 --> 02:20:26,251
+♪ <i>Can't I make you understand
+You're having delusions of grandeur?</i> ♪
+
+1953
+02:20:26,335 --> 02:20:29,379
+♪ <i>I'm through accepting limits</i> ♪
+
+1954
+02:20:29,963 --> 02:20:32,299
+♪ <i>'Cause someone says they're so</i> ♪
+
+1955
+02:20:33,050 --> 02:20:35,385
+♪ <i>Some things I cannot change</i> ♪
+
+1956
+02:20:35,469 --> 02:20:39,306
+♪ <i>But till I try, I'll never know</i> ♪
+
+1957
+02:20:39,389 --> 02:20:42,142
+♪ <i>Too long I've been afraid of ♪</i>
+
+1958
+02:20:42,225 --> 02:20:45,687
+♪ <i>Losing love I guess I've lost</i> ♪
+
+1959
+02:20:45,771 --> 02:20:47,522
+♪ <i>Well, if that's love</i> ♪
+
+1960
+02:20:47,606 --> 02:20:52,110
+♪ <i>It comes at much too high a cost ♪</i>
+
+1961
+02:20:52,194 --> 02:20:58,408
+♪ <i>I'd sooner buy defying gravity</i> ♪
+
+1962
+02:20:58,492 --> 02:21:04,206
+♪ <i>Kiss me goodbye, I'm defying gravity ♪</i>
+
+1963
+02:21:04,289 --> 02:21:09,336
+♪ <i>And you can't pull me down</i> ♪
+
+1964
+02:21:09,419 --> 02:21:11,797
+-They're up there!
+-You two! Come down!
+
+1965
+02:21:14,925 --> 02:21:17,427
+Elphie, what are you doing?
+
+1966
+02:21:17,511 --> 02:21:18,595
+Elphaba, please.
+
+1967
+02:21:19,846 --> 02:21:21,515
+Listen to me. Stop.
+
+1968
+02:21:25,268 --> 02:21:27,646
+Not that hideoteous
+levitation spell. Elphaba, please.
+
+1969
+02:21:27,729 --> 02:21:30,148
+You don't know what you're doing
+with that. Please.
+
+1970
+02:21:30,232 --> 02:21:33,235
+Stop! Stop!
+
+1971
+02:21:33,318 --> 02:21:34,945
+Stop!
+
+1972
+02:21:40,742 --> 02:21:41,785
+Well...
+
+1973
+02:21:44,538 --> 02:21:45,789
+where are your wings?
+
+1974
+02:21:49,459 --> 02:21:52,295
+Maybe you're not as powerful
+as you think you are.
+
+1975
+02:22:06,560 --> 02:22:07,978
+Sweet Oz.
+
+1976
+02:22:53,398 --> 02:22:54,399
+Charge!
+
+1977
+02:22:54,483 --> 02:22:55,442
+Heave!
+
+1978
+02:22:59,112 --> 02:23:00,113
+Quickly.
+
+1979
+02:23:01,907 --> 02:23:04,034
+-Get on.
+-What?
+
+1980
+02:23:04,117 --> 02:23:05,368
+Heave!
+
+1981
+02:23:05,452 --> 02:23:06,453
+Heave!
+
+1982
+02:23:06,995 --> 02:23:08,121
+Heave!
+
+1983
+02:23:08,914 --> 02:23:10,540
+Come with me.
+
+1984
+02:23:10,624 --> 02:23:13,710
+Think of what we could do together.
+
+1985
+02:23:16,838 --> 02:23:20,509
+♪ <i>Unlimited ♪</i>
+
+1986
+02:23:20,592 --> 02:23:25,514
+♪ <i>Together we're unlimited ♪</i>
+
+1987
+02:23:25,597 --> 02:23:30,310
+♪ <i>Together we'll be the greatest team
+There's ever been</i> ♪
+
+1988
+02:23:30,393 --> 02:23:32,395
+♪ <i>Glinda</i> ♪
+
+1989
+02:23:32,479 --> 02:23:35,190
+♪ <i>Dreams the way we planned 'em</i> ♪
+
+1990
+02:23:35,774 --> 02:23:38,735
+♪ <i>If we work in tandem</i> ♪
+
+1991
+02:23:38,819 --> 02:23:43,573
+♪ <i>There's no fight we cannot win</i> ♪
+
+1992
+02:23:43,657 --> 02:23:50,539
+♪ <i>Just you and I defying gravity</i> ♪
+
+1993
+02:23:50,622 --> 02:23:56,711
+♪ <i>With you and I defying gravity ♪</i>
+
+1994
+02:23:56,795 --> 02:24:01,633
+♪ <i>They'll never bring us down</i> ♪
+
+1995
+02:24:05,303 --> 02:24:06,638
+Are you coming?
+
+1996
+02:24:20,861 --> 02:24:22,362
+Elphie, you're trembling.
+
+1997
+02:24:42,090 --> 02:24:43,091
+Hmm.
+
+1998
+02:24:44,176 --> 02:24:45,177
+Here.
+
+1999
+02:24:46,386 --> 02:24:48,597
+Put this around you.
+
+2000
+02:25:49,699 --> 02:25:51,660
+♪ <i>I hope you're happy ♪</i>
+
+2001
+02:25:53,286 --> 02:25:56,039
+♪ <i>Now that you're choosing this</i> ♪
+
+2002
+02:25:56,122 --> 02:25:57,290
+You too.
+
+2003
+02:25:58,166 --> 02:26:00,669
+♪ <i>I hope it brings you bliss</i> ♪
+
+2004
+02:26:00,752 --> 02:26:03,129
+♪ <i>I really hope you get it</i> ♪
+
+2005
+02:26:03,213 --> 02:26:06,383
+♪ <i>And you don't live to regret it ♪</i>
+
+2006
+02:26:06,466 --> 02:26:13,139
+♪ <i>I hope you're happy in the end</i> ♪
+
+2007
+02:26:13,223 --> 02:26:16,393
+♪ <i>I hope you're happy ♪</i>
+
+2008
+02:26:16,977 --> 02:26:21,982
+♪ <i>My friend ♪</i>
+
+2009
+02:26:24,484 --> 02:26:25,527
+Move!
+
+2010
+02:26:25,610 --> 02:26:26,653
+-There they are!
+-Get them!
+
+2011
+02:26:30,448 --> 02:26:31,449
+Get her!
+
+2012
+02:26:31,533 --> 02:26:33,034
+No. Leave her alone.
+
+2013
+02:26:33,118 --> 02:26:35,245
+-She hasn't done anything wrong.
+-Get away from me.
+
+2014
+02:26:35,328 --> 02:26:36,621
+-No!
+-Catch them now!
+
+2015
+02:26:36,705 --> 02:26:37,872
+Elphie!
+
+2016
+02:26:39,874 --> 02:26:42,168
+No! Back off. Back off!
+
+2017
+02:26:42,252 --> 02:26:44,129
+-Elphie! Elphie, stop, no!
+-I'm the one you want.
+
+2018
+02:26:44,212 --> 02:26:46,298
+-I'm the one you want! It's me!
+-No!
+
+2019
+02:26:47,799 --> 02:26:49,342
+It's me!
+
+2020
+02:26:59,477 --> 02:27:02,439
+-<i>What have you done this time?</i>
+<i>-Elphaba Thropp, green on top.</i>
+
+2021
+02:27:02,522 --> 02:27:05,150
+<i>Someone run and tell her
+that everyone can smell her.</i>
+
+2022
+02:27:05,233 --> 02:27:07,694
+<i>Just stop jabbering. Just do what I say.</i>
+
+2023
+02:27:08,194 --> 02:27:11,823
+<i>Think of your future, dearie.</i>
+
+2024
+02:27:11,906 --> 02:27:13,658
+<i>Take it away!</i>
+
+2025
+02:27:46,983 --> 02:27:51,237
+♪ <i>It's me! ♪</i>
+
+2026
+02:27:51,321 --> 02:27:54,366
+♪ <i>So if you care to find me</i> ♪
+
+2027
+02:27:54,449 --> 02:27:57,494
+♪ <i>Look to the western sky! ♪</i>
+
+2028
+02:27:57,577 --> 02:27:59,954
+♪ <i>As someone told me lately..</i> ♪
+
+2029
+02:28:00,038 --> 02:28:05,627
+♪ <i>"Ev'ryone deserves the chance to fly" ♪</i>
+
+2030
+02:28:05,710 --> 02:28:08,463
+♪ <i>And if I'm flying solo</i> ♪
+
+2031
+02:28:08,546 --> 02:28:11,383
+♪ <i>At least I'm flying free</i> ♪
+
+2032
+02:28:11,466 --> 02:28:14,094
+♪ <i>To those who'd ground me</i> ♪
+
+2033
+02:28:14,177 --> 02:28:18,181
+♪ <i>Take a message back from me</i> ♪
+
+2034
+02:28:18,264 --> 02:28:24,020
+♪ <i>Tell them how I am defying gravity ♪</i>
+
+2035
+02:28:24,687 --> 02:28:29,984
+♪ <i>I'm flying high, defying gravity ♪</i>
+
+2036
+02:28:30,068 --> 02:28:35,323
+♪ <i>And soon, I'll match them in renown</i> ♪
+
+2037
+02:28:46,668 --> 02:28:52,424
+♪ <i>Unlimited ♪</i>
+
+2038
+02:28:53,007 --> 02:28:54,759
+<i>Citizens of Oz,</i>
+
+2039
+02:28:55,677 --> 02:29:00,598
+<i>there is an enemy who must be found
+and captured.</i>
+
+2040
+02:29:02,851 --> 02:29:05,395
+<i>Believe nothing she says.</i>
+
+2041
+02:29:05,478 --> 02:29:07,981
+<i>She has stolen our Grimmerie.</i>
+
+2042
+02:29:08,064 --> 02:29:08,940
+Governor?
+
+2043
+02:29:09,023 --> 02:29:11,276
+<i>She is evil.</i>
+
+2044
+02:29:12,110 --> 02:29:17,490
+♪ <i>Unlimited ♪</i>
+
+2045
+02:29:20,243 --> 02:29:22,454
+<i>Her green skin...</i>
+
+2046
+02:29:23,204 --> 02:29:28,418
+<i>is but an outward manifestorium
+of her twisted nature.</i>
+
+2047
+02:29:29,961 --> 02:29:32,255
+<i>This distortion,</i>
+
+2048
+02:29:32,338 --> 02:29:35,216
+<i>this repulsion,</i>
+
+2049
+02:29:35,300 --> 02:29:36,426
+<i>-this...</i>
+-Come on!
+
+2050
+02:29:36,509 --> 02:29:38,970
+♪ <i>Unlimited ♪</i>
+
+2051
+02:29:39,053 --> 02:29:41,556
+<i>... Wicked Witch.</i>
+
+2052
+02:29:45,435 --> 02:29:48,354
+♪ <i>And nobody in all of Oz</i> ♪
+
+2053
+02:29:49,397 --> 02:29:53,234
+♪ <i>No Wizard that there is or was</i> ♪
+
+2054
+02:29:53,318 --> 02:29:57,530
+♪ <i>Is ever gonna bring</i> ♪
+
+2055
+02:29:58,114 --> 02:30:00,575
+♪ <i>Me down! ♪</i>
+
+2056
+02:30:00,658 --> 02:30:05,872
+-♪ <i>I hope you're happy</i> ♪
+-♪ <i>Look at her! She's Wicked! Kill her!</i> ♪
+
+2057
+02:30:05,955 --> 02:30:09,334
+-♪ <i>Bring me down</i> ♪
+-♪ <i>No one mourns the Wicked ♪</i>
+
+2058
+02:30:09,417 --> 02:30:15,340
+♪ <i>So we've got to bring her...</i> ♪
+
+2059
+02:30:22,764 --> 02:30:29,729
+♪ <i>Down! ♪</i>
+
+2060
+02:30:36,945 --> 02:30:43,243
+♪ <i>Down! ♪</i>
+

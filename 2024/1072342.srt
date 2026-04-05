@@ -1,0 +1,6963 @@
+﻿1
+00:00:01,929 --> 00:00:05,046
+(GRAND ORCHESTRAL FANFARE
+PLAYING)
+
+2
+00:00:25,900 --> 00:00:27,860
+(DISTANT BARKING)
+
+3
+00:00:27,985 --> 00:00:30,196
+(ELECTRICAL BUZZING)
+(CREAKING)
+
+4
+00:00:32,323 --> 00:00:34,200
+(WOMAN WHIMPERING)
+
+5
+00:00:44,669 --> 00:00:46,170
+(MONSTER ROARS)
+
+6
+00:00:56,389 --> 00:00:58,391
+(WATER BUBBLING)
+
+7
+00:01:07,400 --> 00:01:09,443
+(PERSON TAKES DEEP BREATH)
+
+8
+00:01:11,112 --> 00:01:13,197
+(EERIE MUSIC PLAYING)
+
+9
+00:01:16,117 --> 00:01:18,160
+(WATER BURBLING)
+
+10
+00:01:25,501 --> 00:01:27,795
+(LIGHT PULSATING)
+
+11
+00:01:33,384 --> 00:01:35,386
+(MOTOR PUTTERING)
+
+12
+00:01:39,849 --> 00:01:41,851
+(PUTTERING CONTINUES)
+
+13
+00:01:57,700 --> 00:01:59,702
+(PUTTERING CONTINUES)
+
+14
+00:02:10,713 --> 00:02:12,590
+(HINGES CREAKING)
+
+15
+00:02:12,715 --> 00:02:15,176
+(OXYGEN WHOOSHING
+RHYTHMICALLY)
+
+16
+00:02:15,301 --> 00:02:17,470
+(WHISPERING) Tommy?
+
+17
+00:02:19,805 --> 00:02:22,391
+Tommy, are you awake?
+
+18
+00:02:25,186 --> 00:02:27,897
+I saw your missing boat outside.
+
+19
+00:02:28,022 --> 00:02:29,732
+(MEDICAL MONITOR BEEPING)
+
+20
+00:02:29,857 --> 00:02:31,901
+I'm gonna get it for you.
+
+21
+00:02:34,528 --> 00:02:36,280
+(KNOCKING ON DOOR)
+WOMAN: Mrs. Summers.
+
+22
+00:02:36,405 --> 00:02:38,449
+Are you sure I should go?
+
+23
+00:02:38,574 --> 00:02:40,201
+I don't mind staying.
+
+24
+00:02:40,326 --> 00:02:42,620
+MRS. SUMMERS: No, it's
+fine. You should go home.
+
+25
+00:02:42,745 --> 00:02:44,497
+I'll check on the kids later.
+
+26
+00:02:44,622 --> 00:02:46,374
+WOMAN:
+Okay, Mrs. Summers.
+
+27
+00:02:46,499 --> 00:02:48,250
+I'll see you tomorrow.
+
+28
+00:02:49,377 --> 00:02:51,379
+(CRICKETS CHIRPING)
+
+29
+00:03:08,813 --> 00:03:10,439
+There you are.
+
+30
+00:03:11,107 --> 00:03:12,566
+(POLE RATTLING)
+
+31
+00:03:22,326 --> 00:03:24,036
+(POLE SQUEAKING)
+
+32
+00:03:38,426 --> 00:03:39,677
+(GRUNTING)
+
+33
+00:03:47,810 --> 00:03:50,229
+(GRUNTING)
+
+34
+00:03:52,982 --> 00:03:53,983
+(YELPS)
+
+35
+00:04:03,534 --> 00:04:05,202
+MRS. SUMMERS:
+(MUFFLED) Rebecca?
+
+36
+00:04:05,995 --> 00:04:07,246
+What are you doing?
+
+37
+00:04:16,797 --> 00:04:19,008
+(GASPING)
+
+38
+00:04:19,091 --> 00:04:20,593
+Sorry, Mom.
+
+39
+00:04:20,676 --> 00:04:22,011
+I didn't mean...
+
+40
+00:04:27,433 --> 00:04:28,726
+Mom?
+
+41
+00:04:31,979 --> 00:04:34,440
+(PULSATING)
+
+42
+00:04:34,523 --> 00:04:36,150
+(BREATHING HEAVILY)
+
+43
+00:04:43,199 --> 00:04:44,992
+(GRUNTING)
+
+44
+00:04:45,117 --> 00:04:47,036
+(SPLASHING)
+
+45
+00:05:03,511 --> 00:05:05,554
+(MOTOR PUTTERING)
+
+46
+00:05:13,896 --> 00:05:15,231
+(GASPS)
+
+47
+00:05:19,819 --> 00:05:21,862
+(METAL CREAKING)
+
+48
+00:05:24,615 --> 00:05:26,742
+WHISPERING VOICES:
+<i>Temagami. Temagami.</i>
+
+49
+00:05:26,867 --> 00:05:29,245
+<i>Temagami. Temagami...</i>
+
+50
+00:05:29,370 --> 00:05:31,288
+(GASPING)
+
+51
+00:05:31,413 --> 00:05:32,581
+(SCREAMS)
+
+52
+00:05:32,998 --> 00:05:34,792
+(MUFFLED) Mom! Mom!
+
+53
+00:05:35,417 --> 00:05:37,127
+Help!
+
+54
+00:05:41,423 --> 00:05:43,592
+(DOG BARKING IN DISTANCE)
+
+55
+00:05:45,219 --> 00:05:46,929
+(SPLASHES)
+
+56
+00:06:01,235 --> 00:06:02,587
+ANNOUNCER OVER RADIO:
+<i>Brewers played extra innings</i>
+
+57
+00:06:02,611 --> 00:06:03,946
+<i>with the Marlins yesterday.</i>
+
+58
+00:06:04,071 --> 00:06:05,364
+<i>They fell in 12.</i>
+
+59
+00:06:05,489 --> 00:06:07,283
+<i>One-one. Foul ball
+up the first baseline,</i>
+
+60
+00:06:07,366 --> 00:06:08,576
+<i>and it is two strikes.</i>
+
+61
+00:06:09,159 --> 00:06:10,327
+<i>Brewers are eight and nine</i>
+
+62
+00:06:10,452 --> 00:06:12,621
+<i>in extra-inning games
+so far this season.</i>
+
+63
+00:06:12,746 --> 00:06:14,665
+<i>Hoping to keep
+that streak alive.</i>
+
+64
+00:06:15,583 --> 00:06:17,126
+(DISTANTLY)
+Ray, they're ready for us.
+
+65
+00:06:17,209 --> 00:06:19,086
+(HIGH-PITCHED RINGING)
+
+66
+00:06:24,842 --> 00:06:26,135
+Dad.
+
+67
+00:06:26,719 --> 00:06:28,178
+You okay?
+
+68
+00:06:28,304 --> 00:06:31,307
+(RINGING STOPS)
+Yeah. Yeah, I'm good.
+
+69
+00:06:31,390 --> 00:06:32,892
+I'll just give you a head start.
+
+70
+00:06:32,975 --> 00:06:34,643
+I'll meet you inside.
+
+71
+00:06:39,565 --> 00:06:41,901
+This has got every single
+thing that you asked for.
+
+72
+00:06:42,026 --> 00:06:44,194
+It has 24-hour emergency
+call service.
+
+73
+00:06:44,778 --> 00:06:46,864
+Right? Which is great.
+
+74
+00:06:46,947 --> 00:06:49,450
+It's got, uh,
+single-level bedrooms.
+
+75
+00:06:49,533 --> 00:06:51,744
+It's got bath... All the
+bathrooms have handrails.
+
+76
+00:06:51,827 --> 00:06:53,704
+And you're just minutes away
+
+77
+00:06:53,787 --> 00:06:56,665
+from one of the best medical
+facilities in the Twin Cities.
+
+78
+00:06:56,749 --> 00:06:57,750
+Yeah.
+
+79
+00:06:57,875 --> 00:06:59,686
+KAY: It's... I mean, it's
+really kind of a perfect lease
+
+80
+00:06:59,710 --> 00:07:01,021
+for when you just need
+a little extra help.
+
+81
+00:07:01,045 --> 00:07:02,296
+(WHISPERING) Hey:.
+
+82
+00:07:02,379 --> 00:07:03,589
+Do you not like it?
+
+83
+00:07:03,839 --> 00:07:05,716
+Well, it's nice. Are
+you... Are you looking
+
+84
+00:07:05,799 --> 00:07:08,177
+for a place to throw
+the ball around?
+
+85
+00:07:08,594 --> 00:07:10,554
+Is there any chance
+that you're gonna bring
+
+86
+00:07:10,638 --> 00:07:13,265
+that Waller swing here
+once you get better?
+
+87
+00:07:13,349 --> 00:07:15,059
+(RAY AND KAY LAUGHING)
+
+88
+00:07:15,142 --> 00:07:17,061
+I'm sorry.
+I Google all my clients,
+
+89
+00:07:17,144 --> 00:07:19,313
+and it's just not every day
+that I get a...
+
+90
+00:07:19,396 --> 00:07:21,148
+a big-league third baseman.
+
+91
+00:07:21,273 --> 00:07:22,566
+Yeah, no. I, um...
+
+92
+00:07:22,983 --> 00:07:24,860
+I'm just focused
+on getting better now
+
+93
+00:07:24,944 --> 00:07:26,445
+and spending some time at home
+
+94
+00:07:26,528 --> 00:07:28,131
+and being with family.
+Well, you know what?
+
+95
+00:07:28,155 --> 00:07:30,616
+You can spend some of that
+baseball money right here.
+
+96
+00:07:30,699 --> 00:07:33,202
+You can't put a price
+on peace of mind.
+
+97
+00:07:33,327 --> 00:07:35,788
+Yeah. Yeah, well,
+apparently, here you can.
+
+98
+00:07:35,996 --> 00:07:37,456
+(LAUGHING)
+It's 4,200 bucks.
+
+99
+00:07:37,539 --> 00:07:38,624
+Oh, just...
+
+100
+00:07:38,749 --> 00:07:40,167
+You know what?
+In the kitchen.
+
+101
+00:07:40,250 --> 00:07:41,311
+Come here.
+I want to show you.
+
+102
+00:07:41,335 --> 00:07:42,711
+There's this accessible design.
+
+103
+00:07:42,795 --> 00:07:45,130
+And I don't know who did it,
+but I think I want one myself.
+
+104
+00:07:45,255 --> 00:07:46,942
+I'll tell you that much.
+RAY: You guys like it or...
+
+105
+00:07:46,966 --> 00:07:48,842
+EVE: Yeah.
+KAY: I might be your neighbor.
+
+106
+00:07:48,926 --> 00:07:50,844
+(CHATTER FADES)
+
+107
+00:08:04,525 --> 00:08:06,986
+(KIDS CHATTERING INDISTINCTLY)
+
+108
+00:08:09,405 --> 00:08:11,281
+(KIDS SHOUTING PLAYFULLY)
+
+109
+00:08:17,579 --> 00:08:19,456
+(LAUGHING AND
+CHATTERING INDISTINCTLY)
+
+110
+00:08:24,670 --> 00:08:26,171
+Uh, wait, wait. Honey, honey.
+
+111
+00:08:26,380 --> 00:08:27,649
+Wait, stop, stop.
+Stop, stop, stop. What?
+
+112
+00:08:27,673 --> 00:08:30,092
+Honey, stop, stop,
+stop. Look. Look.
+
+113
+00:08:30,342 --> 00:08:31,343
+Look. Look.
+EVE: Oh.
+
+114
+00:08:33,220 --> 00:08:34,221
+EVE: Huh.
+
+115
+00:08:35,139 --> 00:08:36,724
+KAY: I would've
+shown you this place,
+
+116
+00:08:36,849 --> 00:08:38,368
+but it didn't really
+meet your checklist.
+
+117
+00:08:38,392 --> 00:08:39,536
+And this is not a rental, right?
+
+118
+00:08:39,560 --> 00:08:40,644
+Oh, I know.
+
+119
+00:08:40,769 --> 00:08:42,479
+We were just curious.
+Okay.
+
+120
+00:08:42,563 --> 00:08:45,524
+Right, well, it's only one owner
+for the last couple decades.
+
+121
+00:08:45,607 --> 00:08:48,902
+And, uh, you know, it
+needs just a little work, I think.
+
+122
+00:08:49,028 --> 00:08:52,031
+But it's not gonna be on the
+market very long at this price.
+
+123
+00:08:52,156 --> 00:08:54,199
+Oh, and you're in
+a great school district
+
+124
+00:08:54,283 --> 00:08:55,534
+with Harold Holt.
+
+125
+00:08:55,659 --> 00:08:56,994
+That's where I start
+in the fall.
+
+126
+00:08:57,119 --> 00:08:59,163
+No, really?
+Oh, I'm a proud alum myself.
+
+127
+00:08:59,288 --> 00:09:00,640
+(IN SING-SONG VOICE)
+Go, Lake Trout.
+
+128
+00:09:00,664 --> 00:09:02,207
+(BOTH LAUGHING)
+
+129
+00:09:02,291 --> 00:09:04,084
+And, uh, what subject
+do you teach there?
+
+130
+00:09:04,209 --> 00:09:06,170
+Oh, no. I'm just in
+the admin office
+
+131
+00:09:06,295 --> 00:09:08,881
+while I finish my degree
+online for special education.
+
+132
+00:09:09,923 --> 00:09:12,176
+Oh, good for you.
+Good for you.
+
+133
+00:09:12,259 --> 00:09:14,511
+Well, it's never too late
+to follow your dream.
+
+134
+00:09:14,970 --> 00:09:19,475
+(KIDS CHATTERING IN DISTANCE)
+Yeah.
+
+135
+00:09:19,558 --> 00:09:22,352
+(GASPS) Oh, my gosh.
+This is amazing.
+
+136
+00:09:22,478 --> 00:09:24,646
+What is that?
+Oh, the fruit baskets.
+
+137
+00:09:25,522 --> 00:09:26,899
+Where did Ray get off to?
+
+138
+00:09:27,316 --> 00:09:28,734
+I didn't see him.
+
+139
+00:09:30,736 --> 00:09:31,737
+EVE: There you are.
+
+140
+00:09:31,862 --> 00:09:33,072
+Hey.
+
+141
+00:09:33,489 --> 00:09:34,907
+There's a pool.
+
+142
+00:09:35,157 --> 00:09:36,700
+(CHUCKLES)
+
+143
+00:09:37,659 --> 00:09:39,912
+I used to be scared of pools.
+
+144
+00:09:41,038 --> 00:09:43,832
+My dad pushed me into
+one of the training tanks
+
+145
+00:09:43,916 --> 00:09:45,751
+at Fort Benning
+when I was three.
+
+146
+00:09:45,834 --> 00:09:46,835
+RAY: Mmm-hmm.
+
+147
+00:09:47,419 --> 00:09:48,420
+Sink or swim.
+
+148
+00:09:49,046 --> 00:09:50,631
+I guess I swam.
+
+149
+00:09:53,050 --> 00:09:55,385
+I always wanted a pool.
+
+150
+00:09:55,511 --> 00:09:57,638
+When we were Kids, we
+used to go down the street,
+
+151
+00:09:57,763 --> 00:10:00,057
+break into the KOA, go swimming.
+
+152
+00:10:00,182 --> 00:10:03,102
+We used to pretend that we
+were the rich kids from the suburbs.
+
+153
+00:10:03,227 --> 00:10:04,603
+(CHUCKLING)
+
+154
+00:10:04,728 --> 00:10:06,480
+ELLIOT: Hey, Mom,
+can we get lunch?
+
+155
+00:10:06,605 --> 00:10:08,690
+IZZY: Yeah, I'm ready to go.
+Can we get some food?
+
+156
+00:10:08,816 --> 00:10:10,734
+Mmm. Come on,
+old man.
+
+157
+00:10:10,859 --> 00:10:12,528
+Before we get too nostalgic.
+
+158
+00:10:17,199 --> 00:10:19,201
+(EERIE MUSIC PLAYING)
+
+159
+00:10:29,253 --> 00:10:30,254
+(GRUNTS)
+
+160
+00:10:31,213 --> 00:10:32,548
+(STRAINING)
+
+161
+00:10:34,299 --> 00:10:35,717
+(GRUNTS)
+
+162
+00:10:37,386 --> 00:10:38,971
+(GASPING)
+
+163
+00:10:41,390 --> 00:10:43,642
+(CREAKING)
+
+164
+00:10:45,352 --> 00:10:47,062
+ANNOUNCER:
+<i>Familiar face makes his way</i>
+
+165
+00:10:47,146 --> 00:10:48,147
+<i>down to the plate.</i>
+
+166
+00:10:48,230 --> 00:10:50,357
+<i>What a story
+this has been, folks.</i>
+
+167
+00:10:50,482 --> 00:10:52,234
+<i>After a year battling illness,</i>
+
+168
+00:10:52,359 --> 00:10:54,570
+<i>Ray Waller is trying
+to do the impossible</i>
+
+169
+00:10:54,695 --> 00:10:56,572
+<i>with a Major League comeback.</i>
+
+170
+00:10:58,740 --> 00:10:59,825
+<i>Slider inside.</i>
+
+171
+00:10:59,950 --> 00:11:01,869
+<i>Waller digs for it...</i>
+
+172
+00:11:01,994 --> 00:11:03,829
+<i>and connects!</i>
+
+173
+00:11:03,954 --> 00:11:05,914
+<i>It's a deep ball
+into far center field,</i>
+
+174
+00:11:06,039 --> 00:11:08,167
+<i>and it is gone!</i>
+
+175
+00:11:14,798 --> 00:11:17,801
+(GASPING)
+
+176
+00:11:22,514 --> 00:11:23,807
+Dad!
+
+177
+00:11:23,932 --> 00:11:26,143
+Mom, hurry! Dad fell in!
+(COUGHING)
+
+178
+00:11:26,226 --> 00:11:27,227
+(WHEEZING)
+
+179
+00:11:27,311 --> 00:11:29,521
+Ray, what happened?
+Are you okay?
+
+180
+00:11:29,605 --> 00:11:30,939
+Dad?
+RAY: Yeah.
+
+181
+00:11:31,023 --> 00:11:32,625
+IZZY: What happened?
+ELLIOT: Mom, is he okay?
+
+182
+00:11:32,649 --> 00:11:34,193
+Just breathe.
+It's okay. It's okay.
+
+183
+00:11:34,318 --> 00:11:36,028
+Mom, his cane.
+Yep.
+
+184
+00:11:36,111 --> 00:11:38,405
+Izzy, give me...
+Help me here. Yep.
+
+185
+00:11:38,530 --> 00:11:39,865
+IZZY: Yeah.
+EVE: You got it?
+
+186
+00:11:39,990 --> 00:11:42,034
+(RAY PANTS AND SIGHS)
+
+187
+00:11:43,202 --> 00:11:44,620
+EVE: You got it?
+RAY: Okay.
+
+188
+00:11:44,745 --> 00:11:46,538
+Yeah?
+Yeah. Okay.
+
+189
+00:11:46,622 --> 00:11:49,625
+(ALL CHATTERING INDISTINCTLY)
+
+190
+00:11:49,708 --> 00:11:51,710
+(OMINOUS MUSIC PLAYING)
+
+191
+00:11:56,089 --> 00:11:58,467
+How long has it been
+since your last episode?
+
+192
+00:11:58,592 --> 00:12:00,761
+RAY: Um, well, it
+wasn't really an episode,
+
+193
+00:12:00,886 --> 00:12:02,221
+I don't think. It's like...
+
+194
+00:12:02,346 --> 00:12:04,097
+At spring training
+about six months ago.
+
+195
+00:12:04,223 --> 00:12:09,144
+My recommendation
+is to escalate the diagnosis
+
+196
+00:12:09,228 --> 00:12:11,813
+to secondary progressive MS.
+
+197
+00:12:11,939 --> 00:12:14,358
+No, but the doctor said
+he was stabilizing
+
+198
+00:12:14,483 --> 00:12:17,027
+and that it's about
+managing now.
+
+199
+00:12:17,152 --> 00:12:19,947
+It's better to have
+a more accurate diagnosis.
+
+200
+00:12:20,072 --> 00:12:21,782
+Are you in PT?
+
+201
+00:12:21,907 --> 00:12:23,951
+No, um, well, I mean, I'm
+throwing the ball around
+
+202
+00:12:24,076 --> 00:12:26,078
+in the front yard with
+the kids, and, like, that...
+
+203
+00:12:26,203 --> 00:12:28,622
+We just got insurance through
+the school where I'm working.
+
+204
+00:12:28,747 --> 00:12:30,082
+RAY: Yeah.
+Forget baseball.
+
+205
+00:12:30,207 --> 00:12:33,293
+For now, we need to find
+a low-impact activity
+
+206
+00:12:33,418 --> 00:12:34,878
+that you can do every day.
+
+207
+00:12:35,003 --> 00:12:37,339
+Walking, yoga.
+
+208
+00:12:37,464 --> 00:12:40,175
+Most therapists
+recommend swimming.
+
+209
+00:12:40,300 --> 00:12:42,427
+Look, I know it feels like
+your whole world
+
+210
+00:12:42,511 --> 00:12:44,763
+is turning upside down.
+
+211
+00:12:44,888 --> 00:12:47,683
+It's going to take sacrifice
+from you both,
+
+212
+00:12:47,808 --> 00:12:49,893
+but you can build
+a good life together.
+
+213
+00:12:50,018 --> 00:12:52,688
+First, you have to let go
+of the old one.
+
+214
+00:12:54,147 --> 00:12:56,275
+Use the wheelchair
+for the next few days
+
+215
+00:12:56,400 --> 00:12:59,611
+while you regulate, and I will
+bring you back in next week.
+
+216
+00:13:04,449 --> 00:13:06,201
+Honey, if we rent that townhome,
+
+217
+00:13:06,285 --> 00:13:08,287
+it'd be like living
+in a hospital.
+
+218
+00:13:10,998 --> 00:13:12,666
+I don't want to be
+the sick guy anymore.
+
+219
+00:13:12,791 --> 00:13:14,001
+But you're sick, Ray.
+
+220
+00:13:14,126 --> 00:13:15,794
+We need to deal with that
+head-on.
+
+221
+00:13:15,919 --> 00:13:18,755
+I know. I just don't want it
+to define our whole life now.
+
+222
+00:13:20,090 --> 00:13:22,759
+What about that other house?
+
+223
+00:13:22,884 --> 00:13:25,554
+The kids will love it,
+with all that room.
+
+224
+00:13:25,679 --> 00:13:26,972
+And with a swimming pool,
+
+225
+00:13:27,097 --> 00:13:30,559
+we'll have water therapy
+in our own backyard.
+
+226
+00:13:31,351 --> 00:13:32,686
+(CHUCKLES)
+
+227
+00:13:37,482 --> 00:13:39,318
+(EVE SIGHS)
+
+228
+00:13:41,320 --> 00:13:44,114
+You know I want our own place.
+
+229
+00:13:44,239 --> 00:13:47,492
+I'm tired of the kids
+changing schools,
+
+230
+00:13:47,576 --> 00:13:50,162
+making new friends
+every time you get traded.
+
+231
+00:13:51,496 --> 00:13:55,375
+| want us to put down roots,
+you Know?
+
+232
+00:13:55,542 --> 00:13:58,587
+I just need to know
+that you want that, too.
+
+233
+00:13:58,712 --> 00:13:59,880
+I do.
+
+234
+00:14:00,922 --> 00:14:02,215
+Eve.
+
+235
+00:14:05,135 --> 00:14:07,262
+I want that, too.
+
+236
+00:14:08,096 --> 00:14:09,890
+I promise.
+
+237
+00:14:12,100 --> 00:14:14,603
+Also, you know what else
+I was wondering about?
+
+238
+00:14:14,728 --> 00:14:18,690
+Um, do you have that
+black bikini still?
+
+239
+00:14:18,774 --> 00:14:20,400
+You know which one
+I'm talking about?
+
+240
+00:14:20,525 --> 00:14:21,794
+With the crisscross
+straps? Guy's in a hospital.
+
+241
+00:14:21,818 --> 00:14:23,570
+This is what he's thinking?
+
+242
+00:14:23,695 --> 00:14:26,114
+(SINGING) <i>This summer
+I went swimming</i>
+
+243
+00:14:26,239 --> 00:14:28,200
+<i>This summer I might have drowned</i>
+
+244
+00:14:28,325 --> 00:14:31,453
+<i>But I held my breath
+And I kicked my feet</i>
+
+245
+00:14:31,578 --> 00:14:34,122
+<i>And I moved my arms around</i>
+
+246
+00:14:34,247 --> 00:14:35,665
+<i>I moved my arms around...</i>
+
+247
+00:14:35,791 --> 00:14:37,834
+ELLIOT: Hey,
+there you are, Cider.
+
+248
+00:14:37,959 --> 00:14:39,753
+Come here, buddy.
+
+249
+00:14:39,878 --> 00:14:41,463
+How do you like our new home?
+
+250
+00:14:41,588 --> 00:14:43,632
+Isn't it awesome?
+It's so big, right?
+
+251
+00:14:43,757 --> 00:14:45,801
+<i>Chlorine my eyes
+I'm a self-destructive fool...</i>
+
+252
+00:14:45,926 --> 00:14:47,260
+EVE: Izzy,
+I'll see you later.
+
+253
+00:14:47,386 --> 00:14:48,720
+IZZY: Okay.
+EVE: Good luck.
+
+254
+00:14:48,845 --> 00:14:50,013
+Thanks.
+You got it.
+
+255
+00:14:50,138 --> 00:14:51,348
+Yeah.
+Oh, wait, wait, wait.
+
+256
+00:14:51,473 --> 00:14:53,433
+What? Oh, thanks.
+
+257
+00:14:53,517 --> 00:14:54,744
+(QUIETLY)
+See you later, dipshit.
+
+258
+00:14:54,768 --> 00:14:55,769
+ELLIOT:
+See you, barf bag.
+
+259
+00:14:57,020 --> 00:14:58,456
+EVE: Think you're gonna
+go out this year?
+
+260
+00:14:58,480 --> 00:15:01,900
+Yeah. Dad says I'm about
+to hit my growth spurt.
+
+261
+00:15:02,025 --> 00:15:04,903
+EVE: Actually, wait.
+
+262
+00:15:05,028 --> 00:15:07,197
+Yeah. I think you're
+hitting it right now.
+
+263
+00:15:07,322 --> 00:15:08,782
+(ELLIOT CHUCKLING)
+
+264
+00:15:08,907 --> 00:15:11,467
+ELLIOT: Here. Wait, wait. I got
+it. I got it. (SCHOOL BELL RINGS)
+
+265
+00:15:12,994 --> 00:15:15,372
+<i>The old Australian crawl</i>
+
+266
+00:15:15,497 --> 00:15:17,999
+<i>This summer I went swimming</i>
+
+267
+00:15:18,125 --> 00:15:19,485
+<i>This summer
+I might have drowned...</i>
+
+268
+00:15:19,584 --> 00:15:21,753
+Hey, how tall are you?
+
+269
+00:15:21,878 --> 00:15:23,338
+Like, um...
+
+270
+00:15:23,463 --> 00:15:25,257
+Can you just put
+your arm up real quick?
+
+271
+00:15:25,382 --> 00:15:27,592
+Like, yeah.
+Just like that.
+
+272
+00:15:27,676 --> 00:15:29,344
+Yeah, you have a great
+wingspan. (LAUGHS)
+
+273
+00:15:29,970 --> 00:15:30,971
+Thanks.
+
+274
+00:15:31,096 --> 00:15:33,056
+You should come on Friday.
+
+275
+00:15:33,473 --> 00:15:35,600
+Okay.
+My name's Ronin.
+
+276
+00:15:35,934 --> 00:15:37,561
+Hey, you should come
+on Friday, for real.
+
+277
+00:15:37,644 --> 00:15:38,645
+It's gonna be dope.
+
+278
+00:15:40,355 --> 00:15:43,775
+<i>Hey-eel</i>
+
+279
+00:15:45,026 --> 00:15:47,154
+(SCHOOL BELL RINGING)
+
+280
+00:15:48,155 --> 00:15:50,907
+(<i>THE SWIMMING SONG</i> CONTINUES)
+
+281
+00:15:55,620 --> 00:15:56,830
+(FLIES BUZZING)
+
+282
+00:15:56,913 --> 00:15:58,665
+ELLIOT: Does it smell
+weird to you guys?
+
+283
+00:15:58,790 --> 00:16:00,709
+IZZY: Nah, you're just
+turning back into a dog.
+
+284
+00:16:00,834 --> 00:16:02,228
+Have to take you back
+to the shelter
+
+285
+00:16:02,252 --> 00:16:04,546
+where Mom and Dad found
+you. (BLOWS RASPBERRY)
+
+286
+00:16:04,838 --> 00:16:07,090
+EVE: What is with
+the PYX 106 playlist?
+
+287
+00:16:07,215 --> 00:16:09,217
+RAY: I'm bringing back
+the classics, babe.
+
+288
+00:16:09,342 --> 00:16:11,219
+IZZY: I like it, Dad.
+Hey, El, I, uh...
+
+289
+00:16:11,344 --> 00:16:13,638
+I talked with your coach
+at orientation.
+
+290
+00:16:13,763 --> 00:16:17,225
+He thought it might be good if
+I come and help with practice.
+
+291
+00:16:17,350 --> 00:16:19,394
+I thought it might be
+kinda fun, right?
+
+292
+00:16:19,519 --> 00:16:20,830
+Yeah, Dad.
+This is my year, right?
+
+293
+00:16:20,854 --> 00:16:22,522
+Yeah.
+
+294
+00:16:22,647 --> 00:16:24,107
+It is.
+
+295
+00:16:24,232 --> 00:16:25,901
+I think I'm going out
+for the swim team.
+
+296
+00:16:26,026 --> 00:16:27,569
+EVE: Ooh.
+RAY: Oh, really?
+
+297
+00:16:27,694 --> 00:16:29,529
+Yeah.
+That's great, Iz.
+
+298
+00:16:29,654 --> 00:16:31,334
+Yeah, you're gonna be
+a natural. (CHUCKLES)
+
+299
+00:16:31,406 --> 00:16:34,367
+That trophy bat, that came
+alive the day you were born.
+
+300
+00:16:34,493 --> 00:16:35,744
+IZZY: Mm-hmm.
+
+301
+00:16:35,869 --> 00:16:39,164
+I absolutely launched one
+into the Bay.
+
+302
+00:16:39,289 --> 00:16:40,415
+Pop!
+
+303
+00:16:40,540 --> 00:16:41,958
+Splash.
+
+304
+00:16:42,083 --> 00:16:44,544
+It was the ninth inning,
+and I was at the plate,
+
+305
+00:16:44,669 --> 00:16:46,796
+and I don't know what it was.
+
+306
+00:16:46,922 --> 00:16:49,883
+Just this sense of strength
+came over me.
+
+307
+00:16:50,800 --> 00:16:52,260
+I knew it.
+
+308
+00:16:52,385 --> 00:16:53,678
+I knew it right then.
+
+309
+00:16:53,803 --> 00:16:54,804
+My Izzy is...
+
+310
+00:16:54,888 --> 00:16:56,264
+(CRIES OUT IN PAIN)
+IZZY: Dad?
+
+311
+00:16:56,348 --> 00:16:57,516
+Oh, my gosh.
+(GROANING)
+
+312
+00:16:57,599 --> 00:16:58,725
+EVE:
+What happened?
+
+313
+00:16:58,808 --> 00:16:59,851
+Ray?
+ELLIOT: Are you okay?
+
+314
+00:16:59,976 --> 00:17:01,120
+RAY: Ah, God,
+I sliced it pretty good.
+
+315
+00:17:01,144 --> 00:17:02,687
+What happened?
+Oh, that looks...
+
+316
+00:17:02,771 --> 00:17:04,022
+EVE: Oh, God.
+
+317
+00:17:04,147 --> 00:17:05,690
+Oh, my gosh.
+
+318
+00:17:05,774 --> 00:17:07,859
+ELLIOT: Ew. What is that?
+Oh, God.
+
+319
+00:17:07,984 --> 00:17:09,653
+EVE: Be careful.
+
+320
+00:17:10,820 --> 00:17:12,072
+Is that supposed to happen?
+
+321
+00:17:12,197 --> 00:17:13,532
+IZZY:
+I don't think so.
+
+322
+00:17:13,657 --> 00:17:14,950
+EVE: <i>Is it safe?</i>
+
+323
+00:17:15,033 --> 00:17:17,160
+No pool is absolutely safe.
+(VACUUM WHIRRING)
+
+324
+00:17:17,244 --> 00:17:18,828
+But you see that cap?
+
+325
+00:17:18,954 --> 00:17:20,664
+That's a wellhead.
+
+326
+00:17:20,789 --> 00:17:24,543
+I've never seen an actual
+spring-fed pool before in person,
+
+327
+00:17:24,626 --> 00:17:26,878
+but you're tapped
+into groundwater.
+
+328
+00:17:27,087 --> 00:17:28,630
+I'm talking aquiclude.
+
+329
+00:17:28,755 --> 00:17:30,799
+That's some sublevel
+aquifer shit.
+
+330
+00:17:30,924 --> 00:17:32,735
+EVE: What does that mean?
+Yeah, what does that mean?
+
+331
+00:17:32,759 --> 00:17:34,111
+I'm about to tell you
+what that means.
+
+332
+00:17:34,135 --> 00:17:36,304
+That means natural filtration,
+
+333
+00:17:36,429 --> 00:17:39,349
+geothermal heating,
+the whole shebang.
+
+334
+00:17:39,474 --> 00:17:42,310
+Yeah, we'll give it a shock,
+but these spring pools
+
+335
+00:17:42,435 --> 00:17:44,271
+are supposed to work
+miracles on your skin.
+
+336
+00:17:44,396 --> 00:17:46,773
+This whole area had
+natural pools all around.
+
+337
+00:17:46,898 --> 00:17:48,650
+Wellness centers, health spas.
+
+338
+00:17:48,775 --> 00:17:50,277
+That's great. Lucky
+us, huh? EVE: Mmm.
+
+339
+00:17:50,402 --> 00:17:51,695
+Yeah.
+
+340
+00:17:51,778 --> 00:17:53,572
+It's funny, isn't it,
+though? RAY: Uh-huh.
+
+341
+00:17:53,697 --> 00:17:54,781
+I mean...
+
+342
+00:17:55,532 --> 00:17:57,784
+we evolved out of the water
+
+343
+00:17:57,909 --> 00:18:00,495
+and some part of our
+reptilian brain knows
+
+344
+00:18:00,620 --> 00:18:02,414
+we're not supposed
+to be there anymore,
+
+345
+00:18:02,539 --> 00:18:03,915
+but, (CLICKS TONGUE)
+
+346
+00:18:04,040 --> 00:18:07,460
+I guess that's why
+we try to tame it so hard.
+
+347
+00:18:08,920 --> 00:18:11,715
+It's like trying
+to conquer death...
+
+348
+00:18:11,798 --> 00:18:13,133
+Oh! Jesus. Be careful.
+
+349
+00:18:13,258 --> 00:18:15,343
+Are you okay?
+God, sorry.
+
+350
+00:18:15,427 --> 00:18:16,553
+Butterfingers.
+
+351
+00:18:16,678 --> 00:18:18,179
+(CHUCKLES)
+What an idiot.
+
+352
+00:18:18,305 --> 00:18:20,181
+All right, well,
+here's your invoice.
+
+353
+00:18:20,307 --> 00:18:21,933
+I'll come back tomorrow.
+
+354
+00:18:22,058 --> 00:18:23,768
+You should be set up
+by next week.
+
+355
+00:18:23,893 --> 00:18:25,604
+Okay.
+Great. Thanks.
+
+356
+00:18:25,687 --> 00:18:27,147
+Hey, Gecko, let's wrap it up.
+
+357
+00:18:27,272 --> 00:18:28,940
+Come on.
+Let's boogie, baby.
+
+358
+00:18:29,024 --> 00:18:32,611
+(<i>YOU'VE GOT
+ANOTHER THING COMING</i> PLAYS)
+
+359
+00:18:32,736 --> 00:18:34,613
+All right, we're good to go!
+
+360
+00:18:40,744 --> 00:18:42,829
+(BURBLING)
+
+361
+00:18:47,500 --> 00:18:48,918
+EVE: Ready?
+
+362
+00:18:49,044 --> 00:18:50,378
+Yeah.
+
+363
+00:18:50,503 --> 00:18:53,214
+MAN: (SINGING) <i>One life
+I'm gonna live it up...</i>
+
+364
+00:18:53,340 --> 00:18:55,925
+(MUSIC CONTINUES MUFFLED)
+
+365
+00:19:04,351 --> 00:19:06,311
+ELLIOT: Come on, Dad.
+Throw some more.
+
+366
+00:19:06,436 --> 00:19:09,731
+Hold on. I just got to finish
+these exercises.
+
+367
+00:19:09,856 --> 00:19:11,733
+Are you watching this?
+
+368
+00:19:11,858 --> 00:19:14,694
+The water takes all the strain
+off my muscles. It's amazing.
+
+369
+00:19:14,819 --> 00:19:16,696
+Give me those muscles.
+
+370
+00:19:16,821 --> 00:19:18,907
+(GRUNTING AND LAUGHING)
+
+371
+00:19:20,492 --> 00:19:21,743
+ELLIOT:
+They're all down there.
+
+372
+00:19:21,868 --> 00:19:23,995
+I'll get 'em all in one breath.
+
+373
+00:19:24,120 --> 00:19:25,497
+Yeah, sure. Why not?
+
+374
+00:19:25,622 --> 00:19:27,123
+Go.
+
+375
+00:19:28,333 --> 00:19:29,376
+IZZY Are you ready?
+
+376
+00:19:29,501 --> 00:19:31,252
+RAY:
+You know, this is, um...
+
+377
+00:19:31,378 --> 00:19:33,314
+It's gonna sound crazy, but I
+think that maybe getting sick
+
+378
+00:19:33,338 --> 00:19:35,048
+happened for a reason, you Know?
+
+379
+00:19:36,132 --> 00:19:38,009
+I don't think I could've
+walked away healthy.
+
+380
+00:19:38,134 --> 00:19:39,260
+ELLIOT:
+Look, right here.
+
+381
+00:19:39,386 --> 00:19:41,763
+You'll always be
+a baseball player.
+
+382
+00:19:41,888 --> 00:19:43,223
+ELLIOT:
+I got it fair and square.
+
+383
+00:19:43,348 --> 00:19:45,809
+But it's not all you are.
+
+384
+00:19:45,934 --> 00:19:47,811
+It's not why
+I fell in love with you.
+
+385
+00:19:47,936 --> 00:19:50,188
+No?
+No.
+
+386
+00:19:50,313 --> 00:19:52,607
+Don't look back.
+
+387
+00:19:52,732 --> 00:19:53,775
+Remember?
+
+388
+00:19:53,900 --> 00:19:56,569
+This is all we need.
+Mmm.
+
+389
+00:19:56,695 --> 00:19:58,279
+Right?
+
+390
+00:19:58,405 --> 00:19:59,739
+Yeah.
+
+391
+00:20:00,532 --> 00:20:02,325
+Yeah.
+
+392
+00:20:05,495 --> 00:20:07,372
+You know my kiss is magic?
+
+393
+00:20:07,497 --> 00:20:08,665
+Oh, really?
+
+394
+00:20:08,790 --> 00:20:10,208
+Yep. If we kiss,
+you'll be healed.
+
+395
+00:20:10,291 --> 00:20:11,501
+Wow.
+
+396
+00:20:13,378 --> 00:20:14,713
+IZZY: Ew, guys.
+
+397
+00:20:14,838 --> 00:20:16,589
+You know we're here, right?
+
+398
+00:20:16,673 --> 00:20:17,674
+Okay.
+
+399
+00:20:17,757 --> 00:20:18,984
+ELLIOT: "Oh, I love you so much."
+RAY: All right.
+
+400
+00:20:19,008 --> 00:20:20,135
+Ruined it.
+Done.
+
+401
+00:20:20,218 --> 00:20:21,487
+ELLIOT: Mwah. Mwah.
+You ruined the moment.
+
+402
+00:20:21,511 --> 00:20:22,512
+Now you're gonna pay.
+
+403
+00:20:22,595 --> 00:20:23,875
+IZZY: So cringe.
+ELLIOT: No, Dad.
+
+404
+00:20:23,930 --> 00:20:24,931
+Don't do it, don't do it.
+
+405
+00:20:25,056 --> 00:20:27,376
+Please, no. IZZY: Could you
+at least wait until we're gone?
+
+406
+00:20:27,434 --> 00:20:28,601
+ELLIOT:
+(LAUGHS) No.
+
+407
+00:20:28,727 --> 00:20:30,979
+(SINGING)
+<i>It's comin' now, oh...</i>
+
+408
+00:20:31,062 --> 00:20:32,480
+Dad?
+(YELLS)
+
+409
+00:20:32,605 --> 00:20:34,065
+(SCREAMS)
+Dad, no! Please, no!
+
+410
+00:20:34,149 --> 00:20:34,274
+(CRICKETS CHIRPING)
+
+411
+00:20:34,275 --> 00:20:36,151
+(CRICKETS CHIRPING)
+
+412
+00:20:39,070 --> 00:20:40,572
+(CUTTING OPEN BOX)
+
+413
+00:20:46,077 --> 00:20:48,079
+(EERIE MUSIC PLAYING)
+
+414
+00:21:05,972 --> 00:21:07,348
+(BEEPING)
+
+415
+00:21:07,432 --> 00:21:10,602
+(INDISTINCT CHATTER
+AND LAUGHTER PLAYING ON VIDEO)
+
+416
+00:21:10,727 --> 00:21:12,228
+RAY ON VIDEO:
+<i>You can't catch us.</i>
+
+417
+00:21:12,353 --> 00:21:14,564
+<i>You can't catch us!
+You can't catch us!</i>
+
+418
+00:21:14,689 --> 00:21:15,940
+<i>Elliot's mine!</i>
+
+419
+00:21:16,065 --> 00:21:17,692
+(YELLING PLAYFULLY)
+
+420
+00:21:17,817 --> 00:21:19,420
+EVE: <i>Don't let him go.
+Come on! You can't catch us!</i>
+
+421
+00:21:19,444 --> 00:21:21,654
+WOMAN OVER LAPTOP:
+<i>Teachers need to implement</i>
+
+422
+00:21:21,780 --> 00:21:23,323
+<i>backdoor strategies</i>
+
+423
+00:21:23,448 --> 00:21:26,785
+<i>because students with ADHD
+and deeply feeling kids</i>
+
+424
+00:21:26,910 --> 00:21:30,079
+<i>can be easily overwhelmed
+by sensory stimulation,</i>
+
+425
+00:21:30,205 --> 00:21:34,083
+<i>and they may shut down
+when emotionally dysregulated.</i>
+
+426
+00:21:35,335 --> 00:21:37,420
+<i>Kids who are struggling
+with anxiety</i>
+
+427
+00:21:37,545 --> 00:21:39,464
+and in-class performance...
+(SIGHS)
+
+428
+00:21:39,589 --> 00:21:41,216
+<i>they're inclined to...</i>
+
+429
+00:21:41,299 --> 00:21:43,134
+(WATER SPLASHING)
+
+430
+00:21:57,482 --> 00:21:59,400
+(EXHALES)
+
+431
+00:22:00,944 --> 00:22:04,239
+(CIDER MEOWS AND HISSES)
+(COLLAR BELL JINGLING)
+
+432
+00:22:04,364 --> 00:22:06,825
+Hey, what's the matter?
+(GROWLING)
+
+433
+00:22:08,326 --> 00:22:10,078
+Huh?
+(MEOWING)
+
+434
+00:22:10,203 --> 00:22:12,997
+You don't want to swim?
+
+435
+00:22:13,122 --> 00:22:14,165
+Hmm?
+
+436
+00:22:14,290 --> 00:22:16,000
+(MEOWS SHRILLY)
+
+437
+00:22:16,125 --> 00:22:18,336
+(CLICKS TONGUE) Pussy.
+
+438
+00:22:18,461 --> 00:22:20,129
+(LAUGHS QUIETLY)
+
+439
+00:22:40,275 --> 00:22:42,151
+(WATER BURBLING)
+
+440
+00:22:58,251 --> 00:23:00,503
+(LAUGHS)
+Ray, you scared me.
+
+441
+00:23:12,599 --> 00:23:14,684
+(PULSATING AND THRUMMING)
+(GASPS SOFTLY)
+
+442
+00:23:24,235 --> 00:23:26,279
+(THRUMMING STOPS)
+
+443
+00:23:43,004 --> 00:23:44,631
+(WATER BURBLING QUIETLY)
+
+444
+00:23:44,756 --> 00:23:46,049
+(DOOR OPENS)
+
+445
+00:24:05,777 --> 00:24:07,737
+ANNOUNCER ON TV: <i>His
+27th home run this season,</i>
+
+446
+00:24:07,862 --> 00:24:09,948
+<i>and the crowd is fully
+back in the game.</i>
+
+447
+00:24:10,073 --> 00:24:11,741
+So many times,
+we talk about how momentum
+
+448
+00:24:11,866 --> 00:24:13,701
+<i>can change
+with one swing of the bat.</i>
+
+449
+00:24:13,826 --> 00:24:15,870
+<i>One pitch, one play...</i>
+(TURNS OFF TV)
+
+450
+00:24:22,085 --> 00:24:23,378
+RAY:
+You're all wet.
+
+451
+00:24:25,129 --> 00:24:27,465
+Were you outside a minute ago?
+
+452
+00:24:28,424 --> 00:24:29,759
+No.
+
+453
+00:24:29,884 --> 00:24:32,720
+(STAMMERS) I think
+I just fell asleep.
+
+454
+00:24:35,431 --> 00:24:38,977
+| think we should put in
+a pool cover just to be safe.
+
+455
+00:24:40,228 --> 00:24:42,981
+And we need to check out
+the lights.
+
+456
+00:24:43,064 --> 00:24:44,816
+Yeah, s...
+Yeah, for sure.
+
+457
+00:24:45,984 --> 00:24:47,360
+Everything okay?
+
+458
+00:24:47,485 --> 00:24:48,736
+EVE: Yeah.
+
+459
+00:24:48,861 --> 00:24:51,072
+Yeah. Go back to sleep.
+
+460
+00:24:53,616 --> 00:24:56,703
+(CRICKETS CHIRPING)
+(POOL THRUMMING)
+
+461
+00:25:03,626 --> 00:25:05,837
+(BURBLING)
+
+462
+00:25:07,422 --> 00:25:09,465
+(MOTOR PUTTERING)
+
+463
+00:25:14,095 --> 00:25:15,346
+(CIDER MEOWS)
+
+464
+00:25:17,807 --> 00:25:19,892
+(GROWLING)
+
+465
+00:25:23,312 --> 00:25:24,814
+ELLIOT: Mom! Dad!
+
+466
+00:25:24,939 --> 00:25:26,733
+Come look!
+
+467
+00:25:28,067 --> 00:25:30,236
+He probably fell in
+and got scared.
+
+468
+00:25:31,654 --> 00:25:34,782
+Well, he, he'll come back
+when he's hungry, huh?
+
+469
+00:25:34,907 --> 00:25:36,784
+We have to find him.
+
+470
+00:25:36,909 --> 00:25:38,703
+Yeah, that's...
+We'll go look for him.
+
+471
+00:25:38,828 --> 00:25:40,621
+RAY:
+We'll find him.
+
+472
+00:25:40,747 --> 00:25:42,331
+EVE: It's okay, Ellie.
+He'll come back.
+
+473
+00:25:42,457 --> 00:25:44,667
+IZZY: Pshh-pshh-pshh-pshh-
+pshh-pshh-pshh!
+
+474
+00:25:44,792 --> 00:25:45,835
+Cider.
+
+475
+00:25:45,960 --> 00:25:47,378
+ELLIOT:
+Come here, Cider.
+
+476
+00:25:47,503 --> 00:25:49,338
+EVE: Come on, puss.
+
+477
+00:25:49,464 --> 00:25:51,257
+IZZY: Cider,
+where'd you go?
+
+478
+00:25:51,382 --> 00:25:53,593
+ELLIOT: Cider?
+
+479
+00:25:53,718 --> 00:25:55,678
+(GRUNTING) EVE: Izzy,
+did you look down there?
+
+480
+00:25:55,803 --> 00:25:57,722
+IZZY: No,
+I didn't check there.
+
+481
+00:25:57,847 --> 00:25:59,057
+EVE: Here, puss.
+
+482
+00:25:59,182 --> 00:26:00,850
+IZZY: Maybe he's up
+in this tree?
+
+483
+00:26:02,018 --> 00:26:03,686
+ELLIOT: Come here, Cider.
+
+484
+00:26:03,811 --> 00:26:05,396
+EVE: Cider.
+
+485
+00:26:05,521 --> 00:26:07,065
+ELLIOT: Cider!
+
+486
+00:26:08,191 --> 00:26:10,151
+EVE: You guys look
+inside the house?
+
+487
+00:26:10,276 --> 00:26:12,361
+IZZY: Uh, yeah.
+ELLIOT: Come here, buddy!
+
+488
+00:26:12,487 --> 00:26:14,447
+IZZY: Not upstairs, though.
+Did you look upstairs?
+
+489
+00:26:14,572 --> 00:26:17,533
+ELLIOT: Again? I promise you,
+I already checked upstairs.
+
+490
+00:26:20,870 --> 00:26:22,580
+ELLIOT: Cider!
+
+491
+00:26:23,998 --> 00:26:25,374
+Here, Cider.
+
+492
+00:26:26,334 --> 00:26:28,044
+Come on, Cider.
+
+493
+00:26:29,253 --> 00:26:31,047
+Cider!
+
+494
+00:26:35,009 --> 00:26:36,761
+Cider.
+
+495
+00:26:41,182 --> 00:26:42,683
+ELLIOT: Cider.
+
+496
+00:26:43,684 --> 00:26:45,436
+(SIGHS)
+Want some food?
+
+497
+00:26:49,065 --> 00:26:51,359
+Come on, Cider.
+
+498
+00:26:51,442 --> 00:26:53,444
+(EERIE MUSIC PLAYING)
+
+499
+00:26:56,781 --> 00:26:58,550
+RAY: Come on, put your
+back into it. (CLICKING)
+
+500
+00:26:58,574 --> 00:27:00,076
+We gotta roll it up,
+make it tight,
+
+501
+00:27:00,201 --> 00:27:01,845
+so when we roll it back out,
+it's all clean and nice.
+
+502
+00:27:01,869 --> 00:27:03,287
+Keep cranking.
+One turn at a time.
+
+503
+00:27:03,412 --> 00:27:05,289
+(STRAINING) I'm trying.
+Come on.
+
+504
+00:27:05,540 --> 00:27:06,975
+Keep going. You strike out,
+you keep going.
+
+505
+00:27:06,999 --> 00:27:08,209
+Isn't that right?
+
+506
+00:27:08,334 --> 00:27:10,128
+Yeah. Don't give up.
+That's the key.
+
+507
+00:27:10,253 --> 00:27:12,755
+That's the only thing that
+matters. Let's go, come on.
+
+508
+00:27:12,880 --> 00:27:14,560
+Good job. Little wins.
+(CLICKING CONTINUES)
+
+509
+00:27:14,674 --> 00:27:16,008
+Here we go. Come on.
+
+510
+00:27:16,134 --> 00:27:18,261
+Be nice to your brother
+right now.
+
+511
+00:27:19,428 --> 00:27:21,305
+None of this
+has been easy on him.
+
+512
+00:27:21,430 --> 00:27:24,559
+RAY: Keep going,
+keep going. Good job.
+
+513
+00:27:24,684 --> 00:27:26,310
+There you go.
+See?
+
+514
+00:27:26,435 --> 00:27:29,021
+I know it hasn't been
+easy on you, either.
+
+515
+00:27:30,690 --> 00:27:32,191
+Oh, no. Baby, I'm fine.
+
+516
+00:27:32,316 --> 00:27:34,610
+I don't want you
+worrying about me.
+
+517
+00:27:36,863 --> 00:27:38,781
+(METAL SQUEAKING)
+
+518
+00:27:38,865 --> 00:27:40,867
+(EERIE MUSIC PLAYING)
+
+519
+00:27:46,038 --> 00:27:48,040
+(VOICES WHISPERING
+INDISTINCTLY)
+
+520
+00:28:01,679 --> 00:28:03,389
+(GASPING)
+
+521
+00:28:03,514 --> 00:28:05,224
+(METAL SQUEAKING)
+
+522
+00:28:05,349 --> 00:28:06,934
+What is that?
+
+523
+00:28:20,281 --> 00:28:22,325
+(SPLASHING)
+
+524
+00:28:24,452 --> 00:28:27,455
+(EERIE MUSIC CONTINUES)
+
+525
+00:28:42,762 --> 00:28:44,805
+(HIGH-PITCHED TONE RINGS)
+
+526
+00:28:52,813 --> 00:28:54,899
+(AIR WHOOSHING)
+(MACHINE BEEPING STEADILY)
+
+527
+00:28:58,152 --> 00:29:00,238
+(MACHINE BEEPING RHYTHMICALLY)
+
+528
+00:29:02,114 --> 00:29:03,991
+(TREADMILL WHIRRING)
+(BUTTONS BEEPING)
+
+529
+00:29:04,116 --> 00:29:06,202
+(WHIRRING INCREASES)
+
+530
+00:29:08,746 --> 00:29:10,081
+Um, s...
+
+531
+00:29:10,206 --> 00:29:12,500
+Uh, what-what is it?
+
+532
+00:29:16,128 --> 00:29:19,590
+I've never seen
+such a dramatic improvement
+
+533
+00:29:19,674 --> 00:29:21,550
+in such a short time.
+
+534
+00:29:21,676 --> 00:29:24,595
+We need to do more tests,
+but... (INHALES)
+
+535
+00:29:24,720 --> 00:29:27,306
+It appears there are
+no new lesions
+
+536
+00:29:27,390 --> 00:29:31,018
+and the white tissue
+is actually improving.
+
+537
+00:29:31,143 --> 00:29:34,355
+We started the new diet
+like you said,
+
+538
+00:29:34,480 --> 00:29:36,565
+and the water therapy and...
+
+539
+00:29:36,691 --> 00:29:38,109
+Twice a day.
+
+540
+00:29:39,694 --> 00:29:41,696
+We have a pool.
+
+541
+00:29:43,864 --> 00:29:45,866
+(UNSETTLING MUSIC PLAYING)
+
+542
+00:29:56,544 --> 00:29:58,921
+ELLIOT: Hey, Mom, I finished
+all my work in study hall.
+
+543
+00:29:59,046 --> 00:30:00,256
+Can I go swimming?
+
+544
+00:30:00,381 --> 00:30:01,674
+EVE: Okay,
+but don't go alone.
+
+545
+00:30:01,799 --> 00:30:03,342
+Ask your dad.
+
+546
+00:30:08,723 --> 00:30:10,850
+RAY OVER SPEAKERS:
+<i>A progress report.</i>
+
+547
+00:30:10,975 --> 00:30:12,476
+<i>I, uh, you all know</i>
+
+548
+00:30:12,601 --> 00:30:14,812
+<i>I was diagnosed with MS
+not too long ago,</i>
+
+549
+00:30:14,937 --> 00:30:16,605
+<i>um, a little while back.</i>
+
+550
+00:30:16,731 --> 00:30:18,774
+Dad?
+<i>I've been able to work out in rehab</i>
+
+551
+00:30:18,858 --> 00:30:22,028
+<i>and been getting back at it
+for the last little while</i>
+
+552
+00:30:22,111 --> 00:30:24,488
+<i>and I've made a lot of strides
+that I'm proud of.</i>
+
+553
+00:30:24,613 --> 00:30:26,991
+<i>I think that I can show you,</i>
+
+554
+00:30:27,074 --> 00:30:29,660
+<i>demonstrate my ability
+is still at a level that</i>
+
+555
+00:30:29,785 --> 00:30:32,455
+<i>I'd be able to make an impact
+on a team rather quickly.</i>
+
+556
+00:30:32,538 --> 00:30:34,332
+Hey, pal. (PANTING)
+
+557
+00:30:35,583 --> 00:30:37,418
+Can you help me out
+with something?
+
+558
+00:30:38,377 --> 00:30:39,670
+Yeah.
+
+559
+00:30:39,795 --> 00:30:41,505
+Can you throw on a 257
+
+560
+00:30:41,630 --> 00:30:43,841
+(GRUNTING)
+
+561
+00:30:51,057 --> 00:30:52,975
+What are you doing
+with the camera?
+
+562
+00:30:53,976 --> 00:30:55,436
+Helps me with my training.
+
+563
+00:30:57,021 --> 00:30:58,981
+(RAY GRUNTING)
+
+564
+00:31:00,858 --> 00:31:02,151
+(EXHALES)
+
+565
+00:31:02,276 --> 00:31:03,652
+(GRUNTS)
+
+566
+00:31:04,570 --> 00:31:06,405
+(EXHALES)
+
+567
+00:31:10,242 --> 00:31:12,453
+Can you dive for coins with me?
+
+568
+00:31:12,578 --> 00:31:14,413
+Mom says I can't swim alone.
+
+569
+00:31:14,538 --> 00:31:16,916
+(RAY EXHALES AND GRUNTS)
+
+570
+00:31:19,168 --> 00:31:21,212
+Yeah, um...
+
+571
+00:31:22,421 --> 00:31:24,215
+Uh...
+
+572
+00:31:25,049 --> 00:31:26,133
+Yeah.
+
+573
+00:31:26,217 --> 00:31:28,010
+Hand me one of those coins.
+
+574
+00:31:31,472 --> 00:31:32,765
+Here.
+
+575
+00:31:34,683 --> 00:31:36,685
+You gotta promise me
+
+576
+00:31:36,811 --> 00:31:38,246
+you're gonna stay
+in the shallow end.
+
+577
+00:31:38,270 --> 00:31:39,522
+Okay?
+Okay.
+
+578
+00:31:39,605 --> 00:31:41,482
+Throw this one
+in the pool for me.
+
+579
+00:31:43,025 --> 00:31:45,403
+And I'll come find it. Okay?
+
+580
+00:31:46,195 --> 00:31:47,405
+All right.
+
+581
+00:32:11,387 --> 00:32:13,389
+(OMINOUS MUSIC PLAYING)
+
+582
+00:32:32,074 --> 00:32:33,367
+Hey, Dad.
+
+583
+00:33:03,397 --> 00:33:04,648
+(COIN CLINKS)
+
+584
+00:33:14,408 --> 00:33:15,743
+(CLINKS)
+
+585
+00:33:30,966 --> 00:33:32,676
+GIRL: (MUFFLED)
+Hello?
+
+586
+00:33:33,511 --> 00:33:35,513
+(OMINOUS MUSIC CONTINUES)
+
+587
+00:33:42,353 --> 00:33:43,979
+I got 'em all in one breath.
+
+588
+00:33:53,572 --> 00:33:54,990
+Izzy?
+
+589
+00:33:55,115 --> 00:33:56,367
+It's not funny.
+
+590
+00:33:58,702 --> 00:34:00,079
+(GRUNTS)
+
+591
+00:34:00,204 --> 00:34:01,830
+Izzy?
+
+592
+00:34:04,625 --> 00:34:06,252
+I know that's you.
+
+593
+00:34:09,880 --> 00:34:11,966
+I'm keeping the money.
+
+594
+00:34:16,053 --> 00:34:18,597
+Okay, I'm going under.
+
+595
+00:34:25,771 --> 00:34:28,148
+(BIRD CAWING IN DISTANCE)
+
+596
+00:34:35,948 --> 00:34:38,325
+(BANGING AND CREAKING)
+
+597
+00:34:44,623 --> 00:34:46,667
+(MUFFLED HUMMING)
+
+598
+00:34:52,590 --> 00:34:54,466
+(HUMMING STOPS)
+
+599
+00:35:06,562 --> 00:35:07,896
+GIRL: Hello?
+
+600
+00:35:13,193 --> 00:35:15,237
+Can you hear me?
+
+601
+00:35:19,033 --> 00:35:20,534
+I need help.
+
+602
+00:35:25,539 --> 00:35:27,625
+I'm looking for my mom.
+
+603
+00:35:29,084 --> 00:35:30,461
+Who are you?
+
+604
+00:35:31,503 --> 00:35:34,048
+My name is Rebecca Summers.
+
+605
+00:35:37,509 --> 00:35:39,470
+I found your toy.
+
+606
+00:35:45,934 --> 00:35:47,102
+(GRUNTS)
+
+607
+00:35:53,108 --> 00:35:55,194
+(GRUNTING)
+
+608
+00:36:07,414 --> 00:36:08,666
+(SCREAMS)
+
+609
+00:36:08,749 --> 00:36:10,084
+Let go of me!
+
+610
+00:36:10,751 --> 00:36:12,044
+(SCREAMS)
+
+611
+00:36:13,921 --> 00:36:15,839
+(SCREAMS) Help!
+
+612
+00:36:17,257 --> 00:36:19,259
+(TENSE MUSIC PLAYING)
+
+613
+00:36:24,973 --> 00:36:26,100
+Mom.
+
+614
+00:36:28,143 --> 00:36:29,937
+Is someone out here?
+
+615
+00:36:36,151 --> 00:36:37,528
+Ellie, are you sure?
+
+616
+00:36:37,653 --> 00:36:39,238
+Her name is Rebecca.
+
+617
+00:36:39,405 --> 00:36:41,824
+She said she was
+looking for her mom.
+
+618
+00:36:41,949 --> 00:36:43,992
+(EERIE MUSIC PLAYING)
+
+619
+00:37:04,805 --> 00:37:06,306
+(WHIRRING LOUDLY)
+
+620
+00:37:07,224 --> 00:37:10,018
+It was probably just a kid
+who snuck over the gate.
+
+621
+00:37:10,144 --> 00:37:11,353
+That's all.
+
+622
+00:37:11,437 --> 00:37:13,439
+Anyway, we have a lock
+on it now, so...
+
+623
+00:37:13,564 --> 00:37:15,232
+I didn't see anyone out there.
+
+624
+00:37:16,400 --> 00:37:18,360
+Maybe he's pretending.
+
+625
+00:37:18,485 --> 00:37:20,654
+'Cause he doesn't have
+any real friends yet.
+
+626
+00:37:20,779 --> 00:37:23,782
+Remember he talked to that
+pet gecko or lizard, or whatever?
+
+627
+00:37:23,866 --> 00:37:24,867
+He was five.
+
+628
+00:37:24,950 --> 00:37:26,994
+Yeah, but he talked to him
+for months after he died.
+
+629
+00:37:27,077 --> 00:37:29,246
+He's gonna make friends.
+He just...
+
+630
+00:37:29,371 --> 00:37:31,498
+(WHISPERING)
+It just takes him time.
+
+631
+00:37:31,623 --> 00:37:32,833
+Yeah.
+
+632
+00:37:32,958 --> 00:37:35,377
+I'm going to his practice
+later today.
+
+633
+00:37:36,170 --> 00:37:38,964
+So, maybe that'll help, like,
+break the ice with the kids.
+
+634
+00:37:39,506 --> 00:37:40,632
+Yeah.
+
+635
+00:37:41,258 --> 00:37:43,469
+You should come, 'cause
+he always plays better
+
+636
+00:37:43,552 --> 00:37:45,012
+when you're there.
+He's more himself.
+
+637
+00:37:47,181 --> 00:37:48,307
+Hmm.
+
+638
+00:37:49,767 --> 00:37:51,727
+Maybe we should have
+the team over.
+
+639
+00:37:51,852 --> 00:37:54,354
+You know, for a cookout
+or something? Yes.
+
+640
+00:37:54,438 --> 00:37:55,647
+That's a great idea.
+
+641
+00:37:55,773 --> 00:37:57,274
+Yeah?
+Yeah, like a pool party.
+
+642
+00:37:57,357 --> 00:37:59,610
+That's why I married you,
+because you're a genius.
+
+643
+00:37:59,693 --> 00:38:01,361
+Invite your coworkers,
+friends, whoever.
+
+644
+00:38:01,487 --> 00:38:03,071
+Just "Meet the Wailers,"
+right? Mmm-hmm.
+
+645
+00:38:03,197 --> 00:38:04,865
+Sounds great.
+Can I invite some friends?
+
+646
+00:38:04,948 --> 00:38:06,801
+RAY: Yes, invite whoever
+you want. It's a great idea.
+
+647
+00:38:06,825 --> 00:38:07,969
+We should invite
+everybody you know.
+
+648
+00:38:07,993 --> 00:38:09,679
+We're a welcoming family.
+IZZY: (LAUGHING) Stop.
+
+649
+00:38:09,703 --> 00:38:11,097
+RAY: How many people you
+think we can fit in the pool?
+
+650
+00:38:11,121 --> 00:38:12,361
+IZZY: We're
+the pool family now.
+
+651
+00:38:14,082 --> 00:38:15,185
+All right. Get in front of it.
+
+652
+00:38:15,209 --> 00:38:17,461
+Good. Move it around.
+
+653
+00:38:17,544 --> 00:38:19,304
+There you go, in
+front of it, in front of it.
+
+654
+00:38:19,922 --> 00:38:21,423
+It's all right.
+It's all right.
+
+655
+00:38:21,507 --> 00:38:23,133
+Get in front of it.
+In front of it.
+
+656
+00:38:23,258 --> 00:38:24,468
+(HIP-HOP MUSIC PLAYING NEARBY)
+
+657
+00:38:24,593 --> 00:38:26,303
+COACH: Come on,
+wake up, man.
+
+658
+00:38:26,386 --> 00:38:27,763
+Let's hustle.
+Let's hustle, boys.
+
+659
+00:38:27,846 --> 00:38:29,807
+You know what
+baseball is, right?
+
+660
+00:38:31,350 --> 00:38:33,811
+It's a stick and a ball
+
+661
+00:38:33,894 --> 00:38:36,605
+and a bunch of guys
+wearing long socks.
+
+662
+00:38:38,440 --> 00:38:40,484
+It's play.
+
+663
+00:38:40,567 --> 00:38:43,487
+How come it's so easy
+for Dad and Izzy?
+
+664
+00:38:43,570 --> 00:38:44,905
+It's not.
+
+665
+00:38:46,156 --> 00:38:48,325
+Everyone's scared of something.
+
+666
+00:38:48,408 --> 00:38:52,120
+Izzy used to hate drop-off
+in kindergarten.
+
+667
+00:38:52,246 --> 00:38:54,456
+Every day, I'd wait outside
+until I saw her
+
+668
+00:38:54,581 --> 00:38:57,543
+in the classroom window,
+and she'd give me the signal.
+
+669
+00:38:57,668 --> 00:38:59,086
+Show him, Iz.
+
+670
+00:38:59,211 --> 00:39:02,005
+COACH: There we go!
+Good job, good job.
+
+671
+00:39:02,130 --> 00:39:03,841
+Green light to swing.
+
+672
+00:39:03,924 --> 00:39:05,124
+COACH:
+Wait for the ball, boys!
+
+673
+00:39:05,175 --> 00:39:06,468
+Come on, come on!
+(CLICKS TONGUE)
+
+674
+00:39:06,552 --> 00:39:07,928
+Hey, there he is.
+RAY: Hey, Coach.
+
+675
+00:39:08,011 --> 00:39:09,054
+Sorry I'm late.
+
+676
+00:39:09,137 --> 00:39:10,848
+Hey, guys.
+EVE: Hey.
+
+677
+00:39:10,973 --> 00:39:11,974
+RAY: All right.
+
+678
+00:39:12,057 --> 00:39:13,851
+(WHISPERING)
+You got this.
+
+679
+00:39:14,935 --> 00:39:16,854
+Hey, boys, this is Elliot's dad.
+
+680
+00:39:16,937 --> 00:39:19,064
+He's a former Brewers
+third baseman,
+
+681
+00:39:19,147 --> 00:39:21,027
+and he's here to turn you
+into all-star hitters.
+
+682
+00:39:21,108 --> 00:39:22,651
+Uh, you got this.
+
+683
+00:39:22,734 --> 00:39:24,236
+You got this. Nice and easy.
+
+684
+00:39:26,613 --> 00:39:27,948
+You gotta follow through
+the ball.
+
+685
+00:39:28,031 --> 00:39:29,867
+Don't just, like, check swing.
+
+686
+00:39:29,950 --> 00:39:31,660
+There you go.
+Yes! Nice!
+
+687
+00:39:31,743 --> 00:39:33,513
+All right. Line drive up
+the middle. There you go.
+
+688
+00:39:33,537 --> 00:39:34,889
+All right, move it around,
+move it around.
+
+689
+00:39:34,913 --> 00:39:36,713
+RAY: You're bent way over
+at the waist, right?
+
+690
+00:39:36,748 --> 00:39:38,542
+And you turn out with your body.
+
+691
+00:39:38,625 --> 00:39:40,353
+Don't hit it with your hands.
+You turn out with your body.
+
+692
+00:39:40,377 --> 00:39:41,604
+All right. Good job.
+BOY: There you go!
+
+693
+00:39:41,628 --> 00:39:43,005
+Way to get on top of it.
+Good job.
+
+694
+00:39:43,088 --> 00:39:44,965
+Oh, hey, Ray, that's my son, Ty.
+
+695
+00:39:45,090 --> 00:39:47,009
+Yeah, keep an eye.
+He's got good mechanics.
+
+696
+00:39:47,092 --> 00:39:48,772
+RAY: All right, Ty.
+Let's see what you got.
+
+697
+00:39:50,304 --> 00:39:51,555
+RAY:
+There you go.
+
+698
+00:39:51,638 --> 00:39:53,390
+Yes, Ty. Yes.
+
+699
+00:39:53,473 --> 00:39:55,285
+Good swing. Good hit.
+TY: Yeah, I got you, Dad.
+
+700
+00:39:55,309 --> 00:39:56,643
+Good job.
+TY: Thanks, Mr. Waller.
+
+701
+00:39:56,768 --> 00:39:58,729
+All right, El, you ready?
+
+702
+00:39:58,854 --> 00:40:00,230
+Go, Ellie!
+
+703
+00:40:00,314 --> 00:40:01,690
+RAY: All right, let's go.
+TY: Hey.
+
+704
+00:40:01,773 --> 00:40:03,567
+Good luck out there, man.
+You got this.
+
+705
+00:40:03,650 --> 00:40:05,527
+Way to go. Whoo.
+Good job, Ty.
+
+706
+00:40:05,611 --> 00:40:07,154
+(WHISPERING)
+Hey, Ellie.
+
+707
+00:40:12,993 --> 00:40:14,995
+All right, Elliot.
+
+708
+00:40:15,078 --> 00:40:17,247
+All right, come on.
+You got this.
+
+709
+00:40:17,331 --> 00:40:18,624
+TY: You got it, Elliot.
+
+710
+00:40:19,416 --> 00:40:20,976
+RAY: There you go. Nice!
+TY: Nice going.
+
+711
+00:40:21,084 --> 00:40:23,211
+There you go. All right.
+Good job.
+
+712
+00:40:23,337 --> 00:40:24,504
+Yes, Elliot.
+RAY: All right.
+
+713
+00:40:24,588 --> 00:40:26,107
+RAY: That's what stepping
+into the ball does.
+
+714
+00:40:26,131 --> 00:40:27,424
+You go after it and you get it.
+
+715
+00:40:27,507 --> 00:40:28,717
+Good job. Way to go.
+
+716
+00:40:28,800 --> 00:40:30,486
+Try for the other side
+of the field. Way to go.
+
+717
+00:40:30,510 --> 00:40:31,821
+We'll work on it.
+Don't worry about it.
+
+718
+00:40:31,845 --> 00:40:33,072
+COACH: Hey, Ray,
+you want to take some?
+
+719
+00:40:33,096 --> 00:40:34,097
+Um...
+
+720
+00:40:34,181 --> 00:40:36,391
+I mean, if you're up for it.
+
+721
+00:40:36,516 --> 00:40:38,268
+Um...
+
+722
+00:40:38,393 --> 00:40:40,103
+COACH: Yeah?
+RAY: Sure, right?
+
+723
+00:40:40,228 --> 00:40:41,897
+Take a couple. I'll be fine.
+
+724
+00:40:42,022 --> 00:40:44,232
+All right. All right,
+get ready, boys! Get ready!
+
+725
+00:40:44,358 --> 00:40:45,651
+RAY: All right.
+
+726
+00:40:45,776 --> 00:40:47,027
+COACH:
+Okay, you ready?
+
+727
+00:40:47,152 --> 00:40:48,528
+You guys ready out there?
+
+728
+00:40:48,654 --> 00:40:49,947
+Bend your knees.
+Bend your knees.
+
+729
+00:40:50,072 --> 00:40:51,990
+RAY: Take it easy on me.
+
+730
+00:40:52,115 --> 00:40:54,201
+I haven't swung in a while.
+
+731
+00:40:57,788 --> 00:41:01,124
+(GRUNTS) All right, hold on.
+Let me loosen up real quick.
+
+732
+00:41:01,208 --> 00:41:03,835
+Okay, okay. Next one.
+Just let me... Yeah.
+
+733
+00:41:11,134 --> 00:41:12,386
+(GRUNTS)
+
+734
+00:41:12,469 --> 00:41:13,971
+(GROANING)
+IZZY: Dad?
+
+735
+00:41:14,096 --> 00:41:16,056
+Ooh. You okay, boss?
+
+736
+00:41:16,181 --> 00:41:17,641
+Ooh.
+
+737
+00:41:17,724 --> 00:41:19,017
+Ray?
+
+738
+00:41:19,142 --> 00:41:20,268
+(QUIETLY) You okay?
+
+739
+00:41:20,394 --> 00:41:22,729
+Uh, I'm okay.
+
+740
+00:41:22,854 --> 00:41:24,898
+(COUGHS)
+
+741
+00:41:24,982 --> 00:41:26,233
+I'm good.
+Let's keep going.
+
+742
+00:41:26,358 --> 00:41:27,985
+Okay.
+I'm good. I'm good.
+
+743
+00:41:28,110 --> 00:41:29,486
+(SIGHS) Shit.
+
+744
+00:41:29,569 --> 00:41:31,071
+RAY: Why don't you
+throw that again?
+
+745
+00:41:31,196 --> 00:41:32,197
+COACH: All right.
+
+746
+00:41:33,323 --> 00:41:35,325
+(TENSE MUSIC PLAYING)
+
+747
+00:41:41,540 --> 00:41:44,418
+(HEART BEATING)
+
+748
+00:41:46,253 --> 00:41:48,839
+(CROWD CHEERING)
+
+749
+00:41:57,889 --> 00:41:59,975
+(HIGH-PITCHED RINGING)
+
+750
+00:42:02,102 --> 00:42:04,354
+(CRACKS SHARPLY)
+(BALL WHISTLING)
+
+751
+00:42:09,526 --> 00:42:11,611
+(SERENE MUSIC PLAYING)
+
+752
+00:42:14,364 --> 00:42:17,325
+(PLAYERS LAUGHING AND
+CHEERING) BOY: Oh! Oh, my God!
+
+753
+00:42:17,451 --> 00:42:18,535
+Oh, my God!
+
+754
+00:42:18,618 --> 00:42:20,495
+(COACH CHUCKLES)
+
+755
+00:42:21,413 --> 00:42:23,040
+COACH: Whoo!
+
+756
+00:42:23,165 --> 00:42:26,293
+(RAY LAUGHING)
+(ALL CLAMORING)
+
+757
+00:42:30,630 --> 00:42:32,716
+See, boys, that's how
+you hit a ball.
+
+758
+00:42:32,841 --> 00:42:34,384
+That's how you hit it, man.
+
+759
+00:42:49,608 --> 00:42:50,609
+You know the deal.
+
+760
+00:42:50,692 --> 00:42:52,360
+Stay in the house,
+bed by 10:00.
+
+761
+00:42:52,486 --> 00:42:53,945
+We'll be back after
+dinner. Mmm-hmm.
+
+762
+00:42:54,071 --> 00:42:55,989
+Don't make me regret
+not getting a sitter.
+
+763
+00:42:56,114 --> 00:42:58,033
+IZZY: Yeah, okay, I know.
+Yeah?
+
+764
+00:42:58,116 --> 00:43:00,036
+EVE: Ray, you ready?
+(BASEBALL BROADCAST PLAYING)
+
+765
+00:43:00,160 --> 00:43:01,828
+We gotta go.
+
+766
+00:43:01,912 --> 00:43:04,081
+(VEHICLE DEPARTING)
+
+767
+00:43:06,500 --> 00:43:08,168
+(FOOTSTEPS APPROACHING)
+
+768
+00:43:10,629 --> 00:43:12,297
+Hey, someone's coming over
+in a minute.
+
+769
+00:43:12,422 --> 00:43:13,965
+It's not a big deal.
+
+770
+00:43:14,091 --> 00:43:15,592
+Okay.
+
+771
+00:43:17,761 --> 00:43:19,387
+It's for the swim team.
+
+772
+00:43:20,764 --> 00:43:22,099
+Okay.
+
+773
+00:43:32,651 --> 00:43:34,027
+(WHISPERING)
+If you tell Mom,
+
+774
+00:43:34,152 --> 00:43:37,239
+I'm gonna put a Tide POD
+in your fish tank.
+
+775
+00:43:38,240 --> 00:43:39,616
+(WHISPERING)
+Okay.
+
+776
+00:43:39,866 --> 00:43:41,660
+(BREAK PLAYING OVER SPEAKERS)
+
+777
+00:43:41,785 --> 00:43:43,411
+Marco.
+
+778
+00:43:43,537 --> 00:43:44,871
+Polo.
+
+779
+00:43:44,996 --> 00:43:46,206
+Marco.
+
+780
+00:43:46,331 --> 00:43:47,499
+Polo.
+
+781
+00:43:47,624 --> 00:43:50,335
+(IZZY SQUEALS AND LAUGHS)
+
+782
+00:43:52,003 --> 00:43:53,964
+Marco. Marco.
+
+783
+00:43:54,089 --> 00:43:55,340
+(WHISPERS) Polo.
+
+784
+00:43:56,883 --> 00:43:58,802
+(IZZY LAUGHING)
+
+785
+00:43:58,927 --> 00:44:00,407
+You're cheating.
+You opened your eyes.
+
+786
+00:44:00,470 --> 00:44:01,847
+Uh-uh.
+Uh-huh.
+
+787
+00:44:01,972 --> 00:44:03,241
+I mean, you look great
+with your hair wet.
+
+788
+00:44:03,265 --> 00:44:04,683
+(RONIN LAUGHS)
+
+789
+00:44:04,808 --> 00:44:06,143
+You're supposed to say "Polo."
+
+790
+00:44:06,268 --> 00:44:07,310
+(RASPY) Polo.
+
+791
+00:44:07,435 --> 00:44:09,563
+Stop.
+(BOTH LAUGHING)
+
+792
+00:44:09,688 --> 00:44:10,730
+Okay.
+
+793
+00:44:10,856 --> 00:44:12,065
+Marco.
+
+794
+00:44:12,190 --> 00:44:14,067
+RONIN:
+(MUFFLED) Polo.
+
+795
+00:44:15,777 --> 00:44:16,820
+Fish out of water.
+
+796
+00:44:16,903 --> 00:44:18,196
+Nope.
+
+797
+00:44:18,321 --> 00:44:19,781
+(IZZY LAUGHS)
+
+798
+00:44:19,906 --> 00:44:21,992
+(SINGING)
+<i>They want to see you break...</i>
+
+799
+00:44:22,117 --> 00:44:23,785
+IZZY: Marco.
+
+800
+00:44:24,953 --> 00:44:27,747
+Come on. You have to
+say something back.
+
+801
+00:44:27,873 --> 00:44:29,249
+(WHISPERS) Polo.
+
+802
+00:44:32,252 --> 00:44:33,920
+Marco.
+
+803
+00:44:34,045 --> 00:44:37,174
+<i>They want to see you break...</i>
+
+804
+00:44:38,842 --> 00:44:40,177
+(SONG STOPS)
+
+805
+00:44:43,263 --> 00:44:45,223
+(RATTLING)
+
+806
+00:44:45,348 --> 00:44:47,309
+VOICE:
+(WHISPERING) Polo.
+
+807
+00:44:47,434 --> 00:44:48,602
+Marco.
+
+808
+00:44:50,395 --> 00:44:52,564
+(POOL THRUMMING)
+
+809
+00:44:55,066 --> 00:44:58,403
+Ronin, stop, please. Marco.
+
+810
+00:45:03,033 --> 00:45:04,534
+VOICE: (WHISPERING)
+Polo.
+
+811
+00:45:05,744 --> 00:45:07,204
+I hear you.
+
+812
+00:45:15,754 --> 00:45:17,130
+You're right there.
+
+813
+00:45:17,255 --> 00:45:18,965
+(VOICE BREATHING)
+
+814
+00:45:20,800 --> 00:45:22,469
+Marco. Come on.
+
+815
+00:45:25,805 --> 00:45:27,224
+Come on.
+
+816
+00:45:29,226 --> 00:45:31,645
+Got you. No! Oh, oh!
+
+817
+00:45:35,315 --> 00:45:38,151
+(POOL THRUMMING)
+(BREATHING HEAVILY)
+
+818
+00:45:44,866 --> 00:45:46,952
+(BURBLING)
+
+819
+00:45:53,625 --> 00:45:55,585
+(RASPY VOICE) Polo.
+(GASPS)
+
+820
+00:45:58,672 --> 00:46:00,590
+(SIGHS) Ronin, you're dead.
+
+821
+00:46:03,385 --> 00:46:05,387
+(OMINOUS MUSIC PLAYING)
+
+822
+00:46:36,668 --> 00:46:38,962
+(IZZY SCREAMING)
+
+823
+00:46:58,898 --> 00:47:00,984
+RONIN: I got you. (LAUGHS)
+(SONG RESUMES PLAYING)
+
+824
+00:47:01,109 --> 00:47:03,611
+Wait, why didn't you call
+"fish out of water"?
+
+825
+00:47:03,695 --> 00:47:05,113
+Izzy?
+Oh, my God.
+
+826
+00:47:05,864 --> 00:47:07,615
+(BREATHING HEAVILY)
+
+827
+00:47:07,741 --> 00:47:08,825
+Izzy?
+
+828
+00:47:09,451 --> 00:47:11,077
+Izzy, you okay?
+
+829
+00:47:11,202 --> 00:47:13,580
+Hey, hey, hey, hey.
+Talk to me.
+
+830
+00:47:13,663 --> 00:47:15,266
+Something was down there.
+Something grabbed me.
+
+831
+00:47:15,290 --> 00:47:17,167
+Something grabbed you?
+Were you not down there?
+
+832
+00:47:17,250 --> 00:47:18,710
+No. Look, look, it's okay.
+
+833
+00:47:18,835 --> 00:47:20,045
+Look, I'm right here.
+
+834
+00:47:20,170 --> 00:47:21,588
+I didn't see anything.
+
+835
+00:47:21,713 --> 00:47:23,482
+You were only down there
+for a couple seconds.
+
+836
+00:47:23,506 --> 00:47:25,550
+Maybe your foot got stuck
+in the pool cleaner.
+
+837
+00:47:28,803 --> 00:47:30,430
+Did it?
+I... I...
+
+838
+00:47:30,555 --> 00:47:32,182
+I don't know. Maybe.
+
+839
+00:47:33,516 --> 00:47:34,976
+It's okay. It's okay.
+
+840
+00:47:35,060 --> 00:47:36,519
+There's nothing there.
+
+841
+00:47:36,644 --> 00:47:37,854
+ELLIOT: Izzy!
+
+842
+00:47:37,937 --> 00:47:39,397
+Mom and Dad are home!
+Shit. Oh, shit.
+
+843
+00:47:39,522 --> 00:47:41,000
+I didn't tell my parents
+you were coming over.
+
+844
+00:47:41,024 --> 00:47:42,585
+Oh, uh, wow. I'm sorry.
+You gotta grab your stuff
+
+845
+00:47:42,609 --> 00:47:44,289
+and get out the back gate.
+All right. Um...
+
+846
+00:47:44,402 --> 00:47:45,820
+Thanks for inviting me over.
+
+847
+00:47:48,073 --> 00:47:49,991
+Okay, great. I'll catch
+you on Saturday?
+
+848
+00:47:50,075 --> 00:47:52,035
+Uh, Saturday?
+
+849
+00:47:52,160 --> 00:47:53,703
+Uh, the pool party.
+
+850
+00:47:53,787 --> 00:47:55,955
+Oh. Yeah.
+
+851
+00:47:59,793 --> 00:48:03,713
+(SONG FADING)
+<i>They want to see you break...</i>
+
+852
+00:48:03,797 --> 00:48:06,007
+(OMINOUS MUSIC PLAYING)
+
+853
+00:48:07,467 --> 00:48:09,552
+(GATE RATTLING)
+RONIN: The gate won't open.
+
+854
+00:48:14,557 --> 00:48:15,892
+(BALLOON POPS)
+
+855
+00:48:16,684 --> 00:48:18,311
+Izzy.
+
+856
+00:48:18,686 --> 00:48:20,814
+I know something
+scared you last night.
+
+857
+00:48:21,523 --> 00:48:23,733
+I saw the way you got
+out of the water.
+
+858
+00:48:23,858 --> 00:48:24,943
+IZZY: Go away.
+
+859
+00:48:28,196 --> 00:48:29,322
+Tell me.
+
+860
+00:48:31,032 --> 00:48:33,159
+Or I'm gonna tell Mom and
+Dad your boyfriend was here.
+
+861
+00:48:39,749 --> 00:48:41,459
+You saw something, didn't you?
+
+862
+00:48:44,129 --> 00:48:45,463
+No.
+
+863
+00:48:45,588 --> 00:48:47,424
+My leg just got caught
+in the pool cleaner.
+
+864
+00:48:47,507 --> 00:48:49,426
+You're lying. I can tell.
+Shh, shh, shh,
+
+865
+00:48:49,509 --> 00:48:51,302
+Shh, shh. Stop.
+
+866
+00:48:55,640 --> 00:48:58,017
+Things have been better
+since we moved here.
+
+867
+00:48:59,394 --> 00:49:02,105
+I mean, Dad's healthier.
+
+868
+00:49:02,230 --> 00:49:03,523
+Mom's happy.
+
+869
+00:49:04,190 --> 00:49:07,026
+Do you want to freak them out
+just so we have to move again?
+
+870
+00:49:07,152 --> 00:49:08,778
+What makes more sense,
+
+871
+00:49:08,862 --> 00:49:11,531
+that the pool's helping us
+or that it's haunted?
+
+872
+00:49:12,699 --> 00:49:14,367
+What if it's both?
+
+873
+00:49:14,451 --> 00:49:15,577
+(DOOR OPENING)
+
+874
+00:49:15,660 --> 00:49:16,703
+EVE: Hey, I'm back!
+
+875
+00:49:16,786 --> 00:49:18,955
+(DOOR CLOSING)
+
+876
+00:49:20,248 --> 00:49:22,083
+(WHISPERING)
+Keep your mouth shut.
+
+877
+00:49:22,167 --> 00:49:23,543
+EVE: Hey.
+Where are you two?
+
+878
+00:49:23,626 --> 00:49:25,503
+No one's gonna
+believe us anyway.
+
+879
+00:49:26,379 --> 00:49:27,422
+Coming, Mom.
+
+880
+00:49:27,505 --> 00:49:28,840
+I can help.
+
+881
+00:49:30,300 --> 00:49:31,801
+Everything okay?
+
+882
+00:49:33,470 --> 00:49:35,513
+Yeah, Mom. Everything's fine.
+
+883
+00:49:37,056 --> 00:49:38,516
+(DOORBELL RINGING)
+
+884
+00:49:38,641 --> 00:49:40,101
+Oh, shit.
+
+885
+00:49:40,185 --> 00:49:42,145
+(PLAYING OVER SPEAKERS)
+<i>Are you ready now</i>
+
+886
+00:49:42,228 --> 00:49:43,646
+<i>To get on down?</i>
+
+887
+00:49:45,815 --> 00:49:46,816
+(DOOR OPENING)
+
+888
+00:49:46,900 --> 00:49:49,444
+<i>Get on down, baby</i>
+
+889
+00:49:51,070 --> 00:49:53,031
+<i>Get on down...</i>
+
+890
+00:49:56,534 --> 00:49:58,453
+It's so nice to meet you guys.
+
+891
+00:49:58,578 --> 00:50:00,055
+I mean, you really didn't
+have to bring that.
+
+892
+00:50:00,079 --> 00:50:01,247
+Are you kidding?
+
+893
+00:50:01,372 --> 00:50:02,892
+You're hosting
+the entire neighborhood.
+
+894
+00:50:02,916 --> 00:50:04,250
+Thank you.
+Of course.
+
+895
+00:50:04,375 --> 00:50:06,419
+Uh, is Mr. Waller here?
+
+896
+00:50:06,544 --> 00:50:07,837
+Oh, yeah.
+He's out back.
+
+897
+00:50:07,962 --> 00:50:10,340
+You... you guys
+can go say hi.
+
+898
+00:50:10,465 --> 00:50:11,674
+KAY: Hey.
+
+899
+00:50:11,799 --> 00:50:13,468
+Oh, my God,
+the house looks great.
+
+900
+00:50:13,551 --> 00:50:14,552
+Oh, wow.
+
+901
+00:50:14,636 --> 00:50:16,679
+Oh, I made my jiggly rum cake.
+
+902
+00:50:16,763 --> 00:50:18,139
+Wow.
+
+903
+00:50:18,264 --> 00:50:19,849
+But this is not
+for the kids. Okay?
+
+904
+00:50:19,974 --> 00:50:21,518
+There's enough
+Captain Morgan in here
+
+905
+00:50:21,601 --> 00:50:23,686
+to get Phil into his
+famous Bermuda G-string.
+
+906
+00:50:23,770 --> 00:50:25,522
+(PURRING)
+
+907
+00:50:25,605 --> 00:50:28,650
+(<i>BACKWARDS HAT</i> PLAYING)
+
+908
+00:50:34,239 --> 00:50:36,133
+COACH: You seem to be doing
+a lot better, man. RAY: Thank you.
+
+909
+00:50:36,157 --> 00:50:38,093
+I don't think I've ever seen
+anybody hit a ball that hard.
+
+910
+00:50:38,117 --> 00:50:40,453
+RAY: (LAUGHS) Tell my
+agent that when you see him.
+
+911
+00:50:40,578 --> 00:50:43,331
+Yeah, he used to rep, uh,
+Evan Longoria, Mark Teixeira.
+
+912
+00:50:43,456 --> 00:50:44,975
+He repped a lot of
+good people. No shit.
+
+913
+00:50:44,999 --> 00:50:46,751
+Yeah. You know, I'd
+love for Ty to meet him.
+
+914
+00:50:46,876 --> 00:50:48,521
+RAY: Yeah, sure. Maybe I
+can get him to come to practice.
+
+915
+00:50:48,545 --> 00:50:49,712
+MAN:
+Sun's out, guns out.
+
+916
+00:50:49,837 --> 00:50:51,422
+You ready? Let's go.
+
+917
+00:50:51,548 --> 00:50:52,590
+Coming in.
+
+918
+00:51:01,474 --> 00:51:03,935
+Yeah, so he, he came over
+for a swim last night.
+
+919
+00:51:04,060 --> 00:51:06,229
+Um, it was cool.
+
+920
+00:51:07,689 --> 00:51:10,733
+But, uh, he...
+He kissed me.
+
+921
+00:51:11,276 --> 00:51:13,403
+Shut up. No, he didn't.
+(LAUGHING)
+
+922
+00:51:13,528 --> 00:51:15,809
+But I... I actually think it's
+hotter that he's Christian.
+
+923
+00:51:15,863 --> 00:51:17,240
+(LAUGHS) Really?
+Really?
+
+924
+00:51:17,365 --> 00:51:18,634
+Yeah. Yeah, yeah.
+It's, like, forbidden.
+
+925
+00:51:18,658 --> 00:51:20,702
+RONIN: Hey, Izzy,
+I got this for you.
+
+926
+00:51:20,827 --> 00:51:22,161
+You all right?
+IZZY: Yeah.
+
+927
+00:51:22,245 --> 00:51:25,123
+(GIRLS LAUGHING)
+What?
+
+928
+00:51:25,248 --> 00:51:26,892
+Nothing. We were just... We're
+saying we should go for a swim.
+
+929
+00:51:26,916 --> 00:51:28,143
+We're gonna go for a swim. Yeah.
+
+930
+00:51:28,167 --> 00:51:29,669
+We're gonna head
+out to the water.
+
+931
+00:51:29,794 --> 00:51:30,920
+Come on. Come on.
+
+932
+00:51:31,045 --> 00:51:32,255
+I'm good, thanks.
+
+933
+00:51:32,380 --> 00:51:33,548
+You sure?
+Yeah.
+
+934
+00:51:33,631 --> 00:51:34,716
+All right.
+
+935
+00:51:35,508 --> 00:51:38,511
+<i>In this land of mirrors and weed</i>
+
+936
+00:51:38,636 --> 00:51:40,096
+<i>Walk the line...</i>
+
+937
+00:51:41,306 --> 00:51:43,891
+(ROCK MUSIC PLAYING OUTSIDE)
+
+938
+00:51:43,975 --> 00:51:45,310
+(BEEPS)
+
+939
+00:51:48,646 --> 00:51:50,898
+ANGEL: The kids
+must love the pool.
+
+940
+00:51:50,982 --> 00:51:52,108
+Do you swim?
+
+941
+00:51:52,233 --> 00:51:53,610
+Oh, my dad was Navy.
+
+942
+00:51:53,735 --> 00:51:56,487
+I was doing dive drills
+before I could walk.
+
+943
+00:51:56,613 --> 00:51:58,698
+Oh, you should have
+seen her eyes light up
+
+944
+00:51:58,781 --> 00:52:00,283
+when she saw this place.
+
+945
+00:52:01,492 --> 00:52:03,661
+I can tell that
+you're used to hosting.
+
+946
+00:52:03,786 --> 00:52:05,163
+(LAUGHING)
+ANGEL: Mmm-hmm.
+
+947
+00:52:05,288 --> 00:52:07,332
+Well, we moved so much
+when Ray was playing.
+
+948
+00:52:07,457 --> 00:52:09,292
+It's just nice to meet people
+
+949
+00:52:09,417 --> 00:52:11,210
+you might actually know
+next year.
+
+950
+00:52:11,336 --> 00:52:13,046
+Aw, you're gonna know us.
+
+951
+00:52:13,129 --> 00:52:15,298
+This is an annual event,
+like it or not.
+
+952
+00:52:15,423 --> 00:52:16,674
+(LAUGHING)
+
+953
+00:52:16,799 --> 00:52:17,967
+(BOY SCREAMS OUTSIDE)
+
+954
+00:52:18,092 --> 00:52:19,469
+(BOY COUGHING)
+(WATER SPLASHING)
+
+955
+00:52:19,552 --> 00:52:21,763
+(LAUGHING AND SHOUTING
+PLAYFULLY)
+
+956
+00:52:21,888 --> 00:52:23,139
+(LAUGHING)
+
+957
+00:52:23,222 --> 00:52:24,742
+KAY: And did you bring
+your suit today?
+
+958
+00:52:24,766 --> 00:52:25,909
+ANGEL: Oh, I did.
+I'm wearing it already.
+
+959
+00:52:25,933 --> 00:52:27,101
+KAY: Okay, good.
+
+960
+00:52:27,226 --> 00:52:29,646
+I haven't had a suit
+in 25 years.
+
+961
+00:52:29,729 --> 00:52:31,898
+(BOTH WOMEN CHUCKLING)
+
+962
+00:52:33,232 --> 00:52:35,044
+MAN: (SINGING ON STEREO)
+<i>Throw a little color on it...</i>
+
+963
+00:52:35,068 --> 00:52:37,695
+(MUSIC CONTINUES MUFFLED)
+
+964
+00:52:37,820 --> 00:52:41,074
+<i>On the canvas, bottoms up
+Bottoms up...</i>
+
+965
+00:52:44,118 --> 00:52:45,495
+Hey, El!
+
+966
+00:52:45,995 --> 00:52:47,121
+El!
+
+967
+00:52:47,246 --> 00:52:49,248
+Where are you?
+Let's get in the pool.
+
+968
+00:52:49,374 --> 00:52:50,833
+TY: Mr. Waller?
+
+969
+00:52:50,958 --> 00:52:51,959
+Hey, El
+
+970
+00:52:52,043 --> 00:52:53,711
+Will you sign this for me?
+
+971
+00:52:55,088 --> 00:52:57,298
+It took me like an hour
+to find it last night.
+
+972
+00:53:07,350 --> 00:53:08,685
+Yeah, of course.
+
+973
+00:53:10,645 --> 00:53:11,938
+Thank you so much.
+
+974
+00:53:12,021 --> 00:53:13,022
+Yeah.
+
+975
+00:53:15,316 --> 00:53:16,359
+There you go.
+
+976
+00:53:16,442 --> 00:53:18,444
+Now hold on to that.
+Oh, I will.
+
+977
+00:53:18,569 --> 00:53:20,049
+It's gonna be
+worth something someday.
+
+978
+00:53:20,113 --> 00:53:21,823
+Yeah.
+Yeah.
+
+979
+00:53:22,031 --> 00:53:23,074
+Hey.
+
+980
+00:53:23,199 --> 00:53:24,200
+Yeah?
+
+981
+00:53:25,368 --> 00:53:28,579
+RAY: Steroid Shrek over here
+thinks he owns the damn pool.
+
+982
+00:53:29,122 --> 00:53:30,289
+Think we can take him?
+
+983
+00:53:33,543 --> 00:53:35,878
+(LAUGHS)
+Yeah, I got you, man!
+
+984
+00:53:38,131 --> 00:53:39,817
+All right, we got this,
+okay? Yeah. All right.
+
+985
+00:53:39,841 --> 00:53:41,551
+Let's go. Come on.
+Okay.
+
+986
+00:53:46,556 --> 00:53:48,433
+(MAN CLUCKING
+LIKE A CHICKEN)
+
+987
+00:53:48,558 --> 00:53:50,351
+MAN: You ready,
+Big League?
+
+988
+00:53:52,228 --> 00:53:54,230
+(PEOPLE LAUGHING OUTSIDE)
+
+989
+00:53:55,231 --> 00:53:56,691
+MAN:
+Nice, buddy.
+
+990
+00:53:56,816 --> 00:53:58,151
+Get 'em, Mikey!
+
+991
+00:53:58,276 --> 00:53:59,986
+You know, when we were
+fixing up the pool,
+
+992
+00:54:00,111 --> 00:54:03,281
+they said it hadn't been used
+in probably 15 years.
+
+993
+00:54:03,406 --> 00:54:04,574
+Maybe longer.
+
+994
+00:54:04,699 --> 00:54:06,534
+It's weird, right?
+
+995
+00:54:07,618 --> 00:54:08,870
+No. No, I don't know.
+
+996
+00:54:08,953 --> 00:54:11,205
+Maybe they weren't pool people.
+
+997
+00:54:13,082 --> 00:54:14,125
+(SETS DOWN PLATE)
+
+998
+00:54:14,208 --> 00:54:15,251
+Kay?
+
+999
+00:54:15,376 --> 00:54:16,878
+Hmm?
+
+1000
+00:54:18,713 --> 00:54:20,089
+Okay, you know what?
+
+1001
+00:54:22,008 --> 00:54:23,342
+(CHUCKLES)
+
+1002
+00:54:23,468 --> 00:54:24,969
+You know, this is your new home,
+
+1003
+00:54:25,094 --> 00:54:26,721
+and I, I didn't want to
+say anything
+
+1004
+00:54:26,846 --> 00:54:30,099
+that would taint your... Your
+feelings about this house.
+
+1005
+00:54:30,183 --> 00:54:32,727
+Come on, we closed
+months ago. What is it?
+
+1006
+00:54:32,810 --> 00:54:34,329
+MAN: Get it, buddy. Yeah.
+RAY: Ty, use your core.
+
+1007
+00:54:34,353 --> 00:54:35,622
+MAN: Let's go!
+RAY: Use your core, Ty.
+
+1008
+00:54:35,646 --> 00:54:37,082
+There you go. Lean
+forward a little bit.
+
+1009
+00:54:37,106 --> 00:54:38,566
+Yeah. That's it.
+Lean forward.
+
+1010
+00:54:38,691 --> 00:54:40,335
+Use your arms. Your
+arms. Going down, Mikey.
+
+1011
+00:54:40,359 --> 00:54:44,238
+I swear, I had no idea
+that this was the same house
+
+1012
+00:54:44,363 --> 00:54:46,657
+until my friend told me
+after you'd already moved in.
+
+1013
+00:54:46,741 --> 00:54:49,994
+And I was gonna tell you,
+but you seemed so happy here.
+
+1014
+00:54:50,077 --> 00:54:53,498
+And I... I didn't want to
+put any poo in the pudding.
+
+1015
+00:54:53,623 --> 00:54:55,082
+(LAUGHING)
+
+1016
+00:54:56,584 --> 00:54:57,585
+Um...
+
+1017
+00:54:58,461 --> 00:55:00,046
+It... it's very possible
+
+1018
+00:55:00,129 --> 00:55:02,924
+that the people who lived
+here before, that they...
+
+1019
+00:55:03,049 --> 00:55:04,550
+You know, they liked
+the neighborhood,
+
+1020
+00:55:04,675 --> 00:55:06,111
+and they wanted
+the good school district,
+
+1021
+00:55:06,135 --> 00:55:08,262
+but they didn't feel
+comfortable using the pool
+
+1022
+00:55:09,096 --> 00:55:11,599
+because of certain
+alleged events.
+
+1023
+00:55:11,724 --> 00:55:13,309
+Alleged events?
+
+1024
+00:55:13,935 --> 00:55:15,061
+(SIGHS)
+
+1025
+00:55:15,144 --> 00:55:16,604
+Yeah, I...
+
+1026
+00:55:16,729 --> 00:55:18,329
+You know, I don't remember
+much about it.
+
+1027
+00:55:18,397 --> 00:55:19,690
+Just, there were these stories
+
+1028
+00:55:19,816 --> 00:55:22,777
+about this little girl who...
+Uh, from Harold Holt...
+
+1029
+00:55:23,945 --> 00:55:25,863
+and she drowned here.
+
+1030
+00:55:27,698 --> 00:55:30,576
+I know, it's just...
+Oh, it is a tragedy.
+
+1031
+00:55:31,744 --> 00:55:33,514
+You know, I... I mean, I don't
+know why that would make
+
+1032
+00:55:33,538 --> 00:55:35,390
+someone not want to use a
+perfectly good swimming pool,
+
+1033
+00:55:35,414 --> 00:55:36,666
+but you know what?
+
+1034
+00:55:36,791 --> 00:55:38,668
+People are...
+They're superstitious.
+
+1035
+00:55:38,751 --> 00:55:39,961
+Aren't they, really?
+
+1036
+00:55:41,587 --> 00:55:43,673
+Was the little girl's
+name Rebecca?
+
+1037
+00:55:43,798 --> 00:55:45,424
+(KAY GASPS)
+
+1038
+00:55:45,550 --> 00:55:47,260
+Wait. How did you
+know that?
+
+1039
+00:55:47,343 --> 00:55:49,303
+(GRUNTING)
+RAY: Okay, keep pushing.
+
+1040
+00:55:49,387 --> 00:55:51,138
+Let's go. Let's take 'em down.
+
+1041
+00:55:51,222 --> 00:55:52,306
+Come on, Ty.
+
+1042
+00:55:52,431 --> 00:55:54,767
+Don't give up. Use
+your legs. MAN: Let's go.
+
+1043
+00:55:54,851 --> 00:55:56,143
+Come on, Ty.
+Keep going.
+
+1044
+00:55:56,227 --> 00:55:57,496
+Use your legs, Ty. You
+got him. Keep pushing.
+
+1045
+00:55:57,520 --> 00:55:58,646
+(MUFFLED GRUNTING)
+
+1046
+00:55:58,729 --> 00:56:00,690
+RAY: Don't give up.
+MAN: Get him, Mikey.
+
+1047
+00:56:00,773 --> 00:56:03,025
+That's it, buddy.
+You're going down!
+
+1048
+00:56:06,779 --> 00:56:08,531
+(GRUNTING)
+
+1049
+00:56:10,199 --> 00:56:11,325
+Let's go! We won!
+
+1050
+00:56:11,409 --> 00:56:12,785
+Whoo!
+
+1051
+00:56:12,869 --> 00:56:14,245
+Let's go!
+
+1052
+00:56:14,370 --> 00:56:17,081
+We did it,
+Mr. Waller! Whoo!
+
+1053
+00:56:17,206 --> 00:56:19,458
+All right, you can let go now.
+
+1054
+00:56:19,584 --> 00:56:21,794
+Mr. Waller. Mr. Waller.
+
+1055
+00:56:22,503 --> 00:56:24,714
+Hey, let go. Hey!
+
+1056
+00:56:24,797 --> 00:56:26,465
+Mr. Waller, please let go.
+
+1057
+00:56:27,466 --> 00:56:29,218
+You've got my legs,
+Mr. Waller.
+
+1058
+00:56:30,261 --> 00:56:33,139
+Let go! Let go!
+(GURGLING)
+
+1059
+00:56:34,765 --> 00:56:36,851
+(RASPY VOICE GROWLING)
+
+1060
+00:56:41,063 --> 00:56:42,356
+TY: (MUFFLED)
+Mr. Waller.
+
+1061
+00:56:42,481 --> 00:56:44,317
+You're grabbing
+on my legs. Stop.
+
+1062
+00:56:44,442 --> 00:56:46,319
+Let go. Mr. Waller!
+
+1063
+00:56:46,444 --> 00:56:48,654
+(VOICE WHISPERING
+INDISTINCTLY)
+
+1064
+00:56:52,491 --> 00:56:53,701
+Mr. Waller...
+
+1065
+00:56:53,826 --> 00:56:56,203
+(VOICE WHISPERING
+INDISTINCTLY AND HISSING)
+
+1066
+00:56:56,287 --> 00:56:57,413
+Let go!
+
+1067
+00:56:57,496 --> 00:57:00,416
+(MUFFLED YELLING)
+
+1068
+00:57:00,499 --> 00:57:02,752
+(MOTOR PUTTERING)
+
+1069
+00:57:02,835 --> 00:57:05,212
+(MUFFLED GRUNTING)
+
+1070
+00:57:12,386 --> 00:57:13,596
+Mom!
+
+1071
+00:57:14,764 --> 00:57:15,848
+Hey, Ty.
+
+1072
+00:57:17,558 --> 00:57:18,643
+Ty.
+
+1073
+00:57:19,810 --> 00:57:21,020
+Baby, you seen Ty?
+
+1074
+00:57:21,103 --> 00:57:22,980
+ELLIOT:
+Mom! Mom!
+
+1075
+00:57:23,773 --> 00:57:25,733
+Mom. Outside in the pool.
+
+1076
+00:57:29,487 --> 00:57:30,780
+Oh, my God. Ty!
+
+1077
+00:57:30,863 --> 00:57:32,239
+Oh, my...
+
+1078
+00:57:32,365 --> 00:57:35,743
+Ty? Out of the
+way! Out of the way!
+
+1079
+00:57:38,329 --> 00:57:39,956
+ANGEL:
+Ty! What happened?
+
+1080
+00:57:40,039 --> 00:57:41,332
+COACH: Help me!
+Someone help!
+
+1081
+00:57:41,457 --> 00:57:42,559
+Give him to me.
+ANGEL: Get him out.
+
+1082
+00:57:42,583 --> 00:57:44,168
+Pull him over the edge.
+
+1083
+00:57:44,293 --> 00:57:45,419
+Someone call for help!
+
+1084
+00:57:45,503 --> 00:57:46,855
+ELLIOT: Mom, look! It's Dad!
+COACH: Move!
+
+1085
+00:57:46,879 --> 00:57:48,357
+Ty, breathe. Breathe.
+ANGEL.: It's okay. It's okay.
+
+1086
+00:57:48,381 --> 00:57:50,741
+MAN: I got him. Come on, breathe,
+breathe. Wh-What happened?
+
+1087
+00:57:50,800 --> 00:57:52,551
+What happened?
+
+1088
+00:57:52,635 --> 00:57:53,803
+What the hell happened?
+
+1089
+00:57:53,886 --> 00:57:55,471
+MAN: Someone call for help.
+
+1090
+00:57:55,554 --> 00:57:57,181
+Call 911!
+Someone call for help.
+
+1091
+00:57:57,306 --> 00:57:58,808
+EVE: (BREATHING SHAKILY)
+Ray. Ray.
+
+1092
+00:57:58,891 --> 00:58:00,726
+COACH:
+What happened, Ty?
+
+1093
+00:58:05,648 --> 00:58:07,483
+(INHALES)
+
+1094
+00:58:07,608 --> 00:58:09,151
+(GASPING AND COUGHING)
+
+1095
+00:58:09,276 --> 00:58:12,363
+IZZY: Dad? Dad?
+
+1096
+00:58:12,488 --> 00:58:14,073
+You're okay.
+Okay.
+
+1097
+00:58:14,198 --> 00:58:16,325
+Yeah, just hold on to my arm.
+It's okay. It's okay.
+
+1098
+00:58:16,450 --> 00:58:17,994
+IZZY: Okay.
+EVE: Let's get him inside.
+
+1099
+00:58:18,119 --> 00:58:20,204
+IZZY: Okay, one, two...
+EVE: It's okay. You're okay.
+
+1100
+00:58:20,329 --> 00:58:22,248
+(EERIE MUSIC PLAYING)
+
+1101
+00:58:22,373 --> 00:58:24,417
+(POLICE RADIO
+CHATTERING INDISTINCTLY)
+
+1102
+00:58:30,339 --> 00:58:32,174
+Ty said he wouldn't let go.
+
+1103
+00:58:32,299 --> 00:58:34,619
+No, Coach, you know the
+disease attacks his nervous system.
+
+1104
+00:58:34,719 --> 00:58:36,929
+I mean... No.
+He nearly drowned, too.
+
+1105
+00:58:37,054 --> 00:58:39,306
+We're not gonna
+press charges, Officer.
+
+1106
+00:58:39,432 --> 00:58:40,683
+We're fine.
+
+1107
+00:58:40,808 --> 00:58:42,643
+Uh, hey, Eve, I just...
+
+1108
+00:58:42,768 --> 00:58:45,604
+I don't think Ray should
+come to practice anymore.
+
+1109
+00:58:48,024 --> 00:58:49,483
+Look, I'm so sorry.
+
+1110
+00:58:49,608 --> 00:58:51,569
+Do you hear what he's saying?
+
+1111
+00:58:51,694 --> 00:58:54,071
+Don't come near
+our family again.
+
+1112
+00:59:02,329 --> 00:59:04,623
+(THUNDER RUMBLING)
+
+1113
+00:59:04,749 --> 00:59:06,834
+(OMINOUS MUSIC PLAYING)
+
+1114
+00:59:13,340 --> 00:59:15,277
+EVE: <i>Come on, let's go. Let's go.</i>
+RAY: <i>Wait. Wait.</i>
+
+1115
+00:59:15,301 --> 00:59:16,778
+Stop, stop. Stop.
+Here, just put the...
+
+1116
+00:59:16,802 --> 00:59:17,988
+Stop. God, wait.
+Get in the car.
+
+1117
+00:59:18,012 --> 00:59:19,805
+Wait. Where are
+we going?
+
+1118
+00:59:19,889 --> 00:59:21,640
+EVE: I don't know.
+Just not here.
+
+1119
+00:59:22,266 --> 00:59:24,393
+There's something wrong
+with that pool.
+
+1120
+00:59:24,477 --> 00:59:26,312
+Eve, there's nothing wrong
+with the pool.
+
+1121
+00:59:26,437 --> 00:59:28,189
+(LAUGHING)
+The pool's fine.
+
+1122
+00:59:28,314 --> 00:59:30,441
+The pool's the greatest thing
+to ever happen to me.
+
+1123
+00:59:30,566 --> 00:59:31,734
+Look.
+
+1124
+00:59:31,817 --> 00:59:33,712
+Listen. I mean, honey, it
+would be different this time.
+
+1125
+00:59:33,736 --> 00:59:34,862
+It would be so different.
+
+1126
+00:59:34,945 --> 00:59:36,131
+We wouldn't have to
+make the same sacri...
+
+1127
+00:59:36,155 --> 00:59:38,115
+What are you talking about?
+
+1128
+00:59:38,199 --> 00:59:40,409
+You almost drowned today.
+
+1129
+00:59:43,621 --> 00:59:45,706
+That little boy almost drowned.
+
+1130
+00:59:50,711 --> 00:59:52,671
+(ENGINE STARTS)
+
+1131
+00:59:54,882 --> 00:59:56,425
+(RAY COUGHING)
+
+1132
+01:00:00,763 --> 01:00:03,057
+(COUGHING CONTINUES)
+Dad?
+
+1133
+01:00:03,140 --> 01:00:05,434
+Dad, stop.
+ELLIOT: Mom, what's going on?
+
+1134
+01:00:05,518 --> 01:00:07,895
+Stop the car.
+(GASPING)
+
+1135
+01:00:07,978 --> 01:00:10,064
+Mom, do something.
+I don't know what to do.
+
+1136
+01:00:10,147 --> 01:00:11,899
+IZZY Is he breathing?
+
+1137
+01:00:11,982 --> 01:00:13,234
+What is happening?
+
+1138
+01:00:13,359 --> 01:00:14,819
+ELLIOT: Please!
+He can't breathe!
+
+1139
+01:00:14,944 --> 01:00:16,070
+(GASPING)
+
+1140
+01:00:16,195 --> 01:00:17,696
+IZZY: Cough it out.
+Oh, my God.
+
+1141
+01:00:17,822 --> 01:00:19,782
+IZZY: Dad.
+Get him out of the car!
+
+1142
+01:00:19,865 --> 01:00:21,784
+EVE: <i>No, no, no,
+he's stable now,</i>
+
+1143
+01:00:21,909 --> 01:00:24,829
+<i>but... I've never seen
+him like this before.</i>
+
+1144
+01:00:26,372 --> 01:00:29,125
+It was like something was
+attacking him from the inside.
+
+1145
+01:00:29,250 --> 01:00:30,769
+DOCTOR OVER PHONE:
+<i>Look, I know these episodes</i>
+
+1146
+01:00:30,793 --> 01:00:32,002
+<i>are frightening.</i>
+
+1147
+01:00:32,086 --> 01:00:34,046
+<i>I can have him come in
+on Tuesday</i>
+
+1148
+01:00:34,171 --> 01:00:36,215
+<i>for another round of tests,
+but in the meantime,</i>
+
+1149
+01:00:36,298 --> 01:00:39,468
+<i>just let him rest and recover.</i> (WHEEZING)
+
+1150
+01:00:44,181 --> 01:00:45,307
+Eve.
+
+1151
+01:00:45,391 --> 01:00:46,991
+I'm sorry. I don't know
+what's happening.
+
+1152
+01:00:47,059 --> 01:00:48,060
+It's okay.
+
+1153
+01:00:48,185 --> 01:00:49,425
+I didn't mean to hurt that boy.
+
+1154
+01:00:49,520 --> 01:00:51,105
+You don't have to talk.
+
+1155
+01:00:55,025 --> 01:00:56,569
+We'll just get you stable
+and just...
+
+1156
+01:00:56,652 --> 01:00:58,737
+We'll figure out what to do.
+
+1157
+01:01:01,824 --> 01:01:03,951
+It's just one more time.
+It's just one more.
+
+1158
+01:01:04,076 --> 01:01:05,578
+I just need one more time.
+
+1159
+01:01:05,661 --> 01:01:07,163
+You can carry me into the pool.
+
+1160
+01:01:07,246 --> 01:01:09,331
+I just need to get in
+one more time.
+
+1161
+01:01:13,002 --> 01:01:15,004
+(SOMBER MUSIC PLAYING)
+
+1162
+01:01:19,508 --> 01:01:21,760
+It's so cool in the deep water.
+
+1163
+01:01:25,055 --> 01:01:27,892
+It's so cool in the deep.
+
+1164
+01:01:40,779 --> 01:01:42,865
+(WATER WHOOSHING)
+
+1165
+01:02:00,758 --> 01:02:02,843
+I told him he could
+sleep here tonight.
+
+1166
+01:02:08,390 --> 01:02:10,142
+(SIGHS)
+
+1167
+01:02:20,402 --> 01:02:24,198
+You know your dad talks about
+being at bat and...
+
+1168
+01:02:24,323 --> 01:02:28,160
+feeling this rush of strength
+when you were born?
+
+1169
+01:02:30,412 --> 01:02:35,834
+I was 22 in a hospital
+surrounded by strangers, and...
+
+1170
+01:02:36,961 --> 01:02:39,880
+And I felt totally alone.
+
+1171
+01:02:42,675 --> 01:02:44,009
+And I didn't...
+
+1172
+01:02:44,176 --> 01:02:45,612
+And I didn't think
+I could keep pushing.
+
+1173
+01:02:45,636 --> 01:02:49,014
+I didn't think I would...
+I didn't...
+
+1174
+01:02:49,139 --> 01:02:51,976
+I didn't think I would be
+a good mom.
+
+1175
+01:02:53,269 --> 01:02:55,229
+And I just wanted to give up.
+
+1176
+01:02:57,731 --> 01:03:02,152
+And you must have felt
+how scared I was.
+
+1177
+01:03:02,278 --> 01:03:07,866
+Because suddenly,
+there you were.
+
+1178
+01:03:09,451 --> 01:03:11,537
+And I wasn't alone anymore.
+
+1179
+01:03:20,212 --> 01:03:22,298
+We're never alone
+if we have each other.
+
+1180
+01:03:25,050 --> 01:03:28,304
+I'm not gonna let anything bad
+happen to us, okay?
+
+1181
+01:03:29,430 --> 01:03:31,432
+Okay.
+(PHONE RINGING)
+
+1182
+01:03:37,354 --> 01:03:39,398
+KAY: <i>Hi, Eve.
+I'm sorry your party ended</i>
+
+1183
+01:03:39,481 --> 01:03:41,567
+<i>on a sour note,
+but you give people time</i>
+
+1184
+01:03:41,650 --> 01:03:43,130
+<i>and they're gonna
+forget all about it.</i>
+
+1185
+01:03:43,235 --> 01:03:45,654
+EVE: <i>Kay,
+it's not that. It's...</i>
+
+1186
+01:03:45,779 --> 01:03:48,490
+<i>Would you consider yourself
+an open-minded person?</i>
+
+1187
+01:03:48,574 --> 01:03:50,117
+KAY: <i>Yeah, I like to think so.</i>
+
+1188
+01:03:50,701 --> 01:03:51,827
+<i>Why are you asking?</i>
+
+1189
+01:03:51,910 --> 01:03:53,454
+It wasn't just Rebecca.
+
+1190
+01:03:53,579 --> 01:03:55,247
+If you go back,
+there's more people
+
+1191
+01:03:55,331 --> 01:03:57,374
+<i>who lived at the house
+who just went missing.</i>
+
+1192
+01:03:57,499 --> 01:03:59,084
+<i>I need to know what's going on.</i>
+
+1193
+01:03:59,209 --> 01:04:00,794
+KAY: <i>Eve, I swear I told you</i>
+
+1194
+01:04:00,878 --> 01:04:02,296
+<i>everything I knew at the house.</i>
+
+1195
+01:04:02,421 --> 01:04:04,757
+<i>I don't know anything
+about this.</i>
+
+1196
+01:04:04,840 --> 01:04:06,151
+<i>Just tell me what
+I can do to help.</i>
+
+1197
+01:04:06,175 --> 01:04:07,885
+EVE: <i>Does the Summers family
+live nearby?</i>
+
+1198
+01:04:11,430 --> 01:04:14,433
+(EERIE MUSIC PLAYING)
+
+1199
+01:04:44,713 --> 01:04:46,590
+(DOORBELL RINGS)
+
+1200
+01:04:52,930 --> 01:04:53,931
+Hi.
+
+1201
+01:04:55,099 --> 01:04:56,767
+My name is Eve Waller.
+
+1202
+01:04:58,060 --> 01:04:59,812
+I tried to call you yesterday.
+
+1203
+01:04:59,895 --> 01:05:02,689
+I think my family lives
+in your old house.
+
+1204
+01:05:02,815 --> 01:05:03,982
+With the pool?
+
+1205
+01:05:04,942 --> 01:05:06,568
+Oh.
+
+1206
+01:05:06,693 --> 01:05:07,986
+Yes.
+
+1207
+01:05:08,112 --> 01:05:09,238
+Come in.
+
+1208
+01:05:10,406 --> 01:05:11,907
+That's Thomas.
+
+1209
+01:05:12,783 --> 01:05:15,577
+USAID ambassador in Washington.
+
+1210
+01:05:16,453 --> 01:05:19,540
+His work in Sudan
+saved thousands
+
+1211
+01:05:19,665 --> 01:05:22,126
+during the refugee crisis.
+
+1212
+01:05:22,209 --> 01:05:23,419
+Your son?
+
+1213
+01:05:23,544 --> 01:05:26,255
+Yeah. My pride and joy.
+
+1214
+01:05:27,297 --> 01:05:30,634
+He's responsible
+for this beautiful home.
+
+1215
+01:05:30,759 --> 01:05:32,928
+Though he doesn't visit
+as much as I'd like.
+
+1216
+01:05:33,053 --> 01:05:34,888
+This is about as far
+
+1217
+01:05:34,972 --> 01:05:37,516
+as I can make it,
+if you don't mind.
+
+1218
+01:05:37,599 --> 01:05:39,184
+Please.
+
+1219
+01:05:41,103 --> 01:05:42,938
+(AIR HISSING)
+
+1220
+01:05:43,063 --> 01:05:46,483
+I know this is strange,
+but I wanted to ask you about
+
+1221
+01:05:46,608 --> 01:05:48,152
+when you lived at the house.
+
+1222
+01:05:48,277 --> 01:05:50,154
+(CHUCKLES) Oh.
+
+1223
+01:05:50,279 --> 01:05:53,449
+What a special place. (SIGHS)
+
+1224
+01:05:53,574 --> 01:05:54,867
+Tommy loved that pool.
+
+1225
+01:05:55,576 --> 01:05:57,911
+I could hardly
+get him out of the water.
+
+1226
+01:05:59,872 --> 01:06:02,541
+Did you have a daughter, too?
+
+1227
+01:06:05,544 --> 01:06:08,130
+No, it's, it's just
+Thomas and I.
+
+1228
+01:06:09,173 --> 01:06:12,050
+Oh, he writes
+the most wonderful letters.
+
+1229
+01:06:12,176 --> 01:06:14,303
+He's in Washington,
+
+1230
+01:06:14,428 --> 01:06:16,430
+doing so much good.
+
+1231
+01:06:20,184 --> 01:06:22,936
+Mrs. Summers,
+I'm not here to upset you.
+
+1232
+01:06:23,687 --> 01:06:25,981
+But I don't know
+who else to talk to.
+
+1233
+01:06:27,774 --> 01:06:29,860
+My husband was sick,
+
+1234
+01:06:30,736 --> 01:06:33,697
+and we moved into the house,
+
+1235
+01:06:33,822 --> 01:06:35,908
+and he started getting better.
+
+1236
+01:06:37,493 --> 01:06:39,119
+And I think...
+
+1237
+01:06:40,787 --> 01:06:42,706
+the pool made him better.
+
+1238
+01:06:45,000 --> 01:06:48,587
+But my kids have seen things.
+
+1239
+01:06:50,714 --> 01:06:52,174
+And so have I.
+
+1240
+01:06:56,094 --> 01:06:59,848
+There's something bad
+in the water, isn't there?
+
+1241
+01:07:03,644 --> 01:07:05,729
+(COUGHING)
+
+1242
+01:07:10,067 --> 01:07:12,152
+What happened to your daughter?
+
+1243
+01:07:13,195 --> 01:07:14,530
+To Rebecca?
+
+1244
+01:07:14,613 --> 01:07:16,782
+(AIR HISSING)
+
+1245
+01:07:18,909 --> 01:07:20,619
+Please. I'm worried
+that the same thing
+
+1246
+01:07:20,744 --> 01:07:22,162
+IS going to happen
+to my husband.
+
+1247
+01:07:22,246 --> 01:07:24,122
+(COUGHING)
+
+1248
+01:07:43,767 --> 01:07:47,145
+Did you ever use
+a wishing well as a child?
+
+1249
+01:07:49,356 --> 01:07:51,191
+Throw a coin in the water
+
+1250
+01:07:51,316 --> 01:07:55,445
+and pray with all your heart.
+
+1251
+01:07:58,448 --> 01:08:01,243
+Some water is magic.
+
+1252
+01:08:12,129 --> 01:08:15,716
+Before there was a house
+
+1253
+01:08:16,258 --> 01:08:17,593
+or a pool...
+
+1254
+01:08:18,427 --> 01:08:21,430
+<i>there was a spring
+in the ground.</i>
+
+1255
+01:08:22,347 --> 01:08:24,182
+<i>I don't know
+what's beneath the surface.</i>
+
+1256
+01:08:24,266 --> 01:08:26,018
+<i>Maybe no one does.</i>
+
+1257
+01:08:27,019 --> 01:08:31,857
+<i>But I know it gives us
+our deepest desires.</i>
+
+1258
+01:08:31,982 --> 01:08:36,236
+<i>The people then
+must have worshipped it</i>
+
+1259
+01:08:36,361 --> 01:08:39,781
+when they found out
+what it could do.
+
+1260
+01:08:42,034 --> 01:08:43,785
+<i>Temagami.</i>
+
+1261
+01:08:44,995 --> 01:08:47,289
+The deep water.
+
+1262
+01:08:48,332 --> 01:08:51,752
+WHISPERING VOICES:
+<i>Temagami. Temagami.</i>
+
+1263
+01:08:51,835 --> 01:08:54,630
+MRS. SUMMERS: The
+well has a wish of its own.
+
+1264
+01:08:54,713 --> 01:08:58,759
+<i>Once the water is woken,
+it will take a life.</i>
+
+1265
+01:08:58,884 --> 01:09:02,888
+<i>Someone has to pay
+so the water can keep giving.</i>
+
+1266
+01:09:03,013 --> 01:09:04,890
+<i>The way it gave to me.</i>
+
+1267
+01:09:07,059 --> 01:09:09,436
+Tommy was so sick.
+
+1268
+01:09:11,855 --> 01:09:13,690
+(CHUCKLES SOFTLY)
+
+1269
+01:09:13,815 --> 01:09:15,233
+And look at him now.
+
+1270
+01:09:20,322 --> 01:09:22,866
+But what happened
+to your daughter?
+
+1271
+01:09:22,991 --> 01:09:24,743
+It was...
+
+1272
+01:09:24,826 --> 01:09:27,663
+better with Rebecca,
+
+1273
+01:09:27,746 --> 01:09:30,666
+more humane for a child
+
+1274
+01:09:30,749 --> 01:09:32,042
+not to know
+
+1275
+01:09:33,126 --> 01:09:34,920
+what was coming.
+
+1276
+01:09:36,088 --> 01:09:37,422
+Mom! Help!
+
+1277
+01:09:37,506 --> 01:09:40,092
+(IN DISTANCE)
+Mom! Mom!
+
+1278
+01:09:41,051 --> 01:09:44,221
+(REBECCA SCREAMING)
+(COUGHING)
+
+1279
+01:09:44,346 --> 01:09:45,639
+REBECCA: Mom!
+
+1280
+01:09:45,764 --> 01:09:47,808
+Becky? Becky!
+
+1281
+01:09:47,891 --> 01:09:50,185
+(SCREAMS) Mom! Mom!
+
+1282
+01:09:50,268 --> 01:09:52,270
+Help! (SCREAMS)
+(TOMMY COUGHING)
+
+1283
+01:09:52,396 --> 01:09:53,855
+TOMMY:
+Mom, Becky's outside!
+
+1284
+01:09:53,980 --> 01:09:55,941
+Mom! Mom!
+
+1285
+01:09:57,234 --> 01:09:59,111
+REBECCA: (SCREAMS) Mom!
+
+1286
+01:09:59,236 --> 01:10:01,822
+TOMMY: Mom,
+Becky's outside!
+
+1287
+01:10:01,947 --> 01:10:05,200
+MRS. SUMMERS:
+<i>The water used me as a vessel</i>
+
+1288
+01:10:05,325 --> 01:10:08,120
+<i>to do what must be done.</i>
+
+1289
+01:10:09,454 --> 01:10:11,832
+<i>Don't worry about your husband.</i>
+
+1290
+01:10:12,958 --> 01:10:15,877
+He's the one who gets the wish.
+
+1291
+01:10:16,169 --> 01:10:17,337
+He gets his health.
+
+1292
+01:10:17,462 --> 01:10:19,089
+I got my son back.
+
+1293
+01:10:19,214 --> 01:10:21,174
+It'll be worth it.
+
+1294
+01:10:21,299 --> 01:10:22,801
+You'll see.
+
+1295
+01:10:22,884 --> 01:10:26,054
+Love requires sacrifice.
+
+1296
+01:10:26,138 --> 01:10:28,306
+That's not love.
+
+1297
+01:10:29,683 --> 01:10:33,103
+It's not a sacrifice
+if you get something back.
+
+1298
+01:10:33,895 --> 01:10:36,440
+Rebecca asked where you were.
+
+1299
+01:10:37,899 --> 01:10:39,901
+She's still looking for you.
+
+1300
+01:10:39,985 --> 01:10:42,070
+You can still help us.
+
+1301
+01:10:42,154 --> 01:10:45,282
+There has to be
+some way to stop this.
+
+1302
+01:10:48,994 --> 01:10:52,831
+(COUGHING)
+
+1303
+01:10:58,712 --> 01:11:00,797
+(GASPING AND COUGHING)
+
+1304
+01:11:00,922 --> 01:11:03,008
+(WATER BURBLING)
+
+1305
+01:11:18,523 --> 01:11:20,400
+(WHEEZING)
+
+1306
+01:11:22,360 --> 01:11:24,613
+(CHUCKLING OMINOUSLY)
+
+1307
+01:11:26,948 --> 01:11:29,701
+It'll be over soon.
+
+1308
+01:11:31,244 --> 01:11:34,664
+The water will sleep again.
+
+1309
+01:11:37,501 --> 01:11:39,544
+And...
+
+1310
+01:11:39,669 --> 01:11:42,464
+someone else
+will find the house.
+
+1311
+01:11:43,965 --> 01:11:48,637
+Someone else who needs its help.
+
+1312
+01:12:05,070 --> 01:12:07,113
+(GASPING AND GAGGING)
+
+1313
+01:12:26,216 --> 01:12:28,218
+(OMINOUS MUSIC PLAYING)
+
+1314
+01:12:37,644 --> 01:12:39,688
+(CRICKETS CHIRPING)
+
+1315
+01:12:41,606 --> 01:12:43,942
+IZZY: Thanks, Ronin.
+See you tomorrow.
+
+1316
+01:12:45,110 --> 01:12:46,528
+(DOOR OPENS)
+
+1317
+01:12:46,653 --> 01:12:48,655
+ELLIOT: Hey, Mom, Dad,
+we're home.
+
+1318
+01:12:48,780 --> 01:12:50,323
+(KEYS JINGLING)
+
+1319
+01:12:51,408 --> 01:12:52,742
+Mom?
+
+1320
+01:12:54,870 --> 01:12:56,538
+Dad, we're home.
+
+1321
+01:13:00,166 --> 01:13:02,127
+She's not answering.
+
+1322
+01:13:02,836 --> 01:13:04,796
+Think Dad might be with her.
+
+1323
+01:13:05,547 --> 01:13:07,215
+I'm gonna go check the garage.
+
+1324
+01:13:18,476 --> 01:13:20,520
+(CAT MEOWS)
+
+1325
+01:13:22,063 --> 01:13:24,107
+(SETS GLASS DOWN) Cider?
+
+1326
+01:13:36,119 --> 01:13:37,454
+Cider?
+
+1327
+01:13:42,334 --> 01:13:44,169
+Come here, Cider.
+
+1328
+01:13:55,013 --> 01:13:56,598
+(SMACKING LIPS)
+
+1329
+01:13:58,058 --> 01:13:59,601
+Come here, Cider.
+
+1330
+01:14:12,948 --> 01:14:14,532
+What?
+
+1331
+01:14:17,035 --> 01:14:18,912
+(CAT MEOWS)
+(COLLAR BELL JINGLING)
+
+1332
+01:14:21,706 --> 01:14:23,458
+(CAT MEOWS)
+(COLLAR BELL JINGLING)
+
+1333
+01:14:24,459 --> 01:14:26,002
+Cider?
+
+1334
+01:14:27,420 --> 01:14:28,797
+(COLLAR BELL JINGLING)
+
+1335
+01:14:28,922 --> 01:14:30,131
+(CAT MEOWS)
+
+1336
+01:14:36,221 --> 01:14:38,264
+(CREAKING)
+
+1337
+01:14:39,432 --> 01:14:40,809
+(CAT MEOWS)
+
+1338
+01:14:40,892 --> 01:14:42,143
+It's okay, buddy.
+
+1339
+01:14:42,769 --> 01:14:44,104
+I'm right here.
+
+1340
+01:14:47,565 --> 01:14:49,192
+(CAT WHIMPERS)
+
+1341
+01:14:52,112 --> 01:14:53,989
+(CLICKING AND CREAKING)
+
+1342
+01:14:54,114 --> 01:14:56,199
+(POOL THRUMMING)
+
+1343
+01:15:07,877 --> 01:15:09,671
+(GRUNTING)
+
+1344
+01:15:16,302 --> 01:15:18,096
+(GRUNTING)
+
+1345
+01:15:20,849 --> 01:15:22,434
+Cider?
+
+1346
+01:15:22,517 --> 01:15:23,935
+(SNARLS)
+
+1347
+01:15:24,060 --> 01:15:25,353
+(SCREAMS)
+
+1348
+01:15:29,065 --> 01:15:30,984
+(SUSPENSEFUL MUSIC PLAYING)
+
+1349
+01:15:31,109 --> 01:15:33,862
+(MUFFLED YELLING)
+
+1350
+01:15:37,073 --> 01:15:38,408
+IZZY: Elliot!
+
+1351
+01:15:42,620 --> 01:15:45,749
+Elliot! Elliot!
+
+1352
+01:15:48,376 --> 01:15:50,462
+(GRUNTING)
+
+1353
+01:15:58,344 --> 01:16:00,013
+(EVE YELLS)
+Mom.
+
+1354
+01:16:00,096 --> 01:16:01,973
+Come on. Okay, okay.
+Izzy, help me. Come on.
+
+1355
+01:16:02,057 --> 01:16:04,976
+(BOTH GRUNTING
+AND STRAINING)
+
+1356
+01:16:09,189 --> 01:16:11,524
+(GRUNTING)
+
+1357
+01:16:11,608 --> 01:16:12,901
+I don't know what happened.
+
+1358
+01:16:12,984 --> 01:16:14,384
+I don't know...
+Elliot's down there.
+
+1359
+01:16:14,444 --> 01:16:15,629
+All I know is that he...
+Go in the house.
+
+1360
+01:16:15,653 --> 01:16:17,072
+Call for help. Go!
+Okay.
+
+1361
+01:16:17,155 --> 01:16:18,823
+Okay, I'm going.
+
+1362
+01:16:30,085 --> 01:16:31,586
+Dad! (GRUNTS)
+
+1363
+01:16:34,047 --> 01:16:36,049
+(COUGHING AND PANTING)
+
+1364
+01:16:44,015 --> 01:16:46,017
+(EERIE MUSIC PLAYING)
+
+1365
+01:17:01,991 --> 01:17:03,284
+(GRUNTS)
+
+1366
+01:17:06,037 --> 01:17:08,206
+(HYPERVENTILATING)
+
+1367
+01:17:15,171 --> 01:17:16,339
+(WHIMPERS)
+
+1368
+01:17:17,674 --> 01:17:19,425
+(GLASS CLINKS ON FLOOR)
+
+1369
+01:17:25,014 --> 01:17:27,100
+(CREAKING)
+(GASPS)
+
+1370
+01:17:38,319 --> 01:17:39,320
+Dad?
+
+1371
+01:17:45,660 --> 01:17:47,704
+(FLOORBOARDS CREAKING)
+
+1372
+01:17:54,919 --> 01:17:56,963
+(THUDDING)
+(GASPS)
+
+1373
+01:17:57,046 --> 01:17:58,590
+Dad!
+
+1374
+01:17:58,715 --> 01:18:00,091
+RAY: There you are.
+
+1375
+01:18:01,384 --> 01:18:03,052
+I've been looking for you, Iz.
+
+1376
+01:18:03,178 --> 01:18:04,679
+(WATER TRICKLING)
+
+1377
+01:18:04,804 --> 01:18:06,097
+What's the matter?
+
+1378
+01:18:06,222 --> 01:18:08,308
+(IZZY WHIMPERING)
+
+1379
+01:18:12,896 --> 01:18:14,856
+(WET FOOTSTEPS SLOSHING)
+(WHIMPERING)
+
+1380
+01:18:14,981 --> 01:18:16,524
+(FOOTSTEPS STOP)
+
+1381
+01:18:18,735 --> 01:18:21,696
+Okay, I'm...
+I... I'm calling for help.
+
+1382
+01:18:26,409 --> 01:18:27,952
+Don't do that!
+(SCREAMS)
+
+1383
+01:18:28,036 --> 01:18:29,704
+(IZZY GASPS AND SCREAMS)
+
+1384
+01:18:29,787 --> 01:18:32,165
+(SUSPENSEFUL MUSIC PLAYING)
+
+1385
+01:18:48,723 --> 01:18:50,391
+(YELPS)
+RAY: I know you want me
+
+1386
+01:18:50,475 --> 01:18:52,018
+to get better.
+
+1387
+01:18:53,311 --> 01:18:54,896
+You understand, don't you?
+
+1388
+01:18:56,856 --> 01:18:58,650
+We have to get help.
+
+1389
+01:18:58,733 --> 01:19:01,027
+Baby, we already got help.
+
+1390
+01:19:03,738 --> 01:19:05,823
+Life is too hard for Elliot.
+
+1391
+01:19:06,532 --> 01:19:07,867
+It's better this way.
+
+1392
+01:19:10,578 --> 01:19:12,121
+Ahh! (GRUNTS)
+
+1393
+01:19:12,247 --> 01:19:13,915
+(SCREAMS)
+
+1394
+01:19:15,750 --> 01:19:17,043
+(SHRIEKS)
+
+1395
+01:19:19,003 --> 01:19:20,755
+(SCREAMS)
+
+1396
+01:19:23,132 --> 01:19:25,969
+Help! Help! Help!
+
+1397
+01:19:26,511 --> 01:19:27,679
+Marco.
+
+1398
+01:19:27,762 --> 01:19:29,764
+(EERIE MUSIC PLAYING)
+
+1399
+01:19:54,372 --> 01:19:56,541
+(DISTORTED VOICES HOWLING)
+
+1400
+01:19:58,626 --> 01:19:59,961
+(SNARLS)
+
+1401
+01:20:01,796 --> 01:20:03,381
+(SHRIEKING)
+
+1402
+01:20:18,187 --> 01:20:20,106
+(PANTING)
+
+1403
+01:20:21,024 --> 01:20:22,483
+Help!
+
+1404
+01:20:22,692 --> 01:20:25,028
+(POUNDING CONTINUES)
+Please! Help!
+
+1405
+01:20:25,153 --> 01:20:27,488
+Is anyone out there?
+Call for help!
+
+1406
+01:20:27,572 --> 01:20:29,741
+(PANTING)
+
+1407
+01:20:36,456 --> 01:20:37,957
+RAY: Marco.
+
+1408
+01:20:43,880 --> 01:20:45,548
+(STATIC BUZZES)
+(SCREAMS)
+
+1409
+01:20:45,631 --> 01:20:49,302
+MAN: (SINGING)
+<i>Take me out to the ball game</i>
+
+1410
+01:20:49,427 --> 01:20:53,181
+<i>Take me out with the crowd</i>
+
+1411
+01:20:53,306 --> 01:20:56,684
+<i>Buy me some peanuts
+and Cracker Jack</i>
+
+1412
+01:20:56,809 --> 01:20:58,478
+<i>I don't care...</i>
+
+1413
+01:20:58,561 --> 01:21:00,730
+(STATIC DRONING)
+
+1414
+01:21:03,775 --> 01:21:06,903
+You're supposed to say "Polo."
+(SCREAMS)
+
+1415
+01:21:20,583 --> 01:21:22,960
+(THRILLING MUSIC PLAYING)
+
+1416
+01:21:23,086 --> 01:21:24,587
+(MUFFLED WHIMPERING)
+
+1417
+01:21:41,646 --> 01:21:43,648
+(SERENE MUSIC PLAYING)
+
+1418
+01:22:17,640 --> 01:22:20,017
+(GASPING)
+
+1419
+01:22:26,607 --> 01:22:30,027
+Why don't you stay here,
+and it'll all be over soon.
+
+1420
+01:22:30,945 --> 01:22:32,822
+(LOCK CLICKS)
+
+1421
+01:22:32,947 --> 01:22:35,032
+(BREATHING RAGGEDLY)
+
+1422
+01:22:39,162 --> 01:22:41,247
+(FOOTSTEPS APPROACHING)
+
+1423
+01:22:43,082 --> 01:22:45,585
+(EVE GASPS AND PANTS)
+
+1424
+01:22:45,710 --> 01:22:47,044
+Ellie.
+
+1425
+01:22:48,921 --> 01:22:50,673
+Oh, God. Come on.
+
+1426
+01:22:50,798 --> 01:22:51,966
+Come on, Ellie. Come on.
+
+1427
+01:22:52,091 --> 01:22:54,969
+One, two, three, four, five.
+
+1428
+01:22:55,052 --> 01:22:56,846
+Come on. Come on.
+
+1429
+01:22:56,971 --> 01:22:59,390
+(PANTING)
+
+1430
+01:22:59,515 --> 01:23:01,350
+(SOBBING)
+
+1431
+01:23:01,434 --> 01:23:02,435
+RAY: It's too late.
+
+1432
+01:23:02,518 --> 01:23:04,770
+(PANTING)
+
+1433
+01:23:05,521 --> 01:23:07,398
+Love requires sacrifice.
+
+1434
+01:23:07,482 --> 01:23:09,025
+Ray.
+
+1435
+01:23:09,984 --> 01:23:11,444
+Oh, Ray, please.
+
+1436
+01:23:11,569 --> 01:23:13,821
+Please, we need
+to get him to a hospital, Ray.
+
+1437
+01:23:13,905 --> 01:23:16,324
+He needs your help.
+Look at him.
+
+1438
+01:23:16,407 --> 01:23:17,408
+(GRUNTS)
+(GASPS)
+
+1439
+01:23:19,952 --> 01:23:21,996
+(RAY BREATHING HEAVILY)
+
+1440
+01:23:22,121 --> 01:23:23,414
+(EVE GRUNTS)
+
+1441
+01:23:23,539 --> 01:23:26,042
+The water chose him.
+
+1442
+01:23:28,085 --> 01:23:29,837
+He loves the pool.
+
+1443
+01:23:29,921 --> 01:23:31,881
+Elliot will always be here.
+
+1444
+01:23:32,006 --> 01:23:33,591
+He'll always be here.
+
+1445
+01:23:35,009 --> 01:23:37,428
+(YELLING)
+(GRUNTING)
+
+1446
+01:23:37,512 --> 01:23:38,638
+(RAY COUGHS)
+
+1447
+01:23:38,763 --> 01:23:41,015
+(YELLS)
+(GROANS AND COUGHS)
+
+1448
+01:23:47,396 --> 01:23:48,856
+(GROANS)
+
+1449
+01:23:48,981 --> 01:23:50,858
+(WATER BURBLING)
+
+1450
+01:23:50,983 --> 01:23:52,818
+(HIGH-PITCHED RINGING)
+
+1451
+01:23:52,944 --> 01:23:54,237
+IZZY: <i>Dad.</i>
+
+1452
+01:23:54,362 --> 01:23:56,072
+(GURGLING)
+
+1453
+01:23:56,155 --> 01:23:57,907
+<i>Something has you.</i>
+
+1454
+01:23:58,991 --> 01:24:00,535
+<i>You have to fight it.</i>
+
+1455
+01:24:00,660 --> 01:24:02,203
+(GROANS)
+
+1456
+01:24:02,328 --> 01:24:03,829
+DOCTOR: <i>It's going
+to take sacrifice,</i>
+
+1457
+01:24:03,955 --> 01:24:05,998
+<i>but you can have
+a good life together.</i>
+
+1458
+01:24:06,082 --> 01:24:08,334
+EVE: <i>I just need to know
+that you want that, too.</i>
+
+1459
+01:24:08,417 --> 01:24:10,127
+<i>Please come back.</i>
+
+1460
+01:24:10,211 --> 01:24:11,462
+RAY: <i>I want that, too.</i>
+
+1461
+01:24:11,546 --> 01:24:12,713
+IZZY: <i>Elliot needs you.</i>
+
+1462
+01:24:13,047 --> 01:24:15,508
+(HIGH-PITCHED RINGING
+CONTINUES)
+
+1463
+01:24:15,591 --> 01:24:17,176
+Ray?
+
+1464
+01:24:17,260 --> 01:24:18,886
+Come back.
+
+1465
+01:24:18,970 --> 01:24:21,138
+Come back. Come back.
+(RETCHING)
+
+1466
+01:24:21,222 --> 01:24:22,932
+(GASPS)
+(RAY GROANS)
+
+1467
+01:24:23,474 --> 01:24:25,518
+(GRUNTS AND COUGHS)
+
+1468
+01:24:25,601 --> 01:24:27,562
+(PANTING)
+
+1469
+01:24:30,815 --> 01:24:31,941
+RAY: Izzy, no...
+
+1470
+01:24:33,359 --> 01:24:35,027
+(GRUNTS SOFTLY)
+
+1471
+01:24:38,614 --> 01:24:40,074
+It's me.
+
+1472
+01:24:40,199 --> 01:24:41,576
+I'm so sorry.
+I'm so sorry.
+
+1473
+01:24:41,701 --> 01:24:43,327
+ELLIOT:
+Mom. (COUGHS)
+
+1474
+01:24:43,411 --> 01:24:45,246
+EVE: Ellie!
+Is he okay?
+
+1475
+01:24:45,329 --> 01:24:48,624
+He's breathing. We
+gotta get him out of here.
+
+1476
+01:24:49,709 --> 01:24:52,420
+Come on. Come on,
+baby. (GROANING)
+
+1477
+01:24:53,796 --> 01:24:55,256
+IZZY: Dad, come on.
+Let's go.
+
+1478
+01:24:55,339 --> 01:24:56,674
+(GROANING)
+
+1479
+01:24:56,799 --> 01:24:58,759
+WHISPERING VOICES:
+<i>Temagami.</i>
+
+1480
+01:24:58,843 --> 01:25:01,345
+(WHOOSHING)
+
+1481
+01:25:01,470 --> 01:25:03,806
+(EERIE MUSIC PLAYING)
+
+1482
+01:25:08,686 --> 01:25:11,105
+(ELLIOT GROANING)
+IZZY: Dad?
+
+1483
+01:25:11,188 --> 01:25:12,898
+Oh, my God. Mom?
+
+1484
+01:25:13,024 --> 01:25:15,109
+(GROANING)
+
+1485
+01:25:15,234 --> 01:25:16,986
+(COUGHING AND CHOKING)
+
+1486
+01:25:17,111 --> 01:25:18,654
+EVE: Baby, what's wrong?
+
+1487
+01:25:20,323 --> 01:25:22,033
+Elliot.
+Mom, it's the water.
+
+1488
+01:25:22,116 --> 01:25:24,397
+It's not gonna let him leave.
+(EVE GASPING AND WHIMPERING)
+
+1489
+01:25:24,452 --> 01:25:26,245
+EVE: Ray, it's...
+It's getting worse.
+
+1490
+01:25:26,370 --> 01:25:28,289
+(ELLIOT COUGHING)
+
+1491
+01:25:28,372 --> 01:25:31,000
+EVE: Get him up, Izzy.
+Help me.
+
+1492
+01:25:32,460 --> 01:25:34,170
+Someone has to pay.
+
+1493
+01:25:37,673 --> 01:25:40,092
+(RAY GASPS DEEPLY)
+
+1494
+01:25:43,721 --> 01:25:46,974
+(ALL CLAMORING)
+(VOICE WHEEZING)
+
+1495
+01:25:51,062 --> 01:25:53,356
+(WATER SPLASHING) (ELLIOT
+COUGHING AND GASPING)
+
+1496
+01:25:54,482 --> 01:25:55,524
+IZZY: Dad?
+
+1497
+01:25:58,194 --> 01:25:59,403
+Dad, where are you going?
+
+1498
+01:25:59,487 --> 01:26:00,821
+Don't look back.
+
+1499
+01:26:02,198 --> 01:26:04,825
+(WATER BURBLING)
+
+1500
+01:26:04,950 --> 01:26:06,035
+EVE: Ray?
+
+1501
+01:26:06,494 --> 01:26:07,870
+Dad!
+
+1502
+01:26:09,372 --> 01:26:10,831
+Dad!
+
+1503
+01:26:26,389 --> 01:26:28,474
+(VOICES WHISPERING
+INDISTINCTLY)
+
+1504
+01:26:35,272 --> 01:26:37,149
+(COUGHING)
+
+1505
+01:26:37,274 --> 01:26:39,944
+(RETCHING)
+
+1506
+01:26:40,069 --> 01:26:41,612
+Ellie!
+
+1507
+01:26:42,988 --> 01:26:44,240
+Are you okay?
+
+1508
+01:26:44,365 --> 01:26:46,575
+Are you okay?
+I'm okay.
+
+1509
+01:26:46,701 --> 01:26:47,868
+I'm good.
+
+1510
+01:26:47,952 --> 01:26:49,245
+I'm okay.
+
+1511
+01:26:49,370 --> 01:26:50,454
+IZZY: Where's Dad?
+
+1512
+01:26:50,579 --> 01:26:52,665
+(ALL BREATHING HEAVILY)
+
+1513
+01:27:00,881 --> 01:27:03,217
+(SOMBER MUSIC PLAYING)
+
+1514
+01:27:03,342 --> 01:27:04,468
+IZZY: I got you.
+
+1515
+01:27:04,593 --> 01:27:05,886
+Okay.
+
+1516
+01:27:05,970 --> 01:27:07,304
+(SIGHS) Okay.
+
+1517
+01:27:16,230 --> 01:27:17,690
+(BIRDS CHIRPING)
+
+1518
+01:27:27,825 --> 01:27:29,910
+(STATIC CRACKLES)
+
+1519
+01:27:34,373 --> 01:27:36,292
+<i>Hey, Eve, kids.</i>
+
+1520
+01:27:36,375 --> 01:27:38,919
+(CHUCKLES) <i>Um...</i>
+
+1521
+01:27:39,044 --> 01:27:42,673
+<i>I don't know
+what's gonna come of all this,</i>
+
+1522
+01:27:42,798 --> 01:27:46,927
+<i>but I just feel like I still
+got something to prove.</i>
+
+1523
+01:27:48,095 --> 01:27:50,097
+<i>You know, and...</i>
+
+1524
+01:27:50,181 --> 01:27:51,974
+<i>I want to make you proud.</i>
+
+1525
+01:27:55,102 --> 01:27:57,605
+<i>Baseball's always
+just come easy to me.</i>
+
+1526
+01:27:58,105 --> 01:27:59,857
+<i>And...</i>
+
+1527
+01:27:59,982 --> 01:28:02,109
+<i>the other stuff, not so much.</i>
+
+1528
+01:28:04,320 --> 01:28:05,821
+<i>So...</i>
+
+1529
+01:28:07,615 --> 01:28:08,866
+<i>I guess I just...</i>
+
+1530
+01:28:10,534 --> 01:28:12,244
+<i>wish I knew a better way</i>
+
+1531
+01:28:13,078 --> 01:28:15,206
+<i>to let you know
+how much you mean to me.</i>
+
+1532
+01:28:17,750 --> 01:28:19,418
+(SIGHS)
+
+1533
+01:28:19,502 --> 01:28:20,920
+<i>Love you.</i>
+
+1534
+01:28:29,939 --> 01:28:31,482
+EVE: This yours?
+
+1535
+01:28:36,690 --> 01:28:39,025
+You know, we could
+still sell the house.
+
+1536
+01:28:39,810 --> 01:28:41,520
+I mean, we could go anywhere.
+
+1537
+01:28:44,659 --> 01:28:48,454
+But then it's going to happen
+to someone else, isn't it?
+
+1538
+01:28:50,264 --> 01:28:52,182
+Dad wouldn't want that.
+
+1539
+01:28:53,452 --> 01:28:55,746
+(VEHICLE ENGINE WHIRRING)
+(EVE SIGHS)
+
+1540
+01:29:25,317 --> 01:29:27,361
+(WATER BURBLING)
+
+1541
+01:29:36,036 --> 01:29:38,455
+(SCREAMING PLAYING
+OVER ELECTRONIC DRUM BEAT)
+
+1542
+01:29:38,581 --> 01:29:41,584
+(<i>DEEPER</i> PLAYING)
+
+1543
+01:29:48,257 --> 01:29:51,844
+WOMAN: (SINGING) <i>Can you
+speak Can you call my name?</i>
+
+1544
+01:29:52,803 --> 01:29:54,096
+<i>Take my hand</i>
+
+1545
+01:29:54,179 --> 01:29:57,641
+<i>Maybe we could be
+together somehow</i>
+
+1546
+01:29:57,725 --> 01:30:01,896
+<i>Jumping in, but I'm so afraid</i>
+
+1547
+01:30:02,021 --> 01:30:06,609
+<i>I feel the rush But I'm
+rising to the surface now</i>
+
+1548
+01:30:06,734 --> 01:30:10,154
+<i>But you say go deeper</i>
+
+1549
+01:30:10,237 --> 01:30:12,489
+<i>Go deeper</i>
+
+1550
+01:30:12,573 --> 01:30:16,285
+<i>Take me deeper into your love</i>
+
+1551
+01:30:16,410 --> 01:30:19,413
+<i>You say go deeper</i>
+
+1552
+01:30:19,538 --> 01:30:21,749
+<i>Go deeper</i>
+
+1553
+01:30:21,874 --> 01:30:25,502
+<i>Fall deeper into me</i>
+
+1554
+01:30:25,628 --> 01:30:29,006
+<i>Take me deeper</i>
+
+1555
+01:30:30,299 --> 01:30:35,179
+<i>Drag me down to the other side</i>
+
+1556
+01:30:35,304 --> 01:30:37,765
+<i>Pull me under</i>
+
+1557
+01:30:39,516 --> 01:30:44,188
+<i>Fill my lungs with your memories</i>
+
+1558
+01:30:44,313 --> 01:30:46,774
+<i>How is it real?</i>
+
+1559
+01:30:47,524 --> 01:30:50,903
+<i>I can hear your heart
+through the screams</i>
+
+1560
+01:30:51,028 --> 01:30:52,947
+<i>And it's calling me</i>
+
+1561
+01:30:53,072 --> 01:30:55,115
+(SCREAMING)
+
+1562
+01:30:57,743 --> 01:30:59,828
+(SCREAMING)
+
+1563
+01:31:03,082 --> 01:31:06,418
+<i>Take me deeper</i>
+
+1564
+01:31:07,670 --> 01:31:12,132
+<i>Drag me down to the other side</i>
+
+1565
+01:31:12,257 --> 01:31:14,635
+<i>How is it real?</i>
+
+1566
+01:31:15,511 --> 01:31:19,098
+<i>I can hear your heart
+through the screams</i>
+
+1567
+01:31:19,223 --> 01:31:21,809
+<i>And it's calling me deep</i>
+
+1568
+01:31:21,892 --> 01:31:22,893
+(SONG ENDS)
+
+1569
+01:31:23,060 --> 01:31:25,145
+(OMINOUS MUSIC PLAYING)
+
+1570
+01:38:16,890 --> 01:38:18,892
+(MUSIC FADES)
+

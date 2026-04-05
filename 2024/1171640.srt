@@ -1,0 +1,5214 @@
+﻿1
+00:00:22,200 --> 00:00:25,960
+<i>All units.</i>
+<i>Robbery in Porte Maillot at 11:58 p.m.</i>
+
+2
+00:00:26,480 --> 00:00:28,360
+<i>To all police stations, please copy.</i>
+
+3
+00:00:29,840 --> 00:00:31,440
+<i>This is CP16, copy.</i>
+
+4
+00:00:31,520 --> 00:00:32,680
+<i>CP8, copy.</i>
+
+5
+00:00:34,520 --> 00:00:36,760
+<i>Three suspects</i>
+<i>riding black TMAX scooters.</i>
+
+6
+00:00:36,840 --> 00:00:39,480
+<i>Heading towards</i>
+<i>Porte de Saint-Cloud on the ring road.</i>
+
+7
+00:00:42,200 --> 00:00:46,320
+<i>This is TN51 from TN51 Alpha.</i>
+<i>Units 1 and 2 approaching Porte Maillot.</i>
+
+8
+00:00:48,960 --> 00:00:50,480
+<i>Copy, TN51 Alpha.</i>
+
+9
+00:01:00,600 --> 00:01:03,800
+<i>TN51 Alpha, we have priority,</i>
+<i>the scooters are in sight.</i>
+
+10
+00:01:05,520 --> 00:01:08,880
+<i>To all units</i>
+<i>in proximity of TN51, give way.</i>
+
+11
+00:01:13,360 --> 00:01:15,080
+<i>TN51, I need backup.</i>
+<i>I need backup.</i>
+
+12
+00:01:15,160 --> 00:01:16,680
+<i>Heading towards Saint-Cloud.</i>
+
+13
+00:01:16,760 --> 00:01:20,600
+<i>Copy that. All stations,</i>
+<i>backup needed at Porte de Versailles.</i>
+
+14
+00:01:22,400 --> 00:01:24,400
+<i>Bravo, Charlie, close the gap.</i>
+
+15
+00:01:25,240 --> 00:01:27,840
+<i>Bravo, one's splitting.</i>
+<i>Flank him on the right.</i>
+
+16
+00:01:27,920 --> 00:01:29,200
+{\an8}<i>Copy. I'm on him.</i>
+
+17
+00:01:33,440 --> 00:01:35,440
+<i>Bravo is down! Bravo is down!</i>
+
+18
+00:01:38,880 --> 00:01:40,720
+<i>Copy that.</i>
+<i>Ambulance en route.</i>
+
+19
+00:01:40,800 --> 00:01:42,960
+<i>Porte d'Italie's clogged.</i>
+<i>Where's the backup?</i>
+
+20
+00:01:43,480 --> 00:01:45,400
+<i>Unavail, TN51, fall back.</i>
+
+21
+00:01:45,480 --> 00:01:46,360
+Fuck!
+
+22
+00:01:51,440 --> 00:01:54,720
+<i>They're going through Austerlitz.</i>
+<i>Send backup for Christ's sake!</i>
+
+23
+00:01:54,800 --> 00:01:57,680
+<i>No backup. You're ordered</i>
+<i>to stop pursuit, Lieutenant</i>.
+
+24
+00:01:58,960 --> 00:02:01,920
+- <i>Charlie, let's keep going.</i>
+- <i>I won't lose 'em.</i>
+
+25
+00:02:15,040 --> 00:02:16,080
+<i>Charlie's down.</i>
+
+26
+00:02:16,160 --> 00:02:18,240
+<i>Alpha, we ordered you</i>
+<i>to stop pursuit--</i>
+
+27
+00:02:18,320 --> 00:02:19,440
+Assholes.
+
+28
+00:02:19,520 --> 00:02:20,760
+Charlie, you okay?
+
+29
+00:02:36,040 --> 00:02:39,400
+<i>TN51 Alpha, stop pursuit.</i>
+<i>I repeat, stop pursuit.</i>
+
+30
+00:02:39,480 --> 00:02:42,200
+No way. They're within reach.
+Stop right now!
+
+31
+00:02:42,920 --> 00:02:44,560
+<i>TN51, report.</i>
+
+32
+00:02:44,640 --> 00:02:46,600
+<i>Answer me. What's going on there?</i>
+
+33
+00:02:49,200 --> 00:02:51,000
+- Fuck!
+<i>- Respond.</i>
+
+34
+00:02:56,120 --> 00:02:59,440
+<i>TN51, Alpha, Lieutenant</i>
+<i>Delvo. We need an immediate sitrep.</i>
+
+35
+00:02:59,520 --> 00:03:00,600
+<i>What's your location?</i>
+
+36
+00:03:01,480 --> 00:03:04,120
+<i>Lieutenant Delvo, respond.</i>
+
+37
+00:03:06,440 --> 00:03:07,520
+<i>Respond.</i>
+
+38
+00:03:11,520 --> 00:03:12,400
+Fuck.
+
+39
+00:03:28,360 --> 00:03:31,040
+♪ <i>Feel good </i>♪
+
+40
+00:03:33,160 --> 00:03:34,160
+♪ <i>Feel good… </i>♪
+
+41
+00:03:36,720 --> 00:03:37,720
+♪ <i>Feel good </i>♪
+
+42
+00:03:40,360 --> 00:03:41,360
+♪ <i>Feel good </i>♪
+
+43
+00:03:43,720 --> 00:03:44,720
+♪ <i>Feel good </i>♪
+
+44
+00:03:46,800 --> 00:03:47,800
+♪ <i>Feel good </i>♪
+
+45
+00:03:50,440 --> 00:03:51,440
+♪ <i>Feel good… </i>♪
+
+46
+00:03:54,240 --> 00:03:58,480
+…beautiful day for a race,
+and we have an exciting one for you.
+
+47
+00:03:58,560 --> 00:04:01,560
+♪ <i>City's breaking down on a camel's back </i>♪
+
+48
+00:04:01,640 --> 00:04:02,920
+♪ <i>They just have to go </i>♪
+
+49
+00:04:03,000 --> 00:04:04,960
+♪ <i>'Cause they don't know wack </i>♪
+
+50
+00:04:05,040 --> 00:04:08,320
+♪ <i>So while you fill the streets</i>
+<i>It's appealing to see… </i>♪
+
+51
+00:04:08,400 --> 00:04:09,400
+Michael.
+
+52
+00:04:10,760 --> 00:04:12,120
+Get off your phone, please.
+
+53
+00:04:13,200 --> 00:04:15,160
+I need you right now, not in two hours.
+
+54
+00:04:16,880 --> 00:04:17,920
+I'll be right there.
+
+55
+00:04:18,960 --> 00:04:20,040
+Okay.
+
+56
+00:04:20,120 --> 00:04:22,120
+<i>♪ All I wanna hear is the message beep ♪</i>
+
+57
+00:04:22,200 --> 00:04:25,560
+<i>♪ My dreams, they got a kissing</i>
+<i>'Cause I don't get sleep, no… ♪</i>
+
+58
+00:04:25,640 --> 00:04:26,680
+Michael Carella.
+
+59
+00:04:27,400 --> 00:04:29,520
+The race starts in 20 minutes, hotshot.
+
+60
+00:04:32,200 --> 00:04:33,840
+All right, I'm coming.
+
+61
+00:04:35,200 --> 00:04:37,080
+There's only one hotshot here, Kevin.
+
+62
+00:04:37,800 --> 00:04:39,680
+{\an8}Damn, check him out. Such a show-off.
+
+63
+00:04:40,440 --> 00:04:44,000
+{\an8}The guy's in full Yamaha.
+His team with their headsets and tablets.
+
+64
+00:04:44,080 --> 00:04:45,920
+- It's complete bullshit.
+- Hey. Hey!
+
+65
+00:04:46,000 --> 00:04:47,840
+Keep your mouth shut and focus.
+
+66
+00:04:47,920 --> 00:04:50,240
+It's the qualifying round.
+It's high level.
+
+67
+00:04:50,320 --> 00:04:52,360
+If you this mess up,
+Dad is going to kill us both.
+
+68
+00:04:52,440 --> 00:04:53,760
+Relax, I got this.
+
+69
+00:04:54,560 --> 00:04:56,560
+- Triple bump?
+- Third gear, full throttle.
+
+70
+00:04:56,640 --> 00:04:59,520
+- Your position for the exit?
+- Lean on the bike, and put my elbow out.
+
+71
+00:04:59,600 --> 00:05:01,560
+- Your eyeline?
+- Up high, I've got it.
+
+72
+00:05:03,600 --> 00:05:05,600
+- Whatever happens?
+- We stay alive.
+
+73
+00:05:22,280 --> 00:05:24,760
+This GP8 track is
+a labor of love,
+
+74
+00:05:24,840 --> 00:05:26,600
+built for us by the '90s legend himself,
+
+75
+00:05:26,680 --> 00:05:29,560
+a man who dominated the podiums
+during his years of supremacy
+
+76
+00:05:29,640 --> 00:05:31,400
+over the dirt bike riding world,
+
+77
+00:05:31,480 --> 00:05:33,040
+and who is with us here today.
+
+78
+00:05:33,120 --> 00:05:35,880
+A huge welcome
+for one of the giants of this sport,
+
+79
+00:05:35,960 --> 00:05:37,240
+Mr. Daniel Carella.
+
+80
+00:05:45,240 --> 00:05:47,280
+Thank you, Jean-Yves. Thanks very much.
+
+81
+00:05:47,360 --> 00:05:50,000
+Thanks, everyone, for your friendship
+
+82
+00:05:50,520 --> 00:05:52,560
+and for your presence on this racetrack,
+
+83
+00:05:52,640 --> 00:05:57,520
+which, uh, my wife, Clara,
+and I dreamt up together and created
+
+84
+00:05:58,200 --> 00:05:59,480
+quite some time ago.
+
+85
+00:06:00,560 --> 00:06:03,360
+It's been with gratitude
+that for the past two years,
+
+86
+00:06:03,440 --> 00:06:07,000
+me and my family, and my sister,
+have welcomed you here.
+
+87
+00:06:07,960 --> 00:06:11,400
+Together, let's keep Clara's legacy alive.
+
+88
+00:06:12,160 --> 00:06:13,440
+Uh…
+
+89
+00:06:13,520 --> 00:06:16,560
+All I want to say
+to the upcoming generation is
+
+90
+00:06:16,640 --> 00:06:17,920
+may the best racer win.
+
+91
+00:06:18,000 --> 00:06:21,600
+And hopefully,
+the best racer today will be a Carella.
+
+92
+00:06:21,680 --> 00:06:24,760
+Thank you all for your friendship
+and your support.
+
+93
+00:06:25,400 --> 00:06:26,640
+Now, have a good race.
+
+94
+00:06:26,720 --> 00:06:30,920
+Thank you for that, Daniel.
+A round of applause for Daniel Carella!
+
+95
+00:06:31,560 --> 00:06:35,120
+Today's event is the last
+of the qualifying races.
+
+96
+00:06:35,200 --> 00:06:38,960
+A final showdown that we've been
+looking forward to for weeks.
+
+97
+00:06:40,240 --> 00:06:43,480
+It's Michael Carella who has
+the best time trial for this finale,
+
+98
+00:06:43,560 --> 00:06:46,240
+and today, he's racing on his home turf.
+
+99
+00:06:46,840 --> 00:06:49,800
+Michael, wearing number 107,
+is in second position,
+
+100
+00:06:49,880 --> 00:06:53,400
+just behind Kevin Lautier, number 187.
+
+101
+00:06:53,480 --> 00:06:57,600
+Lautier is just two points away
+from first place and qualification.
+
+102
+00:06:59,120 --> 00:07:03,000
+I see the green flag now,
+which means the race is about to begin.
+
+103
+00:07:03,080 --> 00:07:04,880
+And it should be an explosive one.
+
+104
+00:07:05,920 --> 00:07:06,960
+Five seconds.
+
+105
+00:07:12,320 --> 00:07:14,120
+Ladies and gents, here they go.
+
+106
+00:07:14,640 --> 00:07:18,600
+The riders are all full throttle,
+heading into a crowded first turn.
+
+107
+00:07:19,880 --> 00:07:24,080
+Carella is off to an aggressive start.
+He moves in front of rider 110.
+
+108
+00:07:24,560 --> 00:07:28,560
+He's a little slow on the brakes,
+but Michael Carella is leading.
+
+109
+00:07:29,640 --> 00:07:34,240
+Michael is going full throttle as Lautier
+comes around the turn in second position.
+
+110
+00:07:35,360 --> 00:07:37,880
+Michael leans into the turn
+with incredible speed,
+
+111
+00:07:38,640 --> 00:07:41,040
+and over to the other side
+as he flies away,
+
+112
+00:07:41,120 --> 00:07:43,480
+maintaining his lead position
+on this hill.
+
+113
+00:07:46,760 --> 00:07:50,000
+It's crowded back there behind him,
+with everyone really pushing.
+
+114
+00:07:50,080 --> 00:07:52,680
+But Michael Carella is
+on his home turf today,
+
+115
+00:07:52,760 --> 00:07:54,640
+giving him a huge advantage.
+
+116
+00:07:54,720 --> 00:07:56,160
+Come on, Mikey!
+
+117
+00:07:56,760 --> 00:07:57,880
+Still leading,
+
+118
+00:07:57,960 --> 00:08:01,560
+as he flies away,
+tailed by his opponent, Kevin Lautier,
+
+119
+00:08:01,640 --> 00:08:03,840
+who is still in second position.
+
+120
+00:08:05,720 --> 00:08:09,240
+Two more laps to go
+and Carella has retained his lead.
+
+121
+00:08:09,320 --> 00:08:12,440
+The heat is on! But it's not over yet,
+
+122
+00:08:12,520 --> 00:08:15,400
+and Kevin Lautier closes in
+on Mr. Carella.
+
+123
+00:08:15,480 --> 00:08:16,640
+Oh, careful!
+
+124
+00:08:16,720 --> 00:08:19,960
+Wow, wow, wow! Lautier is going for it.
+
+125
+00:08:20,480 --> 00:08:22,760
+The pressure is on.
+He's on Michael's tail,
+
+126
+00:08:22,840 --> 00:08:24,400
+taking the bumps aggressively.
+
+127
+00:08:24,480 --> 00:08:26,120
+And… double whip!
+
+128
+00:08:26,200 --> 00:08:27,720
+- These guys are on fire!
+- Come on!
+
+129
+00:08:27,800 --> 00:08:29,320
+Go on, yeah! Yeah! Yeah!
+
+130
+00:08:30,560 --> 00:08:33,160
+…as Lautier seems
+to be catching up to Carella.
+
+131
+00:08:33,680 --> 00:08:34,960
+Come on. Mikey, push it.
+
+132
+00:08:35,040 --> 00:08:37,480
+And Michael keeps
+his position,
+
+133
+00:08:37,560 --> 00:08:39,480
+barely making it from inside.
+
+134
+00:08:39,560 --> 00:08:44,240
+107 still leading by a margin,
+but will he lap 122?
+
+135
+00:08:44,320 --> 00:08:48,680
+These two are fighting ruthlessly
+in this race for the World Championship,
+
+136
+00:08:48,760 --> 00:08:50,640
+while the others look for an opening.
+
+137
+00:08:52,680 --> 00:08:54,720
+Oh, yes, look, he's coming back!
+Whoa, whoa, whoa!
+
+138
+00:08:54,800 --> 00:08:57,200
+- He needs to hold out…
+- Come on. Don't do this.
+
+139
+00:08:57,280 --> 00:08:59,800
+…the front mudguard!
+Close the doors, Michael.
+
+140
+00:08:59,880 --> 00:09:02,000
+Close the doors because he's coming back.
+
+141
+00:09:02,080 --> 00:09:04,600
+Can you feel the tension?
+Anything can happen now.
+
+142
+00:09:04,680 --> 00:09:06,200
+- No, no, no.
+- What a final!
+
+143
+00:09:06,280 --> 00:09:08,040
+The heat coming off this racetrack!
+
+144
+00:09:09,080 --> 00:09:12,560
+My, oh, my, what a race.
+Only 400 meters left to go.
+
+145
+00:09:12,640 --> 00:09:14,160
+- The final stretch!
+- Come on…
+
+146
+00:09:14,240 --> 00:09:17,840
+He's going for it! He's going
+for it. He's overtaking Michael!
+
+147
+00:09:17,920 --> 00:09:18,920
+Oh, fuck!
+
+148
+00:09:19,760 --> 00:09:22,120
+Michael has just lost the pole position.
+
+149
+00:09:22,200 --> 00:09:25,400
+And Kevin Lautier is the big winner today.
+
+150
+00:09:25,480 --> 00:09:32,200
+Finishing just ahead of Michael Carella,
+who ends his championship run in second.
+
+151
+00:09:38,800 --> 00:09:40,640
+You could've won that race.
+
+152
+00:09:42,320 --> 00:09:44,000
+You really could have beaten him.
+
+153
+00:09:46,000 --> 00:09:47,040
+I'm still runner-up.
+
+154
+00:09:50,360 --> 00:09:52,680
+The runner-up is
+just the first loser, Michael.
+
+155
+00:09:52,760 --> 00:09:53,760
+Come on.
+
+156
+00:09:56,520 --> 00:09:58,880
+You're good, Michael,
+but mere talent doesn't matter.
+
+157
+00:09:58,960 --> 00:10:00,240
+It's the bare minimum.
+
+158
+00:10:00,840 --> 00:10:04,000
+Winning is a matter of choice and will,
+you know that.
+
+159
+00:10:05,440 --> 00:10:09,000
+- As for today, you were missing that.
+- Dad, enough, he gets it.
+
+160
+00:10:09,080 --> 00:10:11,160
+We'll train.
+There's the whole season still ahead.
+
+161
+00:10:11,240 --> 00:10:13,480
+No, there's no more training.
+It's over.
+
+162
+00:10:15,280 --> 00:10:16,680
+What are you talking about?
+
+163
+00:10:17,920 --> 00:10:21,080
+Just, uh,
+finish cleaning the stalls.
+
+164
+00:10:21,160 --> 00:10:23,280
+I'll see you guys
+both at home later, okay?
+
+165
+00:10:38,200 --> 00:10:40,000
+We haven't made much progress.
+
+166
+00:10:40,080 --> 00:10:42,400
+I nearly caught them three weeks ago.
+
+167
+00:10:42,480 --> 00:10:44,480
+But they're organized. They're trained.
+
+168
+00:10:44,560 --> 00:10:46,960
+They ride powerful bikes
+they upgrade themselves.
+
+169
+00:10:47,040 --> 00:10:49,400
+They stole half a million euros
+of luxury watches
+
+170
+00:10:49,480 --> 00:10:52,080
+carried by an anonymous employee,
+so they had an informant.
+
+171
+00:10:52,160 --> 00:10:55,080
+Now you're asking for more men
+and resources to catch them.
+
+172
+00:10:55,160 --> 00:10:56,440
+I need more support here.
+
+173
+00:10:56,520 --> 00:10:58,560
+I'm asking for police headquarters
+to intervene.
+
+174
+00:10:58,640 --> 00:11:01,200
+With more vehicles,
+I could've stopped them, dammit.
+
+175
+00:11:27,480 --> 00:11:29,320
+Fuck, Vincent!
+
+176
+00:11:29,400 --> 00:11:30,640
+Your watch.
+
+177
+00:11:30,720 --> 00:11:32,600
+- Get the fuck away.
+- Take off your watch.
+
+178
+00:11:32,680 --> 00:11:34,920
+- Give it to him, Vincent. Now!
+- Hand it over.
+
+179
+00:11:39,520 --> 00:11:41,120
+Stay on the ground, asshole.
+
+180
+00:11:43,200 --> 00:11:44,880
+What you got, dickhead?
+
+181
+00:11:44,960 --> 00:11:46,440
+Vincent!
+
+182
+00:11:47,720 --> 00:11:49,040
+Get up.
+
+183
+00:11:49,840 --> 00:11:51,200
+Stop it!
+
+184
+00:11:52,800 --> 00:11:55,280
+What's going on?
+
+185
+00:11:55,360 --> 00:11:57,760
+Back in the car!
+Get back in your car!
+
+186
+00:11:57,840 --> 00:11:59,280
+Vincent, look at me.
+
+187
+00:12:00,280 --> 00:12:02,600
+- What are you doing?
+- Call the police!
+
+188
+00:12:03,200 --> 00:12:04,440
+Vincent!
+
+189
+00:12:05,840 --> 00:12:07,800
+Don't go. I'll call an ambulance, okay?
+
+190
+00:12:10,440 --> 00:12:12,400
+Yeah, get out of here, asshole!
+
+191
+00:12:21,920 --> 00:12:24,240
+Two colleagues hospitalized.
+
+192
+00:12:24,320 --> 00:12:27,240
+Your moto squad costs a lot,
+in terms of men and equipment.
+
+193
+00:12:27,320 --> 00:12:29,560
+We're officers, not accountants.
+
+194
+00:12:29,640 --> 00:12:31,240
+And my guys know the risks.
+
+195
+00:12:32,960 --> 00:12:35,520
+Those bikers are in this
+for the adrenaline rush.
+
+196
+00:12:35,600 --> 00:12:36,720
+Not for the money.
+
+197
+00:12:36,800 --> 00:12:38,960
+And they love to make us look stupid.
+
+198
+00:12:39,040 --> 00:12:41,080
+They're not done. You can bet on that.
+
+199
+00:12:41,160 --> 00:12:43,560
+Well, all I know is that
+it's getting near impossible
+
+200
+00:12:43,640 --> 00:12:47,040
+to justify your operation
+to my higher-ups. I want results.
+
+201
+00:12:49,880 --> 00:12:51,080
+The Crystal Week.
+
+202
+00:12:52,640 --> 00:12:53,640
+What?
+
+203
+00:12:53,720 --> 00:12:54,840
+Elsa, please.
+
+204
+00:12:58,800 --> 00:13:01,640
+We know they specialize
+in jewelry theft. Check this out.
+
+205
+00:13:04,880 --> 00:13:07,600
+<i>The most anticipated event</i>
+<i>of Crystal Week is the presentation</i>
+
+206
+00:13:07,680 --> 00:13:10,160
+<i>of these red diamonds,</i>
+<i>the rarest of stones.</i>
+
+207
+00:13:10,240 --> 00:13:13,520
+<i>Diamond dealer Mazetti will reveal them</i>
+<i>at auction, but until then,</i>
+
+208
+00:13:13,600 --> 00:13:15,680
+<i>their appraisal remains confidential.</i>
+
+209
+00:13:15,760 --> 00:13:16,720
+<i>These--</i>
+
+210
+00:13:17,640 --> 00:13:21,080
+There'll be jewelry worth millions
+transported between Roissy, Orly,
+
+211
+00:13:21,160 --> 00:13:22,400
+Le Bourget and Paris.
+
+212
+00:13:22,480 --> 00:13:23,960
+They're going to strike.
+
+213
+00:13:24,040 --> 00:13:27,200
+Do you have concrete information
+or is this one of your hunches?
+
+214
+00:13:29,800 --> 00:13:31,320
+I know how these guys think.
+
+215
+00:13:31,400 --> 00:13:34,480
+I've analyzed their past hits
+and operating methods.
+
+216
+00:13:34,560 --> 00:13:36,960
+These guys won't miss
+an opportunity like that.
+
+217
+00:13:39,240 --> 00:13:41,840
+You know, Lucas, the rest of my day
+will be spent getting yelled at
+
+218
+00:13:41,920 --> 00:13:44,360
+by elected officials
+and cops who want your ass.
+
+219
+00:13:44,440 --> 00:13:46,240
+So don't ask me for anything.
+
+220
+00:13:46,840 --> 00:13:47,960
+And one more thing.
+
+221
+00:13:48,640 --> 00:13:50,640
+I don't even want to speak to you again.
+
+222
+00:13:53,440 --> 00:13:54,560
+Have a great day.
+
+223
+00:14:03,280 --> 00:14:04,400
+So, what now?
+
+224
+00:14:04,480 --> 00:14:06,800
+Did you get forensics
+back from the bridge robbery?
+
+225
+00:14:06,880 --> 00:14:08,880
+- No, not yet.
+- Call the lab again.
+
+226
+00:14:08,960 --> 00:14:09,920
+Okay.
+
+227
+00:14:17,360 --> 00:14:19,760
+Let's meet at 3 p.m.
+at the school in Saint-Ouen.
+
+228
+00:14:20,680 --> 00:14:22,800
+- How much?
+- Three thousand.
+
+229
+00:14:24,480 --> 00:14:26,720
+- Can we count on you tomorrow or not?
+- Michael?
+
+230
+00:14:29,880 --> 00:14:31,520
+Maybe. I'll think about it.
+
+231
+00:14:32,040 --> 00:14:34,880
+- Well, don't think too much.
+- Yeah, okay.
+
+232
+00:14:36,800 --> 00:14:38,720
+What was that with Yacine?
+
+233
+00:14:38,800 --> 00:14:41,280
+He offered me a gig.
+Three thousand euros, easy job.
+
+234
+00:14:41,360 --> 00:14:42,320
+What type of job?
+
+235
+00:14:42,800 --> 00:14:46,120
+It's a jump Yacine can't do because
+he's injured. I don't know any more.
+
+236
+00:14:46,200 --> 00:14:47,360
+Except the man pays cash.
+
+237
+00:14:48,160 --> 00:14:49,120
+Hey.
+
+238
+00:14:49,760 --> 00:14:50,720
+Is it legit?
+
+239
+00:14:51,440 --> 00:14:52,520
+Of course it is.
+
+240
+00:14:56,600 --> 00:14:58,440
+Well, come on, Dad's waiting for us.
+
+241
+00:14:59,120 --> 00:15:00,080
+Okay.
+
+242
+00:15:22,360 --> 00:15:23,320
+Thanks.
+
+243
+00:15:29,480 --> 00:15:30,440
+Thanks.
+
+244
+00:15:32,440 --> 00:15:33,440
+Not too much.
+
+245
+00:15:33,520 --> 00:15:34,480
+Hmm.
+
+246
+00:15:43,440 --> 00:15:44,600
+So?
+
+247
+00:15:45,280 --> 00:15:46,440
+What's going on?
+
+248
+00:15:49,920 --> 00:15:53,160
+We're about to run out of money.
+We could've lasted another year,
+
+249
+00:15:53,240 --> 00:15:56,320
+but the sponsors are dropping us
+because of Michael's loss.
+
+250
+00:15:56,400 --> 00:15:57,440
+There.
+
+251
+00:15:58,720 --> 00:16:00,600
+Why wouldn't you tell me this
+before the race?
+
+252
+00:16:02,000 --> 00:16:03,880
+- I don't understand.
+- Wait, wait.
+
+253
+00:16:03,960 --> 00:16:05,160
+What's going on?
+
+254
+00:16:05,240 --> 00:16:07,000
+Tell us the whole situation.
+
+255
+00:16:08,840 --> 00:16:11,520
+I won't get into details,
+that's my business.
+
+256
+00:16:12,320 --> 00:16:13,560
+Come on, explain it.
+
+257
+00:16:16,240 --> 00:16:18,240
+We're a 150,000 in debt.
+
+258
+00:16:19,560 --> 00:16:22,280
+The racetrack rental is not turning
+enough of a profit.
+
+259
+00:16:23,320 --> 00:16:25,720
+The bank wants to sell
+the house and track ASAP.
+
+260
+00:16:26,320 --> 00:16:28,120
+Preferably yesterday, if we could.
+
+261
+00:16:28,640 --> 00:16:30,560
+She has a point. They're not kids anymore.
+
+262
+00:16:30,640 --> 00:16:32,240
+All right, don't start.
+
+263
+00:16:32,320 --> 00:16:35,120
+But why did you wait so long
+to tell us all of this?
+
+264
+00:16:36,320 --> 00:16:38,480
+- We'll end up homeless, Dad.
+- Course not.
+
+265
+00:16:39,560 --> 00:16:40,800
+That won't happen.
+
+266
+00:16:40,880 --> 00:16:43,320
+- I have a solution anyway.
+- What solution?
+
+267
+00:16:44,720 --> 00:16:45,960
+I'll sell the bikes.
+
+268
+00:16:49,520 --> 00:16:50,560
+Sell the bikes?
+
+269
+00:16:52,160 --> 00:16:53,240
+You mean Mom's bikes?
+
+270
+00:16:54,480 --> 00:16:55,320
+Mmm.
+
+271
+00:16:59,720 --> 00:17:01,040
+What're you talking about?
+
+272
+00:17:01,560 --> 00:17:05,120
+But you and Mom spent years restoring
+those bikes. You can't sell those.
+
+273
+00:17:06,200 --> 00:17:09,280
+I asked around.
+We could make 100,000 euros at least.
+
+274
+00:17:09,800 --> 00:17:10,920
+So then…
+
+275
+00:17:14,480 --> 00:17:17,760
+You and your brother would be set.
+You'd be able to start over.
+
+276
+00:17:22,040 --> 00:17:23,600
+Aunt Hélène, did you know?
+
+277
+00:17:23,680 --> 00:17:24,640
+I did.
+
+278
+00:17:27,960 --> 00:17:28,920
+And?
+
+279
+00:17:30,320 --> 00:17:33,920
+Well, he isn't going to be buried
+with those motorcycles. They won't fit.
+
+280
+00:17:37,040 --> 00:17:39,240
+So nobody even cares?
+
+281
+00:17:40,600 --> 00:17:43,600
+We'll get rid of Mom's bikes on
+a stupid website and no one seems to care?
+
+282
+00:17:43,680 --> 00:17:48,360
+Honey, what your mother really liked
+was seeing those bikes come alive.
+
+283
+00:17:48,440 --> 00:17:51,280
+It wasn't collecting them.
+She wouldn't hesitate if she--
+
+284
+00:17:51,360 --> 00:17:52,640
+But Mom is gone!
+
+285
+00:17:52,720 --> 00:17:53,920
+Our mom's gone.
+
+286
+00:17:56,520 --> 00:17:59,680
+Dad, if you sell those bikes,
+it would be like a second funeral.
+
+287
+00:18:01,280 --> 00:18:03,040
+Yacine offered me a jump.
+
+288
+00:18:03,120 --> 00:18:05,160
+We can make 3,000 euros.
+
+289
+00:18:08,240 --> 00:18:09,720
+We can use the money, right?
+
+290
+00:18:09,800 --> 00:18:11,560
+I just win races and we're good.
+
+291
+00:18:11,640 --> 00:18:14,440
+The race you really needed to win
+was today, all right?
+
+292
+00:18:15,200 --> 00:18:18,000
+So you can keep
+your cheap little schemes for yourself.
+
+293
+00:18:22,720 --> 00:18:23,920
+Why won't you be honest, Dad?
+
+294
+00:18:25,600 --> 00:18:26,560
+Honest about what?
+
+295
+00:18:27,080 --> 00:18:28,960
+What's really on your mind.
+
+296
+00:18:30,840 --> 00:18:33,000
+- What's on my mind?
+- Just say it.
+
+297
+00:18:34,200 --> 00:18:36,760
+That if I'd crashed instead of Soélie,
+we wouldn't be here today.
+
+298
+00:18:36,840 --> 00:18:38,920
+Hey, Michael, you're talking nonsense.
+Come on.
+
+299
+00:18:39,000 --> 00:18:40,880
+Oh, really? Ask him about it.
+
+300
+00:18:42,240 --> 00:18:45,320
+Am I right, Dad?
+Who's a better rider? Me or Soélie?
+
+301
+00:18:45,400 --> 00:18:48,520
+- Soélie doesn't want to ride anymore, so--
+- That's not what I asked.
+
+302
+00:18:49,040 --> 00:18:50,280
+That's my only answer anyway.
+
+303
+00:18:50,360 --> 00:18:52,560
+Who's a better rider,
+me or Soélie?
+
+304
+00:18:53,560 --> 00:18:56,160
+Just answer.
+It's really simple. Who's the best biker?
+
+305
+00:18:56,240 --> 00:18:57,680
+- Soélie or me?
+- Soélie!
+
+306
+00:18:59,720 --> 00:19:02,360
+Okay. The great
+Daniel Carella's legendary honesty--
+
+307
+00:19:02,440 --> 00:19:04,360
+Whoa, whoa, whoa. Easy, okay?
+
+308
+00:19:04,960 --> 00:19:06,600
+- Some respect, huh?
+- Some respect?
+
+309
+00:19:07,640 --> 00:19:10,000
+- What good is that?
+- I don't like the way you're speaking.
+
+310
+00:19:10,080 --> 00:19:11,760
+- What good is your respect?
+- Stop!
+
+311
+00:19:14,040 --> 00:19:15,280
+You know what?
+
+312
+00:19:15,360 --> 00:19:17,720
+If I could have chosen who got cancer,
+
+313
+00:19:18,440 --> 00:19:20,280
+it would've been you instead of Mom.
+
+314
+00:19:36,720 --> 00:19:38,320
+Do you have anything to add?
+
+315
+00:19:38,400 --> 00:19:39,840
+Jump in, now's the time.
+
+316
+00:19:42,920 --> 00:19:44,240
+Michael wants to help.
+
+317
+00:19:46,240 --> 00:19:47,600
+And you humiliate him.
+
+318
+00:19:50,280 --> 00:19:51,280
+I'll speak to him.
+
+319
+00:19:52,960 --> 00:19:53,920
+I'll explain.
+
+320
+00:19:55,640 --> 00:19:58,400
+There's a couple of things
+he must get through his head.
+
+321
+00:19:59,440 --> 00:20:02,720
+He doesn't have the mindset or the drive
+to become a champion. It is what it is.
+
+322
+00:20:03,400 --> 00:20:04,680
+The same goes for me.
+
+323
+00:20:14,400 --> 00:20:15,520
+I'm sorry.
+
+324
+00:20:21,200 --> 00:20:22,240
+You're his father.
+
+325
+00:20:24,200 --> 00:20:25,520
+Not simply his coach.
+
+326
+00:20:26,960 --> 00:20:28,720
+You should remember that sometimes.
+
+327
+00:20:38,320 --> 00:20:40,320
+- Right here?
+- Yeah, maybe.
+
+328
+00:20:45,440 --> 00:20:47,560
+Is this it?
+I don't see a ramp or anything.
+
+329
+00:20:47,640 --> 00:20:49,160
+Yes, it's here. I see Yacine.
+
+330
+00:20:49,680 --> 00:20:51,840
+- Okay. But I don't trust him.
+- Don't worry.
+
+331
+00:20:51,920 --> 00:20:53,880
+Let me check everything first.
+
+332
+00:20:57,680 --> 00:20:58,720
+Here's the biker.
+
+333
+00:20:59,240 --> 00:21:00,840
+- Your timing's perfect.
+- What's up, man?
+
+334
+00:21:00,920 --> 00:21:02,240
+How's it going? All right?
+
+335
+00:21:02,320 --> 00:21:03,400
+How are you, Soélie?
+
+336
+00:21:04,800 --> 00:21:05,720
+Yeah.
+
+337
+00:21:06,240 --> 00:21:07,440
+She seems good.
+
+338
+00:21:07,520 --> 00:21:09,400
+- Your hand feels better?
+- Yeah, it's better.
+
+339
+00:21:09,480 --> 00:21:11,240
+- That your bike?
+- Yeah.
+
+340
+00:21:11,320 --> 00:21:12,600
+What a monster.
+
+341
+00:21:12,680 --> 00:21:14,040
+I'll introduce you to Théo.
+
+342
+00:21:15,360 --> 00:21:17,400
+- We'll talk about that.
+- Théo!
+
+343
+00:21:18,320 --> 00:21:20,440
+- See you later.
+- The biker.
+
+344
+00:21:21,280 --> 00:21:22,480
+Hi. Michael.
+
+345
+00:21:23,320 --> 00:21:25,080
+- You're a bit young.
+- I'm 20.
+
+346
+00:21:25,160 --> 00:21:26,920
+Been riding for ten, so I'm good.
+
+347
+00:21:27,640 --> 00:21:29,320
+And does the miss ride as well?
+
+348
+00:21:30,000 --> 00:21:31,360
+The miss repairs the bikes.
+
+349
+00:21:32,360 --> 00:21:33,840
+And examines the racecourse.
+
+350
+00:21:34,840 --> 00:21:37,560
+We're ready and the bikes are set.
+Relax. There won't be any issues.
+
+351
+00:21:37,640 --> 00:21:41,360
+That's my decision, not yours, to make.
+My brother will jump, but with our bike.
+
+352
+00:21:41,440 --> 00:21:44,000
+All right, just stay calm
+because it's more than a jump.
+
+353
+00:21:44,080 --> 00:21:45,040
+Come again?
+
+354
+00:21:46,200 --> 00:21:47,720
+You said one jump, right?
+
+355
+00:21:50,880 --> 00:21:52,800
+Okay, follow me. I'll show you.
+
+356
+00:21:58,360 --> 00:22:02,320
+- You talk to the man about the watches?
+- <i>Yeah, he said 200, tops.</i>
+
+357
+00:22:02,400 --> 00:22:03,400
+It has to be more.
+
+358
+00:22:03,480 --> 00:22:05,320
+No, don't go below 500.
+
+359
+00:22:05,400 --> 00:22:07,080
+- Elyas!
+<i>- I'll do my best.</i>
+
+360
+00:22:07,160 --> 00:22:08,120
+I have to go.
+
+361
+00:22:10,720 --> 00:22:12,960
+This is Michael Carella.
+The man I told you about.
+
+362
+00:22:13,040 --> 00:22:15,400
+With a sister who wasn't
+part of the whole deal.
+
+363
+00:22:22,280 --> 00:22:24,680
+- Hello. Elyas.
+- Soélie.
+
+364
+00:22:24,760 --> 00:22:26,600
+- How are you? Welcome.
+- Hi. Michael.
+
+365
+00:22:33,800 --> 00:22:35,880
+This thing was originally a scooter?
+
+366
+00:22:35,960 --> 00:22:36,960
+Mm-hmm.
+
+367
+00:22:37,040 --> 00:22:38,440
+A Yamaha, I believe, no?
+
+368
+00:22:39,200 --> 00:22:40,160
+Right.
+
+369
+00:22:40,800 --> 00:22:43,600
+Mmm. So, it's a battle tank
+disguised as a dirt bike.
+
+370
+00:22:43,680 --> 00:22:45,800
+Exactly. That's the beauty
+we need to test.
+
+371
+00:22:45,880 --> 00:22:48,320
+My brother's not riding that bike.
+It's too dangerous.
+
+372
+00:22:48,840 --> 00:22:51,080
+- Soélie, be cool.
+- Let's go. I'm over this.
+
+373
+00:22:51,160 --> 00:22:52,960
+- Come on.
+- Do you ride as well?
+
+374
+00:22:54,800 --> 00:22:57,240
+Théo is my top mechanic.
+You can trust him.
+
+375
+00:23:00,120 --> 00:23:02,120
+- But I know what a dirt bike is.
+- Mm-hmm.
+
+376
+00:23:02,200 --> 00:23:04,680
+That monster was never intended
+for the racetrack.
+
+377
+00:23:06,600 --> 00:23:08,680
+It's an obstacle course, not a racetrack.
+
+378
+00:23:10,040 --> 00:23:13,200
+We need to test the speed
+and the bike fork's resistance.
+
+379
+00:23:13,280 --> 00:23:17,040
+My client is looking for something
+that's reactive and powerful.
+
+380
+00:23:17,840 --> 00:23:20,680
+So what I'm looking for is a good rider
+to push it to its limits.
+
+381
+00:23:20,760 --> 00:23:22,160
+Think you can do it?
+
+382
+00:23:24,200 --> 00:23:26,040
+- Yeah. I can do it, yeah.
+- Yeah?
+
+383
+00:23:27,440 --> 00:23:28,400
+What's wrong, then?
+
+384
+00:23:31,000 --> 00:23:33,480
+- Did you convert that TMAX yourself?
+- Yes.
+
+385
+00:23:34,080 --> 00:23:36,000
+Good work. It was done pretty well.
+
+386
+00:23:36,080 --> 00:23:37,600
+Still heavy as a tank though.
+
+387
+00:23:38,800 --> 00:23:40,080
+What do you mean?
+
+388
+00:23:40,680 --> 00:23:42,600
+The couple won't be strong enough.
+
+389
+00:23:42,680 --> 00:23:43,960
+You need to reprogram the mapping
+
+390
+00:23:44,040 --> 00:23:46,400
+to get its full speed
+then couple the fork with a tighter--
+
+391
+00:23:46,480 --> 00:23:48,600
+The variator will compensate. I tested it.
+
+392
+00:23:49,200 --> 00:23:50,320
+But it's less powerful.
+
+393
+00:23:50,400 --> 00:23:52,600
+The bike's extension won't keep up.
+
+394
+00:23:52,680 --> 00:23:54,520
+Especially riding obstacles.
+
+395
+00:23:54,600 --> 00:23:56,280
+And your hoses are for crap, man.
+
+396
+00:23:58,240 --> 00:23:59,400
+And how would you know?
+
+397
+00:24:00,960 --> 00:24:03,120
+Michael, do you want
+to test it out or what?
+
+398
+00:24:05,000 --> 00:24:05,840
+Mmm.
+
+399
+00:24:10,040 --> 00:24:11,000
+Okay.
+
+400
+00:24:14,240 --> 00:24:16,280
+- You good?
+- Do you trust this guy?
+
+401
+00:24:16,360 --> 00:24:18,720
+- Comfortable?
+- A hundred percent. He's my friend.
+
+402
+00:24:18,800 --> 00:24:19,760
+He's a pro.
+
+403
+00:24:21,280 --> 00:24:22,680
+Okay, so what did you tell him?
+
+404
+00:24:22,760 --> 00:24:26,360
+I told him nothing, bro. He's supposed
+to test the bike, get paid, and leave.
+
+405
+00:24:28,240 --> 00:24:29,400
+How's your wrist doing?
+
+406
+00:24:31,760 --> 00:24:33,760
+It'll be fine. This comes off tomorrow.
+
+407
+00:24:35,640 --> 00:24:38,200
+- I got it.
+- Keep your eyes on me.
+
+408
+00:24:38,280 --> 00:24:39,560
+Did you do something stupid?
+
+409
+00:24:39,640 --> 00:24:42,480
+Are you interrogating me?
+You don't trust me, Théo?
+
+410
+00:24:43,320 --> 00:24:45,240
+- Chill out, man.
+- Are you sure?
+
+411
+00:24:46,720 --> 00:24:47,600
+Of course I'm sure.
+
+412
+00:24:47,680 --> 00:24:48,760
+You're pissing me off.
+
+413
+00:24:49,280 --> 00:24:50,680
+- Yacine.
+- What?
+
+414
+00:24:52,120 --> 00:24:53,520
+You'd better not be lying.
+
+415
+00:24:58,200 --> 00:25:00,320
+- Have you seen the fork?
+- That's a piece of wood.
+
+416
+00:25:00,400 --> 00:25:03,920
+You'll make do. It'll be all right.
+Just stay focused on your surroundings.
+
+417
+00:25:04,000 --> 00:25:05,000
+All good?
+
+418
+00:25:05,080 --> 00:25:07,680
+- Check the brakes, especially…
+- Yes, don't worry.
+
+419
+00:25:08,200 --> 00:25:09,440
+- Okay.
+- Whatever happens?
+
+420
+00:25:09,520 --> 00:25:11,080
+We stay alive, I know.
+
+421
+00:25:11,160 --> 00:25:12,120
+Go for it.
+
+422
+00:25:15,040 --> 00:25:16,080
+Okay, he's prepped.
+
+423
+00:25:17,280 --> 00:25:18,400
+Whenever you're ready.
+
+424
+00:25:28,320 --> 00:25:29,440
+It's not powerful enough.
+
+425
+00:25:29,520 --> 00:25:32,120
+Don't let the engine slow down.
+Try revving high.
+
+426
+00:25:51,200 --> 00:25:52,720
+Whoa! Oh, crap.
+
+427
+00:25:52,800 --> 00:25:53,920
+The brake.
+
+428
+00:25:56,720 --> 00:25:57,960
+He'll never make it.
+
+429
+00:25:58,040 --> 00:26:00,640
+The problem is not my brother.
+It's the speed of the bike.
+
+430
+00:26:00,720 --> 00:26:02,600
+I suppose <i>you </i>can make it better?
+
+431
+00:26:40,440 --> 00:26:42,040
+This thing is super heavy.
+
+432
+00:26:42,120 --> 00:26:44,680
+Do you have a lifting bridge?
+Bring the bike. I'll show you--
+
+433
+00:26:44,760 --> 00:26:47,080
+- Don't touch the bike, all right?
+- Let her try.
+
+434
+00:26:49,000 --> 00:26:50,840
+Let's see if she's really that good.
+
+435
+00:27:07,120 --> 00:27:08,120
+What the fuck?
+
+436
+00:27:31,120 --> 00:27:33,120
+What's happening? Why are the cops here?
+
+437
+00:27:36,960 --> 00:27:38,920
+- Mr. Farah?
+- That's me.
+
+438
+00:27:40,720 --> 00:27:41,880
+Lieutenant Delvo.
+
+439
+00:27:42,560 --> 00:27:44,880
+One of your employees said
+we'd find you here.
+
+440
+00:27:45,920 --> 00:27:48,200
+- Where's Yacine Meflah?
+- Yacine?
+
+441
+00:27:49,000 --> 00:27:50,840
+I think I saw him outside earlier.
+
+442
+00:27:50,920 --> 00:27:52,000
+Training some bikers.
+
+443
+00:27:52,080 --> 00:27:54,560
+Don't move! Don't move!
+
+444
+00:27:54,640 --> 00:27:55,600
+What is he doing?
+
+445
+00:27:55,680 --> 00:27:56,560
+No! Hey!
+
+446
+00:27:56,640 --> 00:27:57,520
+Stop!
+
+447
+00:27:57,600 --> 00:27:58,480
+Get down!
+
+448
+00:27:59,760 --> 00:28:01,560
+Stop him, stop him!
+
+449
+00:28:01,640 --> 00:28:03,840
+- Come on, let's move.
+- Fuck!
+
+450
+00:28:04,520 --> 00:28:05,840
+Hey! Hey!
+
+451
+00:28:07,560 --> 00:28:08,560
+Fuck!
+
+452
+00:28:33,240 --> 00:28:36,080
+Are you okay? I didn't see you.
+
+453
+00:28:37,360 --> 00:28:38,520
+It's gonna be okay.
+
+454
+00:28:39,440 --> 00:28:40,680
+Don't move.
+
+455
+00:28:46,440 --> 00:28:48,720
+Uh, easy. My arm, hey.
+
+456
+00:28:48,800 --> 00:28:50,800
+Yeah, yeah.
+
+457
+00:28:50,880 --> 00:28:52,800
+Take the bike over to the impound lot.
+
+458
+00:28:53,480 --> 00:28:55,000
+Easy on my arm, easy, man.
+
+459
+00:28:55,760 --> 00:28:57,120
+You didn't get far, huh?
+
+460
+00:29:03,800 --> 00:29:04,760
+The bike.
+
+461
+00:29:13,080 --> 00:29:14,240
+Come on, let's move.
+
+462
+00:29:16,840 --> 00:29:19,120
+You keep yourself away from Yacine.
+Do you hear me?
+
+463
+00:29:19,760 --> 00:29:21,560
+He's a motocross friend.
+I couldn't have known.
+
+464
+00:29:21,640 --> 00:29:25,120
+A motocross friend? A guy
+who runs from the cops is not a friend.
+
+465
+00:29:26,760 --> 00:29:30,000
+We're leaving without the bike.
+What am I supposed to tell Dad?
+
+466
+00:29:30,520 --> 00:29:32,440
+Why bring him up? Who cares about Dad?
+
+467
+00:29:32,520 --> 00:29:33,640
+"Who cares about Dad?"
+
+468
+00:29:34,120 --> 00:29:37,320
+His name's on the insurance.
+He's the one who'll get in trouble.
+
+469
+00:29:39,440 --> 00:29:40,960
+Really. "Who cares about Dad?"
+
+470
+00:29:42,560 --> 00:29:45,360
+Can't the two of you
+ever stop fighting like ten-year-olds?
+
+471
+00:29:45,440 --> 00:29:48,520
+Try acting like grown-ups.
+It would make things easier for me.
+
+472
+00:29:50,040 --> 00:29:51,200
+The way he talks to me.
+
+473
+00:29:51,720 --> 00:29:54,200
+- He's always undermining me.
+- Yeah, but you're asking for it.
+
+474
+00:29:55,800 --> 00:29:58,120
+Jeez, come on, "asking for it."
+
+475
+00:29:58,200 --> 00:30:01,680
+You're impossible. Just talk
+to each other. It's not that complicated.
+
+476
+00:30:03,000 --> 00:30:04,520
+Yes, it is complicated.
+
+477
+00:30:05,480 --> 00:30:07,760
+It's complicated
+when your dad drags you down.
+
+478
+00:30:12,840 --> 00:30:14,240
+Your fucking egos.
+
+479
+00:30:21,200 --> 00:30:23,440
+- Want me to come?
+- No, wait for me.
+
+480
+00:30:39,720 --> 00:30:40,720
+Get the door.
+
+481
+00:30:59,640 --> 00:31:00,720
+There you go.
+
+482
+00:31:09,640 --> 00:31:10,600
+Won't be enough.
+
+483
+00:31:11,960 --> 00:31:15,600
+The impound will cost money.
+Fixing the bike will as well.
+
+484
+00:31:31,600 --> 00:31:32,640
+Will this be enough?
+
+485
+00:31:39,680 --> 00:31:40,640
+Thank you.
+
+486
+00:31:41,720 --> 00:31:42,920
+How come you don't ride?
+
+487
+00:31:45,080 --> 00:31:47,200
+Your brother listens
+to every word you say.
+
+488
+00:31:47,800 --> 00:31:50,680
+You know all about it,
+so I wonder why you're not on the bike.
+
+489
+00:31:52,040 --> 00:31:53,160
+I had an accident.
+
+490
+00:31:53,880 --> 00:31:54,840
+So what?
+
+491
+00:31:55,600 --> 00:31:56,920
+I just don't ride anymore.
+
+492
+00:31:59,960 --> 00:32:01,400
+I have a job for you.
+
+493
+00:32:01,880 --> 00:32:03,160
+It's right up your alley.
+
+494
+00:32:03,240 --> 00:32:04,440
+As a bike mechanic.
+
+495
+00:32:06,720 --> 00:32:09,000
+But this job requires absolute discretion.
+
+496
+00:32:09,600 --> 00:32:10,880
+What's the risk?
+
+497
+00:32:11,360 --> 00:32:13,160
+Making a ton of easy money.
+
+498
+00:32:21,920 --> 00:32:23,520
+I don't want trouble with the police.
+
+499
+00:32:23,600 --> 00:32:26,520
+Ah… That's something I can't guarantee.
+
+500
+00:32:27,640 --> 00:32:28,600
+Then I'll pass.
+
+501
+00:32:29,080 --> 00:32:31,040
+I've had my share of crazy for the day.
+
+502
+00:32:33,400 --> 00:32:34,360
+Too bad.
+
+503
+00:32:34,880 --> 00:32:36,920
+I hope to see you around.
+
+504
+00:32:40,960 --> 00:32:43,440
+Why would you give the job
+to a girl you just met?
+
+505
+00:32:43,960 --> 00:32:44,960
+Any word on Yacine?
+
+506
+00:32:46,280 --> 00:32:48,240
+He knows enough to keep
+his mouth shut in there.
+
+507
+00:32:48,320 --> 00:32:50,040
+Do we know why he was arrested?
+
+508
+00:32:50,120 --> 00:32:52,240
+No one said. His lawyer will tell us more.
+
+509
+00:32:53,160 --> 00:32:54,240
+What about the 15th?
+
+510
+00:32:55,160 --> 00:32:56,520
+Should we get someone else?
+
+511
+00:33:01,880 --> 00:33:05,840
+Missing a glove? You lost it on
+the Bir-Hakeim bridge. Your DNA's on it.
+
+512
+00:33:06,360 --> 00:33:07,800
+I want to speak to a lawyer.
+
+513
+00:33:08,560 --> 00:33:09,920
+Type out his interrogation.
+
+514
+00:33:15,600 --> 00:33:16,600
+How's your wrist?
+
+515
+00:33:20,080 --> 00:33:22,200
+- Want a doctor?
+- You're the one who broke my wrist.
+
+516
+00:33:22,280 --> 00:33:23,360
+I want a lawyer, man.
+
+517
+00:33:24,760 --> 00:33:26,360
+- Carjacking?
+- Yeah, yeah. Get me a lawyer.
+
+518
+00:33:26,440 --> 00:33:28,480
+You'll spend time in jail
+with this track record--
+
+519
+00:33:28,560 --> 00:33:29,720
+Whatever. Stop talking to me.
+
+520
+00:33:29,800 --> 00:33:32,160
+Yeah, but you don't care.
+You already knew that, right?
+
+521
+00:33:34,480 --> 00:33:36,040
+- Get me a lawyer.
+- I don't understand.
+
+522
+00:33:36,120 --> 00:33:37,480
+Can you repeat that for me?
+
+523
+00:33:43,240 --> 00:33:44,240
+To be frank?
+
+524
+00:33:45,360 --> 00:33:46,320
+Hey.
+
+525
+00:33:47,000 --> 00:33:49,680
+I don't care about you.
+You're a little piece of shit.
+
+526
+00:33:51,280 --> 00:33:53,960
+There are hundreds
+of pieces of shit like you in jail.
+
+527
+00:33:55,480 --> 00:33:57,480
+I'm interested in your TMAX.
+
+528
+00:33:57,560 --> 00:33:58,640
+Where did you get it?
+
+529
+00:34:02,440 --> 00:34:03,440
+You have a supplier?
+
+530
+00:34:07,440 --> 00:34:09,760
+Do you know other guys
+with that kind of bike?
+
+531
+00:34:32,280 --> 00:34:33,240
+Mazetti.
+
+532
+00:34:34,760 --> 00:34:36,360
+Mazetti, the jeweler.
+
+533
+00:34:39,880 --> 00:34:40,880
+Ring a bell?
+
+534
+00:34:45,080 --> 00:34:46,840
+You know, if you have
+answers to my questions,
+
+535
+00:34:46,920 --> 00:34:49,040
+we'll forget about that lawyer,
+you and me.
+
+536
+00:34:52,240 --> 00:34:54,960
+I ain't sayin' nothing, guy.
+
+537
+00:34:55,680 --> 00:34:56,640
+Don't you get it?
+
+538
+00:35:01,560 --> 00:35:02,840
+Take him away.
+
+539
+00:35:05,360 --> 00:35:06,560
+You get me a lawyer.
+
+540
+00:35:07,680 --> 00:35:10,320
+- Hey, come on. That's painful. Go easy.
+- Yes. Come on. Get up.
+
+541
+00:35:10,400 --> 00:35:11,600
+Easy. I want a lawyer.
+
+542
+00:35:11,680 --> 00:35:14,240
+- I want a lawyer. You heard me.
+- We'll call a lawyer. Relax.
+
+543
+00:35:14,320 --> 00:35:16,760
+- Stop struggling.
+- Move!
+
+544
+00:35:16,840 --> 00:35:18,800
+I want a lawyer.
+Call me a fucking lawyer!
+
+545
+00:35:18,880 --> 00:35:20,080
+Calm down!
+
+546
+00:35:45,480 --> 00:35:47,360
+Go ahead.
+I'll close and join you later.
+
+547
+00:35:47,440 --> 00:35:48,400
+Okay.
+
+548
+00:36:02,120 --> 00:36:05,040
+I never understood
+why your mother loved this bike so much.
+
+549
+00:36:09,400 --> 00:36:10,840
+The engine lacks power.
+
+550
+00:36:10,920 --> 00:36:12,520
+The frame isn't rigid enough.
+
+551
+00:36:14,520 --> 00:36:16,280
+It's difficult to maneuver.
+
+552
+00:36:16,360 --> 00:36:17,560
+And that color.
+
+553
+00:36:20,360 --> 00:36:21,600
+Yeah.
+
+554
+00:36:23,840 --> 00:36:24,840
+She loved it though.
+
+555
+00:36:25,720 --> 00:36:26,680
+Oh, well.
+
+556
+00:36:29,920 --> 00:36:31,680
+Maybe she liked its flaws.
+
+557
+00:36:33,600 --> 00:36:35,760
+Then I see why it was
+her favorite.
+
+558
+00:36:39,000 --> 00:36:40,880
+Same reason she loved you too.
+
+559
+00:36:52,400 --> 00:36:53,360
+I really miss her.
+
+560
+00:37:53,920 --> 00:37:55,840
+I THOUGHT ABOUT IT. I'M IN.
+
+561
+00:38:14,640 --> 00:38:16,600
+You're being transferred.
+
+562
+00:38:17,280 --> 00:38:19,000
+- Put your jacket on.
+- Did you call my lawyer?
+
+563
+00:38:19,080 --> 00:38:21,560
+Just forget about your lawyer.
+Put your jacket on.
+
+564
+00:38:27,480 --> 00:38:29,200
+I'm not kidding. I want my lawyer.
+
+565
+00:38:30,480 --> 00:38:31,800
+Get the fuck out. I'm sick of you.
+
+566
+00:38:31,880 --> 00:38:33,800
+- And I'm sick of you too.
+- Move. Move.
+
+567
+00:38:34,800 --> 00:38:37,440
+- Get out. Hurry up.
+- Your handcuffs are hurting me!
+
+568
+00:38:37,520 --> 00:38:38,880
+I don't give a fuck!
+
+569
+00:38:38,960 --> 00:38:41,480
+- I don't give a fuck. Fucking cops--
+- Get out the car.
+
+570
+00:38:41,560 --> 00:38:42,840
+Go fuck yourself.
+
+571
+00:38:44,120 --> 00:38:45,600
+Hey, back off.
+
+572
+00:38:45,680 --> 00:38:47,600
+Stay here. Don't move.
+
+573
+00:38:47,680 --> 00:38:49,160
+Let go of me!
+
+574
+00:38:56,040 --> 00:38:57,320
+Let go of me!
+
+575
+00:38:58,000 --> 00:38:59,400
+Argh, Vince!
+
+576
+00:39:00,200 --> 00:39:01,600
+Hey! Catch him!
+
+577
+00:39:02,120 --> 00:39:03,880
+Let go of me, you asshole!
+
+578
+00:39:11,280 --> 00:39:13,720
+- Are you okay, Yves?
+- Yeah, I'm fine.
+
+579
+00:39:17,120 --> 00:39:19,600
+It worked. The tracker's activated.
+
+580
+00:39:20,920 --> 00:39:23,120
+What the fuck?
+You were supposed to struggle a little.
+
+581
+00:39:23,200 --> 00:39:26,200
+What? You wanted it to look real.
+Well, it did.
+
+582
+00:39:26,280 --> 00:39:27,400
+What's wrong, Delvo?
+
+583
+00:39:28,120 --> 00:39:29,080
+I go overboard?
+
+584
+00:39:30,640 --> 00:39:31,880
+- Did I go overboard?
+- Fuck!
+
+585
+00:39:31,960 --> 00:39:33,000
+Fuck! We had a deal.
+
+586
+00:39:33,080 --> 00:39:34,960
+There's no more deal.
+Get out of here, prick.
+
+587
+00:39:35,040 --> 00:39:36,880
+Go fuck yourself. Fucking cops.
+
+588
+00:39:36,960 --> 00:39:38,000
+We can't trust you.
+
+589
+00:39:38,080 --> 00:39:41,160
+- That's the last time I'm helping you--
+- Do not lose Yacine.
+
+590
+00:39:41,240 --> 00:39:43,440
+- Keep a constant eye on him.
+- Take a walk.
+
+591
+00:39:43,520 --> 00:39:46,640
+Fucking cops. Don't you dare come
+back to the neighborhood!
+
+592
+00:39:46,720 --> 00:39:49,160
+- Now get lost.
+- Bastard. I was just helping out.
+
+593
+00:39:52,520 --> 00:39:53,960
+The bike'll be ready tomorrow.
+
+594
+00:39:54,040 --> 00:39:56,440
+- We're a little behind.
+- No worries. I'll come back.
+
+595
+00:39:56,520 --> 00:39:58,160
+- Thank you very much.
+- See you then.
+
+596
+00:40:05,200 --> 00:40:06,200
+What's wrong?
+
+597
+00:40:09,560 --> 00:40:11,720
+- Did you know?
+- Know what?
+
+598
+00:40:11,800 --> 00:40:14,000
+Yacine robbed a guy on his bike.
+Did you know?
+
+599
+00:40:14,080 --> 00:40:17,120
+- What do you mean? What's this about?
+- What do I mean? You don't know?
+
+600
+00:40:17,200 --> 00:40:18,960
+Are you accusing me of something?
+
+601
+00:40:19,480 --> 00:40:21,960
+- You still don't trust me?
+- This is a paranoid business.
+
+602
+00:40:22,040 --> 00:40:24,640
+So you bring a woman we know nothing about
+and it's me making you--
+
+603
+00:40:24,720 --> 00:40:26,520
+She's not the problem. It's Yacine.
+
+604
+00:40:26,600 --> 00:40:27,560
+He's on the run.
+
+605
+00:40:36,560 --> 00:40:37,520
+Did he snitch?
+
+606
+00:40:37,600 --> 00:40:39,360
+If he had, we'd be in jail already.
+
+607
+00:40:41,120 --> 00:40:42,440
+We never should've hired him.
+
+608
+00:40:42,520 --> 00:40:44,480
+- I'll take care of it.
+- You do nothing.
+
+609
+00:40:45,160 --> 00:40:46,520
+Stick to the plan.
+
+610
+00:41:00,120 --> 00:41:01,240
+Hello, Soélie.
+
+611
+00:41:01,320 --> 00:41:02,280
+Hi.
+
+612
+00:41:06,520 --> 00:41:07,480
+How are you?
+
+613
+00:41:08,000 --> 00:41:09,800
+Happy to see you again. This way.
+
+614
+00:41:45,200 --> 00:41:46,600
+Here are the beasts.
+
+615
+00:41:49,880 --> 00:41:52,000
+These bikes need to be
+ready in three days.
+
+616
+00:41:55,320 --> 00:41:58,040
+You'll work with Théo.
+He's already made good progress.
+
+617
+00:41:58,800 --> 00:42:01,640
+There's the T-Cross
+you already know, the Naked,
+
+618
+00:42:02,160 --> 00:42:03,880
+and in back, the Turbo.
+
+619
+00:42:03,960 --> 00:42:05,480
+Why all the names?
+
+620
+00:42:06,360 --> 00:42:08,280
+The T-Cross you saw yesterday?
+
+621
+00:42:08,800 --> 00:42:10,840
+It has to clear any obstacle.
+
+622
+00:42:11,360 --> 00:42:14,480
+Even if we soup up the engine,
+you'll still have problems with the fork.
+
+623
+00:42:14,560 --> 00:42:17,360
+Right, yeah. I still need to work
+on the suspension travel.
+
+624
+00:42:17,440 --> 00:42:19,680
+And the Naked is square-rigged.
+
+625
+00:42:20,200 --> 00:42:21,880
+It needs more agility and power.
+
+626
+00:42:24,000 --> 00:42:27,360
+The goal is to make it as light
+as possible, so it's ultra-easy to ride.
+
+627
+00:42:27,440 --> 00:42:29,640
+And the Turbo needs to gain speed.
+
+628
+00:42:30,160 --> 00:42:32,520
+It needs to hit 150, long distance.
+
+629
+00:42:32,600 --> 00:42:34,720
+We can get there with a boosted variator.
+
+630
+00:42:34,800 --> 00:42:37,160
+Well, that won't make top speed,
+but it's worth a shot.
+
+631
+00:42:40,880 --> 00:42:41,840
+One question.
+
+632
+00:42:42,880 --> 00:42:43,840
+And a request.
+
+633
+00:42:43,920 --> 00:42:44,960
+Well, go on.
+
+634
+00:42:46,480 --> 00:42:48,240
+Why transform these scooter bikes?
+
+635
+00:42:48,320 --> 00:42:49,680
+Use dirt bikes instead.
+
+636
+00:42:50,720 --> 00:42:53,680
+Top speed, more mobile,
+and better stability for the rider.
+
+637
+00:42:53,760 --> 00:42:55,200
+And your request?
+
+638
+00:42:58,640 --> 00:43:00,560
+A hundred grand.
+
+639
+00:43:04,200 --> 00:43:06,360
+A hundred thousand is a lot of money, kid.
+
+640
+00:43:09,240 --> 00:43:12,640
+You aren't planning a picnic though.
+You don't have to tell me what.
+
+641
+00:43:13,160 --> 00:43:14,320
+It's that or I'm out.
+
+642
+00:43:15,360 --> 00:43:18,760
+Then I want you to begin right now
+and work all night if you need to.
+
+643
+00:43:19,360 --> 00:43:21,320
+And I want you available 24/7.
+
+644
+00:43:22,120 --> 00:43:23,120
+Okay.
+
+645
+00:43:23,200 --> 00:43:24,480
+That's great.
+
+646
+00:43:24,560 --> 00:43:25,680
+So we have a deal.
+
+647
+00:43:41,920 --> 00:43:43,200
+Oh, you motherfucker.
+
+648
+00:43:44,200 --> 00:43:45,160
+Fuck!
+
+649
+00:43:50,120 --> 00:43:51,920
+Here she is.
+
+650
+00:43:53,240 --> 00:43:54,960
+Tell me, where's the Yam?
+
+651
+00:43:55,040 --> 00:43:57,240
+- We had a problem.
+- A problem? With what?
+
+652
+00:43:59,600 --> 00:44:00,560
+Just a problem.
+
+653
+00:44:01,320 --> 00:44:03,840
+- This man is a police officer.
+- Lieutenant Delvo.
+
+654
+00:44:04,360 --> 00:44:06,480
+We met on the training course
+two days ago.
+
+655
+00:44:07,320 --> 00:44:08,720
+So, what brought you there?
+
+656
+00:44:09,960 --> 00:44:12,960
+Yacine asked me to replace him.
+To test a bike.
+
+657
+00:44:14,080 --> 00:44:15,040
+Is he a friend of yours?
+
+658
+00:44:16,320 --> 00:44:18,600
+Well, we've trained together a few times.
+
+659
+00:44:19,480 --> 00:44:22,480
+- What about you?
+- I've seen him around before, that's all.
+
+660
+00:44:23,400 --> 00:44:25,760
+Why didn't you tell
+your father his bike had been stolen?
+
+661
+00:44:25,840 --> 00:44:29,120
+I'd forbidden them from going there,
+but apparently, that didn't matter.
+
+662
+00:44:29,200 --> 00:44:30,280
+We'll fix it.
+
+663
+00:44:30,360 --> 00:44:32,240
+Since then, have you and Yacine spoken?
+
+664
+00:44:33,960 --> 00:44:35,080
+No.
+
+665
+00:44:37,520 --> 00:44:39,080
+Miss, and where were you last night?
+
+666
+00:44:39,680 --> 00:44:41,920
+Your father was surprised
+you weren't here this morning.
+
+667
+00:44:42,000 --> 00:44:43,520
+With a friend. You want more details?
+
+668
+00:44:43,600 --> 00:44:45,240
+No.
+
+669
+00:44:49,080 --> 00:44:51,280
+We're keeping the bike
+while we investigate.
+
+670
+00:44:51,360 --> 00:44:52,880
+We'll give it back after.
+
+671
+00:44:53,640 --> 00:44:54,800
+Thank you, Daniel.
+
+672
+00:44:55,720 --> 00:44:56,920
+You're welcome.
+
+673
+00:45:02,160 --> 00:45:03,200
+Daniel?
+
+674
+00:45:03,840 --> 00:45:04,920
+Call from the bank.
+
+675
+00:45:05,000 --> 00:45:05,960
+Be right there.
+
+676
+00:45:17,080 --> 00:45:18,040
+Yes?
+
+677
+00:45:20,960 --> 00:45:24,080
+Care to tell me what kind of shit
+you two got into this time?
+
+678
+00:45:24,160 --> 00:45:25,120
+Huh?
+
+679
+00:45:28,240 --> 00:45:29,760
+Just that type of shit.
+
+680
+00:45:30,840 --> 00:45:31,800
+What is this?
+
+681
+00:45:32,920 --> 00:45:34,000
+Where'd it come from?
+
+682
+00:45:35,600 --> 00:45:37,200
+It's thanks to Michael.
+
+683
+00:45:37,280 --> 00:45:38,360
+He tested a bike.
+
+684
+00:45:38,440 --> 00:45:39,760
+It's a job like any other.
+
+685
+00:45:40,560 --> 00:45:42,880
+- We just want to help you.
+- Really?
+
+686
+00:45:42,960 --> 00:45:46,200
+Help by bringing home a cop?
+That's supposed to be helping us?
+
+687
+00:45:46,280 --> 00:45:48,760
+- That officer, what's his name again?
+- Delvo.
+
+688
+00:45:48,840 --> 00:45:50,640
+- Delvo.
+- He's a tough one.
+
+689
+00:45:50,720 --> 00:45:53,400
+Remember? He's a former champion racer.
+Was relentless back then.
+
+690
+00:45:53,480 --> 00:45:56,080
+Yeah.
+And do you know what Delvo told me?
+
+691
+00:45:57,560 --> 00:46:01,440
+Your little friend Yacine has been
+accused of armed carjacking.
+
+692
+00:46:01,520 --> 00:46:02,760
+Were you aware of that?
+
+693
+00:46:02,840 --> 00:46:04,440
+That has nothing to do with us.
+
+694
+00:46:04,520 --> 00:46:05,480
+Oh, really?
+
+695
+00:46:06,240 --> 00:46:09,600
+I sure hope it doesn't because I am just
+up to my ears in trouble.
+
+696
+00:46:12,720 --> 00:46:15,520
+I know this is a bad situation,
+but things will work out.
+
+697
+00:46:16,040 --> 00:46:18,160
+And it's very touching
+that you feel concerned.
+
+698
+00:46:18,240 --> 00:46:20,520
+But I'm going to handle
+the problem by myself.
+
+699
+00:46:20,600 --> 00:46:21,560
+Is that clear?
+
+700
+00:46:23,960 --> 00:46:24,960
+Is that clear?
+
+701
+00:46:28,280 --> 00:46:30,120
+Who is this friend of yours?
+
+702
+00:46:30,200 --> 00:46:33,720
+You want details also?
+Am I not allowed to have a private life?
+
+703
+00:46:35,520 --> 00:46:38,920
+What? Hélène, your cigarette!
+Go outside. Come on, it's not the '80s.
+
+704
+00:46:39,760 --> 00:46:41,080
+What a shame that is.
+
+705
+00:47:20,560 --> 00:47:23,040
+BESTOFFER.CO
+
+706
+00:47:44,400 --> 00:47:45,360
+Need a hand?
+
+707
+00:47:45,440 --> 00:47:46,360
+No.
+
+708
+00:47:53,400 --> 00:47:54,360
+Okay.
+
+709
+00:47:57,600 --> 00:48:00,520
+I'm going to sleep for an hour.
+Try not to fuck up my work.
+
+710
+00:48:09,960 --> 00:48:12,320
+He should land
+around 11:30 in the morning.
+
+711
+00:48:12,400 --> 00:48:14,520
+That's the route
+from the heliport to the hotel.
+
+712
+00:48:14,600 --> 00:48:16,560
+- What security?
+- Only one vehicle.
+
+713
+00:48:17,080 --> 00:48:18,520
+- You sure?
+- Quite sure.
+
+714
+00:48:22,280 --> 00:48:23,400
+That's the tracker.
+
+715
+00:48:23,480 --> 00:48:24,440
+It sticks on.
+
+716
+00:48:25,120 --> 00:48:26,600
+Be careful, it's fragile.
+
+717
+00:48:26,680 --> 00:48:28,600
+The remote, push that button.
+
+718
+00:48:51,120 --> 00:48:52,200
+Give me one of those.
+
+719
+00:48:52,840 --> 00:48:53,800
+Here you go.
+
+720
+00:48:58,200 --> 00:49:00,280
+Can't we just get
+the exact apartment and floor?
+
+721
+00:49:00,360 --> 00:49:02,880
+We know he didn't leave
+the building. We're staying alert.
+
+722
+00:49:02,960 --> 00:49:05,040
+<i>I've never seen</i>
+<i>anything quite like this.</i>
+
+723
+00:49:05,120 --> 00:49:06,800
+<i>What an incredible comeback.</i>
+
+724
+00:49:06,880 --> 00:49:12,040
+<i>Soélie Carella takes the lead of this</i>
+<i>championship and it is simply incredible.</i>
+
+725
+00:49:12,120 --> 00:49:15,640
+<i>With this spectacular last win,</i>
+<i>we reach the final…</i>
+
+726
+00:49:33,960 --> 00:49:35,640
+Drives like a fucking bicycle.
+
+727
+00:49:36,280 --> 00:49:38,240
+I don't know what you did to it,
+but you nailed it.
+
+728
+00:49:38,320 --> 00:49:41,720
+- Yeah, you seemed to dig it.
+- Feels like a different ride.
+
+729
+00:49:49,880 --> 00:49:51,480
+How's it going with the Turbo?
+
+730
+00:49:52,000 --> 00:49:53,640
+It's getting there. What?
+
+731
+00:49:53,720 --> 00:49:56,800
+Yeah, it's done. The first half of
+your bikes are in a secured box.
+
+732
+00:49:56,880 --> 00:49:58,280
+I'll get the rest when you're done.
+
+733
+00:49:59,200 --> 00:50:00,160
+Here's a spare key.
+
+734
+00:50:09,560 --> 00:50:10,960
+Nice guy, your pops.
+
+735
+00:50:13,480 --> 00:50:15,320
+Sure. When he wants to.
+
+736
+00:50:22,560 --> 00:50:23,640
+Thanks.
+
+737
+00:51:08,920 --> 00:51:09,880
+Awesome.
+
+738
+00:51:19,920 --> 00:51:23,360
+Well? This is it.
+You can get the rest of your bikes back.
+
+739
+00:51:25,480 --> 00:51:26,440
+Thank you.
+
+740
+00:51:43,200 --> 00:51:45,360
+Not to be annoying, but I have a question.
+
+741
+00:51:46,600 --> 00:51:47,600
+Go for it.
+
+742
+00:51:48,320 --> 00:51:50,760
+You never got back on a bike
+after your accident?
+
+743
+00:51:52,440 --> 00:51:54,320
+I don't really want to talk about it.
+
+744
+00:51:55,160 --> 00:51:56,120
+Okay, sorry.
+
+745
+00:52:14,920 --> 00:52:16,360
+My mom died from cancer.
+
+746
+00:52:19,080 --> 00:52:20,120
+I was furious.
+
+747
+00:52:21,960 --> 00:52:23,520
+I was angry at the whole world.
+
+748
+00:52:29,080 --> 00:52:30,240
+So I took her bike out.
+
+749
+00:52:37,320 --> 00:52:38,560
+And rode at full speed.
+
+750
+00:52:40,280 --> 00:52:41,320
+Without thinking.
+
+751
+00:52:50,240 --> 00:52:54,320
+I was in the hospital for a whole month
+and did a year of physical therapy.
+
+752
+00:52:59,200 --> 00:53:01,080
+I was never able to ride after that.
+
+753
+00:53:02,520 --> 00:53:04,280
+Just reliving my crash every time.
+
+754
+00:53:05,920 --> 00:53:09,280
+It was constant panic attacks,
+tremors and all.
+
+755
+00:53:10,400 --> 00:53:12,360
+Now I'm barely able to ride a bicycle.
+
+756
+00:53:14,080 --> 00:53:16,240
+You can overcome
+that sort of stuff.
+
+757
+00:53:17,760 --> 00:53:18,720
+Oh, yeah?
+
+758
+00:53:19,360 --> 00:53:20,320
+Sure, maybe.
+
+759
+00:53:25,200 --> 00:53:27,360
+Maybe if you took it
+step by step, you know?
+
+760
+00:53:29,000 --> 00:53:30,760
+Well, I don't know shit, but I'm assuming
+
+761
+00:53:30,840 --> 00:53:33,160
+there are people who can help
+with all that, right?
+
+762
+00:53:35,480 --> 00:53:36,440
+Hmm.
+
+763
+00:53:37,920 --> 00:53:40,680
+That stuff supposedly helps
+people with trauma, so…
+
+764
+00:53:42,000 --> 00:53:43,480
+Why wouldn't it work for you?
+
+765
+00:53:45,880 --> 00:53:46,840
+Hmm.
+
+766
+00:53:59,760 --> 00:54:01,960
+YO, BRO! I GOT A NEW GIG.
+
+767
+00:54:02,040 --> 00:54:05,000
+20K FOR YOU.
+I'll CALL YOU IN AN HOUR, OKAY?
+
+768
+00:54:11,920 --> 00:54:16,320
+OKAY, CALL ME. THE COPS LET YOU GO?
+
+769
+00:54:16,400 --> 00:54:17,840
+Got movement over there.
+
+770
+00:54:17,920 --> 00:54:20,120
+<i>That jackoff's been holed up all day.</i>
+
+771
+00:54:22,960 --> 00:54:24,120
+<i>Boss, we have a visual.</i>
+
+772
+00:54:28,920 --> 00:54:30,120
+He changed his jacket.
+
+773
+00:54:36,400 --> 00:54:38,200
+He's taking his scooter. What do we do?
+
+774
+00:54:39,040 --> 00:54:41,000
+- Okay, follow him.
+- <i>Okay.</i>
+
+775
+00:54:43,480 --> 00:54:45,960
+<i>I'm putting the walkies down.</i>
+<i>Don't get too close.</i>
+
+776
+00:54:52,840 --> 00:54:54,080
+<i>Watch out for that red light!</i>
+
+777
+00:54:54,160 --> 00:54:56,680
+<i>- </i><i>He's taking the bike path.</i>
+<i>- </i><i>Light 'em up!</i>
+
+778
+00:54:56,760 --> 00:54:59,480
+<i>It's chaos. We're stuck.</i>
+
+779
+00:55:01,880 --> 00:55:04,600
+<i>Boss, it's over.</i>
+<i>We lost him. No way to locate him.</i>
+
+780
+00:55:04,680 --> 00:55:05,720
+Dammit!
+
+781
+00:55:15,000 --> 00:55:17,280
+- What are you doing here?
+- It's Yacine.
+
+782
+00:55:17,360 --> 00:55:18,320
+What about him?
+
+783
+00:55:18,400 --> 00:55:21,040
+- He told me to meet him here.
+- Yacine is coming here?
+
+784
+00:55:21,560 --> 00:55:24,840
+Yeah, he's on his way.
+I heard you might have a job for me.
+
+785
+00:55:27,000 --> 00:55:28,840
+We're good, Elyas. Everything's clean.
+
+786
+00:55:30,120 --> 00:55:33,440
+- What's he doing here? Is there a problem?
+- Yes, there's a problem.
+
+787
+00:55:36,400 --> 00:55:37,360
+Get inside.
+
+788
+00:55:38,520 --> 00:55:39,480
+You too.
+
+789
+00:55:49,800 --> 00:55:51,720
+You're a real fucking idiot.
+
+790
+00:55:51,800 --> 00:55:53,240
+Don't talk to me like--
+
+791
+00:55:53,320 --> 00:55:55,800
+You, stay here.
+
+792
+00:55:57,000 --> 00:55:58,120
+I'll speak how I want.
+
+793
+00:55:58,640 --> 00:56:01,000
+With the cops after you,
+you come and jeopardize everything--
+
+794
+00:56:01,080 --> 00:56:02,400
+I have a solution for the biker.
+
+795
+00:56:04,960 --> 00:56:06,440
+The biker's not your problem.
+
+796
+00:56:06,960 --> 00:56:08,680
+Michael will ride. If you're ready.
+
+797
+00:56:08,760 --> 00:56:10,920
+If I'm what? If I'm ready?
+
+798
+00:56:14,440 --> 00:56:17,280
+Ten months of work for nothing,
+and you ask if I'm ready?
+
+799
+00:56:22,200 --> 00:56:25,320
+I've been doing hold-ups for three years
+but never got caught. Do you know why?
+
+800
+00:56:26,320 --> 00:56:27,280
+Ask me why.
+
+801
+00:56:27,880 --> 00:56:28,880
+Why?
+
+802
+00:56:29,640 --> 00:56:30,600
+Okay, why?
+
+803
+00:56:31,640 --> 00:56:33,360
+Because I'm a professional.
+
+804
+00:56:34,080 --> 00:56:35,800
+I have everything timed perfectly.
+
+805
+00:56:45,120 --> 00:56:46,400
+I gave you a chance.
+
+806
+00:56:48,720 --> 00:56:50,840
+And you behave like a piece of shit.
+
+807
+00:56:54,280 --> 00:56:56,240
+On top of that,
+you bring us your friend.
+
+808
+00:56:56,760 --> 00:56:58,720
+What did he tell you? What do you know?
+
+809
+00:56:59,760 --> 00:57:03,200
+He told me about a run on a scooter bike…
+a robbery or something.
+
+810
+00:57:03,280 --> 00:57:04,440
+How much did he offer?
+
+811
+00:57:07,840 --> 00:57:08,880
+Twenty grand.
+
+812
+00:57:11,400 --> 00:57:12,480
+Twenty grand.
+
+813
+00:57:13,000 --> 00:57:14,400
+You're a real piece of shit.
+
+814
+00:57:15,880 --> 00:57:16,760
+Twenty grand?
+
+815
+00:57:21,280 --> 00:57:23,320
+And the cops? What happened there?
+
+816
+00:57:25,120 --> 00:57:26,600
+How'd you make your escape?
+
+817
+00:57:27,120 --> 00:57:28,520
+What? I just ran away.
+
+818
+00:57:29,560 --> 00:57:31,240
+- You ran away?
+- Yeah, I ran away.
+
+819
+00:57:32,400 --> 00:57:33,520
+He ran away.
+
+820
+00:57:36,120 --> 00:57:37,080
+Okay.
+
+821
+00:57:37,760 --> 00:57:39,360
+So, you were arrested for…
+
+822
+00:57:39,880 --> 00:57:42,560
+for armed robbery
+and the police had you locked up.
+
+823
+00:57:42,640 --> 00:57:45,160
+And you manage to escape?
+Just like that?
+
+824
+00:57:46,040 --> 00:57:49,280
+I mean, are you serious, Théo?
+You guys getting paranoid or what?
+
+825
+00:57:49,360 --> 00:57:50,720
+I'm clean. I ran away.
+
+826
+00:57:50,800 --> 00:57:52,680
+The cops were fighting
+with some drunk guy.
+
+827
+00:57:52,760 --> 00:57:54,360
+I saw an out and ran away.
+
+828
+00:57:54,440 --> 00:57:57,000
+Come on, let's stick to the plan.
+I do the hold-up.
+
+829
+00:57:57,080 --> 00:57:59,200
+I take my cut and leave the country.
+
+830
+00:57:59,280 --> 00:58:00,520
+End of story.
+
+831
+00:58:06,480 --> 00:58:07,440
+Hey.
+
+832
+00:58:09,720 --> 00:58:10,880
+Elyas, don't fuck around.
+
+833
+00:58:20,720 --> 00:58:21,680
+Stop right there.
+
+834
+00:58:26,160 --> 00:58:27,120
+Hey!
+
+835
+00:58:27,920 --> 00:58:30,960
+Hey! You wanted to do a hold-up?
+Here, go ahead.
+
+836
+00:58:31,040 --> 00:58:34,640
+Here, show me what you can do.
+That's what a gun is for.
+
+837
+00:58:46,320 --> 00:58:48,080
+Your brother's fingerprints are on this.
+
+838
+00:58:48,600 --> 00:58:50,800
+So you have no choice.
+You're my third rider.
+
+839
+00:58:53,480 --> 00:58:55,560
+Come on, let's go! Everyone on the bikes.
+
+840
+00:58:56,640 --> 00:58:57,600
+You okay, Mikey?
+
+841
+00:58:57,680 --> 00:58:59,680
+- On the bikes!
+- Come on.
+
+842
+00:59:00,200 --> 00:59:01,200
+I can't.
+
+843
+00:59:06,720 --> 00:59:09,480
+The cops are coming. We're running
+out of time. Come on, come on!
+
+844
+00:59:09,560 --> 00:59:10,760
+Hurry, time to go.
+
+845
+00:59:11,360 --> 00:59:12,360
+Stop it!
+
+846
+00:59:13,880 --> 00:59:16,080
+See you tomorrow.
+I'll send you the address.
+
+847
+00:59:18,280 --> 00:59:19,960
+- Théo!
+- I'll follow her.
+
+848
+00:59:22,720 --> 00:59:23,800
+Come on, let's move.
+
+849
+00:59:42,240 --> 00:59:43,520
+Come on. Let's go, Soélie.
+
+850
+00:59:50,520 --> 00:59:51,880
+You'll be fine.
+
+851
+00:59:53,200 --> 00:59:54,800
+I'm right behind you, okay?
+
+852
+01:01:06,400 --> 01:01:10,560
+Lieutenant, it's a bike laboratory
+in here. Only high-tech.
+
+853
+01:01:10,640 --> 01:01:12,880
+It's all hidden over there
+behind the shop.
+
+854
+01:01:12,960 --> 01:01:14,080
+Any sign of the TMAX?
+
+855
+01:01:14,160 --> 01:01:16,400
+There's nothing left.
+They must've cleaned up recently.
+
+856
+01:01:18,240 --> 01:01:20,760
+- What do we do about him?
+- Meaning what?
+
+857
+01:01:20,840 --> 01:01:23,440
+He wasn't supposed
+to get murdered when we released him.
+
+858
+01:01:25,200 --> 01:01:26,200
+You know nothing.
+
+859
+01:01:27,520 --> 01:01:28,480
+I'll deal with it.
+
+860
+01:01:52,320 --> 01:01:54,640
+I fucked up.
+I just wanted the money.
+
+861
+01:01:54,720 --> 01:01:56,320
+I know, I know, I know.
+
+862
+01:01:56,400 --> 01:01:57,560
+I know.
+
+863
+01:01:58,920 --> 01:01:59,880
+I know.
+
+864
+01:02:03,240 --> 01:02:06,480
+But we were at the movies,
+okay? That's all.
+
+865
+01:02:08,920 --> 01:02:11,680
+Hey. Hey, look at me. Look at me.
+
+866
+01:02:12,200 --> 01:02:13,680
+Look at me. Look at me.
+
+867
+01:02:14,200 --> 01:02:17,800
+We were at the theater. Together. Okay?
+
+868
+01:02:20,040 --> 01:02:21,080
+Come here.
+
+869
+01:02:25,360 --> 01:02:27,880
+Sleep it off.
+We'll talk about it tomorrow.
+
+870
+01:02:36,680 --> 01:02:37,680
+Soélie?
+
+871
+01:02:37,760 --> 01:02:38,720
+Mmm?
+
+872
+01:02:40,400 --> 01:02:41,360
+Thanks.
+
+873
+01:03:08,520 --> 01:03:11,000
+- Where did the bikes go?
+- I hid them in the shed.
+
+874
+01:03:11,520 --> 01:03:12,360
+Where's Elyas?
+
+875
+01:03:13,320 --> 01:03:14,840
+Somewhere hiding away.
+
+876
+01:03:15,680 --> 01:03:17,480
+- Super.
+- Don't worry. He knows what he's doing.
+
+877
+01:03:17,560 --> 01:03:18,560
+Stop, already.
+
+878
+01:03:20,480 --> 01:03:22,400
+Your friend just killed somebody.
+
+879
+01:03:23,320 --> 01:03:25,280
+Remember? Now I'm stuck.
+
+880
+01:03:26,960 --> 01:03:28,480
+I'm sorry, it wasn't supposed to--
+
+881
+01:03:28,560 --> 01:03:32,480
+I don't give a fuck if you're sorry, okay?
+It's my brother who's framed for murder.
+
+882
+01:03:32,560 --> 01:03:33,520
+Not you.
+
+883
+01:03:41,200 --> 01:03:42,520
+Now I don't have a choice.
+
+884
+01:03:44,560 --> 01:03:46,240
+I never thought he'd go that far.
+
+885
+01:03:48,000 --> 01:03:50,000
+Soélie, you have to trust me.
+
+886
+01:03:53,360 --> 01:03:54,520
+Trust me, okay?
+
+887
+01:04:02,000 --> 01:04:03,560
+Is there somewhere I can sleep?
+
+888
+01:07:07,600 --> 01:07:09,400
+Whoa!
+
+889
+01:08:01,600 --> 01:08:02,560
+Hey.
+
+890
+01:08:06,040 --> 01:08:07,760
+I thought I saw a ghost on a bike.
+
+891
+01:08:07,840 --> 01:08:09,960
+You looked just
+like your mother out there.
+
+892
+01:08:11,480 --> 01:08:12,800
+I didn't know how to feel.
+
+893
+01:08:14,040 --> 01:08:15,000
+I'm sorry.
+
+894
+01:08:17,440 --> 01:08:18,440
+Sorry for what?
+
+895
+01:08:22,800 --> 01:08:24,920
+I should be the one apologizing.
+
+896
+01:08:26,760 --> 01:08:29,200
+I've realized
+that I wasn't too upset you'd quit.
+
+897
+01:08:30,320 --> 01:08:31,800
+It was reassuring, actually.
+
+898
+01:08:33,120 --> 01:08:34,640
+I was able to protect you.
+
+899
+01:08:35,680 --> 01:08:38,520
+The way I wish I could've protected
+your mother from her illness.
+
+900
+01:08:46,680 --> 01:08:47,640
+Hmm.
+
+901
+01:08:49,080 --> 01:08:51,160
+The thrill you get on this bike, my girl?
+
+902
+01:08:53,200 --> 01:08:55,960
+I haven't seen anything
+that beautiful for a long time.
+
+903
+01:09:08,960 --> 01:09:12,080
+Well, it's time to practice now.
+
+904
+01:09:18,560 --> 01:09:20,400
+Knew you'd never let anyone buy it.
+
+905
+01:09:21,280 --> 01:09:22,840
+This one? Never.
+
+906
+01:09:25,760 --> 01:09:27,920
+I did sell the other bikes, however.
+
+907
+01:09:28,000 --> 01:09:29,320
+It will give us some time.
+
+908
+01:09:39,440 --> 01:09:40,440
+Sorry.
+
+909
+01:09:42,400 --> 01:09:44,560
+I think you forgot something
+in the kitchen?
+
+910
+01:09:46,880 --> 01:09:48,240
+A guy in his underwear.
+
+911
+01:09:49,280 --> 01:09:50,240
+What?
+
+912
+01:09:52,200 --> 01:09:54,560
+- He's just a friend.
+- Just a friend?
+
+913
+01:09:55,320 --> 01:09:57,880
+- A biker.
+- A biker in his underwear?
+
+914
+01:09:59,720 --> 01:10:01,520
+I'll take care of it. All right?
+
+915
+01:10:01,600 --> 01:10:02,560
+Take this.
+
+916
+01:10:04,040 --> 01:10:05,000
+Thanks.
+
+917
+01:10:08,840 --> 01:10:10,160
+What the heck is going on?
+
+918
+01:10:11,920 --> 01:10:13,000
+Don't worry.
+
+919
+01:10:15,600 --> 01:10:16,560
+Mm-hmm.
+
+920
+01:10:17,320 --> 01:10:20,000
+- I'll wait for you in the shed.
+- I'll meet you there.
+
+921
+01:10:29,480 --> 01:10:30,560
+It will be all right.
+
+922
+01:10:32,920 --> 01:10:34,680
+- I'm coming with you.
+- No.
+
+923
+01:10:35,360 --> 01:10:36,320
+No.
+
+924
+01:10:37,120 --> 01:10:39,560
+You have to stay here. To deal with Dad.
+
+925
+01:10:59,520 --> 01:11:00,480
+Whatever happens…
+
+926
+01:11:01,640 --> 01:11:02,600
+We stay alive.
+
+927
+01:11:07,640 --> 01:11:08,760
+Here's what we know.
+
+928
+01:11:08,840 --> 01:11:11,320
+Mazetti will arrive via the heliport.
+
+929
+01:11:11,840 --> 01:11:15,120
+There will only be two cars.
+And it's this convoy we're interested in.
+
+930
+01:11:15,840 --> 01:11:18,000
+If you have second thoughts,
+now's the time.
+
+931
+01:11:20,400 --> 01:11:21,680
+- Théo?
+- I'm good.
+
+932
+01:11:22,680 --> 01:11:23,800
+Soélie?
+
+933
+01:11:23,880 --> 01:11:24,840
+Are you ready?
+
+934
+01:11:27,480 --> 01:11:28,480
+Are you ready?
+
+935
+01:11:32,120 --> 01:11:33,080
+I have to be.
+
+936
+01:11:35,280 --> 01:11:36,240
+Okay.
+
+937
+01:11:37,000 --> 01:11:37,960
+So…
+
+938
+01:11:38,800 --> 01:11:39,920
+As I've already said,
+
+939
+01:11:40,800 --> 01:11:43,440
+11:30 a.m., ready in position,
+Panama Square.
+
+940
+01:11:43,960 --> 01:11:45,200
+I'm over here.
+
+941
+01:11:45,280 --> 01:11:46,360
+Théo, right here.
+
+942
+01:11:46,440 --> 01:11:48,400
+Soélie, I want you waiting here
+for the convoy.
+
+943
+01:11:48,480 --> 01:11:50,480
+<i>Mazetti will arrive</i>
+<i>at Crystal Week in force.</i>
+
+944
+01:11:50,560 --> 01:11:54,000
+There'll be six convoys. Four from
+the airports, and one from the heliport,
+
+945
+01:11:54,080 --> 01:11:55,720
+and the sixth one in an armored van from--
+
+946
+01:11:55,800 --> 01:11:57,680
+Come on, Lucas. Calm down.
+
+947
+01:11:58,200 --> 01:12:00,120
+That's not the plan for today.
+
+948
+01:12:00,200 --> 01:12:03,680
+I can cover two transfers with my team.
+With the use of the special police,
+
+949
+01:12:03,760 --> 01:12:06,760
+we'll have enough men available
+to intervene on every convoy.
+
+950
+01:12:07,280 --> 01:12:11,400
+You're going to be suspended
+until Yacine's escape is investigated.
+
+951
+01:12:11,920 --> 01:12:13,440
+If everything goes as planned…
+
+952
+01:12:15,600 --> 01:12:16,760
+we'll stick to the program.
+
+953
+01:12:18,520 --> 01:12:21,240
+But if the cops follow us? We'll split.
+
+954
+01:12:22,640 --> 01:12:25,280
+And pass off the goods.
+Then it gets technical.
+
+955
+01:12:26,520 --> 01:12:28,120
+We'll use the GPS.
+
+956
+01:12:28,200 --> 01:12:30,640
+I want us to be in constant communication.
+
+957
+01:12:32,400 --> 01:12:33,720
+We'll drive them crazy.
+
+958
+01:12:34,240 --> 01:12:37,080
+- That kid died because you fucked up--
+- Oh please. "That kid"? Be serious.
+
+959
+01:12:37,160 --> 01:12:39,960
+You're obsessed with these people
+and don't have the courage to admit it.
+
+960
+01:12:40,040 --> 01:12:42,480
+Judge me as much as you want.
+The outcome will be the same.
+
+961
+01:12:43,000 --> 01:12:45,600
+They'll strike tomorrow,
+and you'll be blamed for it.
+
+962
+01:12:53,880 --> 01:12:55,560
+Your badge and your weapon.
+
+963
+01:12:57,480 --> 01:12:58,960
+I can't do anything for you.
+
+964
+01:13:06,640 --> 01:13:07,520
+Okay.
+
+965
+01:13:38,040 --> 01:13:39,520
+Pretend I'm not here.
+
+966
+01:14:40,640 --> 01:14:41,600
+Mr. Mazetti.
+
+967
+01:15:04,280 --> 01:15:05,560
+Here we go. Stand by.
+
+968
+01:15:07,120 --> 01:15:08,280
+Copy that.
+
+969
+01:15:09,280 --> 01:15:10,240
+Copy.
+
+970
+01:15:11,640 --> 01:15:14,760
+- How long will the drive be?
+- Fifteen minutes, Mr. Mazetti.
+
+971
+01:16:31,280 --> 01:16:32,440
+<i>GPS activated.</i>
+
+972
+01:16:53,080 --> 01:16:55,200
+<i>Soélie, on my mark… Go!</i>
+
+973
+01:16:58,240 --> 01:16:59,200
+Whoa!
+
+974
+01:17:00,360 --> 01:17:01,680
+Look out.
+
+975
+01:17:02,280 --> 01:17:03,640
+Watch out!
+
+976
+01:17:27,560 --> 01:17:29,680
+<i>Come on, let's go! Move in!</i>
+
+977
+01:17:29,760 --> 01:17:31,560
+Move the fuck off!
+
+978
+01:17:31,640 --> 01:17:32,880
+Drive!
+
+979
+01:17:32,960 --> 01:17:34,560
+Come on. Get lost!
+
+980
+01:17:34,640 --> 01:17:35,840
+Come on!
+
+981
+01:17:35,920 --> 01:17:37,680
+Move, move! Get lost!
+
+982
+01:17:37,760 --> 01:17:39,160
+Get out of here! Go!
+
+983
+01:17:39,240 --> 01:17:40,400
+Get moving! Run!
+
+984
+01:17:40,480 --> 01:17:42,560
+I said move!
+
+985
+01:17:44,000 --> 01:17:45,280
+Théo, behind you.
+
+986
+01:17:46,560 --> 01:17:47,680
+Back off! Back off!
+
+987
+01:18:03,280 --> 01:18:04,680
+<i>Cover me, Théo!</i>
+
+988
+01:18:08,280 --> 01:18:09,480
+The stones!
+
+989
+01:18:10,560 --> 01:18:11,520
+<i>The stones!</i>
+
+990
+01:18:14,920 --> 01:18:16,360
+Don't fuck with me.
+
+991
+01:18:23,880 --> 01:18:25,520
+<i>Hurry up, Elyas.</i>
+
+992
+01:18:28,680 --> 01:18:30,840
+- I've got the diamonds. Let's move.
+- Okay.
+
+993
+01:18:44,680 --> 01:18:45,840
+<i>Come on. Let's move.</i>
+
+994
+01:18:49,880 --> 01:18:50,960
+Whoa!
+
+995
+01:19:01,000 --> 01:19:01,960
+What now?
+
+996
+01:19:06,800 --> 01:19:09,040
+I got you this time.
+
+997
+01:19:10,320 --> 01:19:11,880
+Plan B, let's split up.
+
+998
+01:19:18,440 --> 01:19:21,600
+<i>Biker on my tail, I'll make him</i>
+<i>dance a little. Stay in touch.</i>
+
+999
+01:19:21,680 --> 01:19:23,680
+<i>Suspects on the run</i>
+<i>towards Rivoli.</i>
+
+1000
+01:19:23,760 --> 01:19:25,400
+This is V32,
+we'll follow them.
+
+1001
+01:19:25,480 --> 01:19:26,920
+<i>V32 has priority.</i>
+
+1002
+01:19:29,120 --> 01:19:30,000
+Careful!
+
+1003
+01:19:47,880 --> 01:19:48,880
+What the fuck?
+
+1004
+01:19:48,960 --> 01:19:50,720
+- <i>Elyas, are you okay?</i>
+- Move it!
+
+1005
+01:19:53,880 --> 01:19:55,160
+What the fuck?
+
+1006
+01:20:02,480 --> 01:20:05,400
+<i>Watch out!</i>
+<i>It's the cop from the ring road.</i>
+
+1007
+01:20:05,480 --> 01:20:06,440
+<i>He won't back off.</i>
+
+1008
+01:20:10,000 --> 01:20:11,800
+Théo, are you ready? It's your turn.
+
+1009
+01:20:11,880 --> 01:20:13,040
+I see you. I'm coming.
+
+1010
+01:20:25,400 --> 01:20:26,440
+Easy!
+
+1011
+01:20:38,400 --> 01:20:39,600
+Come and get me.
+
+1012
+01:21:07,200 --> 01:21:08,480
+Soélie! Your turn!
+
+1013
+01:21:24,480 --> 01:21:25,760
+Where the fuck are you?
+
+1014
+01:21:32,520 --> 01:21:33,840
+Shit.
+
+1015
+01:21:35,800 --> 01:21:38,160
+<i>What's going on, Théo?</i>
+<i>Théo, come in.</i>
+
+1016
+01:21:39,640 --> 01:21:40,800
+<i>Théo, goddammit!</i>
+
+1017
+01:21:41,320 --> 01:21:43,960
+- Are you all right? Are you hurt?
+- I'm fine.
+
+1018
+01:21:44,040 --> 01:21:45,120
+Sir, sir!
+
+1019
+01:21:50,560 --> 01:21:51,520
+Get on.
+
+1020
+01:21:54,400 --> 01:21:56,960
+No, we'd be too slow. Go for it!
+
+1021
+01:21:58,120 --> 01:22:00,000
+Damn it!
+
+1022
+01:22:14,120 --> 01:22:15,840
+<i>Hey, talk to me.</i>
+
+1023
+01:22:15,920 --> 01:22:17,200
+<i>Did you find him, Soélie?</i>
+
+1024
+01:22:17,280 --> 01:22:19,400
+Théo crashed.
+I've got the stones.
+
+1025
+01:22:30,240 --> 01:22:32,800
+<i>What's going on? Where's Théo?</i>
+
+1026
+01:22:37,760 --> 01:22:40,680
+I'm heading to the meeting point
+and the cop is right behind me.
+
+1027
+01:22:43,200 --> 01:22:44,720
+And another one, in a police car.
+
+1028
+01:22:44,800 --> 01:22:46,760
+<i>Get rid of them. Figure it out.</i>
+
+1029
+01:22:59,200 --> 01:23:00,120
+Hey!
+
+1030
+01:23:01,080 --> 01:23:02,040
+Hey!
+
+1031
+01:23:08,440 --> 01:23:10,320
+There's too many. I can't shake them.
+
+1032
+01:23:30,720 --> 01:23:32,040
+Hold it!
+
+1033
+01:23:32,120 --> 01:23:34,200
+I'm changing routes.
+
+1034
+01:24:16,760 --> 01:24:18,000
+Fuck!
+
+1035
+01:24:22,760 --> 01:24:24,760
+We need to stop him. He won't let me go.
+
+1036
+01:24:24,840 --> 01:24:27,120
+- <i>Elyas, do you hear me?</i>
+- <i>Stay focused.</i>
+
+1037
+01:24:37,480 --> 01:24:39,880
+<i>What are you doing?</i>
+<i>He's gonna catch me!</i>
+
+1038
+01:24:41,120 --> 01:24:43,320
+<i>Just go.</i>
+<i>The stones are all that matter.</i>
+
+1039
+01:25:06,640 --> 01:25:07,800
+Yes!
+
+1040
+01:25:15,560 --> 01:25:16,520
+Oh, fuck.
+
+1041
+01:25:16,600 --> 01:25:18,200
+Oh.
+
+1042
+01:27:18,520 --> 01:27:19,480
+The weapon?
+
+1043
+01:27:20,880 --> 01:27:21,920
+I've disposed of it.
+
+1044
+01:27:24,760 --> 01:27:26,840
+I never even thought
+about selling out your brother.
+
+1045
+01:27:28,680 --> 01:27:30,440
+I needed a third rider.
+
+1046
+01:27:30,520 --> 01:27:31,720
+And you were available.
+
+1047
+01:27:32,400 --> 01:27:33,960
+Come on, release me now.
+
+1048
+01:27:34,040 --> 01:27:35,080
+Give me the key.
+
+1049
+01:27:35,600 --> 01:27:37,560
+Help me already. Théo's waiting for us.
+
+1050
+01:27:38,080 --> 01:27:39,640
+You won't be seeing him again.
+
+1051
+01:27:54,040 --> 01:27:56,000
+Three of us watched you murder Yacine.
+
+1052
+01:27:58,160 --> 01:27:59,760
+If you talk, we will too.
+
+1053
+01:28:02,560 --> 01:28:05,000
+Enough with the bullshit, all right?
+Give me the keys.
+
+1054
+01:28:10,600 --> 01:28:12,480
+You don't tell me what to do anymore.
+
+1055
+01:28:13,760 --> 01:28:14,720
+It's over.
+
+1056
+01:28:22,600 --> 01:28:23,560
+Okay.
+
+1057
+01:28:37,760 --> 01:28:40,280
+<i>- ♪ Ready! ♪</i>
+
+1058
+01:28:40,360 --> 01:28:41,200
+<i>♪ Set! ♪</i>
+
+1059
+01:28:42,560 --> 01:28:43,600
+ONE YEAR LATER
+
+1060
+01:28:43,680 --> 01:28:44,800
+<i>♪ Go! ♪</i>
+
+1061
+01:28:45,400 --> 01:28:47,520
+<i>♪ Back to business, back to rip this ♪</i>
+
+1062
+01:28:47,600 --> 01:28:49,920
+♪ <i>Whole scene to pieces</i>
+<i>Now check my thesis </i>♪
+
+1063
+01:28:50,000 --> 01:28:52,280
+<i>♪ Making moves</i>
+<i>With my mind like telekinesis </i>♪
+
+1064
+01:28:52,360 --> 01:28:54,640
+<i>♪ They try really hard</i>
+<i>But none can see this </i>♪
+
+1065
+01:28:54,720 --> 01:28:55,880
+♪ <i>They don't want it… </i>♪
+
+1066
+01:29:05,240 --> 01:29:07,160
+Don't forget to keep your left foot in.
+
+1067
+01:29:15,440 --> 01:29:16,400
+Daniel!
+
+1068
+01:29:18,600 --> 01:29:19,640
+Soélie.
+
+1069
+01:29:20,160 --> 01:29:21,200
+How are things?
+
+1070
+01:29:24,280 --> 01:29:26,240
+I see you've been able
+to keep your racetrack.
+
+1071
+01:29:26,760 --> 01:29:28,560
+You here to watch or ask questions?
+
+1072
+01:29:28,640 --> 01:29:29,960
+I'm done with questions.
+
+1073
+01:29:30,480 --> 01:29:31,760
+Well, officially, anyway.
+
+1074
+01:29:33,040 --> 01:29:35,480
+- But I'll get the answers.
+- Huh, what answers?
+
+1075
+01:29:35,560 --> 01:29:37,520
+Come on.
+We're going to miss the whole race.
+
+1076
+01:29:42,800 --> 01:29:45,280
+- All right? What did he want?
+- Nothing. Everything's fine.
+
+1077
+01:29:45,800 --> 01:29:47,840
+Okay, it's your big day.
+
+1078
+01:29:47,920 --> 01:29:51,520
+- Have fun and try to beat your sister.
+- Nothing to worry about. Stay focused.
+
+1079
+01:29:52,120 --> 01:29:53,080
+<i>♪ Ready! ♪</i>
+
+1080
+01:29:54,000 --> 01:29:54,960
+<i>♪ Set! ♪</i>
+
+1081
+01:29:57,200 --> 01:29:58,680
+<i>♪ Go! ♪</i>
+
+1082
+01:29:58,760 --> 01:30:01,160
+- Have a good race.
+- Have a good race.
+
+1083
+01:30:08,840 --> 01:30:11,800
+Here we are.
+Welcome to the Carella racetrack everyone
+
+1084
+01:30:11,880 --> 01:30:14,160
+for this international trophy event.
+
+1085
+01:30:14,680 --> 01:30:18,800
+Today, we're witnessing Soélie Carella's
+comeback, the two-time World Champion
+
+1086
+01:30:18,880 --> 01:30:22,640
+who literally grew up on the tracks.
+A round of applause now, please.
+
+1087
+01:30:22,720 --> 01:30:25,000
+She's come back to us
+after two years away.
+
+1088
+01:30:25,800 --> 01:30:28,400
+And riding next to Soélie
+is her brother, Michael.
+
+1089
+01:30:28,480 --> 01:30:32,520
+And I can tell you that these two
+were born with a taste for competition.
+
+1090
+01:30:32,600 --> 01:30:35,720
+All the riders here today are ready
+to push their limits,
+
+1091
+01:30:35,800 --> 01:30:38,000
+at the start of this new season.
+
+1092
+01:30:38,080 --> 01:30:39,520
+This should be exciting.
+
+1093
+01:30:40,920 --> 01:30:45,160
+A huge crowd has come out today
+to witness this major sporting event.
+
+1094
+01:30:48,520 --> 01:30:51,760
+We can see brother and sister warming
+up now, getting ready for the race.
+
+1095
+01:30:52,280 --> 01:30:54,240
+They won't take it easy on each other.
+
+1096
+01:30:54,320 --> 01:30:58,240
+Meanwhile, a proud
+and attentive Daniel Carella looks on.
+
+1097
+01:31:00,040 --> 01:31:02,040
+The atmosphere might be cheerful,
+
+1098
+01:31:02,120 --> 01:31:06,080
+but I can assure you
+that their competitive spirit is fierce.
+
+1099
+01:31:27,880 --> 01:31:30,480
+We're ready to start.
+All the riders are here.
+
+1100
+01:31:30,560 --> 01:31:33,560
+Just have the final preparations now.
+The motors are warming up.
+
+1101
+01:31:33,640 --> 01:31:35,880
+We're in the process
+of clearing the starting line,
+
+1102
+01:31:35,960 --> 01:31:37,240
+and the race is imminent.
+
+1103
+01:31:37,320 --> 01:31:39,240
+It promises to be explosive.
+
+1104
+01:31:40,360 --> 01:31:42,480
+Are you ready for an epic race today?
+
+1105
+01:31:43,720 --> 01:31:45,600
+Make some noise, Carella fans!
+
+1106
+01:31:45,680 --> 01:31:47,040
+Make some noise!
+
+1107
+01:31:47,120 --> 01:31:48,480
+We can't hear you!
+
+1108
+01:31:49,560 --> 01:31:50,880
+Make some noise!
+
+1109
+01:31:50,960 --> 01:31:52,440
+Fifteen seconds!
+
+1110
+01:31:52,520 --> 01:31:56,760
+I'll remind you that Michael Carella,
+riding the Yamaha, number 107,
+
+1111
+01:31:56,840 --> 01:31:59,360
+had the fastest trial time. Five seconds!
+
+1112
+01:31:59,440 --> 01:32:01,240
+Soélie, wearing number 106.
+
+1113
+01:32:06,680 --> 01:32:07,960
+Racers are ready!
+
+1114
+01:32:08,040 --> 01:32:10,760
+And… here we go!
+
+1115
+01:32:15,400 --> 01:32:18,160
+<i>♪ They say they're coming for me</i>
+<i>But I don't want none ♪</i>
+
+1116
+01:32:18,240 --> 01:32:21,000
+<i>♪ 'Cause I really don't care</i>
+<i>And I'm still kinda young ♪</i>
+
+1117
+01:32:21,080 --> 01:32:23,400
+<i>♪ Ruthless ready renegade</i>
+<i>They all want some ♪</i>
+
+1118
+01:32:23,480 --> 01:32:26,280
+<i>♪ This may be communism</i>
+<i>But I tell you this is mine ♪</i>
+
+1119
+01:32:26,360 --> 01:32:29,080
+♪ <i>Watch what you've been thinking</i>
+<i>I set it off </i>♪
+
+1120
+01:32:29,160 --> 01:32:31,720
+<i>♪ Watch what you've been thinking</i>
+<i>Now carry on ♪</i>
+
+1121
+01:32:31,800 --> 01:32:34,520
+♪ <i>Watch what you've been thinking</i>
+<i>I set it off </i>♪
+
+1122
+01:32:34,600 --> 01:32:37,160
+<i>♪ Watch what you've been thinking</i>
+<i>Now carry on ♪</i>
+
+1123
+01:32:42,440 --> 01:32:44,960
+♪ <i>All these people popping round</i>
+<i>I swear I need an Adderall </i>♪
+
+1124
+01:32:45,040 --> 01:32:47,560
+<i>♪ But I won't let them witness</i>
+<i>It's enclosed what I think ♪</i>
+
+1125
+01:32:47,640 --> 01:32:50,160
+<i>♪ Teacher keep on questioning</i>
+<i>And pointing out my novice ♪</i>
+
+1126
+01:32:50,240 --> 01:32:53,040
+<i>♪ Now they jamming to my jingles</i>
+<i>Like they're on an ice rink ♪</i>
+
+1127
+01:32:53,120 --> 01:32:55,600
+<i>♪ Rocking jeans from Crossroads</i>
+<i>And reading out the Cosmos ♪</i>
+
+1128
+01:32:55,680 --> 01:32:58,160
+<i>♪ If they're looking like an issue</i>
+<i>Wipe them off the windshield ♪</i>
+
+1129
+01:32:58,240 --> 01:33:00,760
+<i>♪ Nothing left to lose</i>
+<i>I'm stepping with the same attire ♪</i>
+
+1130
+01:33:00,840 --> 01:33:03,640
+<i>♪ And I know you feel the heat</i>
+<i>Because I'm nothing less than fire ♪</i>
+
+1131
+01:33:03,720 --> 01:33:06,200
+<i>♪ They say they're coming for me</i>
+<i>But I don't want none ♪</i>
+
+1132
+01:33:06,280 --> 01:33:08,880
+<i>♪ 'Cause I really don't care</i>
+<i>And I'm still kinda young ♪</i>
+
+1133
+01:33:08,960 --> 01:33:11,400
+<i>♪ Ruthless ready renegade</i>
+<i>They all want some ♪</i>
+
+1134
+01:33:11,480 --> 01:33:14,280
+<i>♪ This may be communism</i>
+<i>But I tell you this is mine ♪</i>
+
+1135
+01:33:14,360 --> 01:33:17,080
+♪ <i>Watch what you've been thinking</i>
+<i>I set it off </i>♪
+
+1136
+01:33:17,160 --> 01:33:19,720
+<i>♪ Watch what you've been thinking</i>
+<i>Now carry on ♪</i>
+
+1137
+01:33:19,800 --> 01:33:22,520
+♪ <i>Watch what you've been thinking</i>
+<i>I set it off </i>♪
+
+1138
+01:33:22,600 --> 01:33:25,160
+<i>♪ Watch what you've been thinking</i>
+<i>Now carry on ♪</i>
+
+1139
+01:33:29,960 --> 01:33:32,320
+<i>♪ Hey, Tkay, baby</i>
+<i>They be hating your fresh ♪</i>
+
+1140
+01:33:32,400 --> 01:33:34,880
+<i>♪ The more you rise</i>
+<i>They tell you comprise your best ♪</i>
+
+1141
+01:33:34,960 --> 01:33:37,640
+<i>♪ I say fuck 'em</i>
+<i>I say get that bullshit off your chest ♪</i>
+
+1142
+01:33:37,720 --> 01:33:40,440
+<i>♪ Don’t let a hater cause</i>
+<i>A bead of sweat on your breast ♪</i>
+
+1143
+01:33:40,520 --> 01:33:43,000
+{\an8}<i>♪ Baby keep it cool</i>
+<i>It’s the first day of school ♪</i>
+
+1144
+01:33:43,080 --> 01:33:45,480
+{\an8}<i>♪ Knowing you’re a rebel</i>
+<i>About to break the rules ♪</i>
+
+1145
+01:33:45,560 --> 01:33:48,120
+{\an8}<i>♪ The old folks scared</i>
+<i>And they want you to be too </i>♪
+
+1146
+01:33:48,200 --> 01:33:50,800
+{\an8}<i>♪ Handling you like a toddler</i>
+<i>What they want you to be two? </i>♪
+
+1147
+01:33:50,880 --> 01:33:53,520
+{\an8}<i>♪ Shit handling like pride</i>
+<i>Tell them no, bish, no ♪</i>
+
+1148
+01:33:53,600 --> 01:33:56,400
+{\an8}<i>♪ The world is for the taking</i>
+<i>Take it all, bish, all ♪</i>
+
+1149
+01:33:56,480 --> 01:33:59,080
+{\an8}<i>♪ You the game oner</i>
+<i>I say ball, baby, ball </i>♪
+
+1150
+01:33:59,160 --> 01:34:01,480
+{\an8}<i>♪ You the shit</i>
+<i>No toilet paper, no stall </i>♪
+
+1151
+01:34:01,560 --> 01:34:04,200
+{\an8}<i>♪ And baby</i>
+<i>I’m the butt-naked truth, no drawl </i>♪
+
+1152
+01:34:04,280 --> 01:34:06,960
+{\an8}<i>♪ Anybody this squeaky</i>
+<i>Get the ooh and the uh ♪</i>
+
+1153
+01:34:07,040 --> 01:34:09,600
+{\an8}<i>♪ And that’s from your brother</i>
+<i>From another mother ♪</i>
+
+1154
+01:34:09,680 --> 01:34:12,920
+{\an8}<i>♪ Make sure you stunt hard</i>
+<i>And you shine on a suckmother ♪</i>
+
+1155
+01:34:13,000 --> 01:34:15,480
+{\an8}<i>♪ They say they're coming for you</i>
+<i>But I don't want none ♪</i>
+
+1156
+01:34:15,560 --> 01:34:18,320
+{\an8}<i>♪ 'Cause I really don't care</i>
+<i>And I'm still kinda young ♪</i>
+
+1157
+01:34:18,400 --> 01:34:20,680
+{\an8}<i>♪ Ruthless ready renegade</i>
+<i>They all want some ♪</i>
+
+1158
+01:34:20,760 --> 01:34:23,560
+{\an8}<i>♪ This may be communism</i>
+<i>But I tell you this is mine ♪</i>
+
+1159
+01:34:23,640 --> 01:34:26,360
+{\an8}<i>♪ Oh, I set it off </i>♪
+
+1160
+01:34:26,440 --> 01:34:29,000
+{\an8}<i>♪ Oh, now carry on ♪</i>
+
+1161
+01:34:29,080 --> 01:34:31,800
+{\an8}<i>♪ Oh, I set it off </i>♪
+
+1162
+01:34:31,880 --> 01:34:34,400
+{\an8}<i>♪ Oh, now carry on ♪</i>
+
+1163
+01:34:34,480 --> 01:34:37,080
+{\an8}<i>♪ Still kinda young, still kinda young</i>
+<i>I set it off </i>♪
+
+1164
+01:34:37,160 --> 01:34:39,760
+{\an8}<i>♪ Still kinda young, still kinda young</i>
+<i>Now carry on </i>♪
+
+1165
+01:34:39,840 --> 01:34:42,480
+{\an8}<i>♪ Still kinda young, still kinda young</i>
+<i>I set it off </i>♪
+
+1166
+01:34:42,560 --> 01:34:45,200
+{\an8}<i>♪ Still kinda young, still kinda young</i>
+<i>Now carry on </i>♪
+
+1167
+01:34:50,080 --> 01:34:52,800
+{\an8}<i>♪ High like the Himalayas</i>
+<i>I'll keep it and they be nothing ♪</i>
+
+1168
+01:34:52,880 --> 01:34:55,600
+{\an8}<i>♪ Tryna get on this scale</i>
+<i>But they tripping, slipping and puffing ♪</i>
+
+1169
+01:34:55,680 --> 01:34:58,080
+{\an8}<i>♪ Killing the mic with Killer Mike</i>
+<i>Busy, and moving moving ♪</i>
+
+1170
+01:34:58,160 --> 01:35:00,680
+{\an8}<i>♪ The circle is smaller, smaller</i>
+<i>But focus made me a nuisance ♪</i>
+
+1171
+01:35:00,760 --> 01:35:03,440
+{\an8}<i>♪ Witness, witness got no business</i>
+<i>I don't hinder, why you vicious? ♪</i>
+
+1172
+01:35:03,520 --> 01:35:06,480
+{\an8}<i>♪ Minutes, minutes I don’t have</i>
+<i>You not really fitted, then forget it ♪</i>
+
+1173
+01:35:06,560 --> 01:35:08,960
+{\an8}<i>♪ Carry on, you'll never find me</i>
+<i>If you get in there ♪</i>
+
+1174
+01:35:09,040 --> 01:35:11,680
+{\an8}<i>♪ You see that I don’t care</i>
+<i>'Cause I’m too young to be prepared ♪</i>
+
+1175
+01:35:11,760 --> 01:35:14,240
+{\an8}<i>♪ They say they're coming for you</i>
+<i>But I don't want none ♪</i>
+
+1176
+01:35:14,320 --> 01:35:17,080
+{\an8}<i>♪ 'Cause I really don't care</i>
+<i>And I'm still kinda young ♪</i>
+
+1177
+01:35:17,160 --> 01:35:19,440
+{\an8}<i>♪ Ruthless ready renegade</i>
+<i>They all want some ♪</i>
+
+1178
+01:35:19,520 --> 01:35:22,320
+{\an8}<i>♪ This may be communism</i>
+<i>But I tell you this is mine ♪</i>
+
+1179
+01:35:22,400 --> 01:35:25,120
+{\an8}♪ <i>Watch what you've been thinking</i>
+<i>I set it off </i>♪
+
+1180
+01:35:25,200 --> 01:35:27,760
+{\an8}<i>♪ Watch what you've been thinking</i>
+<i>Now carry on ♪</i>
+
+1181
+01:35:27,840 --> 01:35:30,560
+{\an8}♪ <i>Watch what you've been thinking</i>
+<i>I set it off </i>♪
+
+1182
+01:35:30,640 --> 01:35:33,200
+{\an8}<i>♪ Watch what you've been thinking</i>
+<i>Now carry on ♪</i>
+
+1183
+01:35:37,280 --> 01:35:38,640
+{\an8}
+
+1184
+01:35:38,720 --> 01:35:40,720
+{\an8}
+
+1185
+01:36:43,280 --> 01:36:44,280
+{\an8}

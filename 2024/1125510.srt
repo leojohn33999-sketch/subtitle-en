@@ -1,0 +1,34 @@
+1
+01:06:35,720 --> 01:06:38,240
+<i>Today, we have the pleasure</i>
+
+2
+01:06:38,320 --> 01:06:44,320
+<i>Of tasting the most exquisite foods</i>
+<i>And wines</i>
+
+3
+01:06:44,400 --> 01:06:50,720
+<i>The crème de la crème lands at our table</i>
+
+4
+01:06:50,800 --> 01:06:54,600
+<i>Cooked to perfection</i>
+
+5
+01:06:54,680 --> 01:06:59,960
+<i>Then comes dessert, sweet and creamy</i>
+
+6
+01:07:00,040 --> 01:07:04,000
+<i>A nice coffee</i>
+
+7
+01:07:05,640 --> 01:07:12,360
+<i>Then comes dessert, sweet and creamy</i>
+<i>A nice coffee</i>
+
+8
+01:07:13,040 --> 01:07:16,440
+<i>And we make love</i>
+
